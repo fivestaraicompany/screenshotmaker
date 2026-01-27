@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Generator zrzutów ekranu (App)",
+    "description": "Twórz czyste i nowoczesne zrzuty ekranu App Store bez wysiłku, korzystając z elastycznych szablonów.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Samouczek konfiguracji Ollama",
+    "privacy": "Polityka prywatności"
+  },
+  "langPicker": {
+    "title": "Wybierz język",
+    "close": "Close",
+    "hint": "Brak tłumaczeń? Utwórz <code>./i18n/&lt;code&gt;.json</code> (te same klucze co <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Generator zrzutów ekranu (App)",
+    "brandSubtitle": "Zrzuty ekranu App Store, łatwo i szybko.",
+    "heroTitle": "Twórz zrzuty ekranu App Store w kilka minut",
+    "heroBody": "Wybierz 3–5 zrzutów ekranu, umieść je w szablonach, dodaj tekst marketingowy i wyeksportuj gotowe do przesłania obrazy.",
+    "featuresTitle": "Kluczowe funkcje",
+    "features": [
+      "Twórz stylowe zrzuty ekranu App Store, korzystając z konfigurowalnych szablonów",
+      "Importuj obrazy z aplikacji Pliki lub biblioteki zdjęć",
+      "Obsługa zrzutów ekranu dla iPhone'a, iPada, Apple Watch i Apple TV",
+      "Dodawaj tekst marketingowy swobodnie i dostosowuj układ wizualnie"
+    ],
+    "aiTitle": "Lokalizacja oparta na sztucznej inteligencji",
+    "aiBody": "Dzięki integracji z Ollama, generuj przetłumaczony tekst marketingowy dla każdego kodu kraju, aby szybko publikować na całym świecie.",
+    "aiLink": "Otwórz samouczek konfiguracji Ollama →",
+    "privacyTitle": "Prywatność przede wszystkim",
+    "privacyBody": "Edycja i generowanie obrazów odbywa się lokalnie. Brak śledzenia. Brak analiz. Brak reklam.",
+    "learnTitle": "Dowiedz się więcej",
+    "learnBody": "Przeczytaj naszą Politykę prywatności, aby dowiedzieć się, jak chronimy Twoje dane.",
+    "learnLink": "Polityka prywatności →",
+    "footerNote": "Wskazówka: dodaj <code>?lang=ko</code> (lub dowolny obsługiwany kod) do adresu URL, aby wyświetlić podgląd lokalizacji.",
+    "supportedPill": "Obsługuje iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Generator zrzutów ekranu (App)"
+  },
+  "ollama": {
+    "title": "Samouczek konfiguracji Ollama",
+    "subtitle": "Połącz Generator zrzutów ekranu (App) z własną instancją Ollama, aby tłumaczyć i generować tekst za pomocą sztucznej inteligencji.",
+    "requirementsTitle": "Czego potrzebujesz",
+    "requirements": [
+      "Komputer Mac, PC z systemem Windows lub Linux do uruchomienia Ollama",
+      "Zainstalowany i uruchomiony Ollama",
+      "Twój iPhone/iPad w tej samej sieci co komputer z Ollama (zalecane)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Zainstaluj Ollama</strong>: pobierz i zainstaluj Ollama dla twojego systemu operacyjnego.",
+      "<strong>Uruchom Ollama</strong>: uruchom <code>ollama serve</code> (lub otwórz aplikację Ollama na macOS).",
+      "<strong>Pobierz model</strong>: uruchom <code>ollama pull llama3.2</code> (lub twój preferowany model).",
+      "<strong>Potwierdź, że działa</strong>: uruchom <code>ollama run llama3.2</code> i przetestuj podpowiedź.",
+      "<strong>Znajdź adres serwera</strong>: zanotuj adres IP LAN swojego komputera (np. <code>192.168.0.10</code>).",
+      "<strong>Użyj go w aplikacji</strong>: w ustawieniach Generatora zrzutów ekranu ustaw Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Uwagi i rozwiązywanie problemów",
+    "notes": [
+      "Jeśli aplikacja nie może się połączyć, sprawdź, czy telefon i komputer są w tej samej sieci Wi‑Fi.",
+      "Upewnij się, że port <code>11434</code> jest dozwolony przez twoją zaporę ogniową.",
+      "Jeśli wolisz używać zdalnego serwera (komputer domowy, VPS), musisz bezpiecznie wystawić port (zalecane VPN)."
+    ],
+    "backHome": "← Powrót do strony głównej",
+    "metaTitle": "Samouczek konfiguracji Ollama — Generator zrzutów ekranu"
+  },
+  "privacy": {
+    "metaTitle": "Polityka prywatności — Generator zrzutów ekranu",
+    "title": "Polityka prywatności",
+    "intro": "Niniejsza Polityka Prywatności opisuje, w jaki sposób Generator zrzutów ekranu („Aplikacja”) przetwarza dane użytkowników.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Brak kont. Brak analityki. Brak śledzenia.",
+      "Twoje pliki i edycje pozostają na twoim urządzeniu, chyba że wybierzesz połączenie z własnym serwerem Ollama.",
+      "Jeśli używasz Ollama, tekst jest wysyłany tylko na adres serwera, który skonfigurujesz."
+    ],
+    "sections": [
+      {
+        "title": "Zbieranie informacji",
+        "body": [
+          "Aplikacja nie zbiera, nie przechowuje ani nie przesyła danych osobowych do naszych serwerów.",
+          "Zrzuty ekranu, szablony i eksportowane obrazy są tworzone i zapisywane lokalnie na twoim urządzeniu."
+        ]
+      },
+      {
+        "title": "Dostęp do plików i zdjęć",
+        "body": [
+          "Aplikacja może poprosić o dostęp do aplikacji Pliki lub biblioteki zdjęć w celu zaimportowania zrzutów ekranu.",
+          "Zaimportowane obrazy są przetwarzane na urządzeniu i nie są automatycznie przesyłane."
+        ]
+      },
+      {
+        "title": "Tłumaczenie AI (Ollama)",
+        "body": [
+          "Jeśli włączysz generowanie lub tłumaczenie tekstu za pomocą AI, aplikacja może wysłać tekst do serwera Ollama, który skonfigurujesz (na przykład twój własny komputer).",
+          "Nie obsługujemy ani nie otrzymujemy ruchu Ollama, a aplikacja nie rejestruje ani nie przechowuje tekstu przetwarzanego przez AI."
+        ]
+      },
+      {
+        "title": "Usługi firm trzecich",
+        "body": [
+          "Aplikacja nie używa analityki firm trzecich, zestawów SDK reklamowych ani technologii śledzenia."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Możemy od czasu do czasu aktualizować tę Politykę Prywatności. Zmiany zostaną odzwierciedlone na tej stronie."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Jeśli masz pytania dotyczące niniejszej Polityki Prywatności, skontaktuj się z nami za pośrednictwem adresu e-mail podanego na stronie Aplikacji w sklepie."
+        ]
+      }
+    ],
+    "backHome": "← Powrót do strony głównej"
+  }
+}

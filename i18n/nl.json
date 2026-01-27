@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Screenshot (App) Maker",
+    "description": "Maak moeiteloos strakke, moderne App Store screenshots met flexibele sjablonen.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Installatiehandleiding",
+    "privacy": "Privacybeleid"
+  },
+  "langPicker": {
+    "title": "Kies een taal",
+    "close": "Close",
+    "hint": "Ontbreken er vertalingen? Maak <code>./i18n/&lt;code&gt;.json</code> (dezelfde sleutels als <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Screenshot (App) Maker",
+    "brandSubtitle": "App Store screenshots, eenvoudig gemaakt.",
+    "heroTitle": "Maak App Store screenshots in minuten",
+    "heroBody": "Kies 3–5 screenshots, plaats ze in sjablonen, voeg marketingtekst toe en exporteer afbeeldingen die klaar zijn om te uploaden.",
+    "featuresTitle": "Belangrijkste kenmerken",
+    "features": [
+      "Maak stijlvolle App Store screenshots met aanpasbare sjablonen",
+      "Importeer afbeeldingen vanuit de Bestanden-app of uw fotobibliotheek",
+      "Ondersteuning voor iPhone, iPad, Apple Watch en Apple TV screenshots",
+      "Voeg marketingtekst toe en pas de lay-out visueel aan"
+    ],
+    "aiTitle": "AI-Powered Lokalisatie",
+    "aiBody": "Met Ollama-integratie genereert u vertaalde marketingtekst per landcode voor snelle wereldwijde inzendingen.",
+    "aiLink": "Open de Ollama installatiehandleiding →",
+    "privacyTitle": "Privacy staat voorop",
+    "privacyBody": "Bewerking en beeldgeneratie gebeuren lokaal. Geen tracking. Geen analyses. Geen advertenties.",
+    "learnTitle": "Meer leren",
+    "learnBody": "Lees ons Privacybeleid om te begrijpen hoe wij uw gegevens beschermen.",
+    "learnLink": "Privacybeleid →",
+    "footerNote": "Tip: voeg <code>?lang=ko</code> (of een andere ondersteunde code) toe aan de URL om een locale te bekijken.",
+    "supportedPill": "Ondersteunt iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "ollama": {
+    "title": "Ollama Installatiehandleiding",
+    "subtitle": "Verbind Screenshot (App) Maker met uw eigen Ollama-instantie voor AI-vertaling en tekstgeneratie.",
+    "requirementsTitle": "Wat je nodig hebt",
+    "requirements": [
+      "Een Mac, Windows-pc of Linux-machine om Ollama uit te voeren",
+      "Ollama geïnstalleerd en actief",
+      "Uw iPhone/iPad op hetzelfde netwerk als de Ollama-machine (aanbevolen)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Installeer Ollama</strong>: download en installeer Ollama voor jouw besturingssysteem.",
+      "<strong>Start Ollama</strong>: voer <code>ollama serve</code> uit (of open de Ollama-app op macOS).",
+      "<strong>Haal een model op</strong>: voer <code>ollama pull llama3.2</code> uit (of jouw voorkeursmodel).",
+      "<strong>Controleer of het werkt</strong>: voer <code>ollama run llama3.2</code> uit en test een prompt.",
+      "<strong>Zoek je serveradres</strong>: noteer het LAN-IP-adres van je computer (bijv. <code>192.168.0.10</code>).",
+      "<strong>Gebruik het in de app</strong>: ga in Screenshot (App) Maker-instellingen naar Host en zet deze op <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notities & probleemoplossing",
+    "notes": [
+      "Als de app geen verbinding kan maken, controleer dan of je telefoon en computer op hetzelfde Wi-Fi-netwerk zitten.",
+      "Zorg ervoor dat poort <code>11434</code> is toegestaan door je firewall.",
+      "Als je liever een externe server gebruikt (home PC, VPS), moet je de poort veilig blootleggen (VPN aanbevolen)."
+    ],
+    "backHome": "← Terug naar Home",
+    "metaTitle": "Ollama Installatiehandleiding — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Privacybeleid — Screenshot (App) Maker",
+    "title": "Privacybeleid",
+    "intro": "Dit Privacybeleid beschrijft hoe Screenshot (App) Maker (\"de App\") gebruikersgegevens verwerkt.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Geen accounts. Geen analyses. Geen tracking.",
+      "Je bestanden en bewerkingen blijven op je apparaat, tenzij je ervoor kiest om verbinding te maken met je eigen Ollama-server.",
+      "Als je Ollama gebruikt, wordt tekst alleen naar het serveradres verzonden dat je configureert."
+    ],
+    "sections": [
+      {
+        "title": "Informatie verzameling",
+        "body": [
+          "De App verzamelt, opslaat of verzendt geen persoonlijke informatie naar onze servers.",
+          "Screenshots, sjablonen en geëxporteerde afbeeldingen worden lokaal op je apparaat gemaakt en opgeslagen."
+        ]
+      },
+      {
+        "title": "Bestanden en foto's toegang",
+        "body": [
+          "De App kan om toegang vragen tot de Bestanden-app of je fotobibliotheek om screenshots te importeren.",
+          "Geïmporteerde afbeeldingen worden op het apparaat verwerkt en niet automatisch geüpload."
+        ]
+      },
+      {
+        "title": "AI-vertaling (Ollama)",
+        "body": [
+          "Als je AI-tekstgeneratie of -vertaling inschakelt, kan de App tekst naar een Ollama-server sturen die je configureert (bijvoorbeeld je eigen computer).",
+          "Wij exploiteren of ontvangen je Ollama-verkeer niet, en de App registreert of slaat de tekst die door AI wordt verwerkt niet op."
+        ]
+      },
+      {
+        "title": "Diensten van derden",
+        "body": [
+          "De App gebruikt geen analyses van derden, advertentie-SDK's of trackingtechnologieën."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We kunnen dit Privacybeleid van tijd tot tijd bijwerken. Wijzigingen worden op deze pagina weergegeven."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Als je vragen hebt over dit Privacybeleid, neem dan contact met ons op via het e-mailadres dat op de App Store-pagina staat."
+        ]
+      }
+    ],
+    "backHome": "← Terug naar Home"
+  }
+}

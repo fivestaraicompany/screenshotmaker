@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Screenshot (App) Maker",
+    "description": "Create clean, modern App Store screenshots effortlessly using flexible templates.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Setup Tutorial",
+    "privacy": "Privacy Policy"
+  },
+  "langPicker": {
+    "title": "Choose a language",
+    "close": "Close",
+    "hint": "Missing translations? Create <code>./i18n/&lt;code&gt;.json</code> (same keys as <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Screenshot (App) Maker",
+    "brandSubtitle": "App Store screenshots, made easy.",
+    "heroTitle": "Make App Store screenshots in minutes",
+    "heroBody": "Pick 3–5 screenshots, drop them into templates, add marketing text, and export ready-to-upload images.",
+    "featuresTitle": "Key Features",
+    "features": [
+      "Create stylish App Store screenshots using customizable templates",
+      "Import images from the Files app or your photo library",
+      "Support for iPhone, iPad, Apple Watch, and Apple TV screenshots",
+      "Add marketing text freely and adjust layout visually"
+    ],
+    "aiTitle": "AI-Powered Localization",
+    "aiBody": "With Ollama integration, generate translated marketing text per country code for fast global submissions.",
+    "aiLink": "Open the Ollama setup tutorial →",
+    "privacyTitle": "Privacy First",
+    "privacyBody": "Editing and image generation happen locally. No tracking. No analytics. No ads.",
+    "learnTitle": "Learn More",
+    "learnBody": "Read our Privacy Policy to understand how we protect your data.",
+    "learnLink": "Privacy Policy →",
+    "footerNote": "Tip: append <code>?lang=ko</code> (or any supported code) to the URL to preview a locale.",
+    "supportedPill": "Supports iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "ollama": {
+    "title": "Ollama Setup Tutorial",
+    "subtitle": "Connect Screenshot (App) Maker to your own Ollama instance for AI translation and text generation.",
+    "requirementsTitle": "What you need",
+    "requirements": [
+      "A Mac, Windows PC, or Linux machine to run Ollama",
+      "Ollama installed and running",
+      "Your iPhone/iPad on the same network as the Ollama machine (recommended)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Install Ollama</strong>: download and install Ollama for your OS.",
+      "<strong>Start Ollama</strong>: run <code>ollama serve</code> (or open the Ollama app on macOS).",
+      "<strong>Pull a model</strong>: run <code>ollama pull llama3.2</code> (or your preferred model).",
+      "<strong>Confirm it works</strong>: run <code>ollama run llama3.2</code> and test a prompt.",
+      "<strong>Find your server address</strong>: note your computer's LAN IP (e.g. <code>192.168.0.10</code>).",
+      "<strong>Use it in the app</strong>: in Screenshot (App) Maker settings, set Host to <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notes & troubleshooting",
+    "notes": [
+      "If the app cannot connect, check that your phone and computer are on the same Wi‑Fi network.",
+      "Make sure port <code>11434</code> is allowed by your firewall.",
+      "If you prefer to use a remote server (home PC, VPS), you must expose the port securely (VPN recommended)."
+    ],
+    "backHome": "← Back to Home",
+    "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Privacy Policy — Screenshot (App) Maker",
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy describes how Screenshot (App) Maker (\"the App\") handles user data.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "No accounts. No analytics. No tracking.",
+      "Your files and edits stay on your device unless you choose to connect to your own Ollama server.",
+      "If you use Ollama, text is sent only to the server address you configure."
+    ],
+    "sections": [
+      {
+        "title": "Information Collection",
+        "body": [
+          "The App does not collect, store, or transmit personal information to our servers.",
+          "Screenshots, templates, and exported images are created and saved locally on your device."
+        ]
+      },
+      {
+        "title": "Files and Photos Access",
+        "body": [
+          "The App may request access to the Files app or your photo library to import screenshots.",
+          "Imported images are processed on-device and are not uploaded automatically."
+        ]
+      },
+      {
+        "title": "AI Translation (Ollama)",
+        "body": [
+          "If you enable AI text generation or translation, the App can send text to an Ollama server that you configure (for example, your own computer).",
+          "We do not operate or receive your Ollama traffic, and the App does not log or store the text processed by AI."
+        ]
+      },
+      {
+        "title": "Third-Party Services",
+        "body": [
+          "The App does not use third-party analytics, advertising SDKs, or tracking technologies."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We may update this Privacy Policy from time to time. Changes will be reflected on this page."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "If you have questions about this Privacy Policy, please contact us via the email address provided on the App Store listing."
+        ]
+      }
+    ],
+    "backHome": "← Back to Home"
+  }
+}

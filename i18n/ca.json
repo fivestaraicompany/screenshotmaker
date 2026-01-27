@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Creador de captures de pantalla (App)",
+    "description": "Crea captures de pantalla per a l'App Store netes i moderns sense esforç utilitzant plantilles flexibles.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial de configuració d'Ollama",
+    "privacy": "Política de privadesa"
+  },
+  "langPicker": {
+    "title": "Tria un idioma",
+    "close": "Close",
+    "hint": "Falten traduccions? Crea <code>./i18n/&lt;code&gt;.json</code> (les mateixes claus que <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Creador de captures de pantalla (App)",
+    "brandSubtitle": "Captures de pantalla per a l'App Store, fet fàcil.",
+    "heroTitle": "Crea captures de pantalla per a l'App Store en minuts",
+    "heroBody": "Selecciona de 3 a 5 captures de pantalla, deixa-les a les plantilles, afegeix text de màrqueting i exporta imatges llestes per pujar.",
+    "featuresTitle": "Característiques clau",
+    "features": [
+      "Crea captures de pantalla per a l'App Store amb estil mitjançant plantilles personalitzables",
+      "Importa imatges des de l'aplicació Arxius o la teva biblioteca de fotos",
+      "Suport per a captures de pantalla d'iPhone, iPad, Apple Watch i Apple TV",
+      "Afegeix text de màrqueting lliurement i ajusta el disseny visualment"
+    ],
+    "aiTitle": "Localització impulsada per IA",
+    "aiBody": "Amb la integració d'Ollama, genera text de màrqueting traduït per codi de país per a enviaments globals ràpids.",
+    "aiLink": "Obre el tutorial de configuració d'Ollama →",
+    "privacyTitle": "Privadesa primer",
+    "privacyBody": "L'edició i la generació d'imatges es produeixen localment. Sense seguiment. Sense analítiques. Sense anuncis.",
+    "learnTitle": "Aprèn més",
+    "learnBody": "Llegeix la nostra Política de privadesa per entendre com protegim les teves dades.",
+    "learnLink": "Política de privadesa →",
+    "footerNote": "Consell: afegeix <code>?lang=ko</code> (o qualsevol codi compatible) a la URL per previsualitzar una localitat.",
+    "supportedPill": "Compatible amb iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Creador de captures de pantalla (App)"
+  },
+  "ollama": {
+    "title": "Tutorial de configuració d'Ollama",
+    "subtitle": "Connecta Creador de captures de pantalla (App) a la teva pròpia instància d'Ollama per a la traducció i la generació de text mitjançant IA.",
+    "requirementsTitle": "El que necessites",
+    "requirements": [
+      "Un Mac, un PC Windows o una màquina Linux per executar Ollama",
+      "Ollama instal·lat i en funcionament",
+      "El teu iPhone/iPad a la mateixa xarxa que la màquina d'Ollama (recomanat)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Instal·la Ollama</strong>: descarrega i instal·la Ollama per al teu sistema operatiu.",
+      "<strong>Inicia Ollama</strong>: executa <code>ollama serve</code> (o obre l'aplicació Ollama a macOS).",
+      "<strong>Obtén un model</strong>: executa <code>ollama pull llama3.2</code> (o el model que prefereixis).",
+      "<strong>Confirma que funciona</strong>: executa <code>ollama run llama3.2</code> i prova un avís.",
+      "<strong>Troba l'adreça del servidor</strong>: anota l'adreça IP LAN del teu ordinador (per exemple, <code>192.168.0.10</code>).",
+      "<strong>Utilitza-ho a l'aplicació</strong>: a la configuració de Screenshot (App) Maker, estableix Host a <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notes i resolució de problemes",
+    "notes": [
+      "Si l'aplicació no es pot connectar, assegura't que el teu telèfon i l'ordinador estan a la mateixa xarxa Wi‑Fi.",
+      "Assegura't que el port <code>11434</code> estigui permès pel teu tallafocs.",
+      "Si prefereixes utilitzar un servidor remot (PC a casa, VPS), has d'exposar el port de forma segura (VPN recomanada)."
+    ],
+    "backHome": "← Torna a la pàgina principal",
+    "metaTitle": "Tutorial de configuració d'Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Política de privadesa — Screenshot (App) Maker",
+    "title": "Política de privadesa",
+    "intro": "Aquesta Política de privadesa descriu com Screenshot (App) Maker (\"l'aplicació\") gestiona les dades dels usuaris.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Sense comptes. Sense anàlisis. Sense seguiment.",
+      "Els teus fitxers i edicions es queden al teu dispositiu tret que decideixis connectar-te al teu propi servidor Ollama.",
+      "Si utilitzes Ollama, el text s'envia només a l'adreça del servidor que configures."
+    ],
+    "sections": [
+      {
+        "title": "Recopilació d'informació",
+        "body": [
+          "L'aplicació no recopila, emmagatzema ni transmet informació personal als nostres servidors.",
+          "Les captures de pantalla, les plantilles i les imatges exportades es creen i es guarden localment al teu dispositiu."
+        ]
+      },
+      {
+        "title": "Accés a fitxers i fotos",
+        "body": [
+          "L'aplicació pot sol·licitar accés a l'aplicació Fitxers o a la teva biblioteca de fotos per importar captures de pantalla.",
+          "Les imatges importades es processen al dispositiu i no s'envien automàticament."
+        ]
+      },
+      {
+        "title": "Traducció de la IA (Ollama)",
+        "body": [
+          "Si actives la generació o traducció de text per IA, l'aplicació pot enviar text a un servidor Ollama que configures (per exemple, el teu propi ordinador).",
+          "No fem funcionar ni rebem el teu trànsit Ollama, i l'aplicació no registra ni emmagatzema el text processat per la IA."
+        ]
+      },
+      {
+        "title": "Serveis de tercers",
+        "body": [
+          "L'aplicació no utilitza analítiques de tercers, SDK de publicitat ni tecnologies de seguiment."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Podem actualitzar aquesta Política de privadesa de tant en tant. Els canvis es reflectiran en aquesta pàgina."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Si tens preguntes sobre aquesta Política de privadesa, si us plau, posa't en contacte amb nosaltres a través de l'adreça de correu electrònic que es proporciona a la llista de l'App Store."
+        ]
+      }
+    ],
+    "backHome": "← Torna a la pàgina principal"
+  }
+}

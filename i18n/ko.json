@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "스크린샷(앱) 제작기",
+    "description": "유연한 템플릿을 사용하여 App Store 스크린샷을 쉽게 만드세요.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama 설정 튜토리얼",
+    "privacy": "개인정보처리방침"
+  },
+  "langPicker": {
+    "title": "언어를 선택하세요",
+    "close": "Close",
+    "hint": "번역이 없나요? <code>./i18n/&lt;code&gt;.json</code> ( <code>en.json</code> 과 동일한 키)를 만드세요."
+  },
+  "home": {
+    "brandTitle": "스크린샷(앱) 제작기",
+    "brandSubtitle": "App Store 스크린샷을 쉽게 만드세요.",
+    "heroTitle": "몇 분 안에 App Store 스크린샷을 만드세요",
+    "heroBody": "3~5개의 스크린샷을 선택하고 템플릿에 넣고, 마케팅 텍스트를 추가하고, 업로드할 이미지를 내보내세요.",
+    "featuresTitle": "주요 기능",
+    "features": [
+      "사용자 지정 가능한 템플릿을 사용하여 세련된 App Store 스크린샷을 만드세요",
+      "파일 앱 또는 사진 라이브러리에서 이미지를 가져오세요",
+      "iPhone, iPad, Apple Watch 및 Apple TV 스크린샷 지원",
+      "자유롭게 마케팅 텍스트를 추가하고 레이아웃을 시각적으로 조정하세요"
+    ],
+    "aiTitle": "AI 기반 지역화",
+    "aiBody": "Ollama 통합을 통해 국가별 코드로 번역된 마케팅 텍스트를 생성하여 빠른 글로벌 제출을 할 수 있습니다.",
+    "aiLink": "Ollama 설정 튜토리얼 열기 →",
+    "privacyTitle": "개인 정보 우선",
+    "privacyBody": "편집 및 이미지 생성은 로컬에서 발생합니다. 추적, 분석 또는 광고가 없습니다.",
+    "learnTitle": "자세히 알아보기",
+    "learnBody": "개인정보처리방침을 읽고 데이터를 보호하는 방법에 대해 알아보세요.",
+    "learnLink": "개인정보처리방침 →",
+    "footerNote": "팁: URL에 <code>?lang=ko</code> (또는 지원되는 코드)를 추가하여 지역 설정을 미리 볼 수 있습니다.",
+    "supportedPill": "iPhone · iPad · Watch · TV 지원",
+    "copyright": "© 2026 스크린샷(앱) 제작기"
+  },
+  "ollama": {
+    "title": "Ollama 설정 튜토리얼",
+    "subtitle": "AI 번역 및 텍스트 생성을 위해 스크린샷(앱) 제작기를 자체 Ollama 인스턴스에 연결하세요.",
+    "requirementsTitle": "필요한 것",
+    "requirements": [
+      "Ollama를 실행할 Mac, Windows PC 또는 Linux 장치",
+      "설치 및 실행 중인 Ollama",
+      "Ollama 장치와 동일한 네트워크의 iPhone/iPad (권장)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Ollama 설치</strong>: 운영체제에 맞게 Ollama를 다운로드하여 설치합니다.",
+      "<strong>Ollama 시작</strong>: <code>ollama serve</code>를 실행합니다(macOS에서는 Ollama 앱을 엽니다).",
+      "<strong>모델 가져오기</strong>: <code>ollama pull llama3.2</code>(또는 원하는 모델)를 실행합니다.",
+      "<strong>작동 확인</strong>: <code>ollama run llama3.2</code>를 실행하고 프롬프트를 테스트합니다.",
+      "<strong>서버 주소 찾기</strong>: 컴퓨터의 LAN IP(예: <code>192.168.0.10</code>)를 기록합니다.",
+      "<strong>앱에서 사용</strong>: Screenshot (App) Maker 설정에서 Host를 <code>http://&lt;LAN-IP&gt;:11434</code>로 설정합니다."
+    ],
+    "notesTitle": "참고 및 문제 해결",
+    "notes": [
+      "앱이 연결할 수 없는 경우 휴대폰과 컴퓨터가 동일한 Wi‑Fi 네트워크에 있는지 확인합니다.",
+      "포트 <code>11434</code>가 방화벽에서 허용되었는지 확인합니다.",
+      "원격 서버(홈 PC, VPS)를 사용하려면 포트를 안전하게 노출해야 합니다(VPN 권장)."
+    ],
+    "backHome": "← 홈으로 돌아가기",
+    "metaTitle": "Ollama 설정 튜토리얼 — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "개인 정보 처리 방침 — Screenshot (App) Maker",
+    "title": "개인 정보 처리 방침",
+    "intro": "본 개인 정보 처리 방침은 Screenshot (App) Maker(\"앱\")가 사용자 데이터를 어떻게 처리하는지에 대해 설명합니다.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "계정 없음, 분석 없음, 추적 없음.",
+      "파일과 편집 내용은 사용자가 자신의 Ollama 서버에 연결하지 않는 한 장치에 남아 있습니다.",
+      "Ollama를 사용하는 경우 텍스트는 사용자가 구성한 서버 주소로만 전송됩니다."
+    ],
+    "sections": [
+      {
+        "title": "정보 수집",
+        "body": [
+          "앱은 개인 정보를 수집, 저장 또는 서버로 전송하지 않습니다.",
+          "스크린샷, 템플릿 및 내보낸 이미지는 장치에 로컬로 생성 및 저장됩니다."
+        ]
+      },
+      {
+        "title": "파일 및 사진 접근",
+        "body": [
+          "앱은 스크린샷을 가져오기 위해 파일 앱 또는 사진 라이브러리에 대한 접근 권한을 요청할 수 있습니다.",
+          "가져온 이미지는 장치에서 처리되며 자동으로 업로드되지 않습니다."
+        ]
+      },
+      {
+        "title": "AI 번역(Ollama)",
+        "body": [
+          "AI 텍스트 생성 또는 번역을 활성화하면 앱은 사용자가 구성한 Ollama 서버(예: 자신의 컴퓨터)로 텍스트를 보낼 수 있습니다.",
+          "당사는 귀하의 Ollama 트래픽을 운영하거나 수신하지 않으며 앱은 AI에서 처리된 텍스트를 로깅하거나 저장하지 않습니다."
+        ]
+      },
+      {
+        "title": "제3자 서비스",
+        "body": [
+          "앱은 제3자 분석, 광고 SDK 또는 추적 기술을 사용하지 않습니다."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "당사는 본 개인 정보 처리 방침을 수시로 업데이트할 수 있습니다. 변경 사항은 이 페이지에 반영됩니다."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "본 개인 정보 처리 방침에 대한 질문이 있는 경우 앱 스토어 목록에 제공된 이메일 주소를 통해 문의해 주십시오."
+        ]
+      }
+    ],
+    "backHome": "← 홈으로 돌아가기"
+  }
+}

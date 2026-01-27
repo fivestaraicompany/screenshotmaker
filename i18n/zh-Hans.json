@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "截图 (App) 制作器",
+    "description": "使用灵活的模板，轻松创建简洁现代的应用商店截图。",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama 设置教程",
+    "privacy": "隐私政策"
+  },
+  "langPicker": {
+    "title": "选择语言",
+    "close": "Close",
+    "hint": "缺少翻译？创建 <code>./i18n/&lt;code&gt;.json</code> (与 <code>en.json</code> 具有相同的键)。"
+  },
+  "home": {
+    "brandTitle": "截图 (App) 制作器",
+    "brandSubtitle": "应用商店截图，轻松搞定。",
+    "heroTitle": "几分钟内制作应用商店截图",
+    "heroBody": "选择 3–5 张截图，放入模板中，添加营销文字，导出即可上传的图像。",
+    "featuresTitle": "主要特性",
+    "features": [
+      "使用可自定义的模板创建时尚的应用商店截图",
+      "从文件应用或照片库导入图像",
+      "支持 iPhone、iPad、Apple Watch 和 Apple TV 截图",
+      "自由添加营销文字并以视觉方式调整布局"
+    ],
+    "aiTitle": "人工智能本地化",
+    "aiBody": "通过 Ollama 集成，为快速的全球提交生成每个国家/地区的翻译营销文字。",
+    "aiLink": "打开 Ollama 设置教程 →",
+    "privacyTitle": "隐私至上",
+    "privacyBody": "编辑和图像生成都在本地进行。无跟踪。无分析。无广告。",
+    "learnTitle": "了解更多",
+    "learnBody": "阅读我们的隐私政策，了解我们如何保护您的数据。",
+    "learnLink": "隐私政策 →",
+    "footerNote": "提示：将 <code>?lang=ko</code>（或任何受支持的代码）附加到 URL，以预览语言环境。",
+    "supportedPill": "支持 iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 截图 (App) 制作器"
+  },
+  "ollama": {
+    "title": "Ollama 设置教程",
+    "subtitle": "将截图 (App) 制作器连接到您自己的 Ollama 实例，以进行人工智能翻译和文本生成。",
+    "requirementsTitle": "您需要的东西",
+    "requirements": [
+      "运行 Ollama 的 Mac、Windows PC 或 Linux 机器",
+      "已安装并正在运行的 Ollama",
+      "您的 iPhone/iPad 与 Ollama 机器在同一网络 (推荐) "
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>安装 Ollama</strong>: 下载并安装适用于您的操作系统的 Ollama。",
+      "<strong>启动 Ollama</strong>: 运行 <code>ollama serve</code>（或在 macOS 上打开 Ollama 应用程序）。",
+      "<strong>拉取模型</strong>: 运行 <code>ollama pull llama3.2</code>（或您喜欢的模型）。",
+      "<strong>确认其有效性</strong>: 运行 <code>ollama run llama3.2</code> 并测试一个提示。",
+      "<strong>查找您的服务器地址</strong>: 记下您计算机的局域网 IP（例如 <code>192.168.0.10</code>）。",
+      "<strong>在应用程序中使用</strong>: 在截屏（App）制作器设置中，将 Host 设置为 <code>http://&lt;LAN-IP&gt;:11434</code>。"
+    ],
+    "notesTitle": "注意事项与故障排除",
+    "notes": [
+      "如果应用程序无法连接，请检查您的手机和计算机是否在同一 Wi-Fi 网络中。",
+      "确保您的防火墙允许端口 <code>11434</code>。",
+      "如果您希望使用远程服务器（家用电脑、VPS），您必须安全地暴露该端口（推荐使用 VPN）。"
+    ],
+    "backHome": "← 返回主页",
+    "metaTitle": "Ollama 设置教程 — 截屏（App）制作器"
+  },
+  "privacy": {
+    "metaTitle": "隐私政策 — 截屏（App）制作器",
+    "title": "隐私政策",
+    "intro": "本隐私政策描述了截屏（App）制作器（“该 App”）如何处理用户数据。",
+    "summaryTitle": "Summary",
+    "summary": [
+      "没有帐户。没有分析。没有跟踪。",
+      "您的文件和编辑将保留在您的设备上，除非您选择连接到您自己的 Ollama 服务器。",
+      "如果您使用 Ollama，文本仅会发送到您配置的服务器地址。"
+    ],
+    "sections": [
+      {
+        "title": "信息收集",
+        "body": [
+          "该 App 不会收集、存储或将个人信息传输到我们的服务器。",
+          "截图、模板和导出的图像是在您的设备上创建和保存的。"
+        ]
+      },
+      {
+        "title": "文件和照片访问",
+        "body": [
+          "该 App 可能会请求访问文件 App 或您的照片库以导入截图。",
+          "导入的图像在设备上处理，不会自动上传。"
+        ]
+      },
+      {
+        "title": "AI 翻译（Ollama）",
+        "body": [
+          "如果您启用 AI 文本生成或翻译，该 App 可以将文本发送到您配置的 Ollama 服务器（例如，您自己的计算机）。",
+          "我们不运营或接收您的 Ollama 流量，并且该 App 不会记录或存储 AI 处理的文本。"
+        ]
+      },
+      {
+        "title": "第三方服务",
+        "body": [
+          "该 App 不使用第三方分析、广告 SDK 或跟踪技术。"
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "我们可能会不时更新本隐私政策。更改将反映在本页面上。"
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "如果您对本隐私政策有任何疑问，请通过 App Store 列表提供的电子邮件地址与我们联系。"
+        ]
+      }
+    ],
+    "backHome": "← 返回主页"
+  }
+}

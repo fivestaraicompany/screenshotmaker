@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Výřezovka (App) Maker",
+    "description": "Vytvořte čisté a moderní snímky obrazovky App Store snadno pomocí flexibilních šablon.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutoriál pro nastavení Ollamy",
+    "privacy": "Zásady ochrany osobních údajů"
+  },
+  "langPicker": {
+    "title": "Vyberte jazyk",
+    "close": "Close",
+    "hint": "Chybí překlady? Vytvořte <code>./i18n/&lt;code&gt;.json</code> (stejné klíče jako <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Výřezovka (App) Maker",
+    "brandSubtitle": "Snímky obrazovky App Store, snadno.",
+    "heroTitle": "Vytvořte snímky obrazovky App Store během několika minut",
+    "heroBody": "Vyberte 3–5 snímků obrazovky, vložte je do šablon, přidejte marketingový text a exportujte obrázky připravené k nahrání.",
+    "featuresTitle": "Klíčové vlastnosti",
+    "features": [
+      "Vytvářejte stylové snímky obrazovky App Store pomocí přizpůsobitelných šablon",
+      "Importujte obrázky z aplikace Soubory nebo z vaší fotogalerie",
+      "Podpora snímků obrazovky pro iPhone, iPad, Apple Watch a Apple TV",
+      "Přidejte marketingový text volně a vizuálně upravte rozložení"
+    ],
+    "aiTitle": "AI-poháněná lokalizace",
+    "aiBody": "S integrací Ollama generujte přeložený marketingový text pro každý kód země a urychlete globální odeslání.",
+    "aiLink": "Otevřít tutoriál pro nastavení Ollamy →",
+    "privacyTitle": "Ochrana soukromí na prvním místě",
+    "privacyBody": "Úpravy a generování obrázků probíhá lokálně. Žádné sledování. Žádná analýza. Žádné reklamy.",
+    "learnTitle": "Zjistěte více",
+    "learnBody": "Přečtěte si naše Zásady ochrany osobních údajů a zjistěte, jak chráníme vaše data.",
+    "learnLink": "Zásady ochrany osobních údajů →",
+    "footerNote": "Tip: připojte <code>?lang=ko</code> (nebo jakýkoli podporovaný kód) k URL adrese a zobrazte náhled místního nastavení.",
+    "supportedPill": "Podporuje iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Výřezovka (App) Maker"
+  },
+  "ollama": {
+    "title": "Tutoriál pro nastavení Ollamy",
+    "subtitle": "Připojte Výřezovku (App) Maker k vaší vlastní instanci Ollamy a využijte AI překlad a generování textu.",
+    "requirementsTitle": "Co budete potřebovat",
+    "requirements": [
+      "Mac, počítač s Windows nebo Linux pro spuštění Ollamy",
+      "Nainstalovaná a spuštěná Ollama",
+      "Váš iPhone/iPad ve stejné síti jako stroj s Ollamou (doporučeno)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Nainstalujte Ollama</strong>: stáhněte a nainstalujte Ollama pro váš operační systém.",
+      "<strong>Spusťte Ollama</strong>: spusťte <code>ollama serve</code> (nebo otevřete aplikaci Ollama na macOS).",
+      "<strong>Stáhněte model</strong>: spusťte <code>ollama pull llama3.2</code> (nebo váš preferovaný model).",
+      "<strong>Ověřte, že to funguje</strong>: spusťte <code>ollama run llama3.2</code> a otestujte výzvu.",
+      "<strong>Najděte adresu serveru</strong>: poznamenejte si LAN IP vašeho počítače (např. <code>192.168.0.10</code>).",
+      "<strong>Použijte ji v aplikaci</strong>: v nastavení Screenshot (App) Maker nastavte Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Poznámky a odstraňování problémů",
+    "notes": [
+      "Pokud se aplikace nemůže připojit, zkontrolujte, zda jsou váš telefon a počítač ve stejné Wi-Fi síti.",
+      "Ujistěte se, že port <code>11434</code> je povolen ve vašem firewallu.",
+      "Pokud chcete použít vzdálený server (domácí PC, VPS), musíte port bezpečně vystavit (doporučeno VPN)."
+    ],
+    "backHome": "← Zpět na domovskou stránku",
+    "metaTitle": "Návod k nastavení Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Zásady ochrany osobních údajů — Screenshot (App) Maker",
+    "title": "Zásady ochrany osobních údajů",
+    "intro": "Tyto Zásady ochrany osobních údajů popisují, jak aplikace Screenshot (App) Maker („Aplikace“) zpracovává uživatelská data.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Žádné účty. Žádná analytika. Žádné sledování.",
+      "Vaše soubory a úpravy zůstávají na vašem zařízení, pokud se nerozhodnete připojit k vlastnímu serveru Ollama.",
+      "Pokud používáte Ollama, text je odeslán pouze na adresu serveru, kterou konfigurujete."
+    ],
+    "sections": [
+      {
+        "title": "Sběr informací",
+        "body": [
+          "Aplikace neshromažďuje, neukládá ani nepřesílá osobní údaje na naše servery.",
+          "Snímky obrazovky, šablony a exportované obrázky jsou vytvářeny a ukládány lokálně na vašem zařízení."
+        ]
+      },
+      {
+        "title": "Přístup k souborům a fotografiím",
+        "body": [
+          "Aplikace může vyžadovat přístup k aplikaci Soubory nebo do vaší fotogalerie pro import snímků obrazovky.",
+          "Importované obrázky jsou zpracovávány na zařízení a nejsou automaticky nahrávány."
+        ]
+      },
+      {
+        "title": "AI překlad (Ollama)",
+        "body": [
+          "Pokud povolíte generování nebo překlad textu pomocí AI, Aplikace může odeslat text na server Ollama, který konfigurujete (například na váš vlastní počítač).",
+          "Neprovozujeme ani nepřijímáme provoz Ollama a Aplikace neprotokoluje ani neukládá text zpracovaný AI."
+        ]
+      },
+      {
+        "title": "Služby třetích stran",
+        "body": [
+          "Aplikace nepoužívá analytické nástroje třetích stran, reklamní SDK ani sledovací technologie."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Můžeme tyto Zásady ochrany osobních údajů čas od času aktualizovat. Změny budou odraženy na této stránce."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Pokud máte dotazy k těmto Zásadám ochrany osobních údajů, kontaktujte nás prostřednictvím e-mailové adresy uvedené na stránce aplikace v App Store."
+        ]
+      }
+    ],
+    "backHome": "← Zpět na domovskou stránku"
+  }
+}

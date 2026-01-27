@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Screenshot (App) Maker</title>
+  <meta name="description" content="Create clean, modern App Store screenshots effortlessly using flexible templates." />
+
+  <style>
+    :root {
+      --bg: #ffffff;
+      --bg-subtle: #f5f7fa;
+      --fg: #111111;
+      --muted: #666666;
+      --stroke: #e5e7eb;
+      --brand: #0066cc;
+      --brand-hover: #0056b3;
+      --card: #ffffff;
+      --shadow: 0 6px 26px rgba(0,0,0,0.08);
+      --radius: 16px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      color: var(--fg);
+      background: linear-gradient(180deg, var(--bg-subtle), var(--bg) 360px);
+    }
+
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 28px 18px 48px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 6px 0 18px;
+    }
+
+    .brand {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .brand h1 {
+      font-size: 26px;
+      margin: 0;
+      letter-spacing: -0.3px;
+    }
+    .brand p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .btn {
+      border: 1px solid var(--stroke);
+      background: var(--card);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 14px;
+      cursor: pointer;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.02);
+    }
+    .btn:hover { border-color: #d1d5db; }
+
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--stroke);
+      border-radius: var(--radius);
+      padding: 22px 22px;
+      box-shadow: var(--shadow);
+    }
+    .hero h2 {
+      margin: 0 0 8px 0;
+      font-size: 20px;
+      letter-spacing: -0.2px;
+    }
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 14px;
+      margin-top: 14px;
+    }
+
+    .card {
+      grid-column: span 6;
+      background: var(--card);
+      border: 1px solid var(--stroke);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.02);
+    }
+
+    .card h3 {
+      margin: 0 0 8px 0;
+      font-size: 16px;
+      letter-spacing: -0.15px;
+    }
+    .card p {
+      margin: 0 0 10px 0;
+      color: var(--muted);
+    }
+    .card ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+    .card li { margin: 6px 0; }
+
+    .callout {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-top: 14px;
+      background: #ffffff;
+      border: 1px solid var(--stroke);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+    }
+    .callout p { margin: 0; color: var(--muted); }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--stroke);
+      background: var(--bg-subtle);
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    footer {
+      margin-top: 30px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    dialog {
+      border: 1px solid var(--stroke);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      padding: 0;
+      width: min(560px, calc(100vw - 28px));
+    }
+    dialog::backdrop {
+      background: rgba(0,0,0,0.25);
+    }
+    .dlg-head {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--stroke);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      background: var(--bg);
+      border-top-left-radius: 18px;
+      border-top-right-radius: 18px;
+    }
+    .dlg-head strong { font-size: 14px; }
+    .dlg-body { padding: 14px 16px 16px; }
+    .lang-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+    .lang-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 10px 12px;
+      border: 1px solid var(--stroke);
+      border-radius: 14px;
+      background: var(--bg);
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .lang-item:hover { border-color: #d1d5db; }
+    .code { color: var(--muted); font-size: 12px; }
+
+    @media (max-width: 820px) {
+      .card { grid-column: span 12; }
+      .callout { flex-direction: column; align-items: flex-start; }
+      .lang-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+
+  <script>
+    // ===== Supported language codes (the ones you listed) =====
+    const SUPPORTED = ['uk', 'ar', 'ca', 'zh-Hans', 'zh-Hant', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'fr-CA', 'he', 'hi', 'hu', 'id', 'it', 'ja', 'ko', 'ms', 'nb', 'pl', 'pt-BR', 'pt-PT', 'ro', 'ru', 'sk', 'es-MX', 'es', 'sv', 'th', 'tr', 'vi'];
+
+    // Optional labels for the language picker (shown in the picker only).
+    const LANG_LABELS = {
+      "en": "English",
+      "ko": "한국어",
+      "ja": "日本語",
+      "zh-Hans": "简体中文",
+      "zh-Hant": "繁體中文",
+      "fr": "Français",
+      "de": "Deutsch",
+      "es": "Español",
+      "pt-BR": "Português (Brasil)",
+      "pt-PT": "Português (Portugal)",
+      "ru": "Русский",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "vi": "Tiếng Việt",
+      "th": "ไทย",
+      "nl": "Nederlands",
+      "it": "Italiano",
+      "pl": "Polski",
+      "sv": "Svenska",
+      "fi": "Suomi",
+      "da": "Dansk",
+      "cs": "Čeština",
+      "hu": "Magyar",
+      "el": "Ελληνικά",
+      "he": "עברית",
+      "id": "Bahasa Indonesia",
+      "ms": "Bahasa Melayu",
+      "nb": "Norsk Bokmål",
+      "ro": "Română",
+      "sk": "Slovenčina",
+      "hr": "Hrvatski",
+      "ca": "Català",
+      "uk": "Українська",
+      "fr-CA": "Français (Canada)",
+      "es-MX": "Español (México)"
+    };
+
+    function normalizeLang(raw) {
+      if (!raw) return "en";
+      const s = String(raw).replace("_", "-");
+      const lower = s.toLowerCase();
+
+      // Exact match first (case-insensitive)
+      for (const code of SUPPORTED) {
+        if (code.toLowerCase() === lower) return code;
+      }
+
+      // Common fallbacks
+      const base = lower.split("-")[0];
+      if (base === "zh") {
+        // If user doesn't specify script, guess based on region.
+        if (lower.includes("tw") || lower.includes("hk") || lower.includes("mo")) return "zh-Hant";
+        return "zh-Hans";
+      }
+      if (base === "pt") {
+        if (lower.includes("br")) return "pt-BR";
+        return "pt-PT";
+      }
+      if (base === "fr") {
+        if (lower.includes("ca")) return "fr-CA";
+        return "fr";
+      }
+      if (base === "es") {
+        if (lower.includes("mx")) return "es-MX";
+        return "es";
+      }
+
+      // Base match among supported codes
+      const baseMatch = SUPPORTED.find(c => c.toLowerCase() === base);
+      if (baseMatch) return baseMatch;
+
+      // Otherwise default
+      return "en";
+    }
+
+    function getQueryLang() {
+      const params = new URLSearchParams(window.location.search);
+      const v = params.get("lang");
+      return v ? normalizeLang(v) : null;
+    }
+
+    function setQueryLang(code) {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", code);
+      window.history.replaceState({}, "", url.toString());
+    }
+
+    async function loadJson(langCode) {
+      // You will generate other language files later; we only ship en.json now.
+      // If the requested JSON doesn't exist, we fall back to en.json.
+      const path = `./i18n/${langCode}.json`;
+      try {
+        const res = await fetch(path, { cache: "no-store" });
+        if (!res.ok) throw new Error("missing");
+        return await res.json();
+      } catch (e) {
+        const res = await fetch("./i18n/en.json", { cache: "no-store" });
+        return await res.json();
+      }
+    }
+
+    function applyI18n(dict) {
+      // Any element with data-i18n="a.b.c" will be filled.
+      document.querySelectorAll("[data-i18n]").forEach(el => {
+        const key = el.getAttribute("data-i18n") || "";
+        const value = key.split(".").reduce((acc, k) => acc && acc[k], dict);
+        if (typeof value === "string") el.innerHTML = value;
+      });
+      // Optional attributes (like placeholder, aria-label)
+      document.querySelectorAll("[data-i18n-attr]").forEach(el => {
+        const spec = el.getAttribute("data-i18n-attr"); // e.g. 'placeholder:home.search'
+        if (!spec) return;
+        const [attr, key] = spec.split(":");
+        const value = (key || "").split(".").reduce((acc, k) => acc && acc[k], dict);
+        if (typeof value === "string") el.setAttribute(attr, value);
+      });
+      // Update title if present
+      if (dict?.meta?.title) document.title = dict.meta.title;
+      if (dict?.meta?.description) {
+        const m = document.querySelector('meta[name="description"]');
+        if (m) m.setAttribute("content", dict.meta.description);
+      }
+    }
+
+    function updateLangChip(code, dict) {
+      const chip = document.getElementById("langChip");
+      const label = LANG_LABELS[code] || code;
+      chip.textContent = label;
+    }
+
+    function buildLangPicker(current) {
+      const box = document.getElementById("langList");
+      box.innerHTML = "";
+      const all = ["en", ...SUPPORTED.filter(c => c !== "en")]; // ensure en shows first
+      for (const code of all) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "lang-item";
+        btn.innerHTML = `<span>${LANG_LABELS[code] || code}</span><span class="code">${code}</span>`;
+        if (code === current) {
+          btn.style.borderColor = "#cbd5e1";
+          btn.style.background = "#f8fafc";
+        }
+        btn.addEventListener("click", () => {
+          localStorage.setItem("site_lang", code);
+          setQueryLang(code);
+          window.location.reload();
+        });
+        box.appendChild(btn);
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", async () => {
+      const queryLang = getQueryLang();
+      const stored = localStorage.getItem("site_lang");
+      const navLang = (navigator.language || navigator.userLanguage || "");
+
+      const langCode = queryLang || normalizeLang(stored || navLang);
+
+      const dict = await loadJson(langCode);
+      applyI18n(dict);
+      updateLangChip(langCode, dict);
+
+      // Keep current language in links
+      document.querySelectorAll("a[data-keep-lang]").forEach(a => {
+        const url = new URL(a.getAttribute("href"), window.location.href);
+        url.searchParams.set("lang", langCode);
+        a.setAttribute("href", url.pathname + url.search);
+      });
+
+      buildLangPicker(langCode);
+
+      const dlg = document.getElementById("langDialog");
+      document.getElementById("btnLang").addEventListener("click", () => dlg.showModal());
+      document.getElementById("btnCloseLang").addEventListener("click", () => dlg.close());
+    });
+  </script>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <h1 data-i18n="home.brandTitle">Screenshot (App) Maker</h1>
+        <p data-i18n="home.brandSubtitle">App Store screenshots, made easy.</p>
+      </div>
+      <nav>
+        <a class="btn" href="./index.html" data-keep-lang data-i18n="nav.home">Home</a>
+        <a class="btn" href="./ollamasetuptutorial.html" data-keep-lang data-i18n="nav.ollamaSetup">Ollama Setup Tutorial</a>
+        <a class="btn" href="./privacy.html" data-keep-lang data-i18n="nav.privacy">Privacy Policy</a>
+        <button id="btnLang" class="btn" type="button">
+          <span class="pill">🌐 <span id="langChip">Language</span></span>
+        </button>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <h2 data-i18n="home.heroTitle">Make App Store screenshots in minutes</h2>
+      <p data-i18n="home.heroBody">
+        Pick 3–5 screenshots, drop them into templates, add marketing text, and export ready-to-upload images.
+      </p>
+    </section>
+
+    <section class="grid" aria-label="Highlights">
+      <div class="card">
+        <h3 data-i18n="home.featuresTitle">Key Features</h3>
+        <ul>
+          <li data-i18n="home.features.0">Create stylish App Store screenshots using customizable templates</li>
+          <li data-i18n="home.features.1">Import images from the Files app or your photo library</li>
+          <li data-i18n="home.features.2">Support for iPhone, iPad, Apple Watch, and Apple TV screenshots</li>
+          <li data-i18n="home.features.3">Add marketing text freely and adjust layout visually</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="home.aiTitle">AI-Powered Localization</h3>
+        <p data-i18n="home.aiBody">
+          With Ollama integration, generate translated marketing text per country code for fast global submissions.
+        </p>
+        <p style="margin-top:10px;">
+          <a href="./ollamasetuptutorial.html" data-keep-lang data-i18n="home.aiLink">Open the Ollama setup tutorial →</a>
+        </p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="home.privacyTitle">Privacy First</h3>
+        <p data-i18n="home.privacyBody">
+          Editing and image generation happen locally. No tracking. No analytics. No ads.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="home.learnTitle">Learn More</h3>
+        <p data-i18n="home.learnBody">
+          Read our Privacy Policy to understand how we protect your data.
+        </p>
+        <p style="margin-top:10px;">
+          <a href="./privacy.html" data-keep-lang data-i18n="home.learnLink">Privacy Policy →</a>
+        </p>
+      </div>
+    </section>
+
+    <div class="callout">
+      <p data-i18n="home.footerNote">
+        Tip: append <code>?lang=ko</code> (or any supported code) to the URL to preview a locale.
+      </p>
+      <span class="pill" data-i18n="home.supportedPill">Supports iPhone · iPad · Watch · TV</span>
+    </div>
+
+    <footer>
+      <span data-i18n="home.copyright">© 2026 Screenshot (App) Maker</span>
+    </footer>
+  </div>
+
+  <dialog id="langDialog">
+    <div class="dlg-head">
+      <strong data-i18n="langPicker.title">Choose a language</strong>
+      <button id="btnCloseLang" class="btn" type="button" data-i18n="langPicker.close">Close</button>
+    </div>
+    <div class="dlg-body">
+      <div id="langList" class="lang-grid"></div>
+      <p style="margin:12px 2px 0; color: var(--muted); font-size: 13px;" data-i18n="langPicker.hint">
+        Missing translations? Create <code>./i18n/&lt;code&gt;.json</code> (same keys as <code>en.json</code>).
+      </p>
+    </div>
+  </dialog>
+</body>
+</html>

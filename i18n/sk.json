@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Výrobca snímok obrazovky (aplikácia)",
+    "description": "Vytvorte si čisté a moderné snímky obrazovky App Store jednoducho pomocou flexibilných šablón.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutoriál k nastaveniu Ollamy",
+    "privacy": "Zásady ochrany osobných údajov"
+  },
+  "langPicker": {
+    "title": "Vyberte si jazyk",
+    "close": "Close",
+    "hint": "Chýbajú preklady? Vytvorte <code>./i18n/&lt;code&gt;.json</code> (rovnaké kľúče ako <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Výrobca snímok obrazovky (aplikácia)",
+    "brandSubtitle": "Snímky obrazovky App Store, jednoducho.",
+    "heroTitle": "Vytvorte si snímky obrazovky App Store za minúty",
+    "heroBody": "Vyberte si 3–5 snímok obrazovky, vložte ich do šablón, pridajte marketingový text a exportujte obrázky pripravené na odovzdanie.",
+    "featuresTitle": "Kľúčové vlastnosti",
+    "features": [
+      "Vytvárajte štýlové snímky obrazovky App Store pomocou prispôsobiteľných šablón",
+      "Importujte obrázky z aplikácie Súbory alebo z vašej fototéky",
+      "Podpora pre snímky obrazovky iPhone, iPad, Apple Watch a Apple TV",
+      "Voľne pridávajte marketingový text a vizuálne upravujte rozloženie"
+    ],
+    "aiTitle": "Lokilizácia poháňaná umelou inteligenciou",
+    "aiBody": "S integráciou Ollama generujte preložený marketingový text pre každý kód krajiny pre rýchle globálne odovzdanie.",
+    "aiLink": "Otvorte tutoriál k nastaveniu Ollamy →",
+    "privacyTitle": "Ochrana súkromia na prvom mieste",
+    "privacyBody": "Úprava a generovanie obrázkov prebieha lokálne. Žiadne sledovanie. Žiadna analytika. Žiadne reklamy.",
+    "learnTitle": "Ďalšie informácie",
+    "learnBody": "Prečítajte si naše Zásady ochrany osobných údajov, aby ste pochopili, ako chránime vaše údaje.",
+    "learnLink": "Zásady ochrany osobných údajov →",
+    "footerNote": "Tip: pripojte <code>?lang=ko</code> (alebo iný podporovaný kód) k URL adrese, aby ste si prezreli lokálnu verziu.",
+    "supportedPill": "Podporuje iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Výrobca snímok obrazovky (aplikácia)"
+  },
+  "ollama": {
+    "title": "Tutoriál k nastaveniu Ollamy",
+    "subtitle": "Pripojte Výrobcu snímok obrazovky k vašej vlastnej inštancii Ollamy pre preklad a generovanie textu pomocou umelej inteligencie.",
+    "requirementsTitle": "Čo potrebujete",
+    "requirements": [
+      "Mac, Windows PC alebo Linuxový počítač na spustenie Ollamy",
+      "Ollama nainštalovaná a spustená",
+      "Váš iPhone/iPad v rovnakej sieti ako počítač s Ollamou (odporúča sa)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Inštalácia Ollamy</strong>: stiahnite a nainštalujte Ollamu pre váš operačný systém.",
+      "<strong>Spustenie Ollamy</strong>: spustite <code>ollama serve</code> (alebo otvorte aplikáciu Ollama na macOS).",
+      "<strong>Stiahnutie modelu</strong>: spustite <code>ollama pull llama3.2</code> (alebo váš preferovaný model).",
+      "<strong>Otestovanie funkčnosti</strong>: spustite <code>ollama run llama3.2</code> a otestujte príkaz.",
+      "<strong>Nájdite adresu servera</strong>: zapamätajte si LAN IP adresu vášho počítača (napr. <code>192.168.0.10</code>).",
+      "<strong>Použite ju v aplikácii</strong>: v nastaveniach Screenshot (App) Maker nastavte Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Poznámky a riešenie problémov",
+    "notes": [
+      "Ak sa aplikácia nemôže pripojiť, skontrolujte, či sú váš telefón a počítač v rovnakej Wi‑Fi sieti.",
+      "Uistite sa, že port <code>11434</code> je povolený vaším bránou firewall.",
+      "Ak preferujete používať vzdialený server (domáci PC, VPS), musíte port bezpečne sprístupniť (odporúča sa VPN)."
+    ],
+    "backHome": "← Späť na Domovskú stránku",
+    "metaTitle": "Tutoriál na nastavenie Ollamy — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Zásady ochrany osobných údajov — Screenshot (App) Maker",
+    "title": "Zásady ochrany osobných údajov",
+    "intro": "Tieto zásady ochrany osobných údajov popisujú, ako Screenshot (App) Maker („Aplikácia“) spracúva údaje používateľov.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Žiadne účty. Žiadna analytika. Žiadne sledovanie.",
+      "Vaše súbory a úpravy zostávajú vo vašom zariadení, pokiaľ sa nerozhodnete pripojiť k svojmu serveru Ollama.",
+      "Ak používate Ollamu, text sa posiela iba na adresu servera, ktorú konfigurujete."
+    ],
+    "sections": [
+      {
+        "title": "Zber informácií",
+        "body": [
+          "Aplikácia nezhromažďuje, neukladá ani neposiela osobné údaje na naše servery.",
+          "Snímky obrazovky, šablóny a exportované obrázky sú vytvárané a ukladané lokálne vo vašom zariadení."
+        ]
+      },
+      {
+        "title": "Prístup k súborom a fotografiám",
+        "body": [
+          "Aplikácia môže požadovať prístup k aplikácii Súbory alebo vašej knižnici fotografií na import snímok obrazovky.",
+          "Importované obrázky sú spracúvané v zariadení a nie sú automaticky nahrávané."
+        ]
+      },
+      {
+        "title": "AI preklad (Ollama)",
+        "body": [
+          "Ak povolíte generovanie alebo preklad textu pomocou AI, aplikácia môže posielať text na server Ollama, ktorý konfigurujete (napríklad váš vlastný počítač).",
+          "Neprevádzkujeme ani nesprijímajme vašu premávku Ollama a aplikácia neprotokoluje ani neukladá text spracovaný AI."
+        ]
+      },
+      {
+        "title": "Služby tretích strán",
+        "body": [
+          "Aplikácia nepoužíva analytické nástroje tretích strán, reklamné SDK alebo sledovacie technológie."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Môžeme čas od času aktualizovať tieto zásady ochrany osobných údajov. Zmeny sa odrazia na tejto stránke."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Ak máte otázky týkajúce sa týchto zásad ochrany osobných údajov, kontaktujte nás prostredníctvom e-mailovej adresy uvedenej v zozname aplikácií v App Store."
+        ]
+      }
+    ],
+    "backHome": "← Späť na Domovskú stránku"
+  }
+}

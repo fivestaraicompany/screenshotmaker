@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "スクリーンショット (アプリ) メーカー",
+    "description": "柔軟なテンプレートを使用して、クリーンでモダンなApp Storeのスクリーンショットを簡単に作成します。",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama セットアップチュートリアル",
+    "privacy": "プライバシーポリシー"
+  },
+  "langPicker": {
+    "title": "言語を選択してください",
+    "close": "Close",
+    "hint": "翻訳がありませんか？<code>./i18n/&lt;code&gt;.json</code> ( <code>en.json</code> と同じキー) を作成してください。"
+  },
+  "home": {
+    "brandTitle": "スクリーンショット (アプリ) メーカー",
+    "brandSubtitle": "App Store スクリーンショットを簡単に作成。",
+    "heroTitle": "数分で App Store スクリーンショットを作成",
+    "heroBody": "3～5枚のスクリーンショットを選択し、テンプレートにドロップして、マーケティングテキストを追加し、アップロード準備完了の画像をエクスポートします。",
+    "featuresTitle": "主な機能",
+    "features": [
+      "カスタマイズ可能なテンプレートを使用して、スタイリッシュなApp Storeスクリーンショットを作成",
+      "ファイルアプリまたはフォトライブラリから画像をインポート",
+      "iPhone、iPad、Apple Watch、Apple TVのスクリーンショットに対応",
+      "マーケティングテキストを自由に追加し、レイアウトを視覚的に調整"
+    ],
+    "aiTitle": "AI搭載ローカリゼーション",
+    "aiBody": "Ollamaとの連携により、迅速なグローバル送信のために、国コードごとに翻訳されたマーケティングテキストを生成します。",
+    "aiLink": "Ollamaセットアップチュートリアルの開き方 →",
+    "privacyTitle": "プライバシー優先",
+    "privacyBody": "編集と画像生成はローカルで行われます。トラッキングも、分析も、広告もありません。",
+    "learnTitle": "詳細はこちら",
+    "learnBody": "プライバシーポリシーをお読みになり、お客様のデータの保護方法をご確認ください。",
+    "learnLink": "プライバシーポリシー →",
+    "footerNote": "ヒント：URLに <code>?lang=ko</code>（または他のサポートされているコード）を追加して、ロケールをプレビューします。",
+    "supportedPill": "iPhone · iPad · Watch · TV をサポート",
+    "copyright": "© 2026 スクリーンショット (アプリ) メーカー"
+  },
+  "ollama": {
+    "title": "Ollama セットアップチュートリアル",
+    "subtitle": "AI翻訳とテキスト生成のために、Screenshot (App) Makerを独自のOllamaインスタンスに接続します。",
+    "requirementsTitle": "必要なもの",
+    "requirements": [
+      "Ollamaを実行するためのMac、Windows PC、またはLinuxマシン",
+      "インストールされ、実行されているOllama",
+      "Ollamaマシンと同じネットワーク上のiPhone/iPad（推奨）"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Ollamaをインストールする</strong>: OSに合わせてOllamaをダウンロードしてインストールしてください。",
+      "<strong>Ollamaを起動する</strong>: <code>ollama serve</code>を実行します（macOSの場合はOllamaアプリを開きます）。",
+      "<strong>モデルをプルする</strong>: <code>ollama pull llama3.2</code>（または希望するモデル）を実行します。",
+      "<strong>動作を確認する</strong>: <code>ollama run llama3.2</code>を実行し、プロンプトをテストします。",
+      "<strong>サーバーアドレスを見つける</strong>: コンピューターのLAN IP（例：<code>192.168.0.10</code>）をメモしてください。",
+      "<strong>アプリで使用する</strong>: Screenshot (App) Makerの設定で、Hostを<code>http://&lt;LAN-IP&gt;:11434</code>に設定します。"
+    ],
+    "notesTitle": "注記とトラブルシューティング",
+    "notes": [
+      "アプリが接続できない場合は、スマートフォンとコンピューターが同じWi-Fiネットワーク上にあることを確認してください。",
+      "ポート<code>11434</code>がファイアウォールで許可されていることを確認してください。",
+      "リモートサーバー（自宅のPC、VPSなど）を使用する場合は、ポートを安全に公開する必要があります（VPNを推奨します）。"
+    ],
+    "backHome": "← ホームに戻る",
+    "metaTitle": "Ollamaセットアップチュートリアル — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "プライバシーポリシー — Screenshot (App) Maker",
+    "title": "プライバシーポリシー",
+    "intro": "このプライバシーポリシーは、Screenshot (App) Maker（「本アプリ」）がどのようにユーザーデータを処理するかを説明します。",
+    "summaryTitle": "Summary",
+    "summary": [
+      "アカウントなし。分析なし。追跡なし。",
+      "ファイルと編集内容は、ご自身でOllamaサーバーに接続することを選択しない限り、デバイス上に留まります。",
+      "Ollamaを使用する場合、テキストは構成したサーバーアドレスにのみ送信されます。"
+    ],
+    "sections": [
+      {
+        "title": "情報の収集",
+        "body": [
+          "本アプリは、お客様の個人情報を当社のサーバーに収集、保存、または送信しません。",
+          "スクリーンショット、テンプレート、およびエクスポートされた画像は、お客様のデバイス上で作成および保存されます。"
+        ]
+      },
+      {
+        "title": "ファイルと写真へのアクセス",
+        "body": [
+          "本アプリは、スクリーンショットをインポートするために、ファイルアプリまたは写真ライブラリへのアクセスを要求する場合があります。",
+          "インポートされた画像はデバイス上で処理され、自動的にアップロードされることはありません。"
+        ]
+      },
+      {
+        "title": "AI翻訳（Ollama）",
+        "body": [
+          "AIによるテキスト生成または翻訳を有効にすると、本アプリは構成したOllamaサーバー（たとえば、ご自身のコンピューター）にテキストを送信できます。",
+          "当社はOllamaトラフィックを運営または受信せず、本アプリはAIによって処理されたテキストをログまたは保存しません。"
+        ]
+      },
+      {
+        "title": "サードパーティサービス",
+        "body": [
+          "本アプリは、サードパーティの分析、広告SDK、または追跡技術を使用しません。"
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "当社は、必要に応じてこのプライバシーポリシーを更新することがあります。変更はこのページに反映されます。"
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "このプライバシーポリシーについてご質問がある場合は、App Storeリスティングに記載されているメールアドレスからお問い合わせください。"
+        ]
+      }
+    ],
+    "backHome": "← ホームに戻る"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Creatore di Screenshot (App)",
+    "description": "Crea screenshot per l'App Store puliti e moderni con facilità utilizzando modelli flessibili.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial per la configurazione di Ollama",
+    "privacy": "Informativa sulla privacy"
+  },
+  "langPicker": {
+    "title": "Scegli una lingua",
+    "close": "Close",
+    "hint": "Traduzioni mancanti? Crea <code>./i18n/&lt;code&gt;.json</code> (stesse chiavi di <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Creatore di Screenshot (App)",
+    "brandSubtitle": "Screenshot per l'App Store, semplificato.",
+    "heroTitle": "Crea screenshot per l'App Store in pochi minuti",
+    "heroBody": "Scegli 3–5 screenshot, inseriscili nei modelli, aggiungi testo di marketing ed esporta immagini pronte per il caricamento.",
+    "featuresTitle": "Caratteristiche principali",
+    "features": [
+      "Crea screenshot per l'App Store eleganti utilizzando modelli personalizzabili",
+      "Importa immagini dall'app File o dalla tua libreria di foto",
+      "Supporto per screenshot di iPhone, iPad, Apple Watch e Apple TV",
+      "Aggiungi testo di marketing liberamente e regola il layout visivamente"
+    ],
+    "aiTitle": "Localizzazione basata sull'IA",
+    "aiBody": "Con l'integrazione di Ollama, genera testo di marketing tradotto per codice paese per invii globali rapidi.",
+    "aiLink": "Apri il tutorial per la configurazione di Ollama →",
+    "privacyTitle": "Privacy al primo posto",
+    "privacyBody": "L'editing e la generazione di immagini avvengono localmente. Nessun tracciamento. Nessuna analisi. Nessuna pubblicità.",
+    "learnTitle": "Scopri di più",
+    "learnBody": "Leggi la nostra Informativa sulla privacy per capire come proteggiamo i tuoi dati.",
+    "learnLink": "Informativa sulla privacy →",
+    "footerNote": "Suggerimento: aggiungi <code>?lang=ko</code> (o qualsiasi codice supportato) all'URL per visualizzare in anteprima una localizzazione.",
+    "supportedPill": "Supporta iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Creatore di Screenshot (App)"
+  },
+  "ollama": {
+    "title": "Tutorial per la configurazione di Ollama",
+    "subtitle": "Collega Screenshot (App) Maker alla tua istanza di Ollama per la traduzione AI e la generazione di testo.",
+    "requirementsTitle": "Cosa ti serve",
+    "requirements": [
+      "Un Mac, un PC Windows o una macchina Linux per eseguire Ollama",
+      "Ollama installato e in esecuzione",
+      "Il tuo iPhone/iPad sulla stessa rete della macchina Ollama (consigliato)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Installa Ollama</strong>: scarica e installa Ollama per il tuo sistema operativo.",
+      "<strong>Avvia Ollama</strong>: esegui <code>ollama serve</code> (o apri l'app Ollama su macOS).",
+      "<strong>Scarica un modello</strong>: esegui <code>ollama pull llama3.2</code> (o il modello preferito).",
+      "<strong>Verifica che funzioni</strong>: esegui <code>ollama run llama3.2</code> e prova un prompt.",
+      "<strong>Trova l'indirizzo del server</strong>: prendi nota dell'IP LAN del tuo computer (ad es. <code>192.168.0.10</code>).",
+      "<strong>Usalo nell'app</strong>: nelle impostazioni di Screenshot (App) Maker, imposta Host su <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Note e risoluzione dei problemi",
+    "notes": [
+      "Se l'app non riesce a connettersi, verifica che il telefono e il computer siano sulla stessa rete Wi‑Fi.",
+      "Assicurati che la porta <code>11434</code> sia consentita dal tuo firewall.",
+      "Se preferisci utilizzare un server remoto (PC domestico, VPS), devi esporre la porta in modo sicuro (consigliabile VPN)."
+    ],
+    "backHome": "← Indietro a Home",
+    "metaTitle": "Tutorial di configurazione di Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Informativa sulla privacy — Screenshot (App) Maker",
+    "title": "Informativa sulla privacy",
+    "intro": "Questa Informativa sulla privacy descrive come Screenshot (App) Maker (\"l'App\") gestisce i dati degli utenti.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Nessun account. Nessuna analisi. Nessun tracciamento.",
+      "I tuoi file e le tue modifiche rimangono sul tuo dispositivo a meno che tu non scelga di connetterti al tuo server Ollama.",
+      "Se utilizzi Ollama, il testo viene inviato solo all'indirizzo del server che configuri."
+    ],
+    "sections": [
+      {
+        "title": "Raccolta delle informazioni",
+        "body": [
+          "L'App non raccoglie, archivia o trasmette informazioni personali ai nostri server.",
+          "Screenshot, modelli ed immagini esportate vengono creati e salvati localmente sul tuo dispositivo."
+        ]
+      },
+      {
+        "title": "Accesso a file e foto",
+        "body": [
+          "L'App potrebbe richiedere l'accesso all'app File o alla tua libreria di foto per importare screenshot.",
+          "Le immagini importate vengono elaborate sul dispositivo e non vengono caricate automaticamente."
+        ]
+      },
+      {
+        "title": "Traduzione AI (Ollama)",
+        "body": [
+          "Se abiliti la generazione o la traduzione di testo AI, l'App può inviare testo a un server Ollama che configuri (ad esempio, il tuo computer).",
+          "Non gestiamo né riceviamo il tuo traffico Ollama e l'App non registra né archivia il testo elaborato dall'AI."
+        ]
+      },
+      {
+        "title": "Servizi di terze parti",
+        "body": [
+          "L'App non utilizza analisi di terze parti, SDK pubblicitari o tecnologie di tracciamento."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Potremmo aggiornare questa Informativa sulla privacy di tanto in tanto. Le modifiche saranno riflesse in questa pagina."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Se hai domande su questa Informativa sulla privacy, contattaci tramite l'indirizzo e-mail fornito sulla pagina dell'App Store."
+        ]
+      }
+    ],
+    "backHome": "← Indietro a Home"
+  }
+}

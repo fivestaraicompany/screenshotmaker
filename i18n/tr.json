@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Ekran Görüntüsü (Uygulama) Oluşturucu",
+    "description": "Esnek şablonlar kullanarak temiz ve modern Uygulama Mağazası ekran görüntülerini zahmetsizce oluşturun.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Kurulum Eğitimi",
+    "privacy": "Gizlilik Politikası"
+  },
+  "langPicker": {
+    "title": "Bir dil seçin",
+    "close": "Close",
+    "hint": "Eksik çeviriler mi var? <code>./i18n/&lt;code&gt;.json</code> (aynı anahtarlarla <code>en.json</code>) oluşturun."
+  },
+  "home": {
+    "brandTitle": "Ekran Görüntüsü (Uygulama) Oluşturucu",
+    "brandSubtitle": "Uygulama Mağazası ekran görüntüleri, kolaylaştırıldı.",
+    "heroTitle": "Dakikalar İçinde Uygulama Mağazası Ekran Görüntüleri Oluşturun",
+    "heroBody": "3-5 ekran görüntüsü seçin, bunları şablonlara bırakın, pazarlama metni ekleyin ve yüklemeye hazır görüntüleri dışa aktarın.",
+    "featuresTitle": "Temel Özellikler",
+    "features": [
+      "Özelleştirilebilir şablonlar kullanarak şık Uygulama Mağazası ekran görüntüleri oluşturun",
+      "Dosyalar uygulamasından veya fotoğraf kitaplığınızdan resimleri içe aktarın",
+      "iPhone, iPad, Apple Watch ve Apple TV ekran görüntüleri için destek",
+      "Pazarlama metnini serbestçe ekleyin ve düzeni görsel olarak ayarlayın"
+    ],
+    "aiTitle": "Yapay Zeka Destekli Yerelleştirme",
+    "aiBody": "Ollama entegrasyonuyla, hızlı küresel gönderimler için ülke koduna göre çevrilmiş pazarlama metni oluşturun.",
+    "aiLink": "Ollama kurulum eğitimini açın →",
+    "privacyTitle": "Önce Gizlilik",
+    "privacyBody": "Düzenleme ve görüntü oluşturma yerel olarak gerçekleşir. İzleme yok. Analitik yok. Reklam yok.",
+    "learnTitle": "Daha Fazla Bilgi Edinin",
+    "learnBody": "Verilerinizi nasıl koruduğumuzu anlamak için Gizlilik Politikamızı okuyun.",
+    "learnLink": "Gizlilik Politikası →",
+    "footerNote": "İpucu: bir yerelliği önizlemek için URL'ye <code>?lang=ko</code> (veya desteklenen herhangi bir kod) ekleyin.",
+    "supportedPill": "iPhone · iPad · Watch · TV'yi Destekler",
+    "copyright": "© 2026 Ekran Görüntüsü (Uygulama) Oluşturucu"
+  },
+  "ollama": {
+    "title": "Ollama Kurulum Eğitimi",
+    "subtitle": "Yapay zeka çevirisi ve metin oluşturma için Screenshot (App) Maker'ı kendi Ollama örneğinize bağlayın.",
+    "requirementsTitle": "İhtiyacınız Olanlar",
+    "requirements": [
+      "Ollama'yı çalıştırmak için bir Mac, Windows PC veya Linux makinesi",
+      "Yüklü ve çalışan Ollama",
+      "iPhone/iPad'inizin Ollama makinesiyle aynı ağda olması (önerilir)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Ollama'yı Kurun</strong>: işletim sisteminiz için Ollama'yı indirin ve kurun.",
+      "<strong>Ollama'yı Başlatın</strong>: <code>ollama serve</code> komutunu çalıştırın (veya macOS'ta Ollama uygulamasını açın).",
+      "<strong>Bir model çekin</strong>: <code>ollama pull llama3.2</code> (veya tercih ettiğiniz modeli) komutunu çalıştırın.",
+      "<strong>Çalıştığını doğrulayın</strong>: <code>ollama run llama3.2</code> komutunu çalıştırın ve bir istemi test edin.",
+      "<strong>Sunucu adresinizi bulun</strong>: bilgisayarınızın LAN IP adresini not edin (örneğin, <code>192.168.0.10</code>).",
+      "<strong>Uygulamada kullanın</strong>: Ekran Görüntüsü (Uygulama) Oluşturucu ayarlarında, Ana Bilgisayar'ı <code>http://&lt;LAN-IP&gt;:11434</code> olarak ayarlayın."
+    ],
+    "notesTitle": "Notlar ve sorun giderme",
+    "notes": [
+      "Uygulama bağlanamıyorsa, telefonunuzun ve bilgisayarınızın aynı Wi‑Fi ağına bağlı olduğundan emin olun.",
+      "<code>11434</code> bağlantı noktasının güvenlik duvarınız tarafından izin verildiğinden emin olun.",
+      "Uzak bir sunucu (ev PC'si, VPS) kullanmayı tercih ederseniz, bağlantı noktasını güvenli bir şekilde açmanız gerekir (VPN önerilir)."
+    ],
+    "backHome": "← Ana Sayfaya Geri Dön",
+    "metaTitle": "Ollama Kurulumu Eğitimi — Ekran Görüntüsü (Uygulama) Oluşturucu"
+  },
+  "privacy": {
+    "metaTitle": "Gizlilik Politikası — Ekran Görüntüsü (Uygulama) Oluşturucu",
+    "title": "Gizlilik Politikası",
+    "intro": "Bu Gizlilik Politikası, Ekran Görüntüsü (Uygulama) Oluşturucu (\"Uygulama\")'nun kullanıcı verilerini nasıl işlediğini açıklamaktadır.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Hesap yok. Analitik yok. Takip yok.",
+      "Dosyalarınız ve düzenlemeleriniz, kendi Ollama sunucunuza bağlanmayı seçmedikçe cihazınızda kalır.",
+      "Ollama kullanıyorsanız, metin yalnızca yapılandırdığınız sunucu adresine gönderilir."
+    ],
+    "sections": [
+      {
+        "title": "Bilgi Toplama",
+        "body": [
+          "Uygulama, kişisel bilgileri sunucularımıza toplamaz, saklamaz veya iletmez.",
+          "Ekran görüntüleri, şablonlar ve dışa aktarılan görüntüler yerel olarak cihazınızda oluşturulur ve kaydedilir."
+        ]
+      },
+      {
+        "title": "Dosya ve Fotoğraflara Erişim",
+        "body": [
+          "Uygulama, ekran görüntülerini içe aktarmak için Dosyalar uygulamanıza veya fotoğraf kitaplığınıza erişim isteyebilir.",
+          "İçe aktarılan görüntüler cihaz üzerinde işlenir ve otomatik olarak yüklenmez."
+        ]
+      },
+      {
+        "title": "AI Çevirisi (Ollama)",
+        "body": [
+          "AI metin oluşturmayı veya çeviriyi etkinleştirirseniz, Uygulama metni yapılandırdığınız bir Ollama sunucusuna gönderebilir (örneğin, kendi bilgisayarınız).",
+          "Ollama trafiğinizi çalıştırmıyoruz veya almıyoruz ve Uygulama, AI tarafından işlenen metni kaydetmiyor veya saklamıyor."
+        ]
+      },
+      {
+        "title": "Üçüncü Taraf Hizmetleri",
+        "body": [
+          "Uygulama, üçüncü taraf analitiği, reklam SDK'ları veya izleme teknolojileri kullanmaz."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yansıtılacaktır."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen Uygulama Mağazası listesinde sağlanan e-posta adresi üzerinden bizimle iletişime geçin."
+        ]
+      }
+    ],
+    "backHome": "← Ana Sayfaya Geri Dön"
+  }
+}

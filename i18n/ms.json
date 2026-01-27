@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Pembuat Tangkapan Skrin (Apl)",
+    "description": "Cipta tangkapan skrin Gedung Apl yang kemas dan moden dengan mudah menggunakan templat yang fleksibel.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial Persediaan Ollama",
+    "privacy": "Dasar Privasi"
+  },
+  "langPicker": {
+    "title": "Pilih bahasa",
+    "close": "Close",
+    "hint": "Terjemahan hilang? Cipta <code>./i18n/&lt;code&gt;.json</code> (kekunci yang sama seperti <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Pembuat Tangkapan Skrin (Apl)",
+    "brandSubtitle": "Tangkapan skrin Gedung Apl, dibuat mudah.",
+    "heroTitle": "Buat tangkapan skrin Gedung Apl dalam beberapa minit",
+    "heroBody": "Pilih 3–5 tangkapan skrin, jatuhkannya ke dalam templat, tambahkan teks pemasaran dan eksport imej sedia untuk dimuat naik.",
+    "featuresTitle": "Ciri-ciri Utama",
+    "features": [
+      "Cipta tangkapan skrin Gedung Apl yang bergaya menggunakan templat yang boleh disesuaikan",
+      "Import imej dari aplikasi Fail atau perpustakaan foto anda",
+      "Sokongan untuk tangkapan skrin iPhone, iPad, Apple Watch dan Apple TV",
+      "Tambahkan teks pemasaran secara bebas dan laraskan susun atur secara visual"
+    ],
+    "aiTitle": "Penterjemahan Berkuasa AI",
+    "aiBody": "Dengan penyepaduan Ollama, jana teks pemasaran yang diterjemahkan mengikut kod negara untuk penghantaran global yang pantas.",
+    "aiLink": "Buka tutorial persediaan Ollama →",
+    "privacyTitle": "Privasi Diutamakan",
+    "privacyBody": "Pengeditan dan penjanaan imej berlaku secara tempatan. Tiada pengesanan. Tiada analisis. Tiada iklan.",
+    "learnTitle": "Ketahui Lebih Lanjut",
+    "learnBody": "Baca Dasar Privasi kami untuk memahami cara kami melindungi data anda.",
+    "learnLink": "Dasar Privasi →",
+    "footerNote": "Petua: tambahkan <code>?lang=ko</code> (atau mana-mana kod yang disokong) ke URL untuk melihat pratonton setempat.",
+    "supportedPill": "Menyokong iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Pembuat Tangkapan Skrin (Apl)"
+  },
+  "ollama": {
+    "title": "Tutorial Persediaan Ollama",
+    "subtitle": "Sambungkan Pembuat Tangkapan Skrin (Apl) ke contoh Ollama anda sendiri untuk terjemahan AI dan penjanaan teks.",
+    "requirementsTitle": "Apa yang anda perlukan",
+    "requirements": [
+      "Sebuah Mac, PC Windows atau mesin Linux untuk menjalankan Ollama",
+      "Ollama dipasang dan dijalankan",
+      "iPhone/iPad anda pada rangkaian yang sama seperti mesin Ollama (disyorkan)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Pasang Ollama</strong>: muat turun dan pasang Ollama untuk OS anda.",
+      "<strong>Mulakan Ollama</strong>: jalankan <code>ollama serve</code> (atau buka aplikasi Ollama pada macOS).",
+      "<strong>Tarik model</strong>: jalankan <code>ollama pull llama3.2</code> (atau model pilihan anda).",
+      "<strong>Sahkannya berfungsi</strong>: jalankan <code>ollama run llama3.2</code> dan uji gesaan.",
+      "<strong>Cari alamat pelayan anda</strong>: perhatikan IP LAN komputer anda (cth. <code>192.168.0.10</code>).",
+      "<strong>Gunakannya dalam aplikasi</strong>: dalam tetapan Pembuat Skrin (Aplikasi), tetapkan Hos ke <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Nota & penyelesaian masalah",
+    "notes": [
+      "Jika aplikasi tidak dapat menyambung, pastikan telefon dan komputer anda berada pada rangkaian Wi-Fi yang sama.",
+      "Pastikan port <code>11434</code> dibenarkan oleh firewall anda.",
+      "Jika anda lebih suka menggunakan pelayan jauh (PC rumah, VPS), anda mesti mendedahkan port secara selamat (VPN disyorkan)."
+    ],
+    "backHome": "← Kembali ke Laman Utama",
+    "metaTitle": "Tutorial Persediaan Ollama — Pembuat Skrin (Aplikasi)"
+  },
+  "privacy": {
+    "metaTitle": "Dasar Privasi — Pembuat Skrin (Aplikasi)",
+    "title": "Dasar Privasi",
+    "intro": "Dasar Privasi ini menerangkan cara Pembuat Skrin (Aplikasi) (\"Aplikasi\") mengendalikan data pengguna.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Tiada akaun. Tiada analitik. Tiada penjejakan.",
+      "Fail dan edit anda kekal pada peranti anda kecuali anda memilih untuk menyambung ke pelayan Ollama anda sendiri.",
+      "Jika anda menggunakan Ollama, teks hanya dihantar ke alamat pelayan yang anda konfigurasi."
+    ],
+    "sections": [
+      {
+        "title": "Pengumpulan Maklumat",
+        "body": [
+          "Aplikasi tidak mengumpul, menyimpan atau menghantar maklumat peribadi ke pelayan kami.",
+          "Skrin, templat dan imej yang dieksport dicipta dan disimpan secara setempat pada peranti anda."
+        ]
+      },
+      {
+        "title": "Akses Fail dan Foto",
+        "body": [
+          "Aplikasi mungkin meminta akses ke aplikasi Fail atau perpustakaan foto anda untuk mengimport tangkapan skrin.",
+          "Imej yang diimport diproses pada peranti dan tidak dimuat naik secara automatik."
+        ]
+      },
+      {
+        "title": "Terjemahan AI (Ollama)",
+        "body": [
+          "Jika anda mendayakan penjanaan atau terjemahan teks AI, Aplikasi boleh menghantar teks ke pelayan Ollama yang anda konfigurasi (contohnya, komputer anda sendiri).",
+          "Kami tidak mengendalikan atau menerima trafik Ollama anda, dan Aplikasi tidak mencatat atau menyimpan teks yang diproses oleh AI."
+        ]
+      },
+      {
+        "title": "Perkhidmatan Pihak Ketiga",
+        "body": [
+          "Aplikasi tidak menggunakan analitik pihak ketiga, SDK pengiklanan atau teknologi penjejakan."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Kami mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa. Perubahan akan dicerminkan pada halaman ini."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Jika anda mempunyai soalan mengenai Dasar Privasi ini, sila hubungi kami melalui alamat e-mel yang disediakan pada penyenaraian Gedung Apl."
+        ]
+      }
+    ],
+    "backHome": "← Kembali ke Laman Utama"
+  }
+}

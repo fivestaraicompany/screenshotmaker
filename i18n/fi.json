@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Näyttökuvan (Sovellus) Tekijä",
+    "description": "Luo puhtaita, moderneja App Store -näyttökuvia helposti joustavien mallien avulla.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama-asennusopas",
+    "privacy": "Tietosuojakäytäntö"
+  },
+  "langPicker": {
+    "title": "Valitse kieli",
+    "close": "Close",
+    "hint": "Puuttuvat käännökset? Luo <code>./i18n/&lt;code&gt;.json</code> (samat avaimet kuin <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Näyttökuvan (Sovellus) Tekijä",
+    "brandSubtitle": "App Store -näyttökuvia, tehty helpoksi.",
+    "heroTitle": "Tee App Store -näyttökuvia minuuteissa",
+    "heroBody": "Valitse 3–5 näyttökuvaa, pudota ne malleihin, lisää markkinointitekstiä ja vie valmiita kuvia ladattavaksi.",
+    "featuresTitle": "Tärkeimmät ominaisuudet",
+    "features": [
+      "Luo tyylikkäitä App Store -näyttökuvia muokattavilla malleilla",
+      "Tuo kuvia Tiedostot-sovelluksesta tai valokuvakirjastostasi",
+      "Tukee iPhone-, iPad-, Apple Watch- ja Apple TV -näyttökuvia",
+      "Lisää markkinointitekstiä vapaasti ja säädä asettelua visuaalisesti"
+    ],
+    "aiTitle": "AI-pohjainen lokalisointi",
+    "aiBody": "Ollama-integraation avulla voit luoda käännettyä markkinointitekstiä maakohtaisesti nopeita maailmanlaajuisia lähetyksiä varten.",
+    "aiLink": "Avaa Ollama-asennusopas →",
+    "privacyTitle": "Yksityisyys etusijalla",
+    "privacyBody": "Muokkaus ja kuvien luonti tapahtuvat paikallisesti. Ei seurantaa. Ei analytiikkaa. Ei mainoksia.",
+    "learnTitle": "Lue lisää",
+    "learnBody": "Lue tietosuojakäytäntömme ymmärtääksesi, kuinka suojaamme tietosi.",
+    "learnLink": "Tietosuojakäytäntö →",
+    "footerNote": "Vinkki: lisää <code>?lang=ko</code> (tai mikä tahansa tuettu koodi) URL-osoitteeseen, jotta voit esikatsella paikallista versiota.",
+    "supportedPill": "Tukee iPhonea · iPadia · Watchia · TV:tä",
+    "copyright": "© 2026 Näyttökuvan (Sovellus) Tekijä"
+  },
+  "ollama": {
+    "title": "Ollama-asennusopas",
+    "subtitle": "Yhdistä Näyttökuvan (Sovellus) Tekijä omaan Ollama-esiintymääsi AI-käännöstä ja tekstin luomista varten.",
+    "requirementsTitle": "Tarvitset",
+    "requirements": [
+      "Mac-, Windows-PC- tai Linux-kone Ollaman suorittamiseen",
+      "Ollama asennettuna ja käynnissä",
+      "iPhone/iPad samassa verkossa kuin Ollama-kone (suositus)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Asenna Ollama</strong>: lataa ja asenna Ollama käyttöjärjestelmääsi.",
+      "<strong>Käynnistä Ollama</strong>: suorita <code>ollama serve</code> (tai avaa Ollama-sovellus macOS:ssä).",
+      "<strong>Hae malli</strong>: suorita <code>ollama pull llama3.2</code> (tai haluamasi malli).",
+      "<strong>Varmista sen toimivuus</strong>: suorita <code>ollama run llama3.2</code> ja testaa kehote.",
+      "<strong>Etsi palvelinosoitteesi</strong>: merkitse tietokoneesi lähiverkon IP-osoite (esim. <code>192.168.0.10</code>).",
+      "<strong>Käytä sitä sovelluksessa</strong>: Screenshot (App) Maker -asetuksissa aseta Host-kentäksi <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Huomautukset ja ongelmanratkaisu",
+    "notes": [
+      "Jos sovellus ei voi muodostaa yhteyttä, tarkista, että puhelimesi ja tietokoneesi ovat samassa Wi-Fi-verkossa.",
+      "Varmista, että palomuurisi sallii portin <code>11434</code>.",
+      "Jos haluat käyttää etäpalvelinta (kotitietokone, VPS), sinun on paljastettava portti turvallisesti (VPN suositeltava)."
+    ],
+    "backHome": "← Takaisin etusivulle",
+    "metaTitle": "Ollama-asetusopas — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Tietosuojakäytäntö — Screenshot (App) Maker",
+    "title": "Tietosuojakäytäntö",
+    "intro": "Tämä tietosuojakäytäntö kuvaa, miten Screenshot (App) Maker (\"Sovellus\") käsittelee käyttäjätietoja.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Ei tilejä. Ei analytiikkaa. Ei seurantaa.",
+      "Tiedostosi ja muokkauksesi pysyvät laitteellasi, ellei päätät muodostaa yhteyttä omaan Ollama-palvelimeesi.",
+      "Jos käytät Ollamaa, teksti lähetetään vain määrittamaasi palvelinosoitteeseen."
+    ],
+    "sections": [
+      {
+        "title": "Tietojen kerääminen",
+        "body": [
+          "Sovellus ei kerää, tallenna tai lähetä henkilökohtaisia tietoja palvelimillemme.",
+          "Kuvakaappaukset, mallit ja viedyt kuvat luodaan ja tallennetaan paikallisesti laitteellesi."
+        ]
+      },
+      {
+        "title": "Tiedostojen ja valokuvien käyttö",
+        "body": [
+          "Sovellus voi pyytää pääsyä Tiedostot-sovellukseen tai valokuvakirjastoon kuvakaappausten tuomiseksi.",
+          "Tuodut kuvat käsitellään laitteella, eikä niitä ladata automaattisesti."
+        ]
+      },
+      {
+        "title": "AI-käännös (Ollama)",
+        "body": [
+          "Jos otat AI-tekstin luomisen tai kääntämisen käyttöön, sovellus voi lähettää tekstiä määrittamaasi Ollama-palvelimeen (esimerkiksi oma tietokoneesi).",
+          "Emme käytä tai vastaanota Ollama-liikennettäsi, eikä sovellus kirjaa tai tallenna AI:n käsittelemää tekstiä."
+        ]
+      },
+      {
+        "title": "Kolmannen osapuolen palvelut",
+        "body": [
+          "Sovellus ei käytä kolmannen osapuolen analytiikkaa, mainostus-SDK:ita tai seurantateknologioita."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Voimme päivittää tämän tietosuojakäytännön aika ajoin. Muutokset heijastuvat tällä sivulla."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Jos sinulla on kysymyksiä tästä tietosuojakäytännöstä, ota meihin yhteyttä sovelluskaupan listauksessa annetun sähköpostiosoitteen kautta."
+        ]
+      }
+    ],
+    "backHome": "← Takaisin etusivulle"
+  }
+}

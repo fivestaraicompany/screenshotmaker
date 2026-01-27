@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Képernyőfotó (App) Készítő",
+    "description": "Készítsen tiszta, modern App Store képernyőfotókat könnyedén, rugalmas sablonokkal.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Beállítási Útmutató",
+    "privacy": "Adatvédelmi szabályzat"
+  },
+  "langPicker": {
+    "title": "Nyelv kiválasztása",
+    "close": "Close",
+    "hint": "Hiányzó fordítások? Hozzon létre <code>./i18n/&lt;code&gt;.json</code> fájlt (ugyanazokkal a kulcsokkal, mint a <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Képernyőfotó (App) Készítő",
+    "brandSubtitle": "App Store képernyőfotók, egyszerűen.",
+    "heroTitle": "Készítsen App Store képernyőfotókat percek alatt",
+    "heroBody": "Válasszon ki 3–5 képernyőfotót, helyezze el sablonokban, adjon hozzá marketing szöveget, és exportálja a feltöltéshez kész képeket.",
+    "featuresTitle": "Főbb funkciók",
+    "features": [
+      "Készítsen stílusos App Store képernyőfotókat testreszabható sablonokkal",
+      "Importáljon képeket a Fájlok alkalmazásból vagy a fotótárából",
+      "Támogatás iPhone, iPad, Apple Watch és Apple TV képernyőfotókhoz",
+      "Szabadon adhat hozzá marketing szöveget és vizuálisan állíthatja be az elrendezést"
+    ],
+    "aiTitle": "AI-alapú lokalizáció",
+    "aiBody": "Az Ollama integrációval országkódonként generálhat fordított marketing szöveget a gyors globális benyújtáshoz.",
+    "aiLink": "Nyissa meg az Ollama beállítási útmutatót →",
+    "privacyTitle": "Adatvédelem előtérben",
+    "privacyBody": "A szerkesztés és a képalkotás helyileg történik. Nincs nyomkövetés. Nincs elemzés. Nincs hirdetés.",
+    "learnTitle": "Tudjon meg többet",
+    "learnBody": "Olvassa el adatvédelmi szabályzatunkat, hogy megértse, hogyan védjük az adatait.",
+    "learnLink": "Adatvédelmi szabályzat →",
+    "footerNote": "Tipp: fűzze hozzá a <code>?lang=ko</code> (vagy bármely más támogatott kódot) az URL-hez egy helyi nézet előnézetéhez.",
+    "supportedPill": "Támogatás iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Képernyőfotó (App) Készítő"
+  },
+  "ollama": {
+    "title": "Ollama Beállítási Útmutató",
+    "subtitle": "Csatlakoztassa a Képernyőfotó (App) Készítőt a saját Ollama példányához az AI fordítás és szöveg generálás érdekében.",
+    "requirementsTitle": "Amit szüksége van",
+    "requirements": [
+      "Egy Mac, Windows PC vagy Linux gép az Ollama futtatásához",
+      "Telepített és futó Ollama",
+      "Az iPhone/iPad ugyanazon a hálózaton, mint az Ollama gép (ajánlott)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Ollama telepítése</strong>: töltse le és telepítse az Ollamát az operációs rendszeréhez.",
+      "<strong>Az Ollama elindítása</strong>: futtassa a <code>ollama serve</code> parancsot (vagy nyissa meg az Ollama alkalmazást macOS-en).",
+      "<strong>Modell letöltése</strong>: futtassa a <code>ollama pull llama3.2</code> parancsot (vagy a preferált modellt).",
+      "<strong>Ellenőrizze, hogy működik</strong>: futtassa a <code>ollama run llama3.2</code> parancsot, és teszteljen egy parancssort.",
+      "<strong>Keresse meg a szerver címét</strong>: jegyezze fel a számítógépe LAN IP-címét (pl. <code>192.168.0.10</code>).",
+      "<strong>Használja az alkalmazásban</strong>: a Screenshot (App) Maker beállításokban állítsa a Host értéket <code>http://&lt;LAN-IP&gt;:11434</code> értékre."
+    ],
+    "notesTitle": "Megjegyzések és hibaelhárítás",
+    "notes": [
+      "Ha az alkalmazás nem tud csatlakozni, ellenőrizze, hogy a telefonja és a számítógépe ugyanazon a Wi-Fi hálózaton van-e.",
+      "Győződjön meg arról, hogy a <code>11434</code> port engedélyezve van a tűzfalon.",
+      "Ha inkább egy távoli szervert szeretne használni (otthoni PC, VPS), akkor biztonságosan kell kitennie a portot (VPN ajánlott)."
+    ],
+    "backHome": "← Vissza a Főoldalra",
+    "metaTitle": "Ollama beállítási útmutató — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Adatvédelmi szabályzat — Screenshot (App) Maker",
+    "title": "Adatvédelmi szabályzat",
+    "intro": "Ez az adatvédelmi szabályzat leírja, hogyan kezeli a Screenshot (App) Maker („alkalmazás”) a felhasználói adatokat.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Nincsenek fiókok. Nincs elemzés. Nincs nyomkövetés.",
+      "A fájljai és szerkesztései a készülékén maradnak, kivéve, ha úgy dönt, hogy csatlakozik a saját Ollama szerveréhez.",
+      "Ha Ollamát használ, a szöveg csak a konfigurált szervercímre kerül elküldésre."
+    ],
+    "sections": [
+      {
+        "title": "Információgyűjtés",
+        "body": [
+          "Az alkalmazás nem gyűjti, tárolja vagy továbbítja személyes adatokat a szervereinkre.",
+          "A képernyőképek, sablonok és exportált képek helyben jönnek létre és mentődnek el a készülékén."
+        ]
+      },
+      {
+        "title": "Fájlok és fényképek hozzáférése",
+        "body": [
+          "Az alkalmazás hozzáférést kérhet a Fájlok alkalmazáshoz vagy a fényképtárhoz a képernyőképek importálásához.",
+          "Az importált képek a készüléken kerülnek feldolgozásra, és nem tölthetők fel automatikusan."
+        ]
+      },
+      {
+        "title": "AI fordítás (Ollama)",
+        "body": [
+          "Ha engedélyezi az AI szöveggenerálást vagy fordítást, az alkalmazás szöveget küldhet az Ön által konfigurált Ollama szerverre (például a saját számítógépére).",
+          "Mi nem üzemeltetjük vagy fogadjuk az Ollama forgalmát, és az alkalmazás nem naplózza vagy tárolja az AI által feldolgozott szöveget."
+        ]
+      },
+      {
+        "title": "Harmadik fél szolgáltatások",
+        "body": [
+          "Az alkalmazás nem használ harmadik fél elemzőt, hirdetési SDK-kat vagy nyomkövető technológiákat."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Időnként frissíthetjük ezt az adatvédelmi szabályzatot. A változások ezen az oldalon jelennek meg."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Ha kérdése van ezzel az adatvédelmi szabályzattal kapcsolatban, kérjük, vegye fel velünk a kapcsolatot az App Store oldalon található e-mail címen."
+        ]
+      }
+    ],
+    "backHome": "← Vissza a Főoldalra"
+  }
+}

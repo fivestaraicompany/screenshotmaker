@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Screenshot (App) Maker",
+    "description": "Skapa rena, moderna App Store-skärmdumpar enkelt med flexibla mallar.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Installationsguide",
+    "privacy": "Integritetspolicy"
+  },
+  "langPicker": {
+    "title": "Välj ett språk",
+    "close": "Close",
+    "hint": "Saknas översättningar? Skapa <code>./i18n/&lt;code&gt;.json</code> (samma nycklar som <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Screenshot (App) Maker",
+    "brandSubtitle": "App Store-skärmdumpar, enkelt gjort.",
+    "heroTitle": "Skapa App Store-skärmdumpar på några minuter",
+    "heroBody": "Välj 3–5 skärmdumpar, lägg in dem i mallar, lägg till marknadsföringstext och exportera bilder som är redo att laddas upp.",
+    "featuresTitle": "Viktiga funktioner",
+    "features": [
+      "Skapa stilrena App Store-skärmdumpar med anpassningsbara mallar",
+      "Importera bilder från Files-appen eller ditt fotobibliotek",
+      "Stöd för iPhone, iPad, Apple Watch och Apple TV-skärmdumpar",
+      "Lägg till marknadsföringstext fritt och justera layouten visuellt"
+    ],
+    "aiTitle": "AI-driven lokalisering",
+    "aiBody": "Med Ollama-integration kan du generera översatt marknadsföringstext per landskod för snabba globala inlämningar.",
+    "aiLink": "Öppna Ollama installationsguide →",
+    "privacyTitle": "Integritet först",
+    "privacyBody": "Redigering och bildgenerering sker lokalt. Ingen spårning. Ingen analys. Inga annonser.",
+    "learnTitle": "Läs mer",
+    "learnBody": "Läs vår integritetspolicy för att förstå hur vi skyddar dina data.",
+    "learnLink": "Integritetspolicy →",
+    "footerNote": "Tips: lägg till <code>?lang=ko</code> (eller någon annan stödd kod) till URL:en för att förhandsgranska en lokal.",
+    "supportedPill": "Stöd för iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "ollama": {
+    "title": "Ollama Installationsguide",
+    "subtitle": "Anslut Screenshot (App) Maker till din egen Ollama-instans för AI-översättning och textgenerering.",
+    "requirementsTitle": "Vad du behöver",
+    "requirements": [
+      "En Mac, Windows-dator eller Linux-maskin för att köra Ollama",
+      "Ollama installerat och körs",
+      "Din iPhone/iPad i samma nätverk som Ollama-maskinen (rekommenderas)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Installera Ollama</strong>: ladda ner och installera Ollama för ditt operativsystem.",
+      "<strong>Starta Ollama</strong>: kör <code>ollama serve</code> (eller öppna Ollama-appen på macOS).",
+      "<strong>Hämta en modell</strong>: kör <code>ollama pull llama3.2</code> (eller din föredragna modell).",
+      "<strong>Bekräfta att det fungerar</strong>: kör <code>ollama run llama3.2</code> och testa en uppmaning.",
+      "<strong>Hitta din serveradress</strong>: notera din dators LAN-IP (t.ex. <code>192.168.0.10</code>).",
+      "<strong>Använd det i appen</strong>: i Screenshot (App) Maker-inställningarna, ställ in Host till <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Anteckningar & felsökning",
+    "notes": [
+      "Om appen inte kan ansluta, kontrollera att din telefon och dator är på samma Wi‑Fi-nätverk.",
+      "Se till att port <code>11434</code> tillåts av din brandvägg.",
+      "Om du föredrar att använda en fjärrserver (hemmadator, VPS), måste du exponera porten säkert (VPN rekommenderas)."
+    ],
+    "backHome": "← Tillbaka till Hem",
+    "metaTitle": "Ollama Installationsguide — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Integritetspolicy — Screenshot (App) Maker",
+    "title": "Integritetspolicy",
+    "intro": "Denna integritetspolicy beskriver hur Screenshot (App) Maker (\"appen\") hanterar användardata.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Inga konton. Ingen analys. Ingen spårning.",
+      "Dina filer och redigeringar stannar på din enhet om du inte väljer att ansluta till din egen Ollama-server.",
+      "Om du använder Ollama skickas text endast till den serveradress du konfigurerar."
+    ],
+    "sections": [
+      {
+        "title": "Informationsinsamling",
+        "body": [
+          "Appen samlar inte in, lagrar eller överför personlig information till våra servrar.",
+          "Skärmdumpar, mallar och exporterade bilder skapas och sparas lokalt på din enhet."
+        ]
+      },
+      {
+        "title": "Åtkomst till filer och foton",
+        "body": [
+          "Appen kan begära åtkomst till Fil-appen eller ditt fotobibliotek för att importera skärmdumpar.",
+          "Importerade bilder bearbetas på enheten och laddas inte upp automatiskt."
+        ]
+      },
+      {
+        "title": "AI-översättning (Ollama)",
+        "body": [
+          "Om du aktiverar AI-textgenerering eller översättning kan appen skicka text till en Ollama-server som du konfigurerar (till exempel din egen dator).",
+          "Vi driver inte eller tar emot din Ollama-trafik, och appen loggar eller lagrar inte den text som bearbetas av AI."
+        ]
+      },
+      {
+        "title": "Tredjepartstjänster",
+        "body": [
+          "Appen använder inte tredjepartsanalys, annonserings-SDK:er eller spårningstekniker."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Vi kan uppdatera denna integritetspolicy från tid till annan. Ändringar kommer att återspeglas på denna sida."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Om du har frågor om denna integritetspolicy, vänligen kontakta oss via e-postadressen som finns på App Store-listningen."
+        ]
+      }
+    ],
+    "backHome": "← Tillbaka till Hem"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Pembuat Tangkapan Layar (Aplikasi)",
+    "description": "Buat tangkapan layar App Store yang bersih dan modern dengan mudah menggunakan templat fleksibel.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial Penyiapan Ollama",
+    "privacy": "Kebijakan Privasi"
+  },
+  "langPicker": {
+    "title": "Pilih bahasa",
+    "close": "Close",
+    "hint": "Terjemahan hilang? Buat <code>./i18n/&lt;code&gt;.json</code> (kunci yang sama dengan <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Pembuat Tangkapan Layar (Aplikasi)",
+    "brandSubtitle": "Tangkapan layar App Store, dibuat mudah.",
+    "heroTitle": "Buat tangkapan layar App Store dalam hitungan menit",
+    "heroBody": "Pilih 3–5 tangkapan layar, masukkan ke dalam templat, tambahkan teks pemasaran, dan ekspor gambar yang siap diunggah.",
+    "featuresTitle": "Fitur Utama",
+    "features": [
+      "Buat tangkapan layar App Store yang bergaya menggunakan templat yang dapat disesuaikan",
+      "Impor gambar dari aplikasi Files atau perpustakaan foto Anda",
+      "Dukungan untuk tangkapan layar iPhone, iPad, Apple Watch, dan Apple TV",
+      "Tambahkan teks pemasaran secara bebas dan sesuaikan tata letak secara visual"
+    ],
+    "aiTitle": "Lokalisasi Bertenaga AI",
+    "aiBody": "Dengan integrasi Ollama, hasilkan teks pemasaran yang diterjemahkan per kode negara untuk pengajuan global yang cepat.",
+    "aiLink": "Buka tutorial penyiapan Ollama →",
+    "privacyTitle": "Privasi Utama",
+    "privacyBody": "Pengeditan dan pembuatan gambar terjadi secara lokal. Tidak ada pelacakan. Tidak ada analitik. Tidak ada iklan.",
+    "learnTitle": "Pelajari Lebih Lanjut",
+    "learnBody": "Baca Kebijakan Privasi kami untuk memahami bagaimana kami melindungi data Anda.",
+    "learnLink": "Kebijakan Privasi →",
+    "footerNote": "Tip: tambahkan <code>?lang=ko</code> (atau kode yang didukung lainnya) ke URL untuk melihat pratinjau lokal.",
+    "supportedPill": "Mendukung iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Pembuat Tangkapan Layar (Aplikasi)"
+  },
+  "ollama": {
+    "title": "Tutorial Penyiapan Ollama",
+    "subtitle": "Hubungkan Pembuat Tangkapan Layar (Aplikasi) ke instance Ollama Anda sendiri untuk terjemahan dan pembuatan teks AI.",
+    "requirementsTitle": "Yang Anda Butuhkan",
+    "requirements": [
+      "Komputer Mac, Windows, atau Linux untuk menjalankan Ollama",
+      "Ollama terinstal dan berjalan",
+      "iPhone/iPad Anda di jaringan yang sama dengan mesin Ollama (disarankan)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Instal Ollama</strong>: unduh dan instal Ollama untuk OS Anda.",
+      "<strong>Mulai Ollama</strong>: jalankan <code>ollama serve</code> (atau buka aplikasi Ollama di macOS).",
+      "<strong>Tarik model</strong>: jalankan <code>ollama pull llama3.2</code> (atau model pilihan Anda).",
+      "<strong>Konfirmasi berfungsi</strong>: jalankan <code>ollama run llama3.2</code> dan uji perintah.",
+      "<strong>Temukan alamat server Anda</strong>: catat IP LAN komputer Anda (misalnya <code>192.168.0.10</code>).",
+      "<strong>Gunakan di aplikasi</strong>: di pengaturan Pembuat Tangkapan Layar (Screenshot (App) Maker), atur Host ke <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Catatan & pemecahan masalah",
+    "notes": [
+      "Jika aplikasi tidak dapat terhubung, periksa apakah ponsel dan komputer Anda berada di jaringan Wi‑Fi yang sama.",
+      "Pastikan port <code>11434</code> diizinkan oleh firewall Anda.",
+      "Jika Anda lebih suka menggunakan server jarak jauh (PC rumahan, VPS), Anda harus mengekspos port dengan aman (VPN direkomendasikan)."
+    ],
+    "backHome": "← Kembali ke Beranda",
+    "metaTitle": "Tutorial Penyiapan Ollama — Pembuat Tangkapan Layar (Screenshot (App) Maker)"
+  },
+  "privacy": {
+    "metaTitle": "Kebijakan Privasi — Pembuat Tangkapan Layar (Screenshot (App) Maker)",
+    "title": "Kebijakan Privasi",
+    "intro": "Kebijakan Privasi ini menjelaskan bagaimana Pembuat Tangkapan Layar (Screenshot (App) Maker) (\"Aplikasi\") menangani data pengguna.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Tidak ada akun. Tidak ada analitik. Tidak ada pelacakan.",
+      "File dan pengeditan Anda tetap ada di perangkat Anda kecuali Anda memilih untuk terhubung ke server Ollama Anda sendiri.",
+      "Jika Anda menggunakan Ollama, teks hanya dikirim ke alamat server yang Anda konfigurasi."
+    ],
+    "sections": [
+      {
+        "title": "Pengumpulan Informasi",
+        "body": [
+          "Aplikasi tidak mengumpulkan, menyimpan, atau mengirimkan informasi pribadi ke server kami.",
+          "Tangkapan layar, templat, dan gambar yang diekspor dibuat dan disimpan secara lokal di perangkat Anda."
+        ]
+      },
+      {
+        "title": "Akses File dan Foto",
+        "body": [
+          "Aplikasi mungkin meminta akses ke aplikasi File atau pustaka foto Anda untuk mengimpor tangkapan layar.",
+          "Gambar yang diimpor diproses di perangkat dan tidak diunggah secara otomatis."
+        ]
+      },
+      {
+        "title": "Terjemahan AI (Ollama)",
+        "body": [
+          "Jika Anda mengaktifkan pembuatan atau terjemahan teks AI, Aplikasi dapat mengirim teks ke server Ollama yang Anda konfigurasi (misalnya, komputer Anda sendiri).",
+          "Kami tidak mengoperasikan atau menerima lalu lintas Ollama Anda, dan Aplikasi tidak mencatat atau menyimpan teks yang diproses oleh AI."
+        ]
+      },
+      {
+        "title": "Layanan Pihak Ketiga",
+        "body": [
+          "Aplikasi tidak menggunakan analitik pihak ketiga, SDK periklanan, atau teknologi pelacakan."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Perubahan akan tercermin di halaman ini."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami melalui alamat email yang diberikan di daftar App Store."
+        ]
+      }
+    ],
+    "backHome": "← Kembali ke Beranda"
+  }
+}

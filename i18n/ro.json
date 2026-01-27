@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Creator de capturi de ecran (App)",
+    "description": "Creează capturi de ecran pentru App Store elegante și moderne, cu ușurință, folosind șabloane flexibile.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial configurare Ollama",
+    "privacy": "Politica de confidențialitate"
+  },
+  "langPicker": {
+    "title": "Alege o limbă",
+    "close": "Close",
+    "hint": "Lipsesc traduceri? Creează <code>./i18n/&lt;code&gt;.json</code> (aceleași chei ca <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Creator de capturi de ecran (App)",
+    "brandSubtitle": "Capturi de ecran pentru App Store, simplificate.",
+    "heroTitle": "Creează capturi de ecran pentru App Store în câteva minute",
+    "heroBody": "Alege 3–5 capturi de ecran, adaugă-le în șabloane, adaugă text de marketing și exportă imagini gata de încărcat.",
+    "featuresTitle": "Caracteristici cheie",
+    "features": [
+      "Creează capturi de ecran elegante pentru App Store folosind șabloane personalizabile",
+      "Importă imagini din aplicația Fișiere sau din biblioteca ta foto",
+      "Suport pentru capturi de ecran iPhone, iPad, Apple Watch și Apple TV",
+      "Adaugă text de marketing liber și ajustează aspectul vizual"
+    ],
+    "aiTitle": "Localizare bazată pe AI",
+    "aiBody": "Cu integrare Ollama, generează text de marketing tradus pentru fiecare cod de țară pentru lansări globale rapide.",
+    "aiLink": "Deschide tutorialul de configurare Ollama →",
+    "privacyTitle": "Confidențialitate pe primul loc",
+    "privacyBody": "Editarea și generarea imaginilor se realizează local. Fără urmărire. Fără analize. Fără reclame.",
+    "learnTitle": "Află mai multe",
+    "learnBody": "Citește Politica noastră de confidențialitate pentru a înțelege cum protejăm datele tale.",
+    "learnLink": "Politica de confidențialitate →",
+    "footerNote": "Sfaturi: adaugă <code>?lang=ko</code> (sau orice cod acceptat) la URL pentru a previzualiza o localizare.",
+    "supportedPill": "Suportă iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Creator de capturi de ecran (App)"
+  },
+  "ollama": {
+    "title": "Tutorial configurare Ollama",
+    "subtitle": "Conectează Creator de capturi de ecran (App) la instanța ta Ollama pentru traducere AI și generare de text.",
+    "requirementsTitle": "Ce ai nevoie",
+    "requirements": [
+      "Un Mac, un PC Windows sau o mașină Linux pentru a rula Ollama",
+      "Ollama instalat și în funcțiune",
+      "iPhone-ul/iPad-ul tău pe aceeași rețea ca și mașina Ollama (recomandat)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Instalează Ollama</strong>: descarcă și instalează Ollama pentru sistemul tău de operare.",
+      "<strong>Pornește Ollama</strong>: rulează <code>ollama serve</code> (sau deschide aplicația Ollama pe macOS).",
+      "<strong>Descarcă un model</strong>: rulează <code>ollama pull llama3.2</code> (sau modelul tău preferat).",
+      "<strong>Confirmă că funcționează</strong>: rulează <code>ollama run llama3.2</code> și testează o solicitare.",
+      "<strong>Găsește adresa serverului tău</strong>: notează adresa IP LAN a computerului tău (de exemplu <code>192.168.0.10</code>).",
+      "<strong>Utilizează-l în aplicație</strong>: în setările Screenshot (App) Maker, setează Host la <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Note și depanare",
+    "notes": [
+      "Dacă aplicația nu se poate conecta, verifică dacă telefonul și computerul tău sunt în aceeași rețea Wi‑Fi.",
+      "Asigură-te că portul <code>11434</code> este permis de firewall-ul tău.",
+      "Dacă preferi să utilizezi un server la distanță (PC acasă, VPS), trebuie să expui portul în mod securizat (VPN recomandat)."
+    ],
+    "backHome": "← Înapoi la Home",
+    "metaTitle": "Tutorial de configurare Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Politica de confidențialitate — Screenshot (App) Maker",
+    "title": "Politica de confidențialitate",
+    "intro": "Această Politică de confidențialitate descrie modul în care Screenshot (App) Maker („Aplicația”) gestionează datele utilizatorilor.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Fără conturi. Fără analize. Fără urmărire.",
+      "Fișierele și editările tale rămân pe dispozitivul tău, cu excepția cazului în care alegi să te conectezi la propriul server Ollama.",
+      "Dacă utilizezi Ollama, textul este trimis doar către adresa serverului pe care o configurezi."
+    ],
+    "sections": [
+      {
+        "title": "Colectarea informațiilor",
+        "body": [
+          "Aplicația nu colectează, stochează sau transmite informații personale către serverele noastre.",
+          "Capturile de ecran, șabloanele și imaginile exportate sunt create și salvate local pe dispozitivul tău."
+        ]
+      },
+      {
+        "title": "Acces la fișiere și fotografii",
+        "body": [
+          "Aplicația poate solicita acces la aplicația Files sau la biblioteca de fotografii pentru a importa capturi de ecran.",
+          "Imaginile importate sunt procesate pe dispozitiv și nu sunt încărcate automat."
+        ]
+      },
+      {
+        "title": "Traducere AI (Ollama)",
+        "body": [
+          "Dacă activezi generarea sau traducerea textului AI, aplicația poate trimite text către un server Ollama pe care îl configurezi (de exemplu, propriul tău computer).",
+          "Nu operăm și nu primim traficul tău Ollama, iar aplicația nu înregistrează sau stochează textul procesat de AI."
+        ]
+      },
+      {
+        "title": "Servicii terțe",
+        "body": [
+          "Aplicația nu utilizează analize de la terți, SDK-uri de publicitate sau tehnologii de urmărire."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Putem actualiza această Politică de confidențialitate din când în când. Modificările vor fi reflectate pe această pagină."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Dacă aveți întrebări despre această Politică de confidențialitate, vă rugăm să ne contactați prin adresa de e-mail furnizată pe lista App Store."
+        ]
+      }
+    ],
+    "backHome": "← Înapoi la Home"
+  }
+}

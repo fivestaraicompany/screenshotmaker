@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Screenshot (App)-Ersteller",
+    "description": "Erstellen Sie mühelos saubere, moderne App Store-Screenshots mit flexiblen Vorlagen.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama-Einrichtungstutorial",
+    "privacy": "Datenschutzrichtlinie"
+  },
+  "langPicker": {
+    "title": "Sprache auswählen",
+    "close": "Close",
+    "hint": "Fehlen Übersetzungen? Erstellen Sie <code>./i18n/&lt;code&gt;.json</code> (gleiche Schlüssel wie <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Screenshot (App)-Ersteller",
+    "brandSubtitle": "App Store-Screenshots, einfach gemacht.",
+    "heroTitle": "Erstellen Sie App Store-Screenshots in wenigen Minuten",
+    "heroBody": "Wählen Sie 3–5 Screenshots aus, fügen Sie sie in Vorlagen ein, fügen Sie Marketingtext hinzu und exportieren Sie bereit zum Hochladen Bilder.",
+    "featuresTitle": "Hauptmerkmale",
+    "features": [
+      "Erstellen Sie stilvolle App Store-Screenshots mit anpassbaren Vorlagen",
+      "Importieren Sie Bilder aus der Dateien-App oder Ihrer Fotos-Bibliothek",
+      "Unterstützung für iPhone-, iPad-, Apple Watch- und Apple TV-Screenshots",
+      "Fügen Sie Marketingtext frei hinzu und passen Sie das Layout visuell an"
+    ],
+    "aiTitle": "KI-gestützte Lokalisierung",
+    "aiBody": "Mit Ollama-Integration können Sie übersetzten Marketingtext pro Ländercode für schnelle globale Einreichungen generieren.",
+    "aiLink": "Öffnen Sie das Ollama-Einrichtungstutorial →",
+    "privacyTitle": "Datenschutz geht vor",
+    "privacyBody": "Bearbeitung und Bildgenerierung erfolgen lokal. Keine Nachverfolgung. Keine Analyse. Keine Werbung.",
+    "learnTitle": "Mehr erfahren",
+    "learnBody": "Lesen Sie unsere Datenschutzrichtlinie, um zu verstehen, wie wir Ihre Daten schützen.",
+    "learnLink": "Datenschutzrichtlinie →",
+    "footerNote": "Tipp: Hängen Sie <code>?lang=ko</code> (oder einen beliebigen unterstützten Code) an die URL an, um ein Gebietsschema in Vorschau anzuzeigen.",
+    "supportedPill": "Unterstützt iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Screenshot (App)-Ersteller"
+  },
+  "ollama": {
+    "title": "Ollama-Einrichtungstutorial",
+    "subtitle": "Verbinden Sie Screenshot (App)-Ersteller mit Ihrer eigenen Ollama-Instanz für KI-Übersetzung und Textgenerierung.",
+    "requirementsTitle": "Was Sie benötigen",
+    "requirements": [
+      "Ein Mac-, Windows-PC- oder Linux-Gerät zum Ausführen von Ollama",
+      "Ollama installiert und ausgeführt",
+      "Ihr iPhone/iPad im selben Netzwerk wie die Ollama-Maschine (empfohlen)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Ollama installieren</strong>: Laden Sie Ollama für Ihr Betriebssystem herunter und installieren Sie es.",
+      "<strong>Ollama starten</strong>: Führen Sie <code>ollama serve</code> aus (oder öffnen Sie die Ollama-App auf macOS).",
+      "<strong>Modell herunterladen</strong>: Führen Sie <code>ollama pull llama3.2</code> aus (oder Ihr bevorzugtes Modell).",
+      "<strong>Funktionsfähigkeit bestätigen</strong>: Führen Sie <code>ollama run llama3.2</code> aus und testen Sie eine Eingabeaufforderung.",
+      "<strong>Serveradresse finden</strong>: Notieren Sie sich die LAN-IP Ihres Computers (z. B. <code>192.168.0.10</code>).",
+      "<strong>In der App verwenden</strong>: Setzen Sie in den Einstellungen von Screenshot (App) Maker Host auf <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Hinweise und Fehlerbehebung",
+    "notes": [
+      "Wenn die App keine Verbindung herstellen kann, prüfen Sie, ob Ihr Telefon und Ihr Computer sich im selben Wi-Fi-Netzwerk befinden.",
+      "Stellen Sie sicher, dass Port <code>11434</code> von Ihrer Firewall erlaubt ist.",
+      "Wenn Sie einen Remote-Server (Home-PC, VPS) verwenden möchten, müssen Sie den Port sicher freigeben (VPN empfohlen)."
+    ],
+    "backHome": "← Zurück zur Startseite",
+    "metaTitle": "Ollama-Einrichtungsanleitung – Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Datenschutzrichtlinie – Screenshot (App) Maker",
+    "title": "Datenschutzrichtlinie",
+    "intro": "Diese Datenschutzrichtlinie beschreibt, wie Screenshot (App) Maker („die App“) Benutzerdaten verarbeitet.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Keine Konten. Keine Analyse. Kein Tracking.",
+      "Ihre Dateien und Bearbeitungen bleiben auf Ihrem Gerät, es sei denn, Sie wählen die Verbindung zu Ihrem eigenen Ollama-Server.",
+      "Wenn Sie Ollama verwenden, werden Texte nur an die von Ihnen konfigurierte Serveradresse gesendet."
+    ],
+    "sections": [
+      {
+        "title": "Informationserfassung",
+        "body": [
+          "Die App erfasst, speichert oder überträgt keine persönlichen Informationen an unsere Server.",
+          "Screenshots, Vorlagen und exportierte Bilder werden lokal auf Ihrem Gerät erstellt und gespeichert."
+        ]
+      },
+      {
+        "title": "Dateien- und Fotoszugriff",
+        "body": [
+          "Die App kann möglicherweise Zugriff auf die Dateien-App oder Ihre Fotobibliothek anfordern, um Screenshots zu importieren.",
+          "Importierte Bilder werden auf dem Gerät verarbeitet und nicht automatisch hochgeladen."
+        ]
+      },
+      {
+        "title": "KI-Übersetzung (Ollama)",
+        "body": [
+          "Wenn Sie die KI-Texterzeugung oder -Übersetzung aktivieren, kann die App Text an einen Ollama-Server senden, den Sie konfigurieren (z. B. Ihren eigenen Computer).",
+          "Wir betreiben oder empfangen Ihren Ollama-Datenverkehr nicht, und die App protokolliert oder speichert den von der KI verarbeiteten Text nicht."
+        ]
+      },
+      {
+        "title": "Dienste von Drittanbietern",
+        "body": [
+          "Die App verwendet keine Analyse-Tools von Drittanbietern, Werbe-SDKs oder Tracking-Technologien."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite angezeigt."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte über die E-Mail-Adresse, die auf der App Store-Seite angegeben ist."
+        ]
+      }
+    ],
+    "backHome": "← Zurück zur Startseite"
+  }
+}

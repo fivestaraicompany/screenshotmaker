@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Créateur de captures d’écran (App)",
+    "description": "Créez facilement des captures d’écran App Store épurées et modernes grâce à des modèles flexibles.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutoriel de configuration Ollama",
+    "privacy": "Politique de confidentialité"
+  },
+  "langPicker": {
+    "title": "Choisissez une langue",
+    "close": "Close",
+    "hint": "Des traductions manquantes ? Créez <code>./i18n/&lt;code&gt;.json</code> (mêmes clés que <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Créateur de captures d’écran (App)",
+    "brandSubtitle": "Captures d’écran App Store, simplifiées.",
+    "heroTitle": "Créez des captures d’écran App Store en quelques minutes",
+    "heroBody": "Choisissez 3 à 5 captures d’écran, insérez-les dans des modèles, ajoutez du texte marketing et exportez des images prêtes à être téléchargées.",
+    "featuresTitle": "Fonctionnalités clés",
+    "features": [
+      "Créez des captures d’écran App Store élégantes à l’aide de modèles personnalisables",
+      "Importez des images depuis l’application Fichiers ou votre photothèque",
+      "Prise en charge des captures d’écran pour iPhone, iPad, Apple Watch et Apple TV",
+      "Ajoutez du texte marketing librement et ajustez la mise en page visuellement"
+    ],
+    "aiTitle": "Localisation alimentée par l’IA",
+    "aiBody": "Grâce à l’intégration Ollama, générez du texte marketing traduit par code pays pour des soumissions mondiales rapides.",
+    "aiLink": "Ouvrez le tutoriel de configuration Ollama →",
+    "privacyTitle": "La confidentialité d’abord",
+    "privacyBody": "L’édition et la génération d’images se font en local. Aucun suivi. Aucune analyse. Pas de publicités.",
+    "learnTitle": "En savoir plus",
+    "learnBody": "Lisez notre Politique de confidentialité pour comprendre comment nous protégeons vos données.",
+    "learnLink": "Politique de confidentialité →",
+    "footerNote": "Astuce : ajoutez <code>?lang=ko</code> (ou tout autre code pris en charge) à l’URL pour prévisualiser une localisation.",
+    "supportedPill": "Prise en charge de l’iPhone · de l’iPad · de la Watch · de la TV",
+    "copyright": "© 2026 Créateur de captures d’écran (App)"
+  },
+  "ollama": {
+    "title": "Tutoriel de configuration Ollama",
+    "subtitle": "Connectez Créateur de captures d’écran (App) à votre propre instance Ollama pour la traduction par IA et la génération de texte.",
+    "requirementsTitle": "Ce dont vous avez besoin",
+    "requirements": [
+      "Un Mac, un PC Windows ou une machine Linux pour exécuter Ollama",
+      "Ollama installé et en cours d’exécution",
+      "Votre iPhone/iPad sur le même réseau que la machine Ollama (recommandé)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Installer Ollama</strong>: téléchargez et installez Ollama pour votre système d’exploitation.",
+      "<strong>Démarrez Ollama</strong>: exécutez <code>ollama serve</code> (ou ouvrez l’application Ollama sur macOS).",
+      "<strong>Téléchargez un modèle</strong>: exécutez <code>ollama pull llama3.2</code> (ou le modèle de votre choix).",
+      "<strong>Confirmez que ça fonctionne</strong>: exécutez <code>ollama run llama3.2</code> et testez une invite.",
+      "<strong>Trouvez l’adresse de votre serveur</strong>: notez l’adresse IP LAN de votre ordinateur (p. ex., <code>192.168.0.10</code>).",
+      "<strong>Utilisez-le dans l’application</strong>: dans les paramètres de Screenshot (App) Maker, définissez Host sur <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notes et dépannage",
+    "notes": [
+      "Si l’application ne peut pas se connecter, vérifiez que votre téléphone et votre ordinateur sont sur le même réseau Wi‑Fi.",
+      "Assurez-vous que le port <code>11434</code> est autorisé par votre pare-feu.",
+      "Si vous préférez utiliser un serveur distant (PC domestique, VPS), vous devez exposer le port de manière sécurisée (VPN recommandé)."
+    ],
+    "backHome": "← Retour à l’écran d’accueil",
+    "metaTitle": "Tutoriel d’installation d’Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Politique de confidentialité — Screenshot (App) Maker",
+    "title": "Politique de confidentialité",
+    "intro": "Cette Politique de confidentialité décrit la façon dont Screenshot (App) Maker (« l’Application ») traite les données des utilisateurs.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Aucun compte. Aucune analyse. Aucun suivi.",
+      "Vos fichiers et modifications restent sur votre appareil, à moins que vous ne choisissiez de vous connecter à votre propre serveur Ollama.",
+      "Si vous utilisez Ollama, le texte est envoyé uniquement à l’adresse du serveur que vous configurez."
+    ],
+    "sections": [
+      {
+        "title": "Collecte d’informations",
+        "body": [
+          "L’Application ne collecte, ne stocke ni ne transmet d’informations personnelles à nos serveurs.",
+          "Les captures d’écran, les modèles et les images exportées sont créés et enregistrés localement sur votre appareil."
+        ]
+      },
+      {
+        "title": "Accès aux fichiers et aux photos",
+        "body": [
+          "L’Application peut demander l’accès à l’application Fichiers ou à votre photothèque pour importer des captures d’écran.",
+          "Les images importées sont traitées sur l’appareil et ne sont pas téléchargées automatiquement."
+        ]
+      },
+      {
+        "title": "Traduction par IA (Ollama)",
+        "body": [
+          "Si vous activez la génération ou la traduction de texte par IA, l’Application peut envoyer du texte à un serveur Ollama que vous configurez (par exemple, votre propre ordinateur).",
+          "Nous n’exploitons pas ni ne recevons votre trafic Ollama, et l’Application ne consigne ni ne stocke le texte traité par l’IA."
+        ]
+      },
+      {
+        "title": "Services tiers",
+        "body": [
+          "L’Application n’utilise pas d’analyses tierces, de SDK publicitaires ou de technologies de suivi."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Nous pouvons mettre à jour cette Politique de confidentialité de temps à autre. Les modifications seront reflétées sur cette page."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Si vous avez des questions concernant cette Politique de confidentialité, veuillez nous contacter via l’adresse e-mail fournie sur la fiche d’Application Store."
+        ]
+      }
+    ],
+    "backHome": "← Retour à l’écran d’accueil"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Izrada snimki zaslona (App)",
+    "description": "Jednostavno stvarajte čiste, moderne snimke zaslona za App Store pomoću fleksibilnih predložaka.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Tutorial za postavljanje Ollame",
+    "privacy": "Politika privatnosti"
+  },
+  "langPicker": {
+    "title": "Odaberite jezik",
+    "close": "Close",
+    "hint": "Nedostaju prijevodi? Izradite <code>./i18n/&lt;code&gt;.json</code> (isti ključevi kao <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Izrada snimki zaslona (App)",
+    "brandSubtitle": "Snimke zaslona za App Store, lako.",
+    "heroTitle": "Napravite snimke zaslona za App Store u nekoliko minuta",
+    "heroBody": "Odaberite 3–5 snimki zaslona, dodajte ih u predloške, dodajte marketinški tekst i izvezite spremne slike za učitavanje.",
+    "featuresTitle": "Ključne značajke",
+    "features": [
+      "Stvarajte stilizirane snimke zaslona za App Store pomoću prilagodljivih predložaka",
+      "Uvozite slike iz aplikacije Datoteke ili iz svoje foto biblioteke",
+      "Podrška za snimke zaslona za iPhone, iPad, Apple Watch i Apple TV",
+      "Slobodno dodajte marketinški tekst i vizualno prilagodite izgled"
+    ],
+    "aiTitle": "AI pokretana lokalizacija",
+    "aiBody": "Uz integraciju s Ollamom, generirajte prevedeni marketinški tekst po državnoj šifri za brze globalne objave.",
+    "aiLink": "Otvorite tutorial za postavljanje Ollame →",
+    "privacyTitle": "Privatnost na prvom mjestu",
+    "privacyBody": "Uređivanje i generiranje slika odvija se lokalno. Nema praćenja. Nema analitike. Nema oglasa.",
+    "learnTitle": "Saznajte više",
+    "learnBody": "Pročitajte našu Politiku privatnosti da biste razumjeli kako štitimo vaše podatke.",
+    "learnLink": "Politika privatnosti →",
+    "footerNote": "Savjet: dodajte <code>?lang=ko</code> (ili bilo koji podržani kod) u URL za pregled lokalizacije.",
+    "supportedPill": "Podržava iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Izrada snimki zaslona (App)"
+  },
+  "ollama": {
+    "title": "Tutorial za postavljanje Ollame",
+    "subtitle": "Povežite Izradu snimki zaslona (App) s vlastitom Ollama instancom za AI prijevod i generiranje teksta.",
+    "requirementsTitle": "Što vam je potrebno",
+    "requirements": [
+      "Mac, Windows PC ili Linux stroj za pokretanje Ollame",
+      "Ollama je instalirana i pokrenuta",
+      "Vaš iPhone/iPad na istoj mreži kao i Ollama stroj (preporučeno)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Instalirajte Ollama</strong>: preuzmite i instalirajte Ollama za svoj OS.",
+      "<strong>Pokrenite Ollama</strong>: pokrenite <code>ollama serve</code> (ili otvorite Ollama aplikaciju na macOS-u).",
+      "<strong>Povucite model</strong>: pokrenite <code>ollama pull llama3.2</code> (ili svoj preferirani model).",
+      "<strong>Potvrdite da radi</strong>: pokrenite <code>ollama run llama3.2</code> i testirajte upit.",
+      "<strong>Pronađite adresu svog poslužitelja</strong>: zabilježite LAN IP adresu svog računala (npr. <code>192.168.0.10</code>).",
+      "<strong>Koristite ga u aplikaciji</strong>: u postavkama Screenshot (App) Makera, postavite Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Napomene i rješavanje problema",
+    "notes": [
+      "Ako se aplikacija ne može povezati, provjerite jesu li vaš telefon i računalo na istoj Wi-Fi mreži.",
+      "Provjerite je li vaša vatrozida dopušta port <code>11434</code>.",
+      "Ako želite koristiti udaljeni poslužitelj (kućno računalo, VPS), morate sigurno otkriti port (preporučuje se VPN)."
+    ],
+    "backHome": "← Natrag na početnu",
+    "metaTitle": "Ollama Upute za postavljanje — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Politika privatnosti — Screenshot (App) Maker",
+    "title": "Politika privatnosti",
+    "intro": "Ova Politika privatnosti opisuje kako Screenshot (App) Maker (\"Aplikacija\") obrađuje podatke korisnika.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Nema računa. Nema analitike. Nema praćenja.",
+      "Vaše datoteke i izmjene ostaju na vašem uređaju osim ako ne odaberete povezivanje sa svojim Ollama poslužiteljem.",
+      "Ako koristite Ollama, tekst se šalje samo na adresu poslužitelja koju konfigurirate."
+    ],
+    "sections": [
+      {
+        "title": "Prikupljanje informacija",
+        "body": [
+          "Aplikacija ne prikuplja, pohranjuje ili prenosi osobne podatke na naše poslužitelje.",
+          "Snimke zaslona, predloške i izvezene slike kreiraju se i spremaju lokalno na vašem uređaju."
+        ]
+      },
+      {
+        "title": "Pristup datotekama i fotografijama",
+        "body": [
+          "Aplikacija može zatražiti pristup aplikaciji Datoteke ili vašoj foto knjižnici za uvoz snimki zaslona.",
+          "Uvezene slike obrađuju se na uređaju i ne prenose se automatski."
+        ]
+      },
+      {
+        "title": "AI prijevodi (Ollama)",
+        "body": [
+          "Ako omogućite AI generiranje teksta ili prevođenje, Aplikacija može slati tekst na Ollama poslužitelj koji konfigurirate (na primjer, svoje računalo).",
+          "Ne upravljamo ili primamo vaš Ollama promet, a Aplikacija ne bilježi niti pohranjuje tekst obrađen AI."
+        ]
+      },
+      {
+        "title": "Usluge trećih strana",
+        "body": [
+          "Aplikacija ne koristi analitiku trećih strana, SDK-ove za oglašavanje ili tehnologije praćenja."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Možemo ažurirati ovu Politiku privatnosti s vremena na vrijeme. Izmjene će se odraziti na ovoj stranici."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Ako imate pitanja u vezi ove Politike privatnosti, kontaktirajte nas putem adrese e-pošte navedene na stranici s popisom Aplikacije u trgovini aplikacija."
+        ]
+      }
+    ],
+    "backHome": "← Natrag na početnu"
+  }
+}

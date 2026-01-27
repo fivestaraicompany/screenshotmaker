@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Skjermbilde (App) Maker",
+    "description": "Lag rene, moderne App Store-skjermbilder uten anstrengelse ved hjelp av fleksible maler.",
+    "languageName": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "ollamaSetup": "Ollama Oppsettveiledning",
+    "privacy": "Personvernpolicy"
+  },
+  "langPicker": {
+    "title": "Velg et språk",
+    "close": "Close",
+    "hint": "Manglende oversettelser? Opprett <code>./i18n/&lt;code&gt;.json</code> (samme nøkler som <code>en.json</code>)."
+  },
+  "home": {
+    "brandTitle": "Skjermbilde (App) Maker",
+    "brandSubtitle": "App Store-skjermbilder, gjort enkelt.",
+    "heroTitle": "Lag App Store-skjermbilder på minutter",
+    "heroBody": "Velg 3–5 skjermbilder, legg dem inn i maler, legg til markedsføringstekst og eksporter bilder som er klare til å lastes opp.",
+    "featuresTitle": "Viktige funksjoner",
+    "features": [
+      "Lag stilige App Store-skjermbilder ved hjelp av tilpassbare maler",
+      "Importer bilder fra Filer-appen eller fotobiblioteket ditt",
+      "Støtte for iPhone, iPad, Apple Watch og Apple TV-skjermbilder",
+      "Legg til markedsføringstekst fritt og juster layout visuelt"
+    ],
+    "aiTitle": "AI-drevet lokalisering",
+    "aiBody": "Med Ollama-integrasjon kan du generere oversatt markedsføringstekst per landkode for raske globale innsendinger.",
+    "aiLink": "Åpne Ollama-oppsettveiledningen →",
+    "privacyTitle": "Personvern først",
+    "privacyBody": "Redigering og bildegenerering skjer lokalt. Ingen sporing. Ingen analyse. Ingen annonser.",
+    "learnTitle": "Lær mer",
+    "learnBody": "Les vår personvernpolicy for å forstå hvordan vi beskytter dataene dine.",
+    "learnLink": "Personvernpolicy →",
+    "footerNote": "Tips: legg til <code>?lang=ko</code> (eller annen støttet kode) til URL-en for å forhåndsvise en locale.",
+    "supportedPill": "Støtter iPhone · iPad · Watch · TV",
+    "copyright": "© 2026 Skjermbilde (App) Maker"
+  },
+  "ollama": {
+    "title": "Ollama Oppsettveiledning",
+    "subtitle": "Koble Skjermbilde (App) Maker til din egen Ollama-instans for AI-oversettelse og tekstgenerering.",
+    "requirementsTitle": "Hva du trenger",
+    "requirements": [
+      "En Mac, Windows PC eller Linux-maskin for å kjøre Ollama",
+      "Ollama installert og kjørende",
+      "Din iPhone/iPad på samme nettverk som Ollama-maskinen (anbefales)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Installer Ollama</strong>: last ned og installer Ollama for ditt operativsystem.",
+      "<strong>Start Ollama</strong>: kjør <code>ollama serve</code> (eller åpne Ollama-appen på macOS).",
+      "<strong>Hent en modell</strong>: kjør <code>ollama pull llama3.2</code> (eller din foretrukne modell).",
+      "<strong>Bekreft at det fungerer</strong>: kjør <code>ollama run llama3.2</code> og test en melding.",
+      "<strong>Finn serveradressen din</strong>: noter datamaskinens LAN-IP (f.eks. <code>192.168.0.10</code>).",
+      "<strong>Bruk den i appen</strong>: i Screenshot (App) Maker-innstillinger, sett Host til <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notater og feilsøking",
+    "notes": [
+      "Hvis appen ikke kan koble til, sjekk at telefonen og datamaskinen er på samme Wi‑Fi-nettverk.",
+      "Sørg for at port <code>11434</code> er tillatt av brannmuren din.",
+      "Hvis du foretrekker å bruke en ekstern server (hjemme-PC, VPS), må du eksponere porten sikkert (VPN anbefales)."
+    ],
+    "backHome": "← Tilbake til Hjem",
+    "metaTitle": "Ollama Oppsettveiledning — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "metaTitle": "Personvernerklæring — Screenshot (App) Maker",
+    "title": "Personvernerklæring",
+    "intro": "Denne personvernerklæringen beskriver hvordan Screenshot (App) Maker («appen») behandler brukerdata.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "Ingen kontoer. Ingen analyse. Ingen sporing.",
+      "Dine filer og redigeringer forblir på enheten din med mindre du velger å koble til din egen Ollama-server.",
+      "Hvis du bruker Ollama, sendes tekst bare til serveradressen du konfigurerer."
+    ],
+    "sections": [
+      {
+        "title": "Informasjonsinnsamling",
+        "body": [
+          "Appen samler ikke inn, lagrer eller overfører personlig informasjon til våre servere.",
+          "Skjermbilder, maler og eksporterte bilder opprettes og lagres lokalt på enheten din."
+        ]
+      },
+      {
+        "title": "Filer og Foto Tilgang",
+        "body": [
+          "Appen kan be om tilgang til Fil-appen eller fotobiblioteket ditt for å importere skjermbilder.",
+          "Importerte bilder behandles på enheten og lastes ikke opp automatisk."
+        ]
+      },
+      {
+        "title": "AI Oversettelse (Ollama)",
+        "body": [
+          "Hvis du aktiverer AI-tekstgenerering eller oversettelse, kan appen sende tekst til en Ollama-server du konfigurerer (for eksempel din egen datamaskin).",
+          "Vi driver ikke eller mottar din Ollama-trafikk, og appen logger eller lagrer ikke teksten som behandles av AI."
+        ]
+      },
+      {
+        "title": "Tjenester fra tredjeparter",
+        "body": [
+          "Appen bruker ikke tredjepartsanalyse, reklame-SDK-er eller sporings teknologi."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "Vi kan oppdatere denne personvernerklæringen fra tid til annen. Endringer vil gjenspeiles på denne siden."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Hvis du har spørsmål om denne personvernerklæringen, vennligst kontakt oss via e-postadressen som er oppgitt i App Store-oppføringen."
+        ]
+      }
+    ],
+    "backHome": "← Tilbake til Hjem"
+  }
+}
