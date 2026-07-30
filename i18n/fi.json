@@ -2,7 +2,11 @@
   "meta": {
     "title": "Näyttökuvan (Sovellus) Tekijä",
     "description": "Luo puhtaita, moderneja App Store -näyttökuvia helposti joustavien mallien avulla.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Helppokäyttöinen sovellus App Store -kuvien luomiseen",
+    "homeDescription": "Luo laadukkaita, julkaisukelpoisia App Store -kuvia ja käytä Ollamaa paikallisten versioiden luomiseen helposti.",
+    "ollamaDescription": "Yhdistä Screenshot (App) Maker -sovellus Ollama-palvelimeesi saadaksesi yksityisen, tekoälypohjaisen kuvanpaikallistusominaisuuden.",
+    "privacyDescription": "Opi, miten Screenshot (App) Maker pitää kuvasi, muokkauksesi ja paikallisen version luontiprosessisi yksityisinä."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Tee App Store -näyttökuvia minuuteissa",
     "heroBody": "Valitse 3–5 näyttökuvaa, pudota ne malleihin, lisää markkinointitekstiä ja vie valmiita kuvia ladattavaksi.",
     "featuresTitle": "Tärkeimmät ominaisuudet",
-    "features": [
-      "Luo tyylikkäitä App Store -näyttökuvia muokattavilla malleilla",
-      "Tuo kuvia Tiedostot-sovelluksesta tai valokuvakirjastostasi",
-      "Tukee iPhone-, iPad-, Apple Watch- ja Apple TV -näyttökuvia",
-      "Lisää markkinointitekstiä vapaasti ja säädä asettelua visuaalisesti"
-    ],
+    "features": {
+      "overline": "Kaikki yhdessä paikassa",
+      "titleHtml": "Säästä aikaa valmistelussa.<br />Julkaise sovelluksesi varmemmin.",
+      "description": "Screenshot (App) Maker tekee toistuvasta työstä, joka liittyy sovelluksen julkaisun loppuvaiheeseen, selkeän ja visuaalisen työnkulun.",
+      "cards": [
+        {
+          "title": "Lisää sovelluksesi kuvakaappaukset.",
+          "body": "Tuo kuvakaappauksia, sijoita ne valmiisiin laiteasetteluihin ja luo App Store -esittely hetkessä.",
+          "drop": "Vedä kuvakaappaukset tänne",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Suunnittele kerran.",
+          "body": "Käytä värejä, asetteluja, laiteasetuksia, fontteja ja varjoja kaikilla sivuilla säilyttäen samalla jokaisen sivun ainutlaatuisuuden."
+        },
+        {
+          "title": "Sovellu jokaiseen näyttöön.",
+          "body": "Valmistele materiaaleja iPhone-, iPad-, Apple Watch- ja Apple TV -laitteille sekä mainoskuville samasta projektista."
+        },
+        {
+          "title": "Vie valmis julkaisupaketti.",
+          "body": "Luo korkearesoluutioisia kuvia, järjestä paikallistettuja tiedostoja ja pakkaa käännetyt App Store -tiedot yhteen siistiin arkistoon.",
+          "folder": "App Store -materiaali"
+        }
+      ]
+    },
     "aiTitle": "AI-pohjainen lokalisointi",
     "aiBody": "Ollama-integraation avulla voit luoda käännettyä markkinointitekstiä maakohtaisesti nopeita maailmanlaajuisia lähetyksiä varten.",
     "aiLink": "Avaa Ollama-asennusopas →",
@@ -36,7 +60,122 @@
     "learnLink": "Tietosuojakäytäntö →",
     "footerNote": "Vinkki: lisää <code>?lang=ko</code> (tai mikä tahansa tuettu koodi) URL-osoitteeseen, jotta voit esikatsella paikallista versiota.",
     "supportedPill": "Tukee iPhonea · iPadia · Watchia · TV:tä",
-    "copyright": "© 2026 Näyttökuvan (Sovellus) Tekijä"
+    "copyright": "© 2026 Näyttökuvan (Sovellus) Tekijä",
+    "hero": {
+      "eyebrow": "Suunniteltu viimeistä vaihetta varten ennen julkaisua",
+      "titleHtml": "Muunna sovelluksesi näytöt <span>julkaisukelpoisiksi kuviksi.</span >",
+      "description": "Suunnittele kaikki kuvat, joita sovelluksesi julkaisu vaatii, ja yhdistä sitten Ollama paikallisten versioiden luomiseen – ilman että sinun tarvitsee luoda niitä jokaista erikseen.",
+      "primaryAction": "Katso miten se toimii",
+      "secondaryAction": "Tutustu paikallistamiseen",
+      "readyFor": "Valmis käytettäväksi",
+      "supportAriaLabel": "Tuetut vientimuodot",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Apple Watch",
+        "Apple TV",
+        "Mainoskuva"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker -tuoteesittely",
+      "project": "Kesän julkaisu",
+      "saved": "Tallennettu",
+      "appStorePreview": "App Store -esikatselu",
+      "display": "6,7 tuuman näyttö",
+      "shots": [
+        {
+          "line1": "Suunnittele vähemmän.",
+          "line2": "Tee enemmän."
+        },
+        {
+          "line1": "Kaikki",
+          "line2": "yhdessä paikassa."
+        },
+        {
+          "line1": "Suunniteltu",
+          "line2": "päivääsi varten."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Paikallistetaan kuvia…",
+      "exportComplete": "VIENTI VALMIS",
+      "exportReady": "PNG-tiedostot ja metatiedot valmiina"
+    },
+    "proof": [
+      {
+        "title": "Yksi visuaalinen työtila",
+        "body": "Raakanäytöistä valmiiksi tuotteiksi"
+      },
+      {
+        "title": "Yksi suunnittelu, kaikki kielet",
+        "body": "Käännä kuvatekstejä Ollaman avulla"
+      },
+      {
+        "title": "Yksi järjestetty vienti",
+        "body": "Pakkaa kuvat ja metatiedot yhteen"
+      }
+    ],
+    "proofAriaLabel": "Tuoteedut",
+    "localization": {
+      "ariaLabel": "Ollama-paikallistusesittely",
+      "pill": "Toimii oman Ollama-palvelimesi avulla",
+      "title": "Kuvakampanjasi, valmiina puhuttelemaan jokaista markkinaa.",
+      "description": "Yhdistä Screenshot (App) Maker -sovellus Ollamaan ja käännä kuvatekstit ja App Store -metatiedot samassa työnkulussa. Alkuperäinen asettelu säilyy, kun taas teksti muuttuu jokaiselle kielelle.",
+      "checks": [
+        "Käännä kaikki kuvatekstit eränä",
+        "Paikallista kuvaukset, avainsanat ja julkaisutiedot",
+        "Tarkista käännökset ennen lopullista vientiä"
+      ],
+      "action": "Katso Ollama-asetusopas",
+      "source": "Lähdekieli · Suomi",
+      "localeCount": "4 kieltä",
+      "sourceLabel": "Lähdekieli",
+      "ready": "Valmis",
+      "samples": [
+        "Suunnittele vähemmän.<br /><strong>Tee enemmän.</strong >",
+        "Vähemmän suunnittelua.<br /><strong>Lisää edistystä.</strong >",
+        "Vähemmän asennusta.<br /><strong>Lisää luovuutta.</strong >",
+        "Vähemmän kitkaa.<br /><strong>Lisää vauhtia.</strong >"
+      ],
+      "complete": "Paikallistaminen valmis",
+      "completeBody": "Teksti ja metatiedot ovat valmiita tarkastettavaksi"
+    },
+    "workflow": {
+      "overline": "Lyhyempi polku julkaisuun",
+      "title": "Näytöt sisään, App Store -valmiit materiaalit ulos.",
+      "description": "Ei monimutkaista suunnittelua. Ei saman kampanjan uudelleenrakentamista jokaiselle kielelle.",
+      "steps": [
+        {
+          "number": "VAIHE 01",
+          "title": "Tuo",
+          "body": "Lisää näytöt, jotka parhaiten kertovat sovelluksesi tarinan."
+        },
+        {
+          "number": "VAIHE 02",
+          "title": "Suunnittele ja paikallista",
+          "body": "Luo ulkoasu kerran, ja käännä sitten teksti Ollaman avulla."
+        },
+        {
+          "number": "VAIHE 03",
+          "title": "Vie",
+          "body": "Lataa järjestetyt kuvat ja metatiedot, jotka ovat valmiita julkaistavaksi."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Yksityisyyttä oletuksena",
+      "title": "Sovelluksesi materiaali pysyy sinun hallinnassasi.",
+      "description": "Kuvien muokkaus tapahtuu laitteellasi. Kun valitset Ollaman, teksti lähetetään vain määrittämällesi palvelinosoitteelle.",
+      "action": "Lue tietosuojakäytäntö"
+    },
+    "final": {
+      "overline": "Kuviista julkaisuun",
+      "title": "Tee viimeisestä vaiheesta helppo.",
+      "description": "Suunnittele, paikallista ja vie kaikki kuvat, joita seuraava sovelluksen julkaisusi vaatii.",
+      "action": "Lataa App Storesta",
+      "appIconAlt": "Screenshot App Maker -sovelluksen kuvake"
+    }
   },
   "ollama": {
     "title": "Ollama-asennusopas",
@@ -63,7 +202,10 @@
       "Jos haluat käyttää etäpalvelinta (kotitietokone, VPS), sinun on paljastettava portti turvallisesti (VPN suositeltava)."
     ],
     "backHome": "← Takaisin etusivulle",
-    "metaTitle": "Ollama-asetusopas — Screenshot (App) Maker"
+    "metaTitle": "Ollama-asetusopas — Screenshot (App) Maker",
+    "pill": "Ollama-integraatio",
+    "ctaTitle": "Valmis paikallistamaan?",
+    "ctaBody": "Palaa sovellukseen, testaa yhteys ja aloita yhdellä kielellä."
   },
   "privacy": {
     "metaTitle": "Tietosuojakäytäntö — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Takaisin etusivulle"
+    "backHome": "← Takaisin etusivulle",
+    "pill": "Tietosuojakäytäntö"
+  },
+  "common": {
+    "skipToContent": "Siirry sisältöön",
+    "homeAriaLabel": "Screenshot App Maker -etusivu",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Ominaisuudet",
+    "localization": "Paikallistaminen",
+    "privacy": "Yksityisyys",
+    "ollamaSetup": "Ollama-asetukset",
+    "ollamaSetupShort": "Ollama-asetukset",
+    "downloadIos": "Lataa iOS:lle",
+    "downloadIosAriaLabel": "Lataa Screenshot (App) Maker -sovellus iPhoneen ja iPadiin App Storesta",
+    "primaryNavigation": "Päänavigointi",
+    "footerNavigation": "Alareunan navigointi",
+    "backHome": "Takaisin etusivulle",
+    "footerTagline": "Helppokäyttöiset App Store -kuvat.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Valitse kieli",
+    "kicker": "Näytettävä kieli",
+    "title": "Valitse kieli",
+    "close": "Sulje kielivalinta",
+    "hint": "Valitse kieli, joka tuntuu sinulle luontevimmalta. Tuotenimet ja tekniset komennot pysyvät muuttumattomina."
   }
 }

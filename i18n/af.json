@@ -17,14 +17,18 @@
     "ollamaSetupShort": "Ollama-opstelling",
     "backHome": "Terug na tuisblad",
     "footerTagline": "App Store-skermskote, nou eenvoudig.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadIos": "Laai af vir iOS",
+    "downloadIosAriaLabel": "Laai Screenshot (App) Maker af vir iPhone en iPad vanaf die App Store",
+    "primaryNavigation": "Hoofnavigasie",
+    "footerNavigation": "Voetnavigasie"
   },
   "language": {
     "buttonLabel": "Kies taal",
     "kicker": "Vertoon-taal",
     "title": "Kies 'n taal",
     "close": "Sluit taalmenu",
-    "hint": "Nuwe bladsy-teks word tans in Engels verskaf. Addisionele vertalings kan in 'n latere groep by die ooreenstemmende taalbron gevoeg word."
+    "hint": "Kies die taal wat vir jou die mees natuurlik aanvoel. Produkname en tegniese instruksies word nie vertaal nie."
   },
   "home": {
     "hero": {
@@ -40,7 +44,8 @@
         "Horlosie",
         "TV",
         "Uitgeligte grafika"
-      ]
+      ],
+      "supportAriaLabel": "Ondersteunde uitvoertipes"
     },
     "preview": {
       "project": "Somervrystelling",
@@ -64,7 +69,8 @@
       "ollama": "OLLAMA",
       "localizing": "Lokaliseer skermskootte…",
       "exportComplete": "UITVOER VOLTOOI",
-      "exportReady": "PNG's + metadata gereed"
+      "exportReady": "PNG's + metadata gereed",
+      "ariaLabel": "Voorbeeld van Screenshot Maker"
     },
     "proof": [
       {
@@ -127,7 +133,8 @@
         "Minder wrywing.<br /><strong>Meer momentum.</strong>"
       ],
       "complete": "Lokalisering voltooi",
-      "completeBody": "Teks en metadata is gereed vir hersiening"
+      "completeBody": "Teks en metadata is gereed vir hersiening",
+      "ariaLabel": "Voorbeeld van Ollama-aanpassing"
     },
     "workflow": {
       "overline": "'n Korter pad na publikasie",
@@ -161,8 +168,10 @@
       "overline": "Van skermskote tot indiening",
       "title": "Maak die finale stap eenvoudig.",
       "description": "Ontwerp, lokaliseer en eksporteer elke skermskoot wat jou volgende toepassing-vrystelling benodig.",
-      "action": "Verken die kenmerke"
-    }
+      "action": "Laai dit af op die App Store",
+      "appIconAlt": "Screenshot App Maker app-ikoon"
+    },
+    "proofAriaLabel": "Voordele van die produk"
   },
   "ollama": {
     "pill": "Ollama-integrasie",

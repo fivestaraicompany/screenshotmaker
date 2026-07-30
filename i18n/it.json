@@ -2,7 +2,11 @@
   "meta": {
     "title": "Creatore di Screenshot (App)",
     "description": "Crea screenshot per l'App Store puliti e moderni con facilità utilizzando modelli flessibili.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Screenshot per App Store, Semplificati",
+    "homeDescription": "Crea screenshot professionali pronti per la pubblicazione sull'App Store e genera versioni localizzate con Ollama in tutta semplicità.",
+    "ollamaDescription": "Collega Screenshot (App) Maker al tuo server Ollama per una localizzazione privata delle screenshot basata sull'IA.",
+    "privacyDescription": "Scopri come Screenshot (App) Maker mantiene privati i tuoi screenshot, le modifiche e il flusso di lavoro di localizzazione."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Crea screenshot per l'App Store in pochi minuti",
     "heroBody": "Scegli 3–5 screenshot, inseriscili nei modelli, aggiungi testo di marketing ed esporta immagini pronte per il caricamento.",
     "featuresTitle": "Caratteristiche principali",
-    "features": [
-      "Crea screenshot per l'App Store eleganti utilizzando modelli personalizzabili",
-      "Importa immagini dall'app File o dalla tua libreria di foto",
-      "Supporto per screenshot di iPhone, iPad, Apple Watch e Apple TV",
-      "Aggiungi testo di marketing liberamente e regola il layout visivamente"
-    ],
+    "features": {
+      "overline": "Tutto in un unico posto",
+      "titleHtml": "Passa meno tempo alla preparazione.<br />Pubblica con più sicurezza.",
+      "description": "Screenshot (App) Maker trasforma il lavoro ripetitivo finale di una pubblicazione app in un flusso di lavoro visivo chiaro e lineare.",
+      "cards": [
+        {
+          "title": "Importa le schermate della tua app.",
+          "body": "Importa gli screenshot, inseriscili in layout per dispositivi rifiniti e organizza la storia completa dell'App Store in pochi minuti.",
+          "drop": "Trascina qui gli screenshot",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Progetta una volta sola.",
+          "body": "Applica colori, layout, impostazioni del dispositivo, tipografia ed ombreggiature a ogni pagina, mantenendo unico il messaggio per ciascuna lingua."
+        },
+        {
+          "title": "Adatta a ogni schermo.",
+          "body": "Prepara le risorse per iPhone, iPad, Apple Watch, Apple TV e Feature Graphic dallo stesso progetto."
+        },
+        {
+          "title": "Esporta un pacchetto pronto per la pubblicazione.",
+          "body": "Renderizza immagini ad alta risoluzione, organizza i file localizzati e raggruppa i metadati dell'App Store tradotti in un archivio pulito.",
+          "folder": "Risorse App Store"
+        }
+      ]
+    },
     "aiTitle": "Localizzazione basata sull'IA",
     "aiBody": "Con l'integrazione di Ollama, genera testo di marketing tradotto per codice paese per invii globali rapidi.",
     "aiLink": "Apri il tutorial per la configurazione di Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Informativa sulla privacy →",
     "footerNote": "Suggerimento: aggiungi <code>?lang=ko</code> (o qualsiasi codice supportato) all'URL per visualizzare in anteprima una localizzazione.",
     "supportedPill": "Supporta iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Creatore di Screenshot (App)"
+    "copyright": "© 2026 Creatore di Screenshot (App)",
+    "hero": {
+      "eyebrow": "Progettato per l'ultimo miglio prima del lancio",
+      "titleHtml": "Trasforma le schermate della tua app in <span>screenshot pronti per la pubblicazione.</span>",
+      "description": "Progetta ogni screenshot necessario per la pubblicazione della tua app, poi collega Ollama per creare versioni localizzate senza doverle ricreare manualmente una per una.",
+      "primaryAction": "Scopri come funziona",
+      "secondaryAction": "Esplora la localizzazione",
+      "readyFor": "Pronto per",
+      "supportAriaLabel": "Tipi di esportazione supportati",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Anteprima del prodotto Screenshot Maker",
+      "project": "Rilascio estivo",
+      "saved": "Salvato",
+      "appStorePreview": "Anteprima App Store",
+      "display": "Display da 6,7″",
+      "shots": [
+        {
+          "line1": "Pianifica meno.",
+          "line2": "Fai di più."
+        },
+        {
+          "line1": "Tutto",
+          "line2": "in un unico posto."
+        },
+        {
+          "line1": "Progettato per",
+          "line2": "la tua giornata."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Localizzazione screenshot in corso…",
+      "exportComplete": "ESPORTAZIONE COMPLETA",
+      "exportReady": "PNG e metadati pronti"
+    },
+    "proof": [
+      {
+        "title": "Un unico spazio visivo di lavoro",
+        "body": "Dalle schermate grezze alle risorse rifinite"
+      },
+      {
+        "title": "Un unico design, per ogni lingua",
+        "body": "Traduci i testi degli screenshot con Ollama"
+      },
+      {
+        "title": "Un'esportazione organizzata",
+        "body": "Raggruppa immagini e metadati in un unico pacchetto"
+      }
+    ],
+    "proofAriaLabel": "Vantaggi del prodotto",
+    "localization": {
+      "ariaLabel": "Anteprima localizzazione Ollama",
+      "pill": "Alimentato dal tuo server Ollama",
+      "title": "La tua campagna di screenshot pronta a parlare in ogni mercato.",
+      "description": "Collega Screenshot (App) Maker a Ollama e traduci i titoli degli screenshot e i metadati dell'App Store nello stesso flusso di lavoro. Il layout originale rimane intatto mentre il testo viene adattato per ogni lingua.",
+      "checks": [
+        "Traduci tutti i titoli degli screenshot in un'unica batch",
+        "Localizza descrizioni, parole chiave e note di rilascio",
+        "Rivedi le traduzioni prima dell'esportazione finale"
+      ],
+      "action": "Visualizza la guida alla configurazione di Ollama",
+      "source": "Origine · Inglese",
+      "localeCount": "4 lingue",
+      "sourceLabel": "Origine",
+      "ready": "Pronto",
+      "samples": [
+        "Pianifica meno.<br /><strong>Fai di più.</strong>",
+        "Meno pianificazione.<br /><strong>Più risultati.</strong>",
+        "Meno configurazione.<br /><strong>Più creatività.</strong>",
+        "Meno attrito.<br /><strong>Più slancio.</strong>"
+      ],
+      "complete": "Localizzazione completata",
+      "completeBody": "Testi e metadati pronti per la revisione"
+    },
+    "workflow": {
+      "overline": "Un percorso più breve verso la pubblicazione",
+      "title": "Schermate grezze in. Risorse pronte per lo Store in uscita.",
+      "description": "Nessuna configurazione di design complessa. Nessuna ricreazione della stessa campagna per ogni lingua.",
+      "steps": [
+        {
+          "number": "PASSO 01",
+          "title": "Importa",
+          "body": "Aggiungi le schermate che raccontano meglio la storia della tua app."
+        },
+        {
+          "number": "PASSO 02",
+          "title": "Progetta e localizza",
+          "body": "Crea il look una volta sola, poi traduci i testi con Ollama."
+        },
+        {
+          "number": "PASSO 03",
+          "title": "Esporta",
+          "body": "Scarica immagini organizzate e metadati, pronti per la pubblicazione."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privacy by design",
+      "title": "Le risorse della tua app restano sotto il tuo controllo.",
+      "description": "La modifica degli screenshot avviene sul tuo dispositivo. Quando scegli Ollama, i testi vengono inviati solo all'indirizzo del server che configuri tu.",
+      "action": "Leggi l'informativa sulla privacy"
+    },
+    "final": {
+      "overline": "Dagli screenshot alla pubblicazione",
+      "title": "Rendi semplice l'ultimo passo.",
+      "description": "Progetta, localizza ed esporta ogni screenshot necessario per il prossimo rilascio della tua app.",
+      "action": "Scarica sull'App Store",
+      "appIconAlt": "Icona dell'app Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutorial per la configurazione di Ollama",
@@ -63,7 +202,10 @@
       "Se preferisci utilizzare un server remoto (PC domestico, VPS), devi esporre la porta in modo sicuro (consigliabile VPN)."
     ],
     "backHome": "← Indietro a Home",
-    "metaTitle": "Tutorial di configurazione di Ollama — Screenshot (App) Maker"
+    "metaTitle": "Tutorial di configurazione di Ollama — Screenshot (App) Maker",
+    "pill": "Integrazione Ollama",
+    "ctaTitle": "Pronto per localizzare?",
+    "ctaBody": "Torna all'app, testa la connessione e inizia con una sola lingua."
   },
   "privacy": {
     "metaTitle": "Informativa sulla privacy — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Indietro a Home"
+    "backHome": "← Indietro a Home",
+    "pill": "Informativa sulla privacy"
+  },
+  "common": {
+    "skipToContent": "Vai al contenuto",
+    "homeAriaLabel": "Home page di Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funzionalità",
+    "localization": "Localizzazione",
+    "privacy": "Privacy",
+    "ollamaSetup": "Configura Ollama",
+    "ollamaSetupShort": "Configurazione Ollama",
+    "downloadIos": "Scarica per iOS",
+    "downloadIosAriaLabel": "Scarica Screenshot (App) Maker per iPhone e iPad dall'App Store",
+    "primaryNavigation": "Navigazione principale",
+    "footerNavigation": "Navigazione nel piè di pagina",
+    "backHome": "Torna alla home",
+    "footerTagline": "Screenshot per App Store, semplificati.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Scegli lingua",
+    "kicker": "Lingua di visualizzazione",
+    "title": "Scegli una lingua",
+    "close": "Chiudi il menu lingue",
+    "hint": "Scegli la lingua che ti risulta più naturale. I nomi dei prodotti e i comandi tecnici rimangono invariati."
   }
 }

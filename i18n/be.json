@@ -17,14 +17,18 @@
     "ollamaSetupShort": "Настройка Ollama",
     "backHome": "Назад на галоўную",
     "footerTagline": "Скрыншоты для App Store — гэта проста.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadIos": "Спампаваць для iOS",
+    "downloadIosAriaLabel": "Спампаваць праграму Screenshot (App) Maker для iPhone і iPad з App Store",
+    "primaryNavigation": "Галоўнае меню",
+    "footerNavigation": "Меню ўнізе старонкі"
   },
   "language": {
     "buttonLabel": "Выбраць мову",
     "kicker": "Мова інтэрфейсу",
     "title": "Выбраць мову",
     "close": "Закрыць меню выбару мовы",
-    "hint": "Тэкст новых старонак зараз прадстаўлены англійскай мовай. Дадатковыя пераклады могуць быць дададзены ў адпаведны моўны рэсурс у наступным пакеце."
+    "hint": "Абярыце мову, якая вам больш падабаецца. Назвы прадуктаў і тэхнічныя каманды застаюцца без змянення."
   },
   "home": {
     "hero": {
@@ -40,7 +44,8 @@
         "Watch",
         "Тэлевізар",
         "Галоўны малюнак"
-      ]
+      ],
+      "supportAriaLabel": "Падтрымліваюцца фарматы экспарту"
     },
     "preview": {
       "project": "Летні выпуск",
@@ -64,7 +69,8 @@
       "localizing": "Лакалізацыя скрыншотаў…",
       "exportComplete": "ЭКСПАРТ ЗАВЯРШЫНЫ",
       "exportReady": "PNG + метаданыя гатовыя",
-      "display": "Дысплей 6.7″"
+      "display": "Дысплей 6.7″",
+      "ariaLabel": "Прадгляд праграмы Screenshot Maker"
     },
     "proof": [
       {
@@ -127,7 +133,8 @@
         "Менш перашкод.<br /><strong>Больш імпульсу.</strong>"
       ],
       "complete": "Лакалізацыя завершана",
-      "completeBody": "Тэкст і метаданыя гатовыя да праверкі"
+      "completeBody": "Тэкст і метаданыя гатовыя да праверкі",
+      "ariaLabel": "Прадгляд лакалізацыі Ollama"
     },
     "workflow": {
       "overline": "Караткі шлях да публікацыі",
@@ -161,8 +168,10 @@
       "overline": "Ад скрыншотаў да адпраўкі",
       "title": "Зрабіце апошні крок простым.",
       "description": "Дызайнуйце, лакалізуйце і экспартуйце кожны скрыншот, які патрэбны для наступнага выпуску вашай праграмы.",
-      "action": "Вывучыце функцыі"
-    }
+      "action": "Спампаваць у App Store",
+      "appIconAlt": "Лямпачка Screenshot App Maker"
+    },
+    "proofAriaLabel": "Перавагі прадукта"
   },
   "ollama": {
     "pill": "Інтэграцыя з Ollama",

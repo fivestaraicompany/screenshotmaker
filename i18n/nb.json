@@ -2,7 +2,11 @@
   "meta": {
     "title": "Skjermbilde (App) Maker",
     "description": "Lag rene, moderne App Store-skjermbilder uten anstrengelse ved hjelp av fleksible maler.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store-skjermbilder, enkelt laget",
+    "homeDescription": "Lag pene, innsendingsklare App Store-skjermbilder og bruk Ollama for å generere lokaliserte versjoner med letthet.",
+    "ollamaDescription": "Koble Screenshot (App) Maker til din Ollama-server for privat AI-støttet lokaliseringsarbeid.",
+    "privacyDescription": "Les hvordan Screenshot (App) Maker beskytter skjermbildene, redigeringene og lokaliseringsarbeidet ditt."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Lag App Store-skjermbilder på minutter",
     "heroBody": "Velg 3–5 skjermbilder, legg dem inn i maler, legg til markedsføringstekst og eksporter bilder som er klare til å lastes opp.",
     "featuresTitle": "Viktige funksjoner",
-    "features": [
-      "Lag stilige App Store-skjermbilder ved hjelp av tilpassbare maler",
-      "Importer bilder fra Filer-appen eller fotobiblioteket ditt",
-      "Støtte for iPhone, iPad, Apple Watch og Apple TV-skjermbilder",
-      "Legg til markedsføringstekst fritt og juster layout visuelt"
-    ],
+    "features": {
+      "overline": "Alt på ett sted",
+      "titleHtml": "Bruk mindre tid på forberedelser.<br />Send ut med mer selvtillit.",
+      "description": "Screenshot (App) Maker gjør det repetitive arbeidet i slutten av en app-lansering om til én klar, visuell arbeidsflyt.",
+      "cards": [
+        {
+          "title": "Slipp inn appschermbildene dine.",
+          "body": "Importer skjermbilder, plasser dem i pene enhetsoppsett og legg sammen en komplett App Store-historie på minutter.",
+          "drop": "Slipp skjermbilder her",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Design én gang.",
+          "body": "Bruk farger, oppsett, enhetsinnstillinger, skrift og skygger på alle sider mens du beholder hver melding unik."
+        },
+        {
+          "title": "Tilpass hvert skjermbilde.",
+          "body": "Forbered ressurser for iPhone, iPad, Apple Watch, Apple TV og funksjonsgrafikk fra samme prosjekt."
+        },
+        {
+          "title": "Eksporter en innsendingsklar pakke.",
+          "body": "Lag høyoppløselige bilder, organiser lokaliserte filer og pakk den oversatte App Store-metadataen din i én ryddig arkivmappe.",
+          "folder": "App Store-ressurser"
+        }
+      ]
+    },
     "aiTitle": "AI-drevet lokalisering",
     "aiBody": "Med Ollama-integrasjon kan du generere oversatt markedsføringstekst per landkode for raske globale innsendinger.",
     "aiLink": "Åpne Ollama-oppsettveiledningen →",
@@ -36,7 +60,122 @@
     "learnLink": "Personvernpolicy →",
     "footerNote": "Tips: legg til <code>?lang=ko</code> (eller annen støttet kode) til URL-en for å forhåndsvise en locale.",
     "supportedPill": "Støtter iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Skjermbilde (App) Maker"
+    "copyright": "© 2026 Skjermbilde (App) Maker",
+    "hero": {
+      "eyebrow": "Bygget for det siste steget før lansering",
+      "titleHtml": "Gjør appschermbilder til <span>innsendingsklare skjermbilder.</span>",
+      "description": "Design hvert eneste skjermbildet appen din trenger, koble deretter til Ollama for å lage lokaliserte versjoner – uten å bygge dem opp for hånd.",
+      "primaryAction": "Se hvordan det fungerer",
+      "secondaryAction": "Utforsk lokaliseringsfunksjoner",
+      "readyFor": "Klar for",
+      "supportAriaLabel": "Støttede eksporttyper",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Funksjonsgrafikk"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Produktforhåndsvisning for Screenshot Maker",
+      "project": "Sommerutgivelse",
+      "saved": "Lagret",
+      "appStorePreview": "App Store-forhåndsvisning",
+      "display": "6,7″ skjerm",
+      "shots": [
+        {
+          "line1": "Plan mindre.",
+          "line2": "Gjør mer."
+        },
+        {
+          "line1": "Alt du trenger",
+          "line2": "på ett sted."
+        },
+        {
+          "line1": "Laget for",
+          "line2": "hverdagen din."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokaliserer skjermbilder…",
+      "exportComplete": "EKSORTERING FULLFØRT",
+      "exportReady": "PNG-er + metadata klare"
+    },
+    "proof": [
+      {
+        "title": "Et visuelt arbeidsområde",
+        "body": "Fra råe skjermbilder til polerte ressurser"
+      },
+      {
+        "title": "Ét design, alle språk",
+        "body": "Oversett skjermbildetekst med Ollama"
+      },
+      {
+        "title": "En organisert eksport",
+        "body": "Pakk bilder og metadata sammen"
+      }
+    ],
+    "proofAriaLabel": "Produktfordeler",
+    "localization": {
+      "ariaLabel": "Forhåndsvisning av Ollama-lokaliseringsfunksjon",
+      "pill": "Drevet av din Ollama-server",
+      "title": "Kampanjen din klar til å snakke alle markeder.",
+      "description": "Koble Screenshot (App) Maker til Ollama og oversett overskrifter på skjermbilder og App Store-metadata i samme arbeidsflyt. Det opprinnelige layoutet beholdes mens teksten endres for hvert språk.",
+      "checks": [
+        "Oversett alle overskrifter på skjermbilder i en batch",
+        "Lokaliser beskrivelser, nøkkelord og utgivelsesnotater",
+        "Gjennomgå oversettelser før den endelige eksporten"
+      ],
+      "action": "Vis Ollama-oppsettguiden",
+      "source": "Kilde · Engelsk",
+      "localeCount": "4 språk",
+      "sourceLabel": "Kilde",
+      "ready": "Klar",
+      "samples": [
+        "Plan mindre.<br /><strong>Gjør mer.</strong>",
+        "Mindre planlegging.<br /><strong>Mer fremgang.</strong>",
+        "Mindre oppsett.<br /><strong>Mer skaping.</strong>",
+        "Mindre friksjon.<br /><strong>Mer driv.</strong>"
+      ],
+      "complete": "Lokalisering fullført",
+      "completeBody": "Tekst og metadata er klare til gjennomgang"
+    },
+    "workflow": {
+      "overline": "En kortere vei til publisering",
+      "title": "Råe skjermbilder inn. Butikk-klare ressurser ut.",
+      "description": "Ingen kompleks designoppsett. Ingen gjenbygging av samme kampanje for hvert språk.",
+      "steps": [
+        {
+          "number": "TRINN 01",
+          "title": "Importer",
+          "body": "Legg til skjermene som best forteller historien om appen din."
+        },
+        {
+          "number": "TRINN 02",
+          "title": "Design og lokaliser",
+          "body": "Bygg utseendet én gang, oversett deretter teksten med Ollama."
+        },
+        {
+          "number": "TRINN 03",
+          "title": "Eksporter",
+          "body": "Last ned organiserte bilder og metadata, klare for innsending."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privat av design",
+      "title": "Appressursene dine forblir under din kontroll.",
+      "description": "Redigering skjer på enheten din. Når du velger Ollama, sendes tekst kun til serveradressen du konfigurerer.",
+      "action": "Les personvernerklæringen"
+    },
+    "final": {
+      "overline": "Fra skjermbilder til innsending",
+      "title": "Gjør det siste steget enkelt.",
+      "description": "Design, lokaliser og eksporter hvert eneste skjermbildet neste apputgivelse trenger.",
+      "action": "Last ned på App Store",
+      "appIconAlt": "Appikon for Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Ollama Oppsettveiledning",
@@ -63,7 +202,10 @@
       "Hvis du foretrekker å bruke en ekstern server (hjemme-PC, VPS), må du eksponere porten sikkert (VPN anbefales)."
     ],
     "backHome": "← Tilbake til Hjem",
-    "metaTitle": "Ollama Oppsettveiledning — Screenshot (App) Maker"
+    "metaTitle": "Ollama Oppsettveiledning — Screenshot (App) Maker",
+    "pill": "Ollama-integrasjon",
+    "ctaTitle": "Klar til å lokaliser?",
+    "ctaBody": "Gå tilbake til appen, test tilkoblingen og start med ett språk."
   },
   "privacy": {
     "metaTitle": "Personvernerklæring — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Tilbake til Hjem"
+    "backHome": "← Tilbake til Hjem",
+    "pill": "Personvernerklæring"
+  },
+  "common": {
+    "skipToContent": "Hopp til innhold",
+    "homeAriaLabel": "Hjem for Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funksjoner",
+    "localization": "Lokalisering",
+    "privacy": "Personvern",
+    "ollamaSetup": "Sett opp Ollama",
+    "ollamaSetupShort": "Ollama-oppsett",
+    "downloadIos": "Last ned for iOS",
+    "downloadIosAriaLabel": "Last ned Screenshot (App) Maker for iPhone og iPad fra App Store",
+    "primaryNavigation": "Hovednavigasjon",
+    "footerNavigation": "Bunnlinjenavigasjon",
+    "backHome": "Tilbake til forsiden",
+    "footerTagline": "App Store-skjermbilder, enkelt laget.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Velg språk",
+    "kicker": "Visningsspråk",
+    "title": "Velg et språk",
+    "close": "Lukk språkmenyen",
+    "hint": "Velg språket som føles mest naturlig for deg. Produktnavn og tekniske kommandoer beholdes uendret."
   }
 }

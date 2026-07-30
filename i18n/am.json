@@ -17,14 +17,18 @@
     "ollamaSetupShort": "የOllama ቅንብር",
     "backHome": "ወደ መነሻው ተመለስ",
     "footerTagline": "የApp Store ስክሪንሾቶች፣ በቀላሉ።",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadIos": "iOS ስሪቱን ያውርዱ",
+    "downloadIosAriaLabel": "iPhone እና iPad ላይ ያለውን Screenshot (App) Maker ከApp Store ለማውረድ ይጫኑ።",
+    "primaryNavigation": "ዋና ምራвок",
+    "footerNavigation": "የግርጌ ምራвок"
   },
   "language": {
     "buttonLabel": "ቋንቋ ይምረጡ",
     "kicker": "የሚታይበት ቋንቋ",
     "title": "ቋንቋ ይምረጡ",
     "close": "የቋንቋ ዝርዝሩን ዝጋ",
-    "hint": "አዲሱ የገጽ ጽሑፍ በአሁኑ ጊዜ በእንግሊዝኛ የቀረበ ነው። ተጨማሪ ትርጉሞች በኋላ በሚደረግ ስብስብ ወደ ተዛማጅ የቋንቋ ሀብቶች ሊጨመሩ ይችላሉ።"
+    "hint": "ቋንቋውን ይምረጡ። ምርቶች እና የቴክኒካዊ ትእዛዛት ስሞች አይቀየሩም።"
   },
   "home": {
     "hero": {
@@ -40,7 +44,8 @@
         "Watch",
         "TV",
         "የልዩ ባህሪ ግራፊክስ"
-      ]
+      ],
+      "supportAriaLabel": "ሚታደሙት የማውጣት አይነቶች"
     },
     "preview": {
       "project": "የበጋ ወቅት ስሪት",
@@ -64,7 +69,8 @@
       "ollama": "OLLAMA",
       "localizing": "ስክሪንሾቶችን በማላመድ ላይ…",
       "exportComplete": "ኤክስፖርት ተጠናቅቋል",
-      "exportReady": "PNGዎች + ሜታዳታ ዝግጁ ናቸው"
+      "exportReady": "PNGዎች + ሜታዳታ ዝግጁ ናቸው",
+      "ariaLabel": "Screenshot Maker ምርቱ ቅድመ እይታ"
     },
     "proof": [
       {
@@ -127,7 +133,8 @@
         "ትንሽ እንቅፋት።<br /><strong>የበለጠ ፍጥነት።</strong>"
       ],
       "complete": "የቋንቋ ማላመድ ተጠናቅቋል",
-      "completeBody": "ጽሁፎች እና ሜታዳታዎች ለመገምገም ዝግጁ ናቸው"
+      "completeBody": "ጽሁፎች እና ሜታዳታዎች ለመገምገም ዝግጁ ናቸው",
+      "ariaLabel": "Ollama የቋንቋ ማስተላለፍ ቅድመ እይታ"
     },
     "workflow": {
       "overline": "ለማተም አጭር መንገድ",
@@ -161,8 +168,10 @@
       "overline": "ከስክሪንሾቶች እስከ ማቅረቢያ",
       "title": "የመጨረሻው ደረጃ ቀላል እንዲሆን ያድርጉ።",
       "description": "ለሚቀጥለው የመተግበሪያ ስሪት የሚያስፈልገውን እያንዳንዱን ስክሪንሾት ይንደፉ፣ ያስተካክሉ እና ይላኩ።",
-      "action": "ባህሪያቱን ያስሱ"
-    }
+      "action": "ከአፕል መደብር ያውርዱ",
+      "appIconAlt": "Screenshot App Maker አፕል ስም ምልክት"
+    },
+    "proofAriaLabel": "ምርቱ የሚያበረክት ጥቅሞች"
   },
   "ollama": {
     "pill": "የ Ollama ውህደት",

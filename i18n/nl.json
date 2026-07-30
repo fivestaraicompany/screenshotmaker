@@ -2,7 +2,11 @@
   "meta": {
     "title": "Screenshot (App) Maker",
     "description": "Maak moeiteloos strakke, moderne App Store screenshots met flexibele sjablonen.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store-screenshots, eenvoudig gemaakt",
+    "homeDescription": "Maak gepolijste, direct in te dienen App Store-screenshots en gebruik Ollama om moeiteloos gelokaliseerde versies te genereren.",
+    "ollamaDescription": "Koppel Screenshot (App) Maker aan je Ollama-server voor privé AI-gestuurde screenshotlokalisatie.",
+    "privacyDescription": "Lees hoe Screenshot (App) Maker je screenshots, bewerkingen en lokalisatiewerkstroom privé houdt."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Maak App Store screenshots in minuten",
     "heroBody": "Kies 3–5 screenshots, plaats ze in sjablonen, voeg marketingtekst toe en exporteer afbeeldingen die klaar zijn om te uploaden.",
     "featuresTitle": "Belangrijkste kenmerken",
-    "features": [
-      "Maak stijlvolle App Store screenshots met aanpasbare sjablonen",
-      "Importeer afbeeldingen vanuit de Bestanden-app of uw fotobibliotheek",
-      "Ondersteuning voor iPhone, iPad, Apple Watch en Apple TV screenshots",
-      "Voeg marketingtekst toe en pas de lay-out visueel aan"
-    ],
+    "features": {
+      "overline": "Alles op één plek",
+      "titleHtml": "Minder tijd besteden aan voorbereiding.<br />Met meer vertrouwen publiceren.",
+      "description": "Screenshot (App) Maker zet het repetitieve werk aan het eind van een app-release om in één duidelijk, visueel workflow.",
+      "cards": [
+        {
+          "title": "Sleep je appschermen hierheen.",
+          "body": "Importeer screenshots, plaats ze in gepolijste apparaatlay-outs en stel binnen minuten een complete App Store-verhaal samen.",
+          "drop": "Sleep screenshots hier",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Ontwerp één keer.",
+          "body": "Pas kleuren, lay-outs, apparaatinstellingen, lettertype en schaduwen toe op elke pagina, terwijl elke boodschap uniek blijft."
+        },
+        {
+          "title": "Past op elk scherm.",
+          "body": "Bereid assets voor iPhone, iPad, Apple Watch, Apple TV en feature graphics voor vanuit hetzelfde project."
+        },
+        {
+          "title": "Exporteer een direct in te dienen pakket.",
+          "body": "Render afbeeldingen in hoge resolutie, organiseer gelokaliseerde bestanden en bundel je vertaalde App Store-metadata in één overzichtelijk archief.",
+          "folder": "App Store-assets"
+        }
+      ]
+    },
     "aiTitle": "AI-Powered Lokalisatie",
     "aiBody": "Met Ollama-integratie genereert u vertaalde marketingtekst per landcode voor snelle wereldwijde inzendingen.",
     "aiLink": "Open de Ollama installatiehandleiding →",
@@ -36,7 +60,122 @@
     "learnLink": "Privacybeleid →",
     "footerNote": "Tip: voeg <code>?lang=ko</code> (of een andere ondersteunde code) toe aan de URL om een locale te bekijken.",
     "supportedPill": "Ondersteunt iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "hero": {
+      "eyebrow": "Gebouwd voor de laatste mijl vóór lancering",
+      "titleHtml": "Maak appschermen van <span>direct in te dienen screenshots.</span>",
+      "description": "Ontwerp elke screenshot die je app-inzending nodig heeft, koppel vervolgens Ollama om gelokaliseerde versies te maken—zonder ze handmatig opnieuw te bouwen.",
+      "primaryAction": "Bekijk hoe het werkt",
+      "secondaryAction": "Verken lokalisatie",
+      "readyFor": "Klaar voor",
+      "supportAriaLabel": "Ondersteunde exporttypen",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Productvoorbeeld van Screenshot Maker",
+      "project": "Zomerrelease",
+      "saved": "Opgeslagen",
+      "appStorePreview": "App Store-voorbeeld",
+      "display": "6,7″ Display",
+      "shots": [
+        {
+          "line1": "Minder plannen.",
+          "line2": "Meer doen."
+        },
+        {
+          "line1": "Alles",
+          "line2": "op één plek."
+        },
+        {
+          "line1": "Gemaakt voor",
+          "line2": "jouw dag."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Screenshots lokaliseren…",
+      "exportComplete": "EXPORT VOLTOOID",
+      "exportReady": "PNG’s + metadata klaar"
+    },
+    "proof": [
+      {
+        "title": "Één visuele werkruimte",
+        "body": "Van ruwe schermen naar gepolijste assets"
+      },
+      {
+        "title": "Één ontwerp, elke taal",
+        "body": "Vertaal screenshottekst met Ollama"
+      },
+      {
+        "title": "Één georganiseerde export",
+        "body": "Verpak afbeeldingen en metadata samen"
+      }
+    ],
+    "proofAriaLabel": "Productvoordelen",
+    "localization": {
+      "ariaLabel": "Voorbeeld van Ollama-lokalisatie",
+      "pill": "Aangedreven door jouw Ollama-server",
+      "title": "Je screenshotcampagne, klaar om elke markt te spreken.",
+      "description": "Koppel Screenshot (App) Maker aan Ollama en vertaal screenshotkoppen en App Store-metadata in dezelfde workflow. Je originele lay-out blijft intact terwijl de tekst voor elke taal wordt aangepast.",
+      "checks": [
+        "Vertaal elke screenshotkop in één batch",
+        "Lokaliseer beschrijvingen, trefwoorden en release-opmerkingen",
+        "Beoordeel vertalingen vóór de definitieve export"
+      ],
+      "action": "Bekijk de Ollama-instelgids",
+      "source": "Bron · Engels",
+      "localeCount": "4 talen",
+      "sourceLabel": "Bron",
+      "ready": "Klaar",
+      "samples": [
+        "Minder plannen.<br /><strong>Meer doen.</strong>",
+        "Minder plannen.<br /><strong>Meer voortgang.</strong>",
+        "Minder opzetten.<br /><strong>Meer creëren.</strong>",
+        "Minder wrijving.<br /><strong>Meer momentum.</strong>"
+      ],
+      "complete": "Lokalisatie voltooid",
+      "completeBody": "Tekst en metadata zijn klaar om te beoordelen"
+    },
+    "workflow": {
+      "overline": "Een kortere weg naar publicatie",
+      "title": "Ruwe schermen erin. Store-ready assets eruit.",
+      "description": "Geen complexe ontwerpopstelling. Geen opnieuw bouwen van dezelfde campagne voor elke taal.",
+      "steps": [
+        {
+          "number": "STAP 01",
+          "title": "Importeren",
+          "body": "Voeg de schermen toe die het verhaal van je app het beste vertellen."
+        },
+        {
+          "number": "STAP 02",
+          "title": "Ontwerp & lokaliseer",
+          "body": "Bouw het uiterlijk één keer op, vertaal vervolgens je tekst met Ollama."
+        },
+        {
+          "number": "STAP 03",
+          "title": "Exporteren",
+          "body": "Download georganiseerde afbeeldingen en metadata, klaar voor inzending."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privé door ontwerp",
+      "title": "Je app-assets blijven onder jouw controle.",
+      "description": "Screenshotbewerking gebeurt op je apparaat. Wanneer je Ollama kiest, wordt tekst alleen verstuurd naar het serveradres dat je configureert.",
+      "action": "Lees het privacybeleid"
+    },
+    "final": {
+      "overline": "Van screenshots naar inzending",
+      "title": "Maak de laatste stap eenvoudig voelen.",
+      "description": "Ontwerp, lokaliseer en exporteer elke screenshot die je volgende app-release nodig heeft.",
+      "action": "Downloaden in de App Store",
+      "appIconAlt": "App-pictogram van Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Ollama Installatiehandleiding",
@@ -63,7 +202,10 @@
       "Als je liever een externe server gebruikt (home PC, VPS), moet je de poort veilig blootleggen (VPN aanbevolen)."
     ],
     "backHome": "← Terug naar Home",
-    "metaTitle": "Ollama Installatiehandleiding — Screenshot (App) Maker"
+    "metaTitle": "Ollama Installatiehandleiding — Screenshot (App) Maker",
+    "pill": "Ollama-integratie",
+    "ctaTitle": "Klaar om te lokaliseren?",
+    "ctaBody": "Ga terug naar de app, test de verbinding en begin met één taal."
   },
   "privacy": {
     "metaTitle": "Privacybeleid — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Terug naar Home"
+    "backHome": "← Terug naar Home",
+    "pill": "Privacybeleid"
+  },
+  "common": {
+    "skipToContent": "Naar inhoud springen",
+    "homeAriaLabel": "Screenshot App Maker homepagina",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Functies",
+    "localization": "Lokalisatie",
+    "privacy": "Privacy",
+    "ollamaSetup": "Ollama instellen",
+    "ollamaSetupShort": "Ollama-instelling",
+    "downloadIos": "Downloaden voor iOS",
+    "downloadIosAriaLabel": "Screenshot (App) Maker downloaden voor iPhone en iPad via de App Store",
+    "primaryNavigation": "Hoofdnavigatie",
+    "footerNavigation": "Voetnavigatie",
+    "backHome": "Terug naar home",
+    "footerTagline": "App Store-screenshots, eenvoudig gemaakt.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Taal kiezen",
+    "kicker": "Weergavetaal",
+    "title": "Kies een taal",
+    "close": "Taalmenu sluiten",
+    "hint": "Kies de taal die het meest natuurlijk voor je voelt. Productnamen en technische opdrachten blijven ongewijzigd."
   }
 }

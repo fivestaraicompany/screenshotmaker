@@ -344,6 +344,24 @@ img {
   box-shadow: 0 18px 36px rgba(72, 108, 232, 0.32);
 }
 
+.app-store-link {
+  white-space: nowrap;
+}
+
+.ios-label {
+  display: inline-grid;
+  place-items: center;
+  min-width: 30px;
+  height: 22px;
+  padding: 0 7px;
+  color: var(--blue-dark);
+  background: #fff;
+  border-radius: 999px;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
 .button-dark {
   color: #fff;
   background: #182138;
@@ -368,6 +386,28 @@ img {
 .text-link:hover span,
 .button:hover span {
   transform: translateX(3px);
+}
+
+html[dir="rtl"] .text-link:hover span,
+html[dir="rtl"] .button:hover span {
+  transform: translateX(-3px);
+}
+
+html[dir="rtl"] .step-connector,
+html[dir="rtl"] .locale-arrow {
+  transform: scaleX(-1);
+}
+
+html[dir="rtl"] .editor-window,
+html[dir="rtl"] .localization-visual,
+html[dir="rtl"] .drop-visual,
+html[dir="rtl"] .export-visual {
+  direction: ltr;
+}
+
+html[dir="rtl"] .store-shot,
+html[dir="rtl"] .locale-card {
+  direction: rtl;
 }
 
 .hero {

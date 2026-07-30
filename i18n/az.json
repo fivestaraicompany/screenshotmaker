@@ -17,14 +17,18 @@
     "ollamaSetupShort": "Ollama Quraşdırılması",
     "backHome": "Ana səhifəyə qayıt",
     "footerTagline": "App Store skrinşotlarını yaratmaq indi daha asandır.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadIos": "iOS üçün yükləyin",
+    "downloadIosAriaLabel": "Screenshot (App) Maker proqramını iPhone və iPad-də App Store'dan yükləyin",
+    "primaryNavigation": "Əsas navigasiya",
+    "footerNavigation": "Alt hissə navigasiyası"
   },
   "language": {
     "buttonLabel": "Dil seçin",
     "kicker": "Görüntüləmə dili",
     "title": "Bir dil seçin",
     "close": "Dil menyusunu bağlayın",
-    "hint": "Yeni səhifə mətni hazırda ingilis dilində təqdim olunur. Əlavə tərcümələr daha sonra uyğun dil resursuna əlavə edilə bilər."
+    "hint": "Sizə ən rahat gələn dili seçin. Məhsul adları və texniki komandalar dəyişməz qalır."
   },
   "home": {
     "hero": {
@@ -40,7 +44,8 @@
         "Saat",
         "TV",
         "Xüsusiyyət qrafikası"
-      ]
+      ],
+      "supportAriaLabel": "Destək verilən ixrac formatları"
     },
     "preview": {
       "project": "Yay buraxılışı",
@@ -64,7 +69,8 @@
       "ollama": "OLLAMA",
       "localizing": "Skrinşotlar yerilləşdirilir…",
       "exportComplete": "EKSPORT TAMAMLANDI",
-      "exportReady": "PNG-lər + metadata hazırdır"
+      "exportReady": "PNG-lər + metadata hazırdır",
+      "ariaLabel": "Screenshot Maker məhsul önizləməsi"
     },
     "proof": [
       {
@@ -127,7 +133,8 @@
         "Daha az maneə.<br /><strong>Daha çox sürət.</strong>"
       ],
       "complete": "Lokalizasiya tamamlandı",
-      "completeBody": "Mətn və metadata nəzərdən keçirməyə hazırdır"
+      "completeBody": "Mətn və metadata nəzərdən keçirməyə hazırdır",
+      "ariaLabel": "Ollama yerləşdirilməsi önizləməsi"
     },
     "workflow": {
       "overline": "Nəşr etmək üçün daha qısa yol",
@@ -161,8 +168,10 @@
       "overline": "Skrinşotlardan təqdimata qədər",
       "title": "Son addımı sadələşdirin.",
       "description": "Növbəti tətbiq versiyanız üçün lazım olan hər bir skrinşotu dizayn edin, lokallaşdırın və ixrac edin.",
-      "action": "Funksiyaları kəşf edin"
-    }
+      "action": "App Store'dan yükləyin",
+      "appIconAlt": "Screenshot App Maker proqramının simvolu"
+    },
+    "proofAriaLabel": "Məhsul üstünlükləri"
   },
   "ollama": {
     "pill": "Ollama inteqrasiyası",

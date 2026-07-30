@@ -15,6 +15,10 @@
     "privacy": "Privacy",
     "ollamaSetup": "Set up Ollama",
     "ollamaSetupShort": "Ollama Setup",
+    "downloadIos": "Download for iOS",
+    "downloadIosAriaLabel": "Download Screenshot (App) Maker for iPhone and iPad from the App Store",
+    "primaryNavigation": "Primary navigation",
+    "footerNavigation": "Footer navigation",
     "backHome": "Back home",
     "footerTagline": "App Store screenshots, made easy.",
     "copyright": "© 2026 Screenshot (App) Maker"
@@ -24,7 +28,7 @@
     "kicker": "Display language",
     "title": "Choose a language",
     "close": "Close language menu",
-    "hint": "New page copy is currently provided in English. Additional translations can be added to the matching language resource in a later batch."
+    "hint": "Choose the language that feels most natural to you. Product names and technical commands remain unchanged."
   },
   "home": {
     "hero": {
@@ -34,6 +38,7 @@
       "primaryAction": "See how it works",
       "secondaryAction": "Explore localization",
       "readyFor": "Ready for",
+      "supportAriaLabel": "Supported export types",
       "devices": [
         "iPhone",
         "iPad",
@@ -43,6 +48,7 @@
       ]
     },
     "preview": {
+      "ariaLabel": "Screenshot Maker product preview",
       "project": "Summer release",
       "saved": "Saved",
       "appStorePreview": "App Store preview",
@@ -80,6 +86,7 @@
         "body": "Package images and metadata together"
       }
     ],
+    "proofAriaLabel": "Product benefits",
     "features": {
       "overline": "Everything in one place",
       "titleHtml": "Spend less time preparing.<br />Ship with more confidence.",
@@ -107,6 +114,7 @@
       ]
     },
     "localization": {
+      "ariaLabel": "Ollama localization preview",
       "pill": "Powered by your Ollama server",
       "title": "Your screenshot campaign, ready to speak every market.",
       "description": "Connect Screenshot (App) Maker to Ollama and translate screenshot headlines and App Store metadata in the same workflow. Your original layout stays intact while the copy changes for each locale.",
@@ -161,7 +169,8 @@
       "overline": "From screenshots to submission",
       "title": "Make the final step feel simple.",
       "description": "Design, localize, and export every screenshot your next app release needs.",
-      "action": "Explore the features"
+      "action": "Download on the App Store",
+      "appIconAlt": "Screenshot App Maker app icon"
     }
   },
   "ollama": {

@@ -2,7 +2,11 @@
   "meta": {
     "title": "Créateur de captures d'écran (App)",
     "description": "Créez facilement des captures d'écran App Store élégantes et modernes grâce à des modèles flexibles.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Création de captures d'écran pour l'App Store, simplifiée",
+    "homeDescription": "Créez des captures d'écran soignées et prêtes à être soumises à l'App Store, et utilisez Ollama pour générer facilement des versions localisées.",
+    "ollamaDescription": "Connectez Screenshot (App) Maker à votre serveur Ollama pour une localisation de vos captures d'écran basée sur l'IA, en toute confidentialité.",
+    "privacyDescription": "Découvrez comment Screenshot (App) Maker protège la confidentialité de vos captures d'écran, de vos modifications et de votre flux de travail de localisation."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Créez des captures d'écran App Store en quelques minutes",
     "heroBody": "Sélectionnez 3 à 5 captures d'écran, insérez-les dans des modèles, ajoutez du texte marketing et exportez des images prêtes à être téléchargées.",
     "featuresTitle": "Fonctionnalités clés",
-    "features": [
-      "Créez des captures d'écran App Store élégantes en utilisant des modèles personnalisables",
-      "Importez des images depuis l'application Fichiers ou votre photothèque",
-      "Prise en charge des captures d'écran pour iPhone, iPad, Apple Watch et Apple TV",
-      "Ajoutez du texte marketing librement et ajustez la mise en page visuellement"
-    ],
+    "features": {
+      "overline": "Tout au même endroit",
+      "titleHtml": "Passez moins de temps à préparer.<br />Lancez vos applications avec plus de confiance.",
+      "description": "Screenshot (App) Maker transforme les tâches répétitives qui interviennent à la fin d'un cycle de développement en un flux de travail clair et visuel.",
+      "cards": [
+        {
+          "title": "Importez facilement les captures d'écran de votre application.",
+          "body": "Importez des captures d'écran, placez-les dans des mises en page soignées et créez une présentation complète pour l'App Store en quelques minutes.",
+          "drop": "Déposez vos captures d'écran ici",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Concevez une seule fois.",
+          "body": "Appliquez les couleurs, les mises en page, les paramètres des appareils, la typographie et les ombres à chaque page tout en conservant un texte unique pour chaque page."
+        },
+        {
+          "title": "Adaptez-vous à tous les écrans.",
+          "body": "Préparez des ressources pour iPhone, iPad, Apple Watch, Apple TV et graphiques promotionnels, le tout depuis le même projet."
+        },
+        {
+          "title": "Exportez un package prêt à être soumis.",
+          "body": "Générez des images haute résolution, organisez les fichiers localisés et regroupez les métadonnées de votre App Store traduites dans une archive propre.",
+          "folder": "Ressources pour l'App Store"
+        }
+      ]
+    },
     "aiTitle": "Localisation propulsée par l'IA",
     "aiBody": "Grâce à l'intégration d'Ollama, générez du texte marketing traduit par code pays pour des soumissions mondiales rapides.",
     "aiLink": "Ouvrir le tutoriel de configuration d'Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Politique de confidentialité →",
     "footerNote": "Astuce : ajoutez <code>?lang=ko</code> (ou tout autre code pris en charge) à l'URL pour prévisualiser une locale.",
     "supportedPill": "Compatible avec iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Créateur de captures d'écran (App)"
+    "copyright": "© 2026 Créateur de captures d'écran (App)",
+    "hero": {
+      "eyebrow": "Conçu pour la phase finale avant le lancement",
+      "titleHtml": "Transformez les captures d'écran de votre application en <span>captures d'écran prêtes à être soumises.</span>",
+      "description": "Créez chaque capture d'écran dont votre application a besoin, puis connectez Ollama pour créer des versions localisées, sans avoir à reconstruire chacune individuellement.",
+      "primaryAction": "Découvrez comment ça marche",
+      "secondaryAction": "Explorez la localisation",
+      "readyFor": "Prêt pour",
+      "supportAriaLabel": "Types d'exportation pris en charge",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Apple Watch",
+        "Apple TV",
+        "Graphique promotionnel"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Aperçu du produit Screenshot Maker",
+      "project": "Version d'été",
+      "saved": "Enregistré",
+      "appStorePreview": "Aperçu de l'App Store",
+      "display": "Écran 6,7 pouces",
+      "shots": [
+        {
+          "line1": "Planifiez moins.",
+          "line2": "Faites plus."
+        },
+        {
+          "line1": "Tout",
+          "line2": "Au même endroit."
+        },
+        {
+          "line1": "Conçu pour",
+          "line2": "Votre quotidien."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Localisation des captures d'écran...",
+      "exportComplete": "EXPORTATION TERMINÉE",
+      "exportReady": "Fichiers PNG + métadonnées prêts"
+    },
+    "proof": [
+      {
+        "title": "Un espace de travail visuel unique",
+        "body": "Des captures d'écran brutes aux ressources soignées"
+      },
+      {
+        "title": "Une conception, pour toutes les langues",
+        "body": "Traduisez le texte des captures d'écran avec Ollama"
+      },
+      {
+        "title": "Une exportation organisée",
+        "body": "Regroupez les images et les métadonnées ensemble"
+      }
+    ],
+    "proofAriaLabel": "Avantages du produit",
+    "localization": {
+      "ariaLabel": "Aperçu de la localisation avec Ollama",
+      "pill": "Fonctionnement grâce à votre serveur Ollama",
+      "title": "Votre campagne de captures d'écran, prête à s'adresser à tous les marchés.",
+      "description": "Connectez Screenshot (App) Maker à Ollama et traduisez les titres des captures d'écran ainsi que les métadonnées de l'App Store dans le même flux de travail. Votre mise en page originale reste inchangée tandis que le texte est modifié pour chaque langue.",
+      "checks": [
+        "Traduisez tous les titres de captures d'écran par lots",
+        "Localisez les descriptions, les mots-clés et les notes de version",
+        "Vérifiez les traductions avant l'exportation finale"
+      ],
+      "action": "Consultez le guide de configuration d'Ollama",
+      "source": "Source · Français",
+      "localeCount": "4 langues",
+      "sourceLabel": "Source",
+      "ready": "Prêt",
+      "samples": [
+        "Planifiez moins.<br /><strong>Faites plus.</strong>",
+        "Moins de planification.<br /><strong>Plus de progrès.</strong>",
+        "Moins de configuration.<br /><strong>Plus de création.</strong>",
+        "Moins de frictions.<br /><strong>Plus d'élan.</strong>"
+      ],
+      "complete": "Localisation terminée",
+      "completeBody": "Le texte et les métadonnées sont prêts à être vérifiés"
+    },
+    "workflow": {
+      "overline": "Un chemin plus court vers la publication",
+      "title": "Captures d'écran brutes en entrée, ressources prêtes pour l'App Store en sortie.",
+      "description": "Pas de configuration complexe. Pas besoin de reconstruire la même campagne pour chaque langue.",
+      "steps": [
+        {
+          "number": "ÉTAPE 01",
+          "title": "Importation",
+          "body": "Ajoutez les captures d'écran qui racontent le mieux l'histoire de votre application."
+        },
+        {
+          "number": "ÉTAPE 02",
+          "title": "Conception et localisation",
+          "body": "Créez la mise en page une seule fois, puis traduisez le texte avec Ollama."
+        },
+        {
+          "number": "ÉTAPE 03",
+          "title": "Exportation",
+          "body": "Téléchargez les images organisées et les métadonnées, prêtes à être soumises."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "La confidentialité par conception",
+      "title": "Vos ressources restent sous votre contrôle.",
+      "description": "L'édition des captures d'écran se fait sur votre appareil. Lorsque vous choisissez Ollama, le texte est envoyé uniquement vers l'adresse du serveur que vous configurez.",
+      "action": "Consultez la politique de confidentialité"
+    },
+    "final": {
+      "overline": "Des captures d'écran à la soumission",
+      "title": "Simplifiez les étapes finales.",
+      "description": "Concevez, localisez et exportez chaque capture d'écran pour votre prochaine version d'application.",
+      "action": "Télécharger sur l'App Store",
+      "appIconAlt": "Icône de l'application Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutoriel de configuration d'Ollama",
@@ -63,7 +202,10 @@
       "Si vous préférez utiliser un serveur distant (PC domestique, VPS), vous devez exposer le port de manière sécurisée (VPN recommandé)."
     ],
     "backHome": "← Retour à l'accueil",
-    "metaTitle": "Tutoriel d'installation d'Ollama — Screenshot (App) Maker"
+    "metaTitle": "Tutoriel d'installation d'Ollama — Screenshot (App) Maker",
+    "pill": "Intégration Ollama",
+    "ctaTitle": "Prêt à localiser ?",
+    "ctaBody": "Retournez à l'application, testez la connexion et commencez avec une langue."
   },
   "privacy": {
     "metaTitle": "Politique de confidentialité — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Retour à l'accueil"
+    "backHome": "← Retour à l'accueil",
+    "pill": "Politique de confidentialité"
+  },
+  "common": {
+    "skipToContent": "Aller au contenu",
+    "homeAriaLabel": "Accueil de Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Fonctionnalités",
+    "localization": "Localisation",
+    "privacy": "Confidentialité",
+    "ollamaSetup": "Configuration d'Ollama",
+    "ollamaSetupShort": "Configuration Ollama",
+    "downloadIos": "Télécharger sur iOS",
+    "downloadIosAriaLabel": "Téléchargez Screenshot (App) Maker pour iPhone et iPad depuis l'App Store",
+    "primaryNavigation": "Navigation principale",
+    "footerNavigation": "Navigation du pied de page",
+    "backHome": "Retour à la page d'accueil",
+    "footerTagline": "Captures d'écran pour l'App Store, simplifiées.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Choisir une langue",
+    "kicker": "Affichage de la langue",
+    "title": "Choisissez une langue",
+    "close": "Fermer le menu des langues",
+    "hint": "Choisissez la langue qui vous semble la plus naturelle. Les noms de produits et les commandes techniques restent inchangés."
   }
 }

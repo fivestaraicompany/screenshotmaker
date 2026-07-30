@@ -2,7 +2,11 @@
   "meta": {
     "title": "Képernyőfotó (App) Készítő",
     "description": "Készítsen tiszta, modern App Store képernyőfotókat könnyedén, rugalmas sablonokkal.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store képernyőképek, egyszerűen",
+    "homeDescription": "Készíts professzionális, feltöltésre kész App Store képernyőképeket, és használd az Ollama-t a helyi verziók könnyű generálásához.",
+    "ollamaDescription": "Csatlakoztasd a Screenshot (App) Maker-t az Ollama szerveredhez a privát, AI-alapú képernyőképfordításhoz.",
+    "privacyDescription": "Tudd meg, hogyan tartja titokban a Screenshot (App) Maker a képernyőképeidet, szerkesztéseidet és fordítási munkafolyamataidat."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Készítsen App Store képernyőfotókat percek alatt",
     "heroBody": "Válasszon ki 3–5 képernyőfotót, helyezze el sablonokban, adjon hozzá marketing szöveget, és exportálja a feltöltéshez kész képeket.",
     "featuresTitle": "Főbb funkciók",
-    "features": [
-      "Készítsen stílusos App Store képernyőfotókat testreszabható sablonokkal",
-      "Importáljon képeket a Fájlok alkalmazásból vagy a fotótárából",
-      "Támogatás iPhone, iPad, Apple Watch és Apple TV képernyőfotókhoz",
-      "Szabadon adhat hozzá marketing szöveget és vizuálisan állíthatja be az elrendezést"
-    ],
+    "features": {
+      "overline": "Minden egy helyen",
+      "titleHtml": "Kevesebb idő a felkészülésre.<br />Biztosabb kiadás.",
+      "description": "A Screenshot (App) Maker az alkalmazáskiadás végén ismétlődő munkát egyetlen, áttekinthető vizuális munkafolyammá alakítja.",
+      "cards": [
+        {
+          "title": "Húzd be az alkalmazásképernyőket.",
+          "body": "Importáld a képernyőképeket, helyezd el őket csiszolt eszközképekben, és percek alatt állítsd össze a teljes App Store történetet.",
+          "drop": "Húzd ide a képernyőképeket",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Tervezd meg egyszer.",
+          "body": "Alkalmazd a színeket, elrendezéseket, eszközbefogadásokat, betűtípusokat és árnyékokat minden oldalon, miközben minden üzenet egyedi marad."
+        },
+        {
+          "title": "Illeszkedjen minden képernyőhöz.",
+          "body": "Készíts eszközöket iPhone-ra, iPad-re, Apple Watch-ra, Apple TV-ra és feature grafikákra ugyanabból a projektből."
+        },
+        {
+          "title": "Exportálj egy feltöltésre kész csomagot.",
+          "body": "Rendelkezz nagy felbontású képekkel, rendezd a helyi fájlokat, és csomagold a lefordított App Store metaadatokat egyetlen tiszta archívumba.",
+          "folder": "App Store eszközök"
+        }
+      ]
+    },
     "aiTitle": "AI-alapú lokalizáció",
     "aiBody": "Az Ollama integrációval országkódonként generálhat fordított marketing szöveget a gyors globális benyújtáshoz.",
     "aiLink": "Nyissa meg az Ollama beállítási útmutatót →",
@@ -36,7 +60,122 @@
     "learnLink": "Adatvédelmi szabályzat →",
     "footerNote": "Tipp: fűzze hozzá a <code>?lang=ko</code> (vagy bármely más támogatott kódot) az URL-hez egy helyi nézet előnézetéhez.",
     "supportedPill": "Támogatás iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Képernyőfotó (App) Készítő"
+    "copyright": "© 2026 Képernyőfotó (App) Készítő",
+    "hero": {
+      "eyebrow": "A végleges indítás előtt",
+      "titleHtml": "Alakítsd át az alkalmazásképernyőket <span>feltöltésre kész képernyőképekké.</span>",
+      "description": "Tervezd meg minden olyan képernyőképet, amelyre az alkalmazásod feltöltéséhez szükséged van, majd csatlakoztasz az Ollama-t a helyi verziók létrehozásához – anélkül, hogy mindegyiket manuálisan újra kellene építeni.",
+      "primaryAction": "Nézd meg, hogyan működik",
+      "secondaryAction": "A helyi testreszabás felfedezése",
+      "readyFor": "Kész a következőre:",
+      "supportAriaLabel": "Támogatott exportálási típusok",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Óra",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker termék előnézete",
+      "project": "Nyári kiadás",
+      "saved": "Mentve",
+      "appStorePreview": "App Store előnézet",
+      "display": "6,7″ kijelző",
+      "shots": [
+        {
+          "line1": "Kevesebb tervezés.",
+          "line2": "Több cselekvés."
+        },
+        {
+          "line1": "Minden",
+          "line2": "egy helyen."
+        },
+        {
+          "line1": "A te napodhoz",
+          "line2": "igazítva."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Képernyőképek helyi testreszabása…",
+      "exportComplete": "EXPORTÁLÁS KÉSZ",
+      "exportReady": "PNG-k + metaadatok készen állnak"
+    },
+    "proof": [
+      {
+        "title": "Egy vizuális munkaterület",
+        "body": "A nyers képernyőktől a csiszolt eszközökig"
+      },
+      {
+        "title": "Egy dizájn, minden helyi verzióhoz",
+        "body": "Képernyőképek szövegének fordítása Ollama-val"
+      },
+      {
+        "title": "Egy rendezett export",
+        "body": "Képek és metaadatok csomagolása egyben"
+      }
+    ],
+    "proofAriaLabel": "Termék előnyök",
+    "localization": {
+      "ariaLabel": "Ollama helyi testreszabás előnézete",
+      "pill": "Az Ollama szervered által működtetve",
+      "title": "A képernyőképkampányod készen áll, hogy beszéljen minden piachoz.",
+      "description": "Csatlakoztasd a Screenshot (App) Maker-t az Ollama-hoz, és fordítsd le a képernyőképek címeit és az App Store metaadatait ugyanabban a munkafolyamatban. Az eredeti elrendezés érintetlen marad, miközben a szöveg minden helyi verzióhoz változik.",
+      "checks": [
+        "Minden képernyőkép címének fordítása kötegelt módon",
+        "Leírások, kulcsszavak és kiadási jegyzetek helyi testreszabása",
+        "Fordítások áttekintése a végső export előtt"
+      ],
+      "action": "Ollama beállítási útmutató megtekintése",
+      "source": "Forrás · Angol",
+      "localeCount": "4 helyi verzió",
+      "sourceLabel": "Forrás",
+      "ready": "Kész",
+      "samples": [
+        "Kevesebb tervezés.<br /><strong>Több cselekvés.</strong>",
+        "Kevesebb tervezés.<br /><strong>Több haladás.</strong>",
+        "Kevesebb beállítás.<br /><strong>Több alkotás.</strong>",
+        "Kevesebb súrlódás.<br /><strong>Több lendület.</strong>"
+      ],
+      "complete": "Helyi testreszabás kész",
+      "completeBody": "A szöveg és a metaadatok áttekintésre készen állnak"
+    },
+    "workflow": {
+      "overline": "Rövidebb út a publikáláshoz",
+      "title": "Nyers képernyők be. Tárolóra kész eszközök ki.",
+      "description": "Nincs bonyolult dizájnbefogadás. Nincs ugyanazon kampány újraépítése minden nyelvhez.",
+      "steps": [
+        {
+          "number": "1. LÉPÉS",
+          "title": "Importálás",
+          "body": "Add hozzá azokat a képernyőket, amelyek a legjobban elmesélik az alkalmazásod történetét."
+        },
+        {
+          "number": "2. LÉPÉS",
+          "title": "Dizájn és helyi testreszabás",
+          "body": "Készítsd el egyszer a kinézetet, majd fordítsd le a szöveget Ollama-val."
+        },
+        {
+          "number": "3. LÉPÉS",
+          "title": "Exportálás",
+          "body": "Töltsd le a rendezett képeket és metaadatokat, készen a feltöltésre."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Adatvédelem alapból",
+      "title": "Az alkalmazásod eszközei az irányításod alatt maradnak.",
+      "description": "A képernyőképszerkesztés a készülékeden történik. Ha az Ollama-t választod, a szöveg csak a általad konfigurált szervercímre kerül elküldésre.",
+      "action": "Adatvédelmi szabályzat olvasása"
+    },
+    "final": {
+      "overline": "A képernyőképektől a feltöltésig",
+      "title": "Tedd egyszerűvé a végső lépést.",
+      "description": "Tervezd meg, helyi testreszabd és exportáld minden olyan képernyőképet, amelyre a következő alkalmazásod kiadásához szükséged van.",
+      "action": "Letöltés az App Store-ból",
+      "appIconAlt": "Screenshot App Maker alkalmazás ikonja"
+    }
   },
   "ollama": {
     "title": "Ollama Beállítási Útmutató",
@@ -63,7 +202,10 @@
       "Ha inkább egy távoli szervert szeretne használni (otthoni PC, VPS), akkor biztonságosan kell kitennie a portot (VPN ajánlott)."
     ],
     "backHome": "← Vissza a Főoldalra",
-    "metaTitle": "Ollama beállítási útmutató — Screenshot (App) Maker"
+    "metaTitle": "Ollama beállítási útmutató — Screenshot (App) Maker",
+    "pill": "Ollama integráció",
+    "ctaTitle": "Készen állsz a helyi testreszabásra?",
+    "ctaBody": "Térj vissza az alkalmazáshoz, teszteld a kapcsolatot, és kezdj egy helyi verzióval."
   },
   "privacy": {
     "metaTitle": "Adatvédelmi szabályzat — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Vissza a Főoldalra"
+    "backHome": "← Vissza a Főoldalra",
+    "pill": "Adatvédelmi szabályzat"
+  },
+  "common": {
+    "skipToContent": "Ugrás a tartalomra",
+    "homeAriaLabel": "Screenshot App Maker kezdőlap",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funkciók",
+    "localization": "Helyi testreszabás",
+    "privacy": "Adatvédelem",
+    "ollamaSetup": "Ollama beállítása",
+    "ollamaSetupShort": "Ollama beállítás",
+    "downloadIos": "Letöltés iOS-re",
+    "downloadIosAriaLabel": "Screenshot (App) Maker letöltése iPhone-ra és iPad-re az App Store-ból",
+    "primaryNavigation": "Fő navigáció",
+    "footerNavigation": "Lábléc navigáció",
+    "backHome": "Vissza a kezdőlapra",
+    "footerTagline": "App Store képernyőképek, egyszerűen.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Nyelv kiválasztása",
+    "kicker": "Megjelenítési nyelv",
+    "title": "Válassz nyelvet",
+    "close": "Nyelvi menü bezárása",
+    "hint": "Válaszd azt a nyelvet, amelyik a legtermészetesebb számodra. A terméknemek és technikai parancsok változatlanok maradnak."
   }
 }

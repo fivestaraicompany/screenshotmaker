@@ -1,6 +1,12 @@
 const SUPPORTED_LANGUAGES = [
   "en",
+  "af",
+  "am",
   "ar",
+  "az",
+  "be",
+  "bg",
+  "bn",
   "ca",
   "cs",
   "da",
@@ -39,7 +45,13 @@ const SUPPORTED_LANGUAGES = [
 
 const LANGUAGE_LABELS = {
   en: "English",
+  af: "Afrikaans",
+  am: "አማርኛ",
   ar: "العربية",
+  az: "Azərbaycanca",
+  be: "Беларуская",
+  bg: "Български",
+  bn: "বাংলা",
   ca: "Català",
   cs: "Čeština",
   da: "Dansk",
@@ -78,11 +90,15 @@ const LANGUAGE_LABELS = {
 
 const RTL_LANGUAGES = new Set(["ar", "he"]);
 const STORAGE_KEY = "screenshotMakerLanguage";
+const dictionaryCache = new Map();
 
 function normalizeLanguage(value) {
   if (!value) return null;
 
-  const normalized = String(value).trim().replace("_", "-").toLowerCase();
+  const normalized = String(value)
+    .trim()
+    .replaceAll("_", "-")
+    .toLowerCase();
   const exact = SUPPORTED_LANGUAGES.find(
     (language) => language.toLowerCase() === normalized,
   );
@@ -97,6 +113,9 @@ function normalizeLanguage(value) {
   if (base === "pt") return region === "br" ? "pt-BR" : "pt-PT";
   if (base === "fr" && region === "ca") return "fr-CA";
   if (base === "es" && region === "mx") return "es-MX";
+  if (base === "no") return "nb";
+  if (base === "iw") return "he";
+  if (base === "in") return "id";
 
   return (
     SUPPORTED_LANGUAGES.find((language) => language.toLowerCase() === base) ??
@@ -110,7 +129,12 @@ function initialLanguage() {
   );
   if (urlLanguage) return urlLanguage;
 
-  const storedLanguage = normalizeLanguage(localStorage.getItem(STORAGE_KEY));
+  let storedLanguage = null;
+  try {
+    storedLanguage = normalizeLanguage(localStorage.getItem(STORAGE_KEY));
+  } catch {
+    // Storage may be unavailable in privacy-focused browser modes.
+  }
   if (storedLanguage) return storedLanguage;
 
   for (const browserLanguage of navigator.languages ?? [navigator.language]) {
@@ -132,15 +156,45 @@ function valueAtPath(dictionary, path) {
 }
 
 async function fetchDictionary(language) {
-  const response = await fetch(`./i18n/${language}.json`);
-  if (!response.ok) {
-    throw new Error(`Unable to load language resource: ${language}`);
+  if (!dictionaryCache.has(language)) {
+    dictionaryCache.set(
+      language,
+      fetch(`./i18n/${language}.json`).then((response) => {
+        if (!response.ok) {
+          throw new Error(`Unable to load language resource: ${language}`);
+        }
+        return response.json();
+      }),
+    );
   }
-  return response.json();
+  return dictionaryCache.get(language);
 }
 
 function translatedValue(primary, fallback, key) {
   return valueAtPath(primary, key) ?? valueAtPath(fallback, key);
+}
+
+function setLocalizedHtml(element, value) {
+  const template = document.createElement("template");
+  template.innerHTML = value;
+  const allowedTags = new Set(["BR", "CODE", "SPAN", "STRONG"]);
+
+  template.content.querySelectorAll("*").forEach((node) => {
+    if (!allowedTags.has(node.tagName)) {
+      node.replaceWith(...node.childNodes);
+      return;
+    }
+
+    [...node.attributes].forEach((attribute) => {
+      const isBrandClass =
+        node.tagName === "SPAN" &&
+        attribute.name === "class" &&
+        attribute.value === "brand-soft";
+      if (!isBrandClass) node.removeAttribute(attribute.name);
+    });
+  });
+
+  element.replaceChildren(template.content.cloneNode(true));
 }
 
 function updateLocalizedLinks(language) {
@@ -171,7 +225,7 @@ function applyDictionary(language, dictionary, englishDictionary) {
       englishDictionary,
       element.dataset.i18nHtml,
     );
-    if (typeof value === "string") element.innerHTML = value;
+    if (typeof value === "string") setLocalizedHtml(element, value);
   });
 
   document.querySelectorAll("[data-i18n-attr]").forEach((element) => {
@@ -199,6 +253,20 @@ function applyDictionary(language, dictionary, englishDictionary) {
     document
       .querySelector('meta[name="description"]')
       ?.setAttribute("content", description);
+    document
+      .querySelector('meta[property="og:description"]')
+      ?.setAttribute("content", description);
+    document
+      .querySelector('meta[name="twitter:description"]')
+      ?.setAttribute("content", description);
+  }
+  if (typeof title === "string") {
+    document
+      .querySelector('meta[property="og:title"]')
+      ?.setAttribute("content", title);
+    document
+      .querySelector('meta[name="twitter:title"]')
+      ?.setAttribute("content", title);
   }
 
   document.documentElement.lang = language;
@@ -267,7 +335,11 @@ async function initializeLocalization() {
     }
 
     currentLanguage = normalized;
-    localStorage.setItem(STORAGE_KEY, normalized);
+    try {
+      localStorage.setItem(STORAGE_KEY, normalized);
+    } catch {
+      // The URL still preserves the selected language when storage is blocked.
+    }
     applyDictionary(normalized, dictionary, englishDictionary);
 
     dialog.querySelectorAll(".language-option").forEach((option) => {

@@ -2,7 +2,11 @@
   "meta": {
     "title": "스크린샷(앱) 제작기",
     "description": "유연한 템플릿을 사용하여 App Store 스크린샷을 쉽게 만드세요.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "스크린샷 (App) Maker — 앱 스토어 스크린샷, 쉽게 제작",
+    "homeDescription": "정교하고 제출 준비가 완료된 앱 스토어 스크린샷을 만들고, Ollama를 활용해 현지화 버전도 손쉽게 생성하세요.",
+    "ollamaDescription": "스크린샷 (App) Maker를 Ollama 서버에 연결하여 개인 정보 보호가 강화된 AI 기반 스크린샷 현지화를 경험하세요.",
+    "privacyDescription": "스크린샷 (App) Maker가 스크린샷, 편집 내역 및 현지화 워크플로우의 프라이버시를 어떻게 보호하는지 알아보세요."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "몇 분 안에 App Store 스크린샷을 만드세요",
     "heroBody": "3~5개의 스크린샷을 선택하고 템플릿에 넣고, 마케팅 텍스트를 추가하고, 업로드할 이미지를 내보내세요.",
     "featuresTitle": "주요 기능",
-    "features": [
-      "사용자 지정 가능한 템플릿을 사용하여 세련된 App Store 스크린샷을 만드세요",
-      "파일 앱 또는 사진 라이브러리에서 이미지를 가져오세요",
-      "iPhone, iPad, Apple Watch 및 Apple TV 스크린샷 지원",
-      "자유롭게 마케팅 텍스트를 추가하고 레이아웃을 시각적으로 조정하세요"
-    ],
+    "features": {
+      "overline": "모든 것이 한 곳에",
+      "titleHtml": "준비 시간은 줄이고,<br />더 자신 있게 출시하세요.",
+      "description": "스크린샷 (App) Maker는 앱 출시 마지막 단계의 반복 작업을 하나의 명확하고 시각적인 워크플로우로 전환합니다.",
+      "cards": [
+        {
+          "title": "앱 화면을 드롭하세요.",
+          "body": "스크린샷을 가져와 정교한 기기 레이아웃에 배치하고, 몇 분 만에 완성된 앱 스토어 스토리를 구성하세요.",
+          "drop": "여기에 스크린샷을 드롭하세요",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "한 번 디자인하면 끝.",
+          "body": "색상, 레이아웃, 기기 설정, 타이포그래피, 그림자를 모든 페이지에 적용하되 각 메시지는 고유하게 유지하세요."
+        },
+        {
+          "title": "모든 화면에 맞춰 제작.",
+          "body": "하나의 프로젝트에서 iPhone, iPad, Apple Watch, Apple TV 및 피처 그래픽용 자산을 준비하세요."
+        },
+        {
+          "title": "제출 준비가 완료된 패키지를 내보내기.",
+          "body": "고해상도 이미지를 렌더링하고 현지화 파일을 정리한 후, 번역된 앱 스토어 메타데이터를 하나의 깔끔한 아카이브로 번들링하세요.",
+          "folder": "앱 스토어 자산"
+        }
+      ]
+    },
     "aiTitle": "AI 기반 지역화",
     "aiBody": "Ollama 통합을 통해 국가별 코드로 번역된 마케팅 텍스트를 생성하여 빠른 글로벌 제출을 할 수 있습니다.",
     "aiLink": "Ollama 설정 튜토리얼 열기 →",
@@ -36,7 +60,122 @@
     "learnLink": "개인정보처리방침 →",
     "footerNote": "팁: URL에 <code>?lang=ko</code> (또는 지원되는 코드)를 추가하여 지역 설정을 미리 볼 수 있습니다.",
     "supportedPill": "iPhone · iPad · Watch · TV 지원",
-    "copyright": "© 2026 스크린샷(앱) 제작기"
+    "copyright": "© 2026 스크린샷(앱) 제작기",
+    "hero": {
+      "eyebrow": "출시 직전, 마지막 단계를 위한 솔루션",
+      "titleHtml": "앱 화면을 <span>제출 준비가 완료된 스크린샷</span>으로 변환하세요.",
+      "description": "앱 제출에 필요한 모든 스크린샷을 디자인하고, Ollama를 연결하여 현지화 버전도 생성하세요. 하나하나 수동으로 다시 만들 필요가 없습니다.",
+      "primaryAction": "사용 방법 보기",
+      "secondaryAction": "현지화 탐색하기",
+      "readyFor": "지원하는 대상",
+      "supportAriaLabel": "지원 내보내기 형식",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "피처 그래픽"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "스크린샷 메이커 제품 미리보기",
+      "project": "여름 출시",
+      "saved": "저장됨",
+      "appStorePreview": "앱 스토어 미리보기",
+      "display": "6.7″ 디스플레이",
+      "shots": [
+        {
+          "line1": "계획은 줄이고.",
+          "line2": "실행은 늘리세요."
+        },
+        {
+          "line1": "모든 것이",
+          "line2": "한 곳에."
+        },
+        {
+          "line1": "당신의 하루를 위해",
+          "line2": "디자인되었습니다."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "스크린샷 현지화 중…",
+      "exportComplete": "내보내기 완료",
+      "exportReady": "PNG 및 메타데이터 준비 완료"
+    },
+    "proof": [
+      {
+        "title": "하나의 시각적 작업 공간",
+        "body": "원본 화면에서 정교한 자산까지"
+      },
+      {
+        "title": "한 번 디자인, 모든 언어 지원",
+        "body": "Ollama로 스크린샷 카피 번역"
+      },
+      {
+        "title": "정리된 내보내기 한 번에",
+        "body": "이미지와 메타데이터를 함께 패키징"
+      }
+    ],
+    "proofAriaLabel": "제품 혜택",
+    "localization": {
+      "ariaLabel": "Ollama 현지화 미리보기",
+      "pill": "귀하의 Ollama 서버 구동",
+      "title": "스크린샷 캠페인을 모든 시장에 맞게 준비하세요.",
+      "description": "스크린샷 (App) Maker를 Ollama에 연결하여 스크린샷 헤드라인과 앱 스토어 메타데이터를 같은 워크플로우에서 번역하세요. 원본 레이아웃은 그대로 유지된 채 카피만 각 언어에 맞게 변경됩니다.",
+      "checks": [
+        "배치로 모든 스크린샷 헤드라인 번역",
+        "설명, 키워드 및 릴리스 노트 현지화",
+        "최종 내보내기 전 번역 검토"
+      ],
+      "action": "Ollama 설정 가이드 보기",
+      "source": "원본 · 영어",
+      "localeCount": "4개 언어 지원",
+      "sourceLabel": "원본",
+      "ready": "준비됨",
+      "samples": [
+        "계획은 줄이고.<br /><strong>실행은 늘리세요.</strong>",
+        "계획은 줄이고.<br /><strong>진전은 늘리세요.</strong>",
+        "설치는 줄이고.<br /><strong>창작은 늘리세요.</strong>",
+        "마찰은 줄이고.<br /><strong>동력은 늘리세요.</strong>"
+      ],
+      "complete": "현지화 완료",
+      "completeBody": "카피 및 메타데이터 검토 준비 완료"
+    },
+    "workflow": {
+      "overline": "출시까지 더 짧은 경로",
+      "title": "원본 화면을 넣고, 스토어 준비된 자산을 꺼내세요.",
+      "description": "복잡한 디자인 설정이 필요 없습니다. 모든 언어를 위해 동일한 캠페인을 다시 만들 필요가 없습니다.",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "가져오기",
+          "body": "앱 스토리를 가장 잘 보여주는 화면을 추가하세요."
+        },
+        {
+          "number": "STEP 02",
+          "title": "디자인 및 현지화",
+          "body": "외관은 한 번에 구축하고, Ollama로 카피를 번역하세요."
+        },
+        {
+          "number": "STEP 03",
+          "title": "내보내기",
+          "body": "정리된 이미지와 메타데이터를 다운로드하여 제출 준비를 완료하세요."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "설계 단계부터 프라이버시 보호",
+      "title": "앱 자산은 귀하의 통제 하에 유지됩니다.",
+      "description": "스크린샷 편집은 기기에서 진행됩니다. Ollama를 선택할 경우 텍스트는 구성한 서버 주소로만 전송됩니다.",
+      "action": "개인정보처리방침 읽기"
+    },
+    "final": {
+      "overline": "스크린샷부터 제출까지",
+      "title": "마지막 단계를 간단하게 만드세요.",
+      "description": "다음 앱 출시에서 필요한 모든 스크린샷을 디자인하고, 현지화하며, 내보내세요.",
+      "action": "앱 스토어에서 다운로드",
+      "appIconAlt": "스크린샷 앱 메이커 앱 아이콘"
+    }
   },
   "ollama": {
     "title": "Ollama 설정 튜토리얼",
@@ -63,7 +202,10 @@
       "원격 서버(홈 PC, VPS)를 사용하려면 포트를 안전하게 노출해야 합니다(VPN 권장)."
     ],
     "backHome": "← 홈으로 돌아가기",
-    "metaTitle": "Ollama 설정 튜토리얼 — Screenshot (App) Maker"
+    "metaTitle": "Ollama 설정 튜토리얼 — Screenshot (App) Maker",
+    "pill": "Ollama 통합",
+    "ctaTitle": "현지화를 시작할 준비가 되셨나요?",
+    "ctaBody": "앱으로 돌아가 연결을 테스트하고, 언어 하나부터 시작하세요."
   },
   "privacy": {
     "metaTitle": "개인 정보 처리 방침 — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← 홈으로 돌아가기"
+    "backHome": "← 홈으로 돌아가기",
+    "pill": "개인정보처리방침"
+  },
+  "common": {
+    "skipToContent": "콘텐츠로 바로 이동",
+    "homeAriaLabel": "스크린샷 앱 메이커 홈",
+    "brandHtml": "스크린샷 <span class=\"brand-soft\">(App)</span> 메이커",
+    "features": "기능",
+    "localization": "현지화",
+    "privacy": "프라이버시",
+    "ollamaSetup": "Ollama 설정",
+    "ollamaSetupShort": "Ollama 설정",
+    "downloadIos": "iOS 다운로드",
+    "downloadIosAriaLabel": "앱 스토어에서 iPhone 및 iPad용 스크린샷 (App) Maker 다운로드",
+    "primaryNavigation": "주요 탐색",
+    "footerNavigation": "푸터 탐색",
+    "backHome": "홈으로 돌아가기",
+    "footerTagline": "앱 스토어 스크린샷, 쉽게 제작.",
+    "copyright": "© 2026 스크린샷 (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "언어 선택",
+    "kicker": "표시 언어",
+    "title": "언어 선택",
+    "close": "언어 메뉴 닫기",
+    "hint": "가장 자연스러운 언어를 선택하세요. 제품 이름과 기술 명령어는 변경되지 않습니다."
   }
 }

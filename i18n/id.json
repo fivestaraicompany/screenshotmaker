@@ -2,7 +2,11 @@
   "meta": {
     "title": "Pembuat Tangkapan Layar (Aplikasi)",
     "description": "Buat tangkapan layar App Store yang bersih dan modern dengan mudah menggunakan templat fleksibel.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Screenshot App Store, Dibuat Mudah",
+    "homeDescription": "Buat screenshot App Store yang rapi dan siap submit, lalu gunakan Ollama untuk menghasilkan versi lokalnya dengan mudah.",
+    "ollamaDescription": "Hubungkan Screenshot (App) Maker ke server Ollama Anda untuk lokalisasi screenshot berbasis AI secara privat.",
+    "privacyDescription": "Pelajari bagaimana Screenshot (App) Maker menjaga privasi screenshot, editan, dan alur kerja lokalisasi Anda."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Buat tangkapan layar App Store dalam hitungan menit",
     "heroBody": "Pilih 3–5 tangkapan layar, masukkan ke dalam templat, tambahkan teks pemasaran, dan ekspor gambar yang siap diunggah.",
     "featuresTitle": "Fitur Utama",
-    "features": [
-      "Buat tangkapan layar App Store yang bergaya menggunakan templat yang dapat disesuaikan",
-      "Impor gambar dari aplikasi Files atau perpustakaan foto Anda",
-      "Dukungan untuk tangkapan layar iPhone, iPad, Apple Watch, dan Apple TV",
-      "Tambahkan teks pemasaran secara bebas dan sesuaikan tata letak secara visual"
-    ],
+    "features": {
+      "overline": "Semua dalam satu tempat",
+      "titleHtml": "Habiskan lebih sedikit waktu untuk persiapan.<br />Luncurkan dengan lebih percaya diri.",
+      "description": "Screenshot (App) Maker mengubah pekerjaan repetitif di akhir rilis aplikasi menjadi satu alur kerja visual yang jelas.",
+      "cards": [
+        {
+          "title": "Masukkan layar aplikasi Anda.",
+          "body": "Impor screenshot, tempatkan dalam tata letak perangkat yang rapi, dan susun cerita App Store lengkap dalam hitungan menit.",
+          "drop": "Seret screenshot ke sini",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Desain sekali.",
+          "body": "Terapkan warna, tata letak, pengaturan perangkat, tipografi, dan bayangan di setiap halaman sambil menjaga setiap pesan tetap unik."
+        },
+        {
+          "title": "Muat semua layar.",
+          "body": "Siapkan aset untuk iPhone, iPad, Apple Watch, Apple TV, dan gambar fitur dari proyek yang sama."
+        },
+        {
+          "title": "Ekspor paket siap submit.",
+          "body": "Render gambar resolusi tinggi, atur file lokal, dan bungkus metadata App Store terjemahan Anda ke dalam satu arsip rapi.",
+          "folder": "Aset App Store"
+        }
+      ]
+    },
     "aiTitle": "Lokalisasi Bertenaga AI",
     "aiBody": "Dengan integrasi Ollama, hasilkan teks pemasaran yang diterjemahkan per kode negara untuk pengajuan global yang cepat.",
     "aiLink": "Buka tutorial penyiapan Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Kebijakan Privasi →",
     "footerNote": "Tip: tambahkan <code>?lang=ko</code> (atau kode yang didukung lainnya) ke URL untuk melihat pratinjau lokal.",
     "supportedPill": "Mendukung iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Pembuat Tangkapan Layar (Aplikasi)"
+    "copyright": "© 2026 Pembuat Tangkapan Layar (Aplikasi)",
+    "hero": {
+      "eyebrow": "Dibuat untuk langkah terakhir sebelum peluncuran",
+      "titleHtml": "Ubah layar aplikasi menjadi <span>screenshot siap submit.</span>",
+      "description": "Desain setiap screenshot yang dibutuhkan untuk submission aplikasi Anda, lalu hubungkan Ollama untuk membuat versi lokal—tanpa harus membuatnya satu per satu secara manual.",
+      "primaryAction": "Lihat cara kerjanya",
+      "secondaryAction": "Jelajahi lokalisasi",
+      "readyFor": "Siap untuk",
+      "supportAriaLabel": "Tipe ekspor yang didukung",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Gambar Fitur"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Pratinjau produk Screenshot Maker",
+      "project": "Rilis musim panas",
+      "saved": "Tersimpan",
+      "appStorePreview": "Pratinjau App Store",
+      "display": "Layar 6,7″",
+      "shots": [
+        {
+          "line1": "Rencanakan lebih sedikit.",
+          "line2": "Lakukan lebih banyak."
+        },
+        {
+          "line1": "Semua",
+          "line2": "dalam satu tempat."
+        },
+        {
+          "line1": "Dibuat untuk",
+          "line2": "hari Anda."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Melokalkan screenshot…",
+      "exportComplete": "EKSPOR SELESAI",
+      "exportReady": "PNG + metadata siap"
+    },
+    "proof": [
+      {
+        "title": "Satu ruang kerja visual",
+        "body": "Dari layar mentah ke aset yang rapi"
+      },
+      {
+        "title": "Satu desain, setiap bahasa",
+        "body": "Terjemahkan teks screenshot dengan Ollama"
+      },
+      {
+        "title": "Satu ekspor terorganisir",
+        "body": "Kemas gambar dan metadata bersama-sama"
+      }
+    ],
+    "proofAriaLabel": "Manfaat produk",
+    "localization": {
+      "ariaLabel": "Pratinjau lokalisasi Ollama",
+      "pill": "Didukung oleh server Ollama Anda",
+      "title": "Kampanye screenshot Anda, siap berbicara ke setiap pasar.",
+      "description": "Hubungkan Screenshot (App) Maker ke Ollama dan terjemahkan judul screenshot serta metadata App Store dalam alur kerja yang sama. Tata letak asli Anda tetap utuh sementara teks berubah untuk setiap bahasa.",
+      "checks": [
+        "Terjemahkan semua judul screenshot secara batch",
+        "Lokalkan deskripsi, kata kunci, dan catatan rilis",
+        "Tinjau terjemahan sebelum ekspor akhir"
+      ],
+      "action": "Lihat panduan pengaturan Ollama",
+      "source": "Sumber · Bahasa Inggris",
+      "localeCount": "4 bahasa",
+      "sourceLabel": "Sumber",
+      "ready": "Siap",
+      "samples": [
+        "Rencanakan lebih sedikit.<br /><strong>Lakukan lebih banyak.</strong>",
+        "Perencanaan lebih sedikit.<br /><strong>Progres lebih banyak.</strong>",
+        "Setup lebih sedikit.<br /><strong>Kreasi lebih banyak.</strong>",
+        "Hambatan lebih sedikit.<br /><strong>Momentum lebih besar.</strong>"
+      ],
+      "complete": "Lokalisasi selesai",
+      "completeBody": "Teks dan metadata siap untuk ditinjau"
+    },
+    "workflow": {
+      "overline": "Jalan pintas menuju publikasi",
+      "title": "Layar mentah masuk. Aset siap toko keluar.",
+      "description": "Tidak ada setup desain yang rumit. Tidak ada pembangunan ulang kampanye yang sama untuk setiap bahasa.",
+      "steps": [
+        {
+          "number": "LANGKAH 01",
+          "title": "Impor",
+          "body": "Tambahkan layar yang paling baik menceritakan kisah aplikasi Anda."
+        },
+        {
+          "number": "LANGKAH 02",
+          "title": "Desain & lokalisasi",
+          "body": "Buat tampilan sekali, lalu terjemahkan teks Anda dengan Ollama."
+        },
+        {
+          "number": "LANGKAH 03",
+          "title": "Ekspor",
+          "body": "Unduh gambar terorganisir dan metadata, siap untuk submit."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privat sejak desain",
+      "title": "Aset aplikasi Anda tetap di bawah kendali Anda.",
+      "description": "Pengeditan screenshot terjadi di perangkat Anda. Saat Anda memilih Ollama, teks hanya dikirim ke alamat server yang Anda konfigurasi.",
+      "action": "Baca kebijakan privasi"
+    },
+    "final": {
+      "overline": "Dari screenshot ke submission",
+      "title": "Buat langkah terakhir terasa sederhana.",
+      "description": "Desain, lokalkan, dan ekspor setiap screenshot yang dibutuhkan untuk rilis aplikasi berikutnya.",
+      "action": "Unduh di App Store",
+      "appIconAlt": "Ikon aplikasi Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutorial Penyiapan Ollama",
@@ -63,7 +202,10 @@
       "Jika Anda lebih suka menggunakan server jarak jauh (PC rumahan, VPS), Anda harus mengekspos port dengan aman (VPN direkomendasikan)."
     ],
     "backHome": "← Kembali ke Beranda",
-    "metaTitle": "Tutorial Penyiapan Ollama — Pembuat Tangkapan Layar (Screenshot (App) Maker)"
+    "metaTitle": "Tutorial Penyiapan Ollama — Pembuat Tangkapan Layar (Screenshot (App) Maker)",
+    "pill": "Integrasi Ollama",
+    "ctaTitle": "Siap untuk melokalkan?",
+    "ctaBody": "Kembali ke aplikasi, uji koneksi, dan mulai dengan satu bahasa."
   },
   "privacy": {
     "metaTitle": "Kebijakan Privasi — Pembuat Tangkapan Layar (Screenshot (App) Maker)",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Kembali ke Beranda"
+    "backHome": "← Kembali ke Beranda",
+    "pill": "Kebijakan privasi"
+  },
+  "common": {
+    "skipToContent": "Lewati ke konten",
+    "homeAriaLabel": "Beranda Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Fitur",
+    "localization": "Lokalisasi",
+    "privacy": "Privasi",
+    "ollamaSetup": "Pengaturan Ollama",
+    "ollamaSetupShort": "Pengaturan Ollama",
+    "downloadIos": "Unduh untuk iOS",
+    "downloadIosAriaLabel": "Unduh Screenshot (App) Maker untuk iPhone dan iPad dari App Store",
+    "primaryNavigation": "Navigasi utama",
+    "footerNavigation": "Navigasi footer",
+    "backHome": "Kembali ke beranda",
+    "footerTagline": "Screenshot App Store, dibuat mudah.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Pilih bahasa",
+    "kicker": "Tampilan bahasa",
+    "title": "Pilih bahasa",
+    "close": "Tutup menu bahasa",
+    "hint": "Pilih bahasa yang paling terasa natural bagi Anda. Nama produk dan perintah teknis tetap tidak berubah."
   }
 }

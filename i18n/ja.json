@@ -2,7 +2,11 @@
   "meta": {
     "title": "スクリーンショット (アプリ) メーカー",
     "description": "柔軟なテンプレートを使用して、クリーンでモダンなApp Storeのスクリーンショットを簡単に作成します。",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store用スクリーンショットを簡単に作成",
+    "homeDescription": "洗練された提出対応済みのApp Store用スクリーンショットを作成し、Ollamaを活用してローカライズ版を簡単生成します。",
+    "ollamaDescription": "Screenshot (App) MakerをOllamaサーバーに接続し、プライベートなAIによるスクリーンショットのローカライズを実現します。",
+    "privacyDescription": "Screenshot (App) Makerがスクリーンショット、編集内容、およびローカライズワークフローをどのように保護するかをご覧ください。"
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "数分で App Store スクリーンショットを作成",
     "heroBody": "3～5枚のスクリーンショットを選択し、テンプレートにドロップして、マーケティングテキストを追加し、アップロード準備完了の画像をエクスポートします。",
     "featuresTitle": "主な機能",
-    "features": [
-      "カスタマイズ可能なテンプレートを使用して、スタイリッシュなApp Storeスクリーンショットを作成",
-      "ファイルアプリまたはフォトライブラリから画像をインポート",
-      "iPhone、iPad、Apple Watch、Apple TVのスクリーンショットに対応",
-      "マーケティングテキストを自由に追加し、レイアウトを視覚的に調整"
-    ],
+    "features": {
+      "overline": "すべてが一つに集まる",
+      "titleHtml": "準備にかかる時間を減らし。<br />より自信を持ってリリース。",
+      "description": "Screenshot (App) Makerは、アプリリリースの最終段階で繰り返される作業を、明確で視覚的なワークフローに変えます。",
+      "cards": [
+        {
+          "title": "アプリの画面をドラッグ＆ドロップ。",
+          "body": "スクリーンショットをインポートし、洗練されたデバイスレイアウトに配置して、数分でApp Store用のストーリーを完成させます。",
+          "drop": "ここにスクリーンショットをドロップ",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "デザインは一度だけ。",
+          "body": "色、レイアウト、デバイス設定、フォント、シャドウなどを全ページに一括適用し、各メッセージの独自性は保ちます。"
+        },
+        {
+          "title": "すべての画面にフィット。",
+          "body": "iPhone、iPad、Apple Watch、Apple TV、フィーチャーグラフィック用のアセットを、同じプロジェクトから準備します。"
+        },
+        {
+          "title": "提出対応済みのパッケージをエクスポート。",
+          "body": "高解像度画像のレンダリング、ローカライズファイルの整理、翻訳済みApp Storeメタデータのバンドルを一度に行います。",
+          "folder": "App Store用アセット"
+        }
+      ]
+    },
     "aiTitle": "AI搭載ローカリゼーション",
     "aiBody": "Ollamaとの連携により、迅速なグローバル送信のために、国コードごとに翻訳されたマーケティングテキストを生成します。",
     "aiLink": "Ollamaセットアップチュートリアルの開き方 →",
@@ -36,7 +60,122 @@
     "learnLink": "プライバシーポリシー →",
     "footerNote": "ヒント：URLに <code>?lang=ko</code>（または他のサポートされているコード）を追加して、ロケールをプレビューします。",
     "supportedPill": "iPhone · iPad · Watch · TV をサポート",
-    "copyright": "© 2026 スクリーンショット (アプリ) メーカー"
+    "copyright": "© 2026 スクリーンショット (アプリ) メーカー",
+    "hero": {
+      "eyebrow": "リリース直前の最終段階のために設計されました",
+      "titleHtml": "アプリの画面を<span>提出対応済みのスクリーンショット</span>に変換します。",
+      "description": "App Store提出に必要なすべてのスクリーンショットをデザインし、Ollamaを接続してローカライズ版を作成。手動で一つずつ作り直す必要はありません。",
+      "primaryAction": "仕組みを見る",
+      "secondaryAction": "ローカライズを検索",
+      "readyFor": "対応機種",
+      "supportAriaLabel": "対応するエクスポート形式",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "フィーチャーグラフィック"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker プロダクトプレビュー",
+      "project": "夏のリリース",
+      "saved": "保存済み",
+      "appStorePreview": "App Store プレビュー",
+      "display": "6.7インチ ディスプレイ",
+      "shots": [
+        {
+          "line1": "計画は最小限に。",
+          "line2": "実行を最大化。"
+        },
+        {
+          "line1": "すべてが",
+          "line2": "一つに集まる。"
+        },
+        {
+          "line1": "あなたの一日に",
+          "line2": "最適化されたデザイン。"
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "スクリーンショットをローカライズ中…",
+      "exportComplete": "エクスポート完了",
+      "exportReady": "PNGとメタデータ準備完了"
+    },
+    "proof": [
+      {
+        "title": "一つのビジュアルワークスペース",
+        "body": "生画面から洗練されたアセットへ"
+      },
+      {
+        "title": "一つのデザイン、すべての言語版へ",
+        "body": "Ollamaでスクリーンショットのテキストを翻訳"
+      },
+      {
+        "title": "整理されたエクスポート",
+        "body": "画像とメタデータをパッケージ化"
+      }
+    ],
+    "proofAriaLabel": "製品のメリット",
+    "localization": {
+      "ariaLabel": "Ollama ローカライズ プレビュー",
+      "pill": "あなたのOllamaサーバーで動作",
+      "title": "スクリーンショットキャンペーンを、すべての市場で話せるように。",
+      "description": "Screenshot (App) MakerをOllamaに接続し、スクリーンショットの見出しとApp Storeメタデータを同じワークフロー内で翻訳します。元のレイアウトはそのままに、コピーのみが各言語版に合わせて変更されます。",
+      "checks": [
+        "バッチ処理で全スクリーンショットの見出しを翻訳",
+        "説明文、キーワード、リリースノートをローカライズ",
+        "最終エクスポート前に翻訳内容を確認"
+      ],
+      "action": "Ollama設定ガイドを見る",
+      "source": "ソース言語 · 英語",
+      "localeCount": "4つの言語版",
+      "sourceLabel": "ソース言語",
+      "ready": "準備完了",
+      "samples": [
+        "計画は最小限に。<br /><strong>実行を最大化。</strong>",
+        "計画を減らし、<br /><strong>進捗を増やす。</strong>",
+        "セットアップを簡素化し、<br /><strong>創造性を高める。</strong>",
+        "摩擦を減らし、<br /><strong>勢いを付ける。</strong>"
+      ],
+      "complete": "ローカライズ完了",
+      "completeBody": "コピーとメタデータを確認する準備ができました"
+    },
+    "workflow": {
+      "overline": "公開までの短い道筋",
+      "title": "生画面を入力。ストア対応アセットを出力。",
+      "description": "複雑なデザイン設定は不要。すべての言語版のために同じキャンペーンを作り直す必要もありません。",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "インポート",
+          "body": "アプリのストーリーを最もよく伝える画面を追加します。"
+        },
+        {
+          "number": "STEP 02",
+          "title": "デザイン＆ローカライズ",
+          "body": "見た目を一度構築し、Ollamaでコピーを翻訳します。"
+        },
+        {
+          "number": "STEP 03",
+          "title": "エクスポート",
+          "body": "整理された画像とメタデータをダウンロードし、提出準備を整えます。"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "プライバシーを設計思想に",
+      "title": "アプリのアセットはあなたの管理下に。",
+      "description": "スクリーンショットの編集はデバイス上で行われます。Ollamaを選択した場合、テキストは設定したサーバーアドレスへのみ送信されます。",
+      "action": "プライバシーポリシーを読む"
+    },
+    "final": {
+      "overline": "スクリーンショットから提出まで",
+      "title": "最後のステップをシンプルに。",
+      "description": "次のアプリリリースに必要なすべてのスクリーンショットのデザイン、ローカライズ、エクスポートを行います。",
+      "action": "App Storeでダウンロード",
+      "appIconAlt": "Screenshot App Maker アプリアイコン"
+    }
   },
   "ollama": {
     "title": "Ollama セットアップチュートリアル",
@@ -63,7 +202,10 @@
       "リモートサーバー（自宅のPC、VPSなど）を使用する場合は、ポートを安全に公開する必要があります（VPNを推奨します）。"
     ],
     "backHome": "← ホームに戻る",
-    "metaTitle": "Ollamaセットアップチュートリアル — Screenshot (App) Maker"
+    "metaTitle": "Ollamaセットアップチュートリアル — Screenshot (App) Maker",
+    "pill": "Ollama統合",
+    "ctaTitle": "ローカライズを始めませんか？",
+    "ctaBody": "アプリに戻り、接続をテストして、1つの言語版から始めてください。"
   },
   "privacy": {
     "metaTitle": "プライバシーポリシー — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← ホームに戻る"
+    "backHome": "← ホームに戻る",
+    "pill": "プライバシーポリシー"
+  },
+  "common": {
+    "skipToContent": "コンテンツへスキップ",
+    "homeAriaLabel": "Screenshot App Maker ホーム",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "機能",
+    "localization": "ローカライズ",
+    "privacy": "プライバシー",
+    "ollamaSetup": "Ollamaの設定",
+    "ollamaSetupShort": "Ollama設定",
+    "downloadIos": "iOS版をダウンロード",
+    "downloadIosAriaLabel": "App StoreからiPhoneおよびiPad用Screenshot (App) Makerをダウンロード",
+    "primaryNavigation": "メインナビゲーション",
+    "footerNavigation": "フッターナビゲーション",
+    "backHome": "ホームに戻る",
+    "footerTagline": "App Store用スクリーンショットを、簡単に。",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "言語を選択",
+    "kicker": "表示言語",
+    "title": "言語の選択",
+    "close": "言語メニューを閉じる",
+    "hint": "最も自然に感じられる言語を選んでください。製品名や技術的なコマンドは変更されません。"
   }
 }

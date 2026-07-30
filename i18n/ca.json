@@ -24,12 +24,32 @@
     "heroTitle": "Crea captures de pantalla per a l'App Store en minuts",
     "heroBody": "Selecciona de 3 a 5 captures de pantalla, deixa-les a les plantilles, afegeix text de màrqueting i exporta imatges llestes per pujar.",
     "featuresTitle": "Característiques clau",
-    "features": [
-      "Crea captures de pantalla per a l'App Store amb estil mitjançant plantilles personalitzables",
-      "Importa imatges des de l'aplicació Arxius o la teva biblioteca de fotos",
-      "Suport per a captures de pantalla d'iPhone, iPad, Apple Watch i Apple TV",
-      "Afegeix text de màrqueting lliurement i ajusta el disseny visualment"
-    ],
+    "features": {
+      "overline": "Tot en un mateix lloc",
+      "titleHtml": "Dedica menys temps a la preparació.<br />Publica amb més confiança.",
+      "description": "Screenshot (App) Maker transforma les tasques repetitives que es fan al final d'un llançament d'aplicació en un flux de treball visual clar i senzill.",
+      "cards": [
+        {
+          "title": "Arrossega les captures de pantalla de la teva aplicació.",
+          "body": "Importa captures de pantalla, col·loca-les en dissenys atractius per a dispositius i organitza una història completa per a l'App Store en pocs minuts.",
+          "drop": "Arrossega les captures de pantalla aquí",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Disseny una vegada.",
+          "body": "Aplica colors, dissenys, configuracions del dispositiu, tipografia i ombres a totes les pàgines, mantenint cada missatge únic."
+        },
+        {
+          "title": "Adapta't a qualsevol pantalla.",
+          "body": "Prepara recursos per a iPhone, iPad, Apple Watch, Apple TV i gràfics promocionals des del mateix projecte."
+        },
+        {
+          "title": "Exporta un paquet preparat per a la publicació.",
+          "body": "Genera imatges d'alta resolució, organitza fitxers localitzats i empaqueta les metadades de l'App Store traduïdes en un arxiu net.",
+          "folder": "Recursos per a l'App Store"
+        }
+      ]
+    },
     "aiTitle": "Localització impulsada per IA",
     "aiBody": "Amb la integració d'Ollama, genera text de màrqueting traduït per codi de país per a enviaments globals ràpids.",
     "aiLink": "Obre el tutorial de configuració d'Ollama →",
@@ -54,7 +74,8 @@
         "Watch",
         "TV",
         "Gràfic destacat"
-      ]
+      ],
+      "supportAriaLabel": "Tipus d'exportació admesos"
     },
     "preview": {
       "project": "Llançament d'estiu",
@@ -77,7 +98,9 @@
       "ollama": "OLLAMA",
       "localizing": "Localitzant captures de pantalla…",
       "exportComplete": "EXPORTACIÓ COMPLETA",
-      "exportReady": "PNG i metadades preparats"
+      "exportReady": "PNG i metadades preparats",
+      "ariaLabel": "Previsualització del producte Screenshot Maker",
+      "display": "Pantalla de 6,7 polzades"
     },
     "proof": [
       {
@@ -85,9 +108,74 @@
         "body": "De captures brutas a actius acabats"
       },
       {
-        "title": "Un disseny, cada localització"
+        "title": "Un disseny, cada localització",
+        "body": "Tradueix el text de les captures de pantalla amb Ollama"
+      },
+      {
+        "title": "Una exportació organitzada",
+        "body": "Agrupa imatges i metadades juntament"
       }
-    ]
+    ],
+    "proofAriaLabel": "Beneficis del producte",
+    "localization": {
+      "ariaLabel": "Previsualització de la localització amb Ollama",
+      "pill": "Impulsat pel teu servidor Ollama",
+      "title": "La teva campanya de captures de pantalla, preparada per parlar en cada mercat.",
+      "description": "Connecta Screenshot (App) Maker a Ollama i tradueix els títols de les captures de pantalla i les metadades de l'App Store dins del mateix flux de treball. El teu disseny original es manté intacte mentre el text canvia per a cada idioma.",
+      "checks": [
+        "Tradueix tots els títols de les captures de pantalla en un paquet.",
+        "Localitza descripcions, paraules clau i notes de la versió.",
+        "Revisa les traduccions abans de l'exportació final."
+      ],
+      "action": "Consulta la guia de configuració d'Ollama",
+      "source": "Origen · Català",
+      "localeCount": "4 idiomes",
+      "sourceLabel": "Origen",
+      "ready": "Preparat",
+      "samples": [
+        "Planifica menys.<br /><strong>Fes més.</strong>",
+        "Menys planificació.<br /><strong>Més progrés.</strong>",
+        "Menys configuració.<br /><strong>Més creació.</strong>",
+        "Menys dificultats.<br /><strong>Més impuls.</strong>"
+      ],
+      "complete": "Localització completada",
+      "completeBody": "El text i les metadades estan llestos per a la revisió"
+    },
+    "workflow": {
+      "overline": "Un camí més curt per publicar",
+      "title": "Pantalles en brut. Recursos preparats per a l'App Store, fora.",
+      "description": "Sense configuració de disseny complicada. Sense haver de reconstruir la mateixa campanya per a cada idioma.",
+      "steps": [
+        {
+          "number": "PAS 1",
+          "title": "Importa",
+          "body": "Afegeix les pantalles que millor expliquen la història de la teva aplicació."
+        },
+        {
+          "number": "PAS 2",
+          "title": "Disseny i localitza",
+          "body": "Crea el disseny una vegada, després tradueix el text amb Ollama."
+        },
+        {
+          "number": "PAS 3",
+          "title": "Exporta",
+          "body": "Descarrega imatges i metadades organitzades, llestes per a la presentació."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privacitat per defecte",
+      "title": "Els recursos de la teva aplicació romanen sota el teu control.",
+      "description": "L'edició de captures de pantalla es fa al teu dispositiu. Quan utilitzes Ollama, el text només s'envia a l'adreça del servidor que configureu.",
+      "action": "Llegeix la política de privacitat"
+    },
+    "final": {
+      "overline": "De les captures de pantalla a la presentació",
+      "title": "Fes que l'últim pas sigui senzill.",
+      "description": "Disseny, localitza i exporta totes les captures de pantalla que necessita el teu proper llançament d'aplicació.",
+      "action": "Descarrega a l'App Store",
+      "appIconAlt": "Icona de l'aplicació Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutorial de configuració d'Ollama",
@@ -114,7 +202,10 @@
       "Si prefereixes utilitzar un servidor remot (PC a casa, VPS), has d'exposar el port de forma segura (VPN recomanada)."
     ],
     "backHome": "← Torna a la pàgina principal",
-    "metaTitle": "Tutorial de configuració d'Ollama — Screenshot (App) Maker"
+    "metaTitle": "Tutorial de configuració d'Ollama — Screenshot (App) Maker",
+    "pill": "Integració amb Ollama",
+    "ctaTitle": "Preparat per localitzar?",
+    "ctaBody": "Torna a l'aplicació, comprova la connexió i comença amb un idioma."
   },
   "privacy": {
     "metaTitle": "Política de privadesa — Screenshot (App) Maker",
@@ -167,7 +258,8 @@
         ]
       }
     ],
-    "backHome": "← Torna a la pàgina principal"
+    "backHome": "← Torna a la pàgina principal",
+    "pill": "Política de privacitat"
   },
   "common": {
     "skipToContent": "Saltar al contingut",
@@ -180,13 +272,17 @@
     "ollamaSetupShort": "Configuració d'Ollama",
     "backHome": "Tornar a l'inici",
     "footerTagline": "Captures de pantalla per a l'App Store, ara més fàcils.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadIos": "Descarrega per a iOS",
+    "downloadIosAriaLabel": "Descarrega Screenshot (App) Maker per a iPhone i iPad des de l'App Store",
+    "primaryNavigation": "Navegació principal",
+    "footerNavigation": "Navegació del peu de pàgina"
   },
   "language": {
     "buttonLabel": "Tria l'idioma",
     "kicker": "Idioma de visualització",
     "title": "Tria un idioma",
     "close": "Tanca el menú d'idiomes",
-    "hint": "El text de les noves pàgines actualment s'ofereix en anglès. Es poden afegir traduccions addicionals al recurs d'idioma corresponent en un lot posterior."
+    "hint": "Tria el idioma que et resulti més natural. Els noms de productes i els comandos tècnics es mantindran sense canvis."
   }
 }

@@ -2,7 +2,11 @@
   "meta": {
     "title": "Pembuat Tangkapan Skrin (Apl)",
     "description": "Cipta tangkapan skrin Gedung Apl yang kemas dan moden dengan mudah menggunakan templat yang fleksibel.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Screenshot App Store, Dibuat dengan Mudah",
+    "homeDescription": "Cipta screenshot App Store yang kemas dan sedia untuk penghantaran, serta gunakan Ollama untuk menjana versi tempatan dengan mudah.",
+    "ollamaDescription": "Sambungkan Screenshot (App) Maker ke pelayan Ollama anda untuk penyetempatan screenshot yang didorong oleh AI secara peribadi.",
+    "privacyDescription": "Ketahui bagaimana Screenshot (App) Maker mengekalkan privasi kerja anda, termasuk screenshot, suntingan, dan aliran kerja penyetempatan."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Buat tangkapan skrin Gedung Apl dalam beberapa minit",
     "heroBody": "Pilih 3–5 tangkapan skrin, jatuhkannya ke dalam templat, tambahkan teks pemasaran dan eksport imej sedia untuk dimuat naik.",
     "featuresTitle": "Ciri-ciri Utama",
-    "features": [
-      "Cipta tangkapan skrin Gedung Apl yang bergaya menggunakan templat yang boleh disesuaikan",
-      "Import imej dari aplikasi Fail atau perpustakaan foto anda",
-      "Sokongan untuk tangkapan skrin iPhone, iPad, Apple Watch dan Apple TV",
-      "Tambahkan teks pemasaran secara bebas dan laraskan susun atur secara visual"
-    ],
+    "features": {
+      "overline": "Semua dalam satu tempat",
+      "titleHtml": "Luangkan lebih sedikit masa untuk menyediakan.<br />Berlepas dengan lebih yakin.",
+      "description": "Screenshot (App) Maker mengubah kerja berulang di akhir pelancaran aplikasi anda menjadi satu aliran kerja visual yang jelas.",
+      "cards": [
+        {
+          "title": "Seret masuk skrin aplikasi anda.",
+          "body": "Import screenshot, letakkan dalam susun atur peranti yang kemas, dan susun cerita App Store yang lengkap dalam beberapa minit.",
+          "drop": "Seret screenshot ke sini",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Reka sekali.",
+          "body": "Gunakan warna, susun atur, tetapan peranti, jenis fon, dan bayang di setiap halaman sambil mengekalkan mesej yang unik untuk setiap satu."
+        },
+        {
+          "title": "Muat pada setiap skrin.",
+          "body": "Sediakan aset untuk iPhone, iPad, Apple Watch, Apple TV, dan grafik ciri dari projek yang sama."
+        },
+        {
+          "title": "Eksport pakej sedia untuk penghantaran.",
+          "body": "Render imej beresolusi tinggi, susun fail tempatan, dan gabungkan metadata App Store terjemahan anda ke dalam satu arkib yang kemas.",
+          "folder": "Aset App Store"
+        }
+      ]
+    },
     "aiTitle": "Penterjemahan Berkuasa AI",
     "aiBody": "Dengan penyepaduan Ollama, jana teks pemasaran yang diterjemahkan mengikut kod negara untuk penghantaran global yang pantas.",
     "aiLink": "Buka tutorial persediaan Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Dasar Privasi →",
     "footerNote": "Petua: tambahkan <code>?lang=ko</code> (atau mana-mana kod yang disokong) ke URL untuk melihat pratonton setempat.",
     "supportedPill": "Menyokong iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Pembuat Tangkapan Skrin (Apl)"
+    "copyright": "© 2026 Pembuat Tangkapan Skrin (Apl)",
+    "hero": {
+      "eyebrow": "Dibina untuk langkah akhir sebelum pelancaran",
+      "titleHtml": "Ubah skrin aplikasi kepada <span>screenshot sedia untuk penghantaran.</span>",
+      "description": "Reka setiap screenshot yang diperlukan untuk penghantaran aplikasi anda, kemudian sambungkan Ollama untuk mencipta versi tempatan—tanpa membina semula satu persatu secara manual.",
+      "primaryAction": "Lihat cara ia berfungsi",
+      "secondaryAction": "Jelajahi penyetempatan",
+      "readyFor": "Sedia untuk",
+      "supportAriaLabel": "Jenis eksport yang disokong",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Jam Tangan",
+        "TV",
+        "Grafik Ciri"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Pratonton produk Screenshot Maker",
+      "project": "Pelancaran musim panas",
+      "saved": "Disimpan",
+      "appStorePreview": "Pratonton App Store",
+      "display": "Paparan 6.7″",
+      "shots": [
+        {
+          "line1": "Rancang kurang.",
+          "line2": "Lakukan lebih banyak."
+        },
+        {
+          "line1": "Semua",
+          "line2": "dalam satu tempat."
+        },
+        {
+          "line1": "Dibuat untuk",
+          "line2": "hari anda."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Menyetematkan screenshot…",
+      "exportComplete": "EKSPORT SELESAI",
+      "exportReady": "PNG + metadata sedia"
+    },
+    "proof": [
+      {
+        "title": "Satu ruang kerja visual",
+        "body": "Dari skrin mentah ke aset yang kemas"
+      },
+      {
+        "title": "Satu reka bentuk, setiap pasaran",
+        "body": "Terjemahkan teks screenshot dengan Ollama"
+      },
+      {
+        "title": "Satu eksport yang tersusun",
+        "body": "Pakejkan imej dan metadata bersama-sama"
+      }
+    ],
+    "proofAriaLabel": "Manfaat produk",
+    "localization": {
+      "ariaLabel": "Pratonton penyetempatan Ollama",
+      "pill": "Dikuasakan oleh pelayan Ollama anda",
+      "title": "Kempen screenshot anda, sedia untuk bercakap di setiap pasaran.",
+      "description": "Sambungkan Screenshot (App) Maker ke Ollama dan terjemahkan tajuk screenshot serta metadata App Store dalam aliran kerja yang sama. Susun atur asal anda kekal utuh sambil teks berubah mengikut setiap pasaran.",
+      "checks": [
+        "Terjemahkan setiap tajuk screenshot secara berkumpulan",
+        "Setematkan deskripsi, kata kunci, dan nota pelepasan",
+        "Semak terjemahan sebelum eksport akhir"
+      ],
+      "action": "Lihat panduan sediaan Ollama",
+      "source": "Sumber · Bahasa Inggeris",
+      "localeCount": "4 pasaran",
+      "sourceLabel": "Sumber",
+      "ready": "Sedia",
+      "samples": [
+        "Rancang kurang.<br /><strong>Lakukan lebih banyak.</strong>",
+        "Perancangan kurang.<br /><strong>Kemajuan lebih banyak.</strong>",
+        "Persediaan kurang.<br /><strong>Penciptaan lebih banyak.</strong>",
+        "Rintangan kurang.<br /><strong>Daya maju lebih banyak.</strong>"
+      ],
+      "complete": "Penyetempatan selesai",
+      "completeBody": "Teks dan metadata sedia untuk semakan"
+    },
+    "workflow": {
+      "overline": "Laluan yang lebih pendek untuk penerbitan",
+      "title": "Skrin mentah masuk. Aset sedia untuk kedai keluar.",
+      "description": "Tiada persediaan reka bentuk yang kompleks. Tiada membina semula kempen yang sama untuk setiap bahasa.",
+      "steps": [
+        {
+          "number": "LANGKAH 01",
+          "title": "Import",
+          "body": "Tambah skrin yang paling baik menceritakan cerita aplikasi anda."
+        },
+        {
+          "number": "LANGKAH 02",
+          "title": "Reka & setematkan",
+          "body": "Bina rupa sekali, kemudian terjemahkan teks anda dengan Ollama."
+        },
+        {
+          "number": "LANGKAH 03",
+          "title": "Eksport",
+          "body": "Muat turun imej yang tersusun dan metadata, sedia untuk penghantaran."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privasi direka bentuk",
+      "title": "Aset aplikasi anda kekal di bawah kawalan anda.",
+      "description": "Suntingan screenshot berlaku pada peranti anda. Apabila anda memilih Ollama, teks hanya dihantar ke alamat pelayan yang anda tetapkan.",
+      "action": "Baca dasar privasi"
+    },
+    "final": {
+      "overline": "Dari screenshot ke penghantaran",
+      "title": "Jadikan langkah akhir terasa mudah.",
+      "description": "Reka, setematkan, dan eksport setiap screenshot yang diperlukan untuk pelancaran aplikasi seterusnya anda.",
+      "action": "Muat turun di App Store",
+      "appIconAlt": "Ikon aplikasi Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutorial Persediaan Ollama",
@@ -63,7 +202,10 @@
       "Jika anda lebih suka menggunakan pelayan jauh (PC rumah, VPS), anda mesti mendedahkan port secara selamat (VPN disyorkan)."
     ],
     "backHome": "← Kembali ke Laman Utama",
-    "metaTitle": "Tutorial Persediaan Ollama — Pembuat Skrin (Aplikasi)"
+    "metaTitle": "Tutorial Persediaan Ollama — Pembuat Skrin (Aplikasi)",
+    "pill": "Integrasi Ollama",
+    "ctaTitle": "Sedia untuk menyetematkan?",
+    "ctaBody": "Kembali ke aplikasi, uji sambungan, dan mulakan dengan satu pasaran."
   },
   "privacy": {
     "metaTitle": "Dasar Privasi — Pembuat Skrin (Aplikasi)",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Kembali ke Laman Utama"
+    "backHome": "← Kembali ke Laman Utama",
+    "pill": "Dasar privasi"
+  },
+  "common": {
+    "skipToContent": "Langkau ke kandungan",
+    "homeAriaLabel": "Laman utama Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Ciri-ciri",
+    "localization": "Penyetempatan",
+    "privacy": "Privasi",
+    "ollamaSetup": "Sediakan Ollama",
+    "ollamaSetupShort": "Sediaan Ollama",
+    "downloadIos": "Muat turun untuk iOS",
+    "downloadIosAriaLabel": "Muat turun Screenshot (App) Maker untuk iPhone dan iPad dari App Store",
+    "primaryNavigation": "Navigasi utama",
+    "footerNavigation": "Navigasi kaki halaman",
+    "backHome": "Kembali ke laman utama",
+    "footerTagline": "Screenshot App Store, dibuat dengan mudah.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Pilih bahasa",
+    "kicker": "Paparkan bahasa",
+    "title": "Pilih bahasa",
+    "close": "Tutup menu bahasa",
+    "hint": "Pilih bahasa yang paling sesuai untuk anda. Nama produk dan arahan teknikal kekal tidak berubah."
   }
 }
