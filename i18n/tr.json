@@ -2,7 +2,11 @@
   "meta": {
     "title": "Ekran Görüntüsü (Uygulama) Oluşturucu",
     "description": "Esnek şablonlar kullanarak temiz ve modern Uygulama Mağazası ekran görüntülerini zahmetsizce oluşturun.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store Ekran Görüntüleri, Kolayca Hazırlanır",
+    "homeDescription": "App Store'a gönderime hazır, şık ekran görüntüleri oluşturun ve Ollama kullanarak yerelleştirilmiş sürümlerini kolayca üretin.",
+    "ollamaDescription": "Özel yapay zeka destekli ekran görüntüsü yerelleştirmesi için Screenshot (App) Maker'ı kendi Ollama sunucunuza bağlayın.",
+    "privacyDescription": "Screenshot (App) Maker'ın ekran görüntülerinizi, düzenlemelerinizi ve yerelleştirme iş akışınızı nasıl gizli tuttuğunu öğrenin."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Dakikalar İçinde Uygulama Mağazası Ekran Görüntüleri Oluşturun",
     "heroBody": "3-5 ekran görüntüsü seçin, bunları şablonlara bırakın, pazarlama metni ekleyin ve yüklemeye hazır görüntüleri dışa aktarın.",
     "featuresTitle": "Temel Özellikler",
-    "features": [
-      "Özelleştirilebilir şablonlar kullanarak şık Uygulama Mağazası ekran görüntüleri oluşturun",
-      "Dosyalar uygulamasından veya fotoğraf kitaplığınızdan resimleri içe aktarın",
-      "iPhone, iPad, Apple Watch ve Apple TV ekran görüntüleri için destek",
-      "Pazarlama metnini serbestçe ekleyin ve düzeni görsel olarak ayarlayın"
-    ],
+    "features": {
+      "overline": "Her şey tek bir yerde",
+      "titleHtml": "Hazırlanmaya daha az zaman harcayın.<br />Daha fazla güvenle yayına alın.",
+      "description": "Screenshot (App) Maker, bir uygulama yayını sonundaki tekrarlayan işleri tek bir net, görsel iş akışına dönüştürür.",
+      "cards": [
+        {
+          "title": "Uygulama ekranlarınızı sürükleyip bırakın.",
+          "body": "Ekran görüntülerini içe aktarın, şık cihaz düzenlerine yerleştirin ve dakikalar içinde tam bir App Store hikayesi oluşturun.",
+          "drop": "Ekran görüntülerini buraya bırakın",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Bir kez tasarlayın.",
+          "body": "Her sayfada renkleri, düzenleri, cihaz ayarlarını, yazı tiplerini ve gölgeleri uygulayın; her mesajı benzersiz tutun."
+        },
+        {
+          "title": "Her ekrana uygun hale getirin.",
+          "body": "Aynı projeden iPhone, iPad, Apple Watch, Apple TV ve öne çıkan grafikler için varlıklar hazırlayın."
+        },
+        {
+          "title": "Gönderime hazır bir paket dışa aktarın.",
+          "body": "Yüksek çözünürlüklü görselleri oluşturun, yerelleştirilmiş dosyaları düzenleyin ve çevrilen App Store meta verilerini tek bir temiz arşivde birleştirin.",
+          "folder": "App Store Varlıkları"
+        }
+      ]
+    },
     "aiTitle": "Yapay Zeka Destekli Yerelleştirme",
     "aiBody": "Ollama entegrasyonuyla, hızlı küresel gönderimler için ülke koduna göre çevrilmiş pazarlama metni oluşturun.",
     "aiLink": "Ollama kurulum eğitimini açın →",
@@ -36,7 +60,122 @@
     "learnLink": "Gizlilik Politikası →",
     "footerNote": "İpucu: bir yerelliği önizlemek için URL'ye <code>?lang=ko</code> (veya desteklenen herhangi bir kod) ekleyin.",
     "supportedPill": "iPhone · iPad · Watch · TV'yi Destekler",
-    "copyright": "© 2026 Ekran Görüntüsü (Uygulama) Oluşturucu"
+    "copyright": "© 2026 Ekran Görüntüsü (Uygulama) Oluşturucu",
+    "hero": {
+      "eyebrow": "Lansman öncesi son adım için tasarlandı",
+      "titleHtml": "Uygulama ekranlarını <span>gönderime hazır ekran görüntülerine</span> dönüştürün.",
+      "description": "Uygulama gönderiminiz için gereken her ekran görüntüsünü tasarlayın, ardından Ollama'yı bağlayarak yerelleştirilmiş sürümlerini tek tek elle yeniden oluşturmadan oluşturun.",
+      "primaryAction": "Nasıl çalıştığını görün",
+      "secondaryAction": "Yerelleştirmeyi keşfet",
+      "readyFor": "Hazır",
+      "supportAriaLabel": "Desteklenen dışa aktarma türleri",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Öne Çıkan Grafik"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker ürün önizlemesi",
+      "project": "Yaz yayını",
+      "saved": "Kaydedildi",
+      "appStorePreview": "App Store önizlemesi",
+      "display": "6,7″ Ekran",
+      "shots": [
+        {
+          "line1": "Daha az planlama.",
+          "line2": "Daha fazla eylem."
+        },
+        {
+          "line1": "Her şey",
+          "line2": "tek bir yerde."
+        },
+        {
+          "line1": "Senin günün için",
+          "line2": "tasarlandı."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Ekran görüntüleri yerelleştiriliyor…",
+      "exportComplete": "DIŞA AKTARIM TAMAMLANDI",
+      "exportReady": "PNG'ler + meta veriler hazır"
+    },
+    "proof": [
+      {
+        "title": "Tek görsel çalışma alanı",
+        "body": "Ham ekranlardan şık varlıklara"
+      },
+      {
+        "title": "Tek tasarım, her dilde",
+        "body": "Ollama ile ekran görüntüsü metinlerini çevirin"
+      },
+      {
+        "title": "Tek düzenli dışa aktarım",
+        "body": "Görselleri ve meta verileri birlikte paketleyin"
+      }
+    ],
+    "proofAriaLabel": "Ürün faydaları",
+    "localization": {
+      "ariaLabel": "Ollama yerelleştirme önizlemesi",
+      "pill": "Kendi Ollama sunucunuz tarafından desteklenir",
+      "title": "Ekran görüntüsü kampanyanız, her pazara hitap etmeye hazır.",
+      "description": "Screenshot (App) Maker'ı Ollama'ya bağlayın ve ekran görüntüsü başlıklarını ile App Store meta verilerini aynı iş akışında çevirin. Orijinal düzeniniz korunurken metinler her dil için uyarlanır.",
+      "checks": [
+        "Her ekran görüntüsü başlığını toplu olarak çevirin",
+        "Açıklamaları, anahtar kelimeleri ve sürüm notlarını yerelleştirin",
+        "Son dışa aktarımdan önce çevirileri gözden geçirin"
+      ],
+      "action": "Ollama kurulum kılavuzunu görüntüleyin",
+      "source": "Kaynak · İngilizce",
+      "localeCount": "4 dil",
+      "sourceLabel": "Kaynak",
+      "ready": "Hazır",
+      "samples": [
+        "Daha az planlama.<br /><strong>Daha fazla eylem.</strong>",
+        "Daha az planlama.<br /><strong>Daha fazla ilerleme.</strong>",
+        "Daha az kurulum.<br /><strong>Daha fazla yaratıcılık.</strong>",
+        "Daha az sürtünme.<br /><strong>Daha fazla ivme.</strong>"
+      ],
+      "complete": "Yerelleştirme tamamlandı",
+      "completeBody": "Metin ve meta veriler gözden geçirmeye hazır"
+    },
+    "workflow": {
+      "overline": "Yayınlamaya giden daha kısa yol",
+      "title": "Ham ekranlar giriyor. Mağazaya hazır varlıklar çıkıyor.",
+      "description": "Karmaşık tasarım kurulumu yok. Her dil için aynı kampanyayı yeniden oluşturmaya gerek yok.",
+      "steps": [
+        {
+          "number": "ADIM 01",
+          "title": "İçe Aktar",
+          "body": "Uygulamanızın hikayesini en iyi anlatan ekranları ekleyin."
+        },
+        {
+          "number": "ADIM 02",
+          "title": "Tasarımla ve yerelleştir",
+          "body": "Görünümü bir kez oluşturun, ardından metinlerinizi Ollama ile çevirin."
+        },
+        {
+          "number": "ADIM 03",
+          "title": "Dışa Aktar",
+          "body": "Gönderime hazır, düzenlenmiş görselleri ve meta verileri indirin."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Tasarım gereği gizli",
+      "title": "Uygulama varlıklarınız sizin kontrolünüzde kalır.",
+      "description": "Ekran görüntüsü düzenlemeleri cihazınızda gerçekleşir. Ollama'yı seçtiğinizde metinler yalnızca yapılandırdığınız sunucu adresine gönderilir.",
+      "action": "Gizlilik politikasını okuyun"
+    },
+    "final": {
+      "overline": "Ekran görüntülerinden gönderime",
+      "title": "Son adımı basit hale getirin.",
+      "description": "Bir sonraki uygulama yayını için gereken her ekran görüntüsünü tasarlayın, yerelleştirin ve dışa aktarın.",
+      "action": "App Store'dan İndir",
+      "appIconAlt": "Screenshot App Maker uygulama simgesi"
+    }
   },
   "ollama": {
     "title": "Ollama Kurulum Eğitimi",
@@ -63,7 +202,10 @@
       "Uzak bir sunucu (ev PC'si, VPS) kullanmayı tercih ederseniz, bağlantı noktasını güvenli bir şekilde açmanız gerekir (VPN önerilir)."
     ],
     "backHome": "← Ana Sayfaya Geri Dön",
-    "metaTitle": "Ollama Kurulumu Eğitimi — Ekran Görüntüsü (Uygulama) Oluşturucu"
+    "metaTitle": "Ollama Kurulumu Eğitimi — Ekran Görüntüsü (Uygulama) Oluşturucu",
+    "pill": "Ollama entegrasyonu",
+    "ctaTitle": "Yerelleştirmeye hazır mısınız?",
+    "ctaBody": "Uygulamaya dönün, bağlantıyı test edin ve tek bir dille başlayın."
   },
   "privacy": {
     "metaTitle": "Gizlilik Politikası — Ekran Görüntüsü (Uygulama) Oluşturucu",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Ana Sayfaya Geri Dön"
+    "backHome": "← Ana Sayfaya Geri Dön",
+    "pill": "Gizlilik politikası"
+  },
+  "common": {
+    "skipToContent": "İçeriğe geç",
+    "homeAriaLabel": "Screenshot App Maker ana sayfa",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Özellikler",
+    "localization": "Yerelleştirme",
+    "privacy": "Gizlilik",
+    "ollamaSetup": "Ollama Kurulumu",
+    "ollamaSetupShort": "Ollama Kurulumu",
+    "downloadIos": "iOS için İndir",
+    "downloadIosAriaLabel": "App Store'dan iPhone ve iPad için Screenshot (App) Maker'ı indirin",
+    "primaryNavigation": "Birincil gezinme",
+    "footerNavigation": "Alt bilgi gezinme",
+    "backHome": "Ana sayfaya dön",
+    "footerTagline": "App Store ekran görüntüleri, kolayca hazırlanır.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Dil seçin",
+    "kicker": "Görüntüleme dili",
+    "title": "Bir dil seçin",
+    "close": "Dil menüsünü kapat",
+    "hint": "Size en doğal gelen dili seçin. Ürün adları ve teknik komutlar değiştirilmez."
   }
 }

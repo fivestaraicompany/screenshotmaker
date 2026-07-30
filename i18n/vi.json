@@ -2,7 +2,11 @@
   "meta": {
     "title": "Công cụ tạo ảnh chụp màn hình (Ứng dụng)",
     "description": "Tạo ảnh chụp màn hình App Store hiện đại, rõ ràng một cách dễ dàng bằng cách sử dụng các mẫu linh hoạt.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Ảnh chụp màn hình App Store, Dễ dàng tạo",
+    "homeDescription": "Tạo ảnh chụp màn hình App Store chỉn chu, sẵn sàng nộp ứng dụng và sử dụng Ollama để tạo bản địa hóa dễ dàng.",
+    "ollamaDescription": "Kết nối Screenshot (App) Maker với máy chủ Ollama của bạn để thực hiện bản địa hóa ảnh chụp màn hình bằng AI một cách riêng tư.",
+    "privacyDescription": "Tìm hiểu cách Screenshot (App) Maker bảo vệ quyền riêng tư cho ảnh chụp màn hình, chỉnh sửa và quy trình bản địa hóa của bạn."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Tạo ảnh chụp màn hình App Store trong vài phút",
     "heroBody": "Chọn 3–5 ảnh chụp màn hình, thả chúng vào các mẫu, thêm văn bản quảng cáo và xuất hình ảnh sẵn sàng tải lên.",
     "featuresTitle": "Các tính năng chính",
-    "features": [
-      "Tạo ảnh chụp màn hình App Store phong cách bằng cách sử dụng các mẫu có thể tùy chỉnh",
-      "Nhập hình ảnh từ ứng dụng Tệp hoặc thư viện ảnh của bạn",
-      "Hỗ trợ ảnh chụp màn hình cho iPhone, iPad, Apple Watch và Apple TV",
-      "Thêm văn bản quảng cáo một cách tự do và điều chỉnh bố cục trực quan"
-    ],
+    "features": {
+      "overline": "Tất cả ở một nơi",
+      "titleHtml": "Dành ít thời gian hơn cho việc chuẩn bị.<br />Phát hành với sự tự tin hơn.",
+      "description": "Screenshot (App) Maker biến công việc lặp đi lặp lại ở cuối giai đoạn phát hành ứng dụng thành một quy trình trực quan rõ ràng.",
+      "cards": [
+        {
+          "title": "Kéo ảnh chụp màn hình ứng dụng vào.",
+          "body": "Nhập ảnh chụp màn hình, đặt chúng vào bố cục thiết bị chỉn chu và sắp xếp câu chuyện App Store hoàn chỉnh trong vài phút.",
+          "drop": "Thả ảnh chụp màn hình vào đây",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Thiết kế một lần.",
+          "body": "Áp dụng màu sắc, bố cục, cài đặt thiết bị, phông chữ và đổ bóng trên mọi trang trong khi vẫn giữ mỗi thông điệp độc đáo."
+        },
+        {
+          "title": "Phù hợp với mọi màn hình.",
+          "body": "Chuẩn bị tài sản cho iPhone, iPad, Apple Watch, Apple TV và ảnh bìa tính năng từ cùng một dự án."
+        },
+        {
+          "title": "Xuất gói sẵn sàng nộp ứng dụng.",
+          "body": "Kết xuất hình ảnh độ phân giải cao, sắp xếp các tệp bản địa hóa và đóng gói siêu dữ liệu App Store đã dịch của bạn vào một kho lưu trữ gọn gàng.",
+          "folder": "Tài sản App Store"
+        }
+      ]
+    },
     "aiTitle": "Địa phương hóa hỗ trợ bởi AI",
     "aiBody": "Với tích hợp Ollama, tạo văn bản quảng cáo được dịch cho mỗi mã quốc gia để gửi toàn cầu nhanh chóng.",
     "aiLink": "Mở hướng dẫn cài đặt Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Chính sách bảo mật →",
     "footerNote": "Mẹo: thêm <code>?lang=ko</code> (hoặc bất kỳ mã được hỗ trợ nào) vào URL để xem trước ngôn ngữ.",
     "supportedPill": "Hỗ trợ iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Công cụ tạo ảnh chụp màn hình (Ứng dụng)"
+    "copyright": "© 2026 Công cụ tạo ảnh chụp màn hình (Ứng dụng)",
+    "hero": {
+      "eyebrow": "Xây dựng cho chặng đường cuối trước khi ra mắt",
+      "titleHtml": "Biến màn hình ứng dụng thành <span>ảnh chụp màn hình sẵn sàng nộp.</span>",
+      "description": "Thiết kế mọi ảnh chụp màn hình cần thiết cho hồ sơ ứng dụng của bạn, sau đó kết nối Ollama để tạo bản địa hóa—mà không cần xây dựng từng cái một bằng tay.",
+      "primaryAction": "Xem cách hoạt động",
+      "secondaryAction": "Khám phá bản địa hóa",
+      "readyFor": "Sẵn sàng cho",
+      "supportAriaLabel": "Các loại xuất hỗ trợ",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Xem trước sản phẩm Screenshot Maker",
+      "project": "Phát hành mùa hè",
+      "saved": "Đã lưu",
+      "appStorePreview": "Xem trước App Store",
+      "display": "Màn hình 6.7″",
+      "shots": [
+        {
+          "line1": "Lên kế hoạch ít hơn.",
+          "line2": "Làm nhiều hơn."
+        },
+        {
+          "line1": "Tất cả",
+          "line2": "ở một nơi."
+        },
+        {
+          "line1": "Thiết kế cho",
+          "line2": "ngày của bạn."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Đang bản địa hóa ảnh chụp màn hình…",
+      "exportComplete": "XUẤT HOÀN TẤT",
+      "exportReady": "PNG + siêu dữ liệu sẵn sàng"
+    },
+    "proof": [
+      {
+        "title": "Một không gian làm việc trực quan",
+        "body": "Từ màn hình thô đến tài sản chỉn chu"
+      },
+      {
+        "title": "Một thiết kế, mọi ngôn ngữ",
+        "body": "Dịch nội dung ảnh chụp màn hình với Ollama"
+      },
+      {
+        "title": "Một gói xuất được tổ chức tốt",
+        "body": "Gói hình ảnh và siêu dữ liệu lại với nhau"
+      }
+    ],
+    "proofAriaLabel": "Lợi ích sản phẩm",
+    "localization": {
+      "ariaLabel": "Xem trước bản địa hóa Ollama",
+      "pill": "Được cung cấp bởi máy chủ Ollama của bạn",
+      "title": "Chiến dịch ảnh chụp màn hình của bạn, sẵn sàng nói chuyện với mọi thị trường.",
+      "description": "Kết nối Screenshot (App) Maker với Ollama và dịch tiêu đề ảnh chụp màn hình cũng như siêu dữ liệu App Store trong cùng một quy trình. Bố cục gốc của bạn vẫn nguyên vẹn trong khi nội dung thay đổi cho mỗi ngôn ngữ.",
+      "checks": [
+        "Dịch mọi tiêu đề ảnh chụp màn hình theo lô",
+        "Bản địa hóa mô tả, từ khóa và ghi chú phát hành",
+        "Kiểm tra bản dịch trước khi xuất cuối cùng"
+      ],
+      "action": "Xem hướng dẫn cài đặt Ollama",
+      "source": "Gốc · Tiếng Anh",
+      "localeCount": "4 ngôn ngữ",
+      "sourceLabel": "Gốc",
+      "ready": "Sẵn sàng",
+      "samples": [
+        "Lên kế hoạch ít hơn.<br /><strong>Làm nhiều hơn.</strong>",
+        "Lên kế hoạch ít hơn.<br /><strong>Tiến độ nhiều hơn.</strong>",
+        "Thiết lập ít hơn.<br /><strong>Sáng tạo nhiều hơn.</strong>",
+        "Ma sát ít hơn.<br /><strong>Động lực nhiều hơn.</strong>"
+      ],
+      "complete": "Bản địa hóa hoàn tất",
+      "completeBody": "Nội dung và siêu dữ liệu sẵn sàng để xem xét"
+    },
+    "workflow": {
+      "overline": "Con đường ngắn hơn đến khi xuất bản",
+      "title": "Màn hình thô đầu vào. Tài sản sẵn sàng cho cửa hàng đầu ra.",
+      "description": "Không cần thiết kế phức tạp. Không cần xây dựng lại cùng chiến dịch cho mọi ngôn ngữ.",
+      "steps": [
+        {
+          "number": "BƯỚC 01",
+          "title": "Nhập",
+          "body": "Thêm các màn hình kể câu chuyện ứng dụng của bạn tốt nhất."
+        },
+        {
+          "number": "BƯỚC 02",
+          "title": "Thiết kế & bản địa hóa",
+          "body": "Xây dựng giao diện một lần, sau đó dịch nội dung của bạn với Ollama."
+        },
+        {
+          "number": "BƯỚC 03",
+          "title": "Xuất",
+          "body": "Tải xuống hình ảnh và siêu dữ liệu được sắp xếp, sẵn sàng để nộp."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Riêng tư ngay từ thiết kế",
+      "title": "Tài sản ứng dụng của bạn vẫn nằm dưới sự kiểm soát của bạn.",
+      "description": "Chỉnh sửa ảnh chụp màn hình diễn ra trên thiết bị của bạn. Khi bạn chọn Ollama, văn bản chỉ được gửi đến địa chỉ máy chủ bạn cấu hình.",
+      "action": "Đọc chính sách quyền riêng tư"
+    },
+    "final": {
+      "overline": "Từ ảnh chụp màn hình đến nộp ứng dụng",
+      "title": "Làm cho bước cuối cùng cảm thấy đơn giản.",
+      "description": "Thiết kế, bản địa hóa và xuất mọi ảnh chụp màn hình cần thiết cho giai đoạn phát hành ứng dụng tiếp theo của bạn.",
+      "action": "Tải xuống trên App Store",
+      "appIconAlt": "Biểu tượng ứng dụng Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Hướng dẫn cài đặt Ollama",
@@ -63,7 +202,10 @@
       "Nếu bạn muốn sử dụng một máy chủ từ xa (PC tại nhà, VPS), bạn phải mở cổng một cách an toàn (khuyến nghị VPN)."
     ],
     "backHome": "← Quay lại Trang chủ",
-    "metaTitle": "Hướng dẫn Cài đặt Ollama — Screenshot (App) Maker"
+    "metaTitle": "Hướng dẫn Cài đặt Ollama — Screenshot (App) Maker",
+    "pill": "Tích hợp Ollama",
+    "ctaTitle": "Sẵn sàng bản địa hóa?",
+    "ctaBody": "Quay lại ứng dụng, kiểm tra kết nối và bắt đầu với một ngôn ngữ."
   },
   "privacy": {
     "metaTitle": "Chính sách Bảo mật — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Quay lại Trang chủ"
+    "backHome": "← Quay lại Trang chủ",
+    "pill": "Chính sách quyền riêng tư"
+  },
+  "common": {
+    "skipToContent": "Bỏ qua để vào nội dung",
+    "homeAriaLabel": "Trang chủ Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Tính năng",
+    "localization": "Bản địa hóa",
+    "privacy": "Quyền riêng tư",
+    "ollamaSetup": "Cài đặt Ollama",
+    "ollamaSetupShort": "Cài đặt Ollama",
+    "downloadIos": "Tải xuống cho iOS",
+    "downloadIosAriaLabel": "Tải Screenshot (App) Maker cho iPhone và iPad từ App Store",
+    "primaryNavigation": "Điều hướng chính",
+    "footerNavigation": "Điều hướng chân trang",
+    "backHome": "Quay lại trang chủ",
+    "footerTagline": "Ảnh chụp màn hình App Store, dễ dàng tạo.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Chọn ngôn ngữ",
+    "kicker": "Ngôn ngữ hiển thị",
+    "title": "Chọn một ngôn ngữ",
+    "close": "Đóng menu ngôn ngữ",
+    "hint": "Chọn ngôn ngữ phù hợp nhất với bạn. Tên sản phẩm và lệnh kỹ thuật sẽ được giữ nguyên."
   }
 }

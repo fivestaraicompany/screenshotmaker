@@ -2,7 +2,11 @@
   "meta": {
     "title": "截图 (App) 制作器",
     "description": "使用灵活的模板，轻松创建简洁现代的应用商店截图。",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store 截图，轻松制作",
+    "homeDescription": "创建精美、可直接提交的 App Store 截图，并使用 Ollama 轻松生成本地化版本。",
+    "ollamaDescription": "将 Screenshot (App) Maker 连接至您的 Ollama 服务器，实现私密的 AI 驱动截图本地化。",
+    "privacyDescription": "了解 Screenshot (App) Maker 如何保障您的截图、编辑和本地化工作流的隐私安全。"
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "几分钟内制作应用商店截图",
     "heroBody": "选择 3–5 张截图，放入模板中，添加营销文字，导出即可上传的图像。",
     "featuresTitle": "主要特性",
-    "features": [
-      "使用可自定义的模板创建时尚的应用商店截图",
-      "从文件应用或照片库导入图像",
-      "支持 iPhone、iPad、Apple Watch 和 Apple TV 截图",
-      "自由添加营销文字并以视觉方式调整布局"
-    ],
+    "features": {
+      "overline": "一切尽在掌握",
+      "titleHtml": "减少准备时间。<br />更自信地发布。",
+      "description": "Screenshot (App) Maker 将应用发布末尾的重复性工作转化为清晰、可视化的工作流。",
+      "cards": [
+        {
+          "title": "拖入您的应用截图。",
+          "body": "导入截图，将其放入精美的设备布局中，并在几分钟内编排完整的 App Store 故事。",
+          "drop": "在此处拖放截图",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "设计一次。",
+          "body": "跨页面应用颜色、布局、设备设置、字体和阴影，同时保持每条信息独特。"
+        },
+        {
+          "title": "适配所有屏幕。",
+          "body": "从同一项目中为 iPhone、iPad、Apple Watch、Apple TV 和功能大图准备素材。"
+        },
+        {
+          "title": "导出可直接提交的包。",
+          "body": "渲染高分辨率图片，整理本地化文件，并将翻译后的 App Store 元数据打包为一个整洁的归档文件。",
+          "folder": "App Store 素材"
+        }
+      ]
+    },
     "aiTitle": "人工智能本地化",
     "aiBody": "通过 Ollama 集成，为快速的全球提交生成每个国家/地区的翻译营销文字。",
     "aiLink": "打开 Ollama 设置教程 →",
@@ -36,7 +60,122 @@
     "learnLink": "隐私政策 →",
     "footerNote": "提示：将 <code>?lang=ko</code>（或任何受支持的代码）附加到 URL，以预览语言环境。",
     "supportedPill": "支持 iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 截图 (App) 制作器"
+    "copyright": "© 2026 截图 (App) 制作器",
+    "hero": {
+      "eyebrow": "为发布前的最后一步打造",
+      "titleHtml": "将应用界面转化为<span>可直接提交的截图。</span>",
+      "description": "设计应用提交所需的所有截图，然后连接 Ollama 生成本地化版本——无需手动逐个重建。",
+      "primaryAction": "了解工作原理",
+      "secondaryAction": "探索本地化功能",
+      "readyFor": "适用于",
+      "supportAriaLabel": "支持的导出类型",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker 产品预览",
+      "project": "夏季发布",
+      "saved": "已保存",
+      "appStorePreview": "App Store 预览",
+      "display": "6.7″ 显示屏",
+      "shots": [
+        {
+          "line1": "少做计划。",
+          "line2": "多做实事。"
+        },
+        {
+          "line1": "一切",
+          "line2": "尽在掌握。"
+        },
+        {
+          "line1": "专为",
+          "line2": "您的日常打造。"
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "正在本地化截图…",
+      "exportComplete": "导出完成",
+      "exportReady": "PNG 文件与元数据已就绪"
+    },
+    "proof": [
+      {
+        "title": "统一的视觉工作区",
+        "body": "从原始界面到精美素材"
+      },
+      {
+        "title": "一套设计，适配所有语言",
+        "body": "使用 Ollama 翻译截图文案"
+      },
+      {
+        "title": "统一的有序导出",
+        "body": "将图片与元数据打包在一起"
+      }
+    ],
+    "proofAriaLabel": "产品优势",
+    "localization": {
+      "ariaLabel": "Ollama 本地化预览",
+      "pill": "由您的 Ollama 服务器驱动",
+      "title": "让您的截图营销面向所有市场发声。",
+      "description": "将 Screenshot (App) Maker 连接至 Ollama，在同一工作流中翻译截图标题和 App Store 元数据。原始布局保持不变，文案针对每种语言进行调整。",
+      "checks": [
+        "批量翻译所有截图标题",
+        "本地化描述、关键词和更新说明",
+        "在最终导出前审阅翻译内容"
+      ],
+      "action": "查看 Ollama 设置指南",
+      "source": "源语言 · 英语",
+      "localeCount": "4 种语言",
+      "sourceLabel": "源语言",
+      "ready": "就绪",
+      "samples": [
+        "少做计划。<br /><strong>多做实事。</strong>",
+        "减少规划。<br /><strong>更多进展。</strong>",
+        "减少设置。<br /><strong>更多创作。</strong>",
+        "减少摩擦。<br /><strong>更多动力。</strong>"
+      ],
+      "complete": "本地化完成",
+      "completeBody": "文案和元数据已就绪，可审阅"
+    },
+    "workflow": {
+      "overline": "更短的发布路径",
+      "title": "输入原始界面。输出商店就绪素材。",
+      "description": "无需复杂的设计设置。无需为每种语言重新构建同一营销方案。",
+      "steps": [
+        {
+          "number": "步骤 01",
+          "title": "导入",
+          "body": "添加最能讲述您应用故事的界面截图。"
+        },
+        {
+          "number": "步骤 02",
+          "title": "设计与本地化",
+          "body": "一次性构建外观，然后使用 Ollama 翻译文案。"
+        },
+        {
+          "number": "步骤 03",
+          "title": "导出",
+          "body": "下载已整理的图片和元数据，随时提交。"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "隐私优先设计",
+      "title": "您的应用素材由您掌控。",
+      "description": "截图编辑在您的设备上完成。当您选择 Ollama 时，文本仅发送至您配置的服务器地址。",
+      "action": "阅读隐私政策"
+    },
+    "final": {
+      "overline": "从截图到提交",
+      "title": "让最后一步变得简单。",
+      "description": "设计、本地化并导出下一次应用发布所需的所有截图。",
+      "action": "在 App Store 下载",
+      "appIconAlt": "Screenshot App Maker 应用图标"
+    }
   },
   "ollama": {
     "title": "Ollama 设置教程",
@@ -63,7 +202,10 @@
       "如果您希望使用远程服务器（家用电脑、VPS），您必须安全地暴露该端口（推荐使用 VPN）。"
     ],
     "backHome": "← 返回主页",
-    "metaTitle": "Ollama 设置教程 — 截屏（App）制作器"
+    "metaTitle": "Ollama 设置教程 — 截屏（App）制作器",
+    "pill": "Ollama 集成",
+    "ctaTitle": "准备好进行本地化了吗？",
+    "ctaBody": "返回应用，测试连接，并从一种语言开始。"
   },
   "privacy": {
     "metaTitle": "隐私政策 — 截屏（App）制作器",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← 返回主页"
+    "backHome": "← 返回主页",
+    "pill": "隐私政策"
+  },
+  "common": {
+    "skipToContent": "跳转到内容",
+    "homeAriaLabel": "Screenshot App Maker 主页",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "功能",
+    "localization": "本地化",
+    "privacy": "隐私",
+    "ollamaSetup": "设置 Ollama",
+    "ollamaSetupShort": "Ollama 设置",
+    "downloadIos": "下载 iOS 版",
+    "downloadIosAriaLabel": "从 App Store 下载适用于 iPhone 和 iPad 的 Screenshot (App) Maker",
+    "primaryNavigation": "主导航",
+    "footerNavigation": "页脚导航",
+    "backHome": "返回首页",
+    "footerTagline": "App Store 截图，轻松制作。",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "选择语言",
+    "kicker": "显示语言",
+    "title": "选择语言",
+    "close": "关闭语言菜单",
+    "hint": "选择最符合您习惯的语言。产品名称和技术命令保持不变。"
   }
 }

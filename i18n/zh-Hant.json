@@ -2,7 +2,11 @@
   "meta": {
     "title": "螢幕截圖 (App) 製作工具",
     "description": "使用靈活的範本，輕鬆製作乾淨、現代化的 App Store 螢幕截圖。",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — App Store 截圖，輕鬆製作",
+    "homeDescription": "建立精美且符合提交規範的 App Store 截圖，並使用 Ollama 輕鬆生成多語言版本。",
+    "ollamaDescription": "將 Screenshot (App) Maker 連線至您的 Ollama 伺服器，實現私密的 AI 驅動的截圖本地化。",
+    "privacyDescription": "了解 Screenshot (App) Maker 如何保護您的截圖、編輯內容及本地化作業流程的隱私。"
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "幾分鐘內製作 App Store 螢幕截圖",
     "heroBody": "挑選 3–5 張螢幕截圖，放入範本中，加入行銷文字，然後匯出可供上傳的圖片。",
     "featuresTitle": "主要功能",
-    "features": [
-      "使用可自訂的範本製作時尚的 App Store 螢幕截圖",
-      "從「檔案」App 或您的相簿匯入圖片",
-      "支援 iPhone、iPad、Apple Watch 和 Apple TV 螢幕截圖",
-      "自由加入行銷文字，並以視覺方式調整版面配置"
-    ],
+    "features": {
+      "overline": "一切盡在其中",
+      "titleHtml": "減少準備時間。<br />更自信地上線。",
+      "description": "Screenshot (App) Maker 將應用程式發布末尾的重複性工作，轉化為清晰、直觀的工作流程。",
+      "cards": [
+        {
+          "title": "拖入您的應用程式畫面。",
+          "body": "匯入截圖，將其置於精美的裝置佈局中，並在幾分鐘內排列出完整的 App Store 故事。",
+          "drop": "在此處拖放截圖",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "設計一次。",
+          "body": "在每個頁面套用色彩、佈局、裝置設定、字型與陰影，同時保持每則訊息的獨特性。"
+        },
+        {
+          "title": "對應所有螢幕尺寸。",
+          "body": "從同一個專案準備適用於 iPhone、iPad、Apple Watch、Apple TV 及 Feature Graphic 的資產。"
+        },
+        {
+          "title": "匯出符合提交規範的套件。",
+          "body": "渲染高解析度圖片，整理多語言檔案，並將翻譯後的 App Store 元資料打包成一個整潔的壓縮檔。",
+          "folder": "App Store 資產"
+        }
+      ]
+    },
     "aiTitle": "AI 驅動的本地化",
     "aiBody": "透過 Ollama 整合，為每個國家/地區代碼產生翻譯後的行銷文字，以加速全球提交。",
     "aiLink": "開啟 Ollama 設定教學 →",
@@ -36,7 +60,122 @@
     "learnLink": "隱私權政策 →",
     "footerNote": "提示：附加 <code>?lang=ko</code>（或任何支援的代碼）到 URL，以預覽語言環境。",
     "supportedPill": "支援 iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 螢幕截圖 (App) 製作工具"
+    "copyright": "© 2026 螢幕截圖 (App) 製作工具",
+    "hero": {
+      "eyebrow": "為上架前的最後一哩路打造",
+      "titleHtml": "將應用程式畫面轉化為<span>符合提交規範的截圖。</span>",
+      "description": "設計您的 App Store 提交所需的所有截圖，並連線 Ollama 建立多語言版本——無需手動逐一重建。",
+      "primaryAction": "查看運作方式",
+      "secondaryAction": "探索本地化功能",
+      "readyFor": "適用於",
+      "supportAriaLabel": "支援的匯出類型",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker 產品預覽",
+      "project": "夏季發布",
+      "saved": "已儲存",
+      "appStorePreview": "App Store 預覽",
+      "display": "6.7″ 顯示器",
+      "shots": [
+        {
+          "line1": "少一點計畫。",
+          "line2": "多一點行動。"
+        },
+        {
+          "line1": "一切",
+          "line2": "盡在其中。"
+        },
+        {
+          "line1": "為您的",
+          "line2": "每一天打造。"
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "正在本地化截圖…",
+      "exportComplete": "匯出完成",
+      "exportReady": "PNG 與元資料已就緒"
+    },
+    "proof": [
+      {
+        "title": "單一視覺工作區",
+        "body": "從原始畫面到精美資產"
+      },
+      {
+        "title": "一份設計，對應所有語系",
+        "body": "使用 Ollama 翻譯截圖文案"
+      },
+      {
+        "title": "單一整合匯出",
+        "body": "將圖片與元資料一併打包"
+      }
+    ],
+    "proofAriaLabel": "產品優勢",
+    "localization": {
+      "ariaLabel": "Ollama 本地化預覽",
+      "pill": "由您的 Ollama 伺服器驅動",
+      "title": "讓您的截圖行銷活動，說遍每個市場。",
+      "description": "將 Screenshot (App) Maker 連線至 Ollama，在同一個工作流程中翻譯截圖標題與 App Store 元資料。原始佈局保持不變，僅針對各語系調整文案。",
+      "checks": [
+        "批次翻譯所有截圖標題",
+        "本地化描述、關鍵字與版本說明",
+        "在最終匯出前檢視翻譯內容"
+      ],
+      "action": "查看 Ollama 設定指南",
+      "source": "原始語言 · 英文",
+      "localeCount": "4 種語系",
+      "sourceLabel": "原始語言",
+      "ready": "就緒",
+      "samples": [
+        "少一點計畫。<br /><strong>多一點行動。</strong>",
+        "少一點計畫。<br /><strong>多一點進展。</strong>",
+        "少一點設定。<br /><strong>多一點創作。</strong>",
+        "少一點摩擦。<br /><strong>多一點動能。</strong>"
+      ],
+      "complete": "本地化完成",
+      "completeBody": "文案與元資料已就緒，可供檢視"
+    },
+    "workflow": {
+      "overline": "更簡短的上線路徑",
+      "title": "輸入原始畫面。輸出商店可用資產。",
+      "description": "無需複雜的設計設定。無需為每種語言重新建立相同的行銷活動。",
+      "steps": [
+        {
+          "number": "步驟 01",
+          "title": "匯入",
+          "body": "加入最能講述您應用程式故事的畫面。"
+        },
+        {
+          "number": "步驟 02",
+          "title": "設計與本地化",
+          "body": "建立一次外觀，然後使用 Ollama 翻譯您的文案。"
+        },
+        {
+          "number": "步驟 03",
+          "title": "匯出",
+          "body": "下載已整理的圖片與元資料，準備提交。"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "設計即隱私",
+      "title": "您的應用程式資產由您掌控。",
+      "description": "截圖編輯在您裝置上進行。當您選擇 Ollama 時，文字僅會傳送至您設定的伺服器位址。",
+      "action": "閱讀隱私權政策"
+    },
+    "final": {
+      "overline": "從截圖到提交",
+      "title": "讓最後一步變得簡單。",
+      "description": "設計、本地化並匯出您下一次應用程式發布所需的所有截圖。",
+      "action": "在 App Store 下載",
+      "appIconAlt": "Screenshot App Maker 應用程式圖示"
+    }
   },
   "ollama": {
     "title": "Ollama 設定教學",
@@ -63,7 +202,10 @@
       "如果您想使用遠端伺服器（家用電腦、VPS），您必須安全地公開連接埠（建議使用 VPN）。"
     ],
     "backHome": "← 返回首頁",
-    "metaTitle": "Ollama 安裝教學 — 截圖（App）製作器"
+    "metaTitle": "Ollama 安裝教學 — 截圖（App）製作器",
+    "pill": "Ollama 整合",
+    "ctaTitle": "準備好進行本地化了嗎？",
+    "ctaBody": "返回應用程式，測試連線，並從一種語系開始。"
   },
   "privacy": {
     "metaTitle": "隱私權政策 — 截圖（App）製作器",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← 返回首頁"
+    "backHome": "← 返回首頁",
+    "pill": "隱私權政策"
+  },
+  "common": {
+    "skipToContent": "跳至內容",
+    "homeAriaLabel": "Screenshot App Maker 首頁",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "功能特色",
+    "localization": "本地化",
+    "privacy": "隱私",
+    "ollamaSetup": "設定 Ollama",
+    "ollamaSetupShort": "Ollama 設定",
+    "downloadIos": "下載 iOS 版",
+    "downloadIosAriaLabel": "從 App Store 下載 Screenshot (App) Maker 適用於 iPhone 和 iPad",
+    "primaryNavigation": "主要導覽",
+    "footerNavigation": "頁尾導覽",
+    "backHome": "返回首頁",
+    "footerTagline": "App Store 截圖，輕鬆製作。",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "選擇語言",
+    "kicker": "顯示語言",
+    "title": "選擇語言",
+    "close": "關閉語言選單",
+    "hint": "選擇您覺得最自然的語言。產品名稱與技術指令將保持不變。"
   }
 }

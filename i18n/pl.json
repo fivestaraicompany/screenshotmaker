@@ -2,7 +2,11 @@
   "meta": {
     "title": "Generator zrzutów ekranu (App)",
     "description": "Twórz czyste i nowoczesne zrzuty ekranu App Store bez wysiłku, korzystając z elastycznych szablonów.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Zrzuty ekranu do App Store, prosto i szybko",
+    "homeDescription": "Twórz profesjonalne zrzuty ekranu gotowe do publikacji w App Store oraz generuj ich lokalizowane wersje dzięki Ollama.",
+    "ollamaDescription": "Połącz Screenshot (App) Maker ze swoim serwerem Ollama, aby prywatnie i inteligentnie przetłumaczyć zrzuty ekranu.",
+    "privacyDescription": "Dowiedz się, jak Screenshot (App) Maker chroni prywatność Twoich zrzutów ekranu, edycji oraz procesu lokalizacji."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Twórz zrzuty ekranu App Store w kilka minut",
     "heroBody": "Wybierz 3–5 zrzutów ekranu, umieść je w szablonach, dodaj tekst marketingowy i wyeksportuj gotowe do przesłania obrazy.",
     "featuresTitle": "Kluczowe funkcje",
-    "features": [
-      "Twórz stylowe zrzuty ekranu App Store, korzystając z konfigurowalnych szablonów",
-      "Importuj obrazy z aplikacji Pliki lub biblioteki zdjęć",
-      "Obsługa zrzutów ekranu dla iPhone'a, iPada, Apple Watch i Apple TV",
-      "Dodawaj tekst marketingowy swobodnie i dostosowuj układ wizualnie"
-    ],
+    "features": {
+      "overline": "Wszystko w jednym miejscu",
+      "titleHtml": "Mniej czasu na przygotowania.<br />Więcej pewności przy publikacji.",
+      "description": "Screenshot (App) Maker zamienia powtarzalną pracę u końca wydania aplikacji w jeden przejrzysty, wizualny proces.",
+      "cards": [
+        {
+          "title": "Włóż ekrany swojej aplikacji.",
+          "body": "Zaimportuj zrzuty ekranu, umieść je w dopracowanych układach urządzeń i ułóż kompletną historię App Store w kilka minut.",
+          "drop": "Upuść zrzuty ekranu tutaj",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Zaprojektuj raz.",
+          "body": "Stosuj kolory, układy, ustawienia urządzeń, typografię i cienie na każdej stronie, zachowując unikalność każdej wiadomości."
+        },
+        {
+          "title": "Dopasuj do każdego ekranu.",
+          "body": "Przygotuj zasoby dla iPhone'a, iPad'a, Apple Watch, Apple TV oraz grafiki promocyjne z jednego projektu."
+        },
+        {
+          "title": "Eksportuj pakiet gotowy do publikacji.",
+          "body": "Wygeneruj obrazy w wysokiej rozdzielczości, uporządkuj pliki lokalizowane i spakuj przetłumaczone metadane App Store w jeden czysty archiwum.",
+          "folder": "Zasoby App Store"
+        }
+      ]
+    },
     "aiTitle": "Lokalizacja oparta na sztucznej inteligencji",
     "aiBody": "Dzięki integracji z Ollama, generuj przetłumaczony tekst marketingowy dla każdego kodu kraju, aby szybko publikować na całym świecie.",
     "aiLink": "Otwórz samouczek konfiguracji Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Polityka prywatności →",
     "footerNote": "Wskazówka: dodaj <code>?lang=ko</code> (lub dowolny obsługiwany kod) do adresu URL, aby wyświetlić podgląd lokalizacji.",
     "supportedPill": "Obsługuje iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Generator zrzutów ekranu (App)"
+    "copyright": "© 2026 Generator zrzutów ekranu (App)",
+    "hero": {
+      "eyebrow": "Stworzone na ostatni etap przed premierą",
+      "titleHtml": "Zamień ekrany aplikacji w <span>gotowe do publikacji zrzuty ekranu.</span>",
+      "description": "Zaprojektuj każdy zrzut ekranu potrzebny do zgłoszenia aplikacji, a następnie połącz Ollama, aby stworzyć lokalizowane wersje — bez ręcznego przepisywania każdej z nich.",
+      "primaryAction": "Zobacz, jak to działa",
+      "secondaryAction": "Poznaj lokalizację",
+      "readyFor": "Gotowe do",
+      "supportAriaLabel": "Obsługiwane formaty eksportu",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Grafika promocyjna"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Podgląd produktu Screenshot Maker",
+      "project": "Letnia premiera",
+      "saved": "Zapisano",
+      "appStorePreview": "Podgląd App Store",
+      "display": "Wyświetlacz 6,7″",
+      "shots": [
+        {
+          "line1": "Mniej planowania.",
+          "line2": "Więcej działania."
+        },
+        {
+          "line1": "Wszystko",
+          "line2": "w jednym miejscu."
+        },
+        {
+          "line1": "Stworzone dla",
+          "line2": "Twojego dnia."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokalizacja zrzutów ekranu…",
+      "exportComplete": "EKSPORT ZAKOŃCZONY",
+      "exportReady": "PNG + metadane gotowe"
+    },
+    "proof": [
+      {
+        "title": "Jedno wizualne środowisko pracy",
+        "body": "Od surowych ekranów do dopracowanych zasobów"
+      },
+      {
+        "title": "Jeden projekt, każdy rynek",
+        "body": "Tłumaczenie tekstów na zrzutach ekranu dzięki Ollama"
+      },
+      {
+        "title": "Jedno uporządkowane wydanie",
+        "body": "Pakowanie obrazów i metadanych razem"
+      }
+    ],
+    "proofAriaLabel": "Korzyści z produktu",
+    "localization": {
+      "ariaLabel": "Podgląd lokalizacji Ollama",
+      "pill": "Napędzane przez Twój serwer Ollama",
+      "title": "Twoja kampania zrzutów ekranu gotowa do przemówienia na każdym rynku.",
+      "description": "Połącz Screenshot (App) Maker z Ollama i przetłumacz nagłówki na zrzutach ekranu oraz metadane App Store w tym samym procesie. Twój oryginalny układ pozostaje nienaruszony, podczas gdy teksty zmieniają się dla każdego języka.",
+      "checks": [
+        "Przetłumacz każdy nagłówek na zrzucie ekranu wsadowo",
+        "Zlokalizuj opisy, słowa kluczowe i notatki wydania",
+        "Sprawdź tłumaczenia przed ostatecznym eksportem"
+      ],
+      "action": "Zobacz przewodnik konfiguracji Ollama",
+      "source": "Język źródłowy · angielski",
+      "localeCount": "4 języki",
+      "sourceLabel": "Źródło",
+      "ready": "Gotowe",
+      "samples": [
+        "Mniej planowania.<br /><strong>Więcej działania.</strong>",
+        "Mniej planowania.<br /><strong>Więcej postępów.</strong>",
+        "Mniej konfiguracji.<br /><strong>Więcej tworzenia.</strong>",
+        "Mniej tarcia.<br /><strong>Więcej dynamiki.</strong>"
+      ],
+      "complete": "Lokalizacja zakończona",
+      "completeBody": "Teksty i metadane gotowe do przeglądu"
+    },
+    "workflow": {
+      "overline": "Krótsza droga do publikacji",
+      "title": "Surowe ekrany w. Gotowe zasoby sklepu na wyjściu.",
+      "description": "Brak skomplikowanego ustawiania projektu. Brak przepisywania tej samej kampanii dla każdego języka.",
+      "steps": [
+        {
+          "number": "KROK 01",
+          "title": "Import",
+          "body": "Dodaj ekrany, które najlepiej opowiadają historię Twojej aplikacji."
+        },
+        {
+          "number": "KROK 02",
+          "title": "Projektowanie i lokalizacja",
+          "body": "Zbuduj wygląd raz, a następnie przetłumacz teksty dzięki Ollama."
+        },
+        {
+          "number": "KROK 03",
+          "title": "Eksport",
+          "body": "Pobierz uporządkowane obrazy i metadane, gotowe do publikacji."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Prywatność od podstaw",
+      "title": "Twoje zasoby aplikacji pozostają pod Twoją kontrolą.",
+      "description": "Edycja zrzutów ekranu odbywa się na Twoim urządzeniu. Gdy wybierzesz Ollama, teksty wysyłane są tylko do adresu serwera, który skonfigurujesz.",
+      "action": "Przeczytaj politykę prywatności"
+    },
+    "final": {
+      "overline": "Od zrzutów ekranu do publikacji",
+      "title": "Spraw, by ostatni krok był prosty.",
+      "description": "Projektuj, lokalizuj i eksportuj każdy zrzut ekranu potrzebny do Twojej kolejnej premiery aplikacji.",
+      "action": "Pobierz w App Store",
+      "appIconAlt": "Ikona aplikacji Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Samouczek konfiguracji Ollama",
@@ -63,7 +202,10 @@
       "Jeśli wolisz używać zdalnego serwera (komputer domowy, VPS), musisz bezpiecznie wystawić port (zalecane VPN)."
     ],
     "backHome": "← Powrót do strony głównej",
-    "metaTitle": "Samouczek konfiguracji Ollama — Generator zrzutów ekranu"
+    "metaTitle": "Samouczek konfiguracji Ollama — Generator zrzutów ekranu",
+    "pill": "Integracja z Ollama",
+    "ctaTitle": "Gotowy do lokalizacji?",
+    "ctaBody": "Wróć do aplikacji, przetestuj połączenie i zacznij od jednego języka."
   },
   "privacy": {
     "metaTitle": "Polityka prywatności — Generator zrzutów ekranu",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Powrót do strony głównej"
+    "backHome": "← Powrót do strony głównej",
+    "pill": "Polityka prywatności"
+  },
+  "common": {
+    "skipToContent": "Przejdź do treści",
+    "homeAriaLabel": "Strona główna Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funkcje",
+    "localization": "Lokalizacja",
+    "privacy": "Prywatność",
+    "ollamaSetup": "Konfiguracja Ollama",
+    "ollamaSetupShort": "Konfiguracja Ollama",
+    "downloadIos": "Pobierz na iOS",
+    "downloadIosAriaLabel": "Pobierz Screenshot (App) Maker na iPhone'a i iPad'a ze sklepu App Store",
+    "primaryNavigation": "Nawigacja główna",
+    "footerNavigation": "Nawigacja stopki",
+    "backHome": "Powrót na stronę główną",
+    "footerTagline": "Zrzuty ekranu do App Store, prosto i szybko.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Wybierz język",
+    "kicker": "Język wyświetlania",
+    "title": "Wybierz język",
+    "close": "Zamknij menu językowe",
+    "hint": "Wybierz język, który jest dla Ciebie najbardziej naturalny. Nazwy produktów i komendy techniczne pozostają bez zmian."
   }
 }

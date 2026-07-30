@@ -2,7 +2,11 @@
   "meta": {
     "title": "Creator de capturi de ecran (App)",
     "description": "Creează capturi de ecran pentru App Store elegante și moderne, cu ușurință, folosind șabloane flexibile.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Capturi de ecran pentru App Store, ușor de realizat",
+    "homeDescription": "Creează capturi de ecran profesionale, gata pentru publicare pe App Store și folosește Ollama pentru a genera versiuni localizate cu ușurință.",
+    "ollamaDescription": "Conectează Screenshot (App) Maker la serverul tău Ollama pentru o localizare privată și asistată de AI.",
+    "privacyDescription": "Află cum Screenshot (App) Maker păstrează confidențiale capturile de ecran, editările și fluxul de lucru de localizare."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Creează capturi de ecran pentru App Store în câteva minute",
     "heroBody": "Alege 3–5 capturi de ecran, adaugă-le în șabloane, adaugă text de marketing și exportă imagini gata de încărcat.",
     "featuresTitle": "Caracteristici cheie",
-    "features": [
-      "Creează capturi de ecran elegante pentru App Store folosind șabloane personalizabile",
-      "Importă imagini din aplicația Fișiere sau din biblioteca ta foto",
-      "Suport pentru capturi de ecran iPhone, iPad, Apple Watch și Apple TV",
-      "Adaugă text de marketing liber și ajustează aspectul vizual"
-    ],
+    "features": {
+      "overline": "Totul într-un singur loc",
+      "titleHtml": "Petrece mai puțin timp pregătind.<br />Publică cu mai multă încredere.",
+      "description": "Screenshot (App) Maker transformă munca repetitivă de la finalul unei lansări de aplicație într-un singur flux de lucru vizual și clar.",
+      "cards": [
+        {
+          "title": "Importă ecranele aplicației tale.",
+          "body": "Importă capturi de ecran, plasează-le în șabloane rafinate pentru dispozitive și organizează o poveste completă pentru App Store în câteva minute.",
+          "drop": "Trage capturile de ecran aici",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Proiectează o singură dată.",
+          "body": "Aplică culori, șabloane, setări pentru dispozitive, tipografie și umbre pe fiecare pagină, păstrând mesajul unic pentru fiecare."
+        },
+        {
+          "title": "Potrivește-te fiecărui ecran.",
+          "body": "Pregătește resursele pentru iPhone, iPad, Apple Watch, Apple TV și imagini principale din același proiect."
+        },
+        {
+          "title": "Exportă un pachet gata de publicare.",
+          "body": "Generează imagini la rezoluție înaltă, organizează fișierele localizate și împachetează metadatele traduse pentru App Store într-un arhivă curată.",
+          "folder": "Resurse App Store"
+        }
+      ]
+    },
     "aiTitle": "Localizare bazată pe AI",
     "aiBody": "Cu integrare Ollama, generează text de marketing tradus pentru fiecare cod de țară pentru lansări globale rapide.",
     "aiLink": "Deschide tutorialul de configurare Ollama →",
@@ -36,7 +60,122 @@
     "learnLink": "Politica de confidențialitate →",
     "footerNote": "Sfaturi: adaugă <code>?lang=ko</code> (sau orice cod acceptat) la URL pentru a previzualiza o localizare.",
     "supportedPill": "Suportă iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Creator de capturi de ecran (App)"
+    "copyright": "© 2026 Creator de capturi de ecran (App)",
+    "hero": {
+      "eyebrow": "Construit pentru ultimul pas înainte de lansare",
+      "titleHtml": "Transformă ecranele aplicației în <span>capturi de ecran gata de publicare.</span>",
+      "description": "Proiectează fiecare captură de ecran necesară pentru trimiterea aplicației, apoi conectează Ollama pentru a crea versiuni localizate — fără a le reconstrui manual pe fiecare.",
+      "primaryAction": "Vezi cum funcționează",
+      "secondaryAction": "Explorează localizarea",
+      "readyFor": "Gata pentru",
+      "supportAriaLabel": "Tipuri de export acceptate",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Imagine principală (Feature Graphic)"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Previzualizare produs Screenshot Maker",
+      "project": "Lansare de vară",
+      "saved": "Salvat",
+      "appStorePreview": "Previzualizare App Store",
+      "display": "Afișaj de 6,7″",
+      "shots": [
+        {
+          "line1": "Planifică mai puțin.",
+          "line2": "Fă mai mult."
+        },
+        {
+          "line1": "Totul",
+          "line2": "într-un singur loc."
+        },
+        {
+          "line1": "Creat pentru",
+          "line2": "ziua ta."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Se localizează capturile de ecran…",
+      "exportComplete": "EXPORT FINALIZAT",
+      "exportReady": "PNG-uri + metadate gata"
+    },
+    "proof": [
+      {
+        "title": "Un spațiu de lucru vizual unic",
+        "body": "De la ecrane brute la resurse rafinate"
+      },
+      {
+        "title": "Un singur design, pentru fiecare limbă",
+        "body": "Traduce textul capturilor de ecran cu Ollama"
+      },
+      {
+        "title": "Un export organizat",
+        "body": "Împachetează imaginile și metadatele împreună"
+      }
+    ],
+    "proofAriaLabel": "Beneficii ale produsului",
+    "localization": {
+      "ariaLabel": "Previzualizare localizare Ollama",
+      "pill": "Propulsat de serverul tău Ollama",
+      "title": "Campania ta de capturi de ecran, gata să vorbească în fiecare piață.",
+      "description": "Conectează Screenshot (App) Maker la Ollama și traduce titlurile capturilor de ecran și metadatele App Store în același flux de lucru. Șablonul original rămâne intact, iar textul se adaptează pentru fiecare limbă.",
+      "checks": [
+        "Tradu toate titlurile capturilor de ecran într-un lot",
+        "Localizează descrierile, cuvintele cheie și notele de lansare",
+        "Revizuiește traducerile înainte de exportul final"
+      ],
+      "action": "Vezi ghidul de configurare Ollama",
+      "source": "Sursă · Engleză",
+      "localeCount": "4 limbi",
+      "sourceLabel": "Sursă",
+      "ready": "Gata",
+      "samples": [
+        "Planifică mai puțin.<br /><strong>Fă mai mult.</strong>",
+        "Mai puțină planificare.<br /><strong>Mai mult progres.</strong>",
+        "Mai puțină configurare.<br /><strong>Mai multă creație.</strong>",
+        "Mai puțină frecare.<br /><strong>Mai multă dinamică.</strong>"
+      ],
+      "complete": "Localizare finalizată",
+      "completeBody": "Textul și metadatele sunt gata de revizuire"
+    },
+    "workflow": {
+      "overline": "O cale mai scurtă către publicare",
+      "title": "Ecrane brute intră. Resurse gata pentru magazin ies.",
+      "description": "Fără configurări complexe de design. Fără reconstrucția aceluiași campaign pentru fiecare limbă.",
+      "steps": [
+        {
+          "number": "PASUL 01",
+          "title": "Import",
+          "body": "Adaugă ecranele care povestesc cel mai bine aplicația ta."
+        },
+        {
+          "number": "PASUL 02",
+          "title": "Design & localizare",
+          "body": "Creează aspectul o singură dată, apoi traduce textul cu Ollama."
+        },
+        {
+          "number": "PASUL 03",
+          "title": "Export",
+          "body": "Descarcă imaginile organizate și metadatele, gata pentru trimitere."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privat prin design",
+      "title": "Resursele aplicației tale rămân sub controlul tău.",
+      "description": "Editarea capturilor de ecran are loc pe dispozitivul tău. Când alegi Ollama, textul este trimis doar la adresa serverului pe care o configurezi.",
+      "action": "Citește politica de confidențialitate"
+    },
+    "final": {
+      "overline": "De la capturi de ecran la publicare",
+      "title": "Fă ultimul pas să pară simplu.",
+      "description": "Proiectează, localizează și exportă fiecare captură de ecran necesară pentru următoarea lansare a aplicației tale.",
+      "action": "Descarcă de pe App Store",
+      "appIconAlt": "Pictograma aplicației Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutorial configurare Ollama",
@@ -63,7 +202,10 @@
       "Dacă preferi să utilizezi un server la distanță (PC acasă, VPS), trebuie să expui portul în mod securizat (VPN recomandat)."
     ],
     "backHome": "← Înapoi la Home",
-    "metaTitle": "Tutorial de configurare Ollama — Screenshot (App) Maker"
+    "metaTitle": "Tutorial de configurare Ollama — Screenshot (App) Maker",
+    "pill": "Integrare Ollama",
+    "ctaTitle": "Gata să localizezi?",
+    "ctaBody": "Revenire la aplicație, testează conexiunea și începe cu o singură limbă."
   },
   "privacy": {
     "metaTitle": "Politica de confidențialitate — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Înapoi la Home"
+    "backHome": "← Înapoi la Home",
+    "pill": "Politica de confidențialitate"
+  },
+  "common": {
+    "skipToContent": "Sari la conținut",
+    "homeAriaLabel": "Pagina principală Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funcționalități",
+    "localization": "Localizare",
+    "privacy": "Confidențialitate",
+    "ollamaSetup": "Configurare Ollama",
+    "ollamaSetupShort": "Configurare Ollama",
+    "downloadIos": "Descarcă pentru iOS",
+    "downloadIosAriaLabel": "Descarcă Screenshot (App) Maker pentru iPhone și iPad de pe App Store",
+    "primaryNavigation": "Navigare principală",
+    "footerNavigation": "Navigare subsol",
+    "backHome": "Înapoi la pagina principală",
+    "footerTagline": "Capturi de ecran pentru App Store, ușor de realizat.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Alege limba",
+    "kicker": "Limba de afișare",
+    "title": "Alege o limbă",
+    "close": "Închide meniul de limbi",
+    "hint": "Alege limba care ți se pare cea mai naturală. Numele produselor și comenzile tehnice rămân neschimbate."
   }
 }

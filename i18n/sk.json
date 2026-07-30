@@ -2,7 +2,11 @@
   "meta": {
     "title": "Výrobca snímok obrazovky (aplikácia)",
     "description": "Vytvorte si čisté a moderné snímky obrazovky App Store jednoducho pomocou flexibilných šablón.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Snímky obrazovky pre App Store, jednoducho",
+    "homeDescription": "Vytvorte profesionálne snímky obrazovky pripravené na odoslanie do App Store a pomocou Ollamy ľahko generujte lokalizované verzie.",
+    "ollamaDescription": "Pripojte Screenshot (App) Maker k vášmu serveru Ollama pre súkromnú AI-localizáciu snímok obrazovky.",
+    "privacyDescription": "Zistite, ako Screenshot (App) Maker chráni vaše snímky obrazovky, úpravy a pracovný postup lokalizácie."
   },
   "nav": {
     "home": "Home",
@@ -20,12 +24,32 @@
     "heroTitle": "Vytvorte si snímky obrazovky App Store za minúty",
     "heroBody": "Vyberte si 3–5 snímok obrazovky, vložte ich do šablón, pridajte marketingový text a exportujte obrázky pripravené na odovzdanie.",
     "featuresTitle": "Kľúčové vlastnosti",
-    "features": [
-      "Vytvárajte štýlové snímky obrazovky App Store pomocou prispôsobiteľných šablón",
-      "Importujte obrázky z aplikácie Súbory alebo z vašej fototéky",
-      "Podpora pre snímky obrazovky iPhone, iPad, Apple Watch a Apple TV",
-      "Voľne pridávajte marketingový text a vizuálne upravujte rozloženie"
-    ],
+    "features": {
+      "overline": "Všetko na jednom mieste",
+      "titleHtml": "Strávte menej času prípravou.<br />Spravujte vydanie s väčšou istotou.",
+      "description": "Screenshot (App) Maker mení opakujúcu sa prácu na konci vydania aplikácie do jedného jasného, vizuálneho pracovného postupu.",
+      "cards": [
+        {
+          "title": "Vložte snímky obrazovky vašej aplikácie.",
+          "body": "Importujte snímky obrazovky, umiestnite ich do profesionálnych rozložení zariadení a za niekoľko minút zostavte kompletný príbeh pre App Store.",
+          "drop": "Sem presuňte snímky obrazovky",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Navrhnite raz.",
+          "body": "Aplikujte farby, rozloženia, nastavenia zariadení, typografiu a tiene na každú stránku pri zachovaní jedinečnosti každej správy."
+        },
+        {
+          "title": "Prispôsobte každú obrazovku.",
+          "body": "Pripravte aktíva pre iPhone, iPad, Apple Watch, Apple TV a funkčnú grafiku z toho istého projektu."
+        },
+        {
+          "title": "Exportujte balík pripravený na odoslanie.",
+          "body": "Renderujte obrázky vo vysokom rozlíšení, organizujte lokalizované súbory a zabaľte preložené metadáta App Store do jedného prehľadného archívu.",
+          "folder": "Aktíva App Store"
+        }
+      ]
+    },
     "aiTitle": "Lokilizácia poháňaná umelou inteligenciou",
     "aiBody": "S integráciou Ollama generujte preložený marketingový text pre každý kód krajiny pre rýchle globálne odovzdanie.",
     "aiLink": "Otvorte tutoriál k nastaveniu Ollamy →",
@@ -36,7 +60,122 @@
     "learnLink": "Zásady ochrany osobných údajov →",
     "footerNote": "Tip: pripojte <code>?lang=ko</code> (alebo iný podporovaný kód) k URL adrese, aby ste si prezreli lokálnu verziu.",
     "supportedPill": "Podporuje iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Výrobca snímok obrazovky (aplikácia)"
+    "copyright": "© 2026 Výrobca snímok obrazovky (aplikácia)",
+    "hero": {
+      "eyebrow": "Navrhnuté pre finálnu fázu pred spustením",
+      "titleHtml": "Premieňujte snímky obrazovky aplikácie na <span>snímky pripravené na odoslanie.</span>",
+      "description": "Návrh každého screenshotu potrebného pre podanie do App Store a následné pripojenie Ollamy na vytvorenie lokalizovaných verzií – bez manuálneho prebudovania každej z nich.",
+      "primaryAction": "Zobraziť, ako to funguje",
+      "secondaryAction": "Preskúmať lokalizáciu",
+      "readyFor": "Pripravené na",
+      "supportAriaLabel": "Podporované typy exportu",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Funkčná grafika"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Náhľad produktu Screenshot Maker",
+      "project": "Letné vydanie",
+      "saved": "Uložené",
+      "appStorePreview": "Náhľad App Store",
+      "display": "6,7″ Displej",
+      "shots": [
+        {
+          "line1": "Plánujte menej.",
+          "line2": "Robte viac."
+        },
+        {
+          "line1": "Všetko",
+          "line2": "na jednom mieste."
+        },
+        {
+          "line1": "Navrhnuté pre",
+          "line2": "váš deň."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokalizácia snímok obrazovky…",
+      "exportComplete": "EXPORT UKONČENÝ",
+      "exportReady": "PNG + metadáta pripravené"
+    },
+    "proof": [
+      {
+        "title": "Jedno vizuálne pracovné priestor",
+        "body": "Od surových snímok po profesionálne aktíva"
+      },
+      {
+        "title": "Jeden dizajn, každá lokalizácia",
+        "body": "Prekladajte text na snímkach pomocou Ollamy"
+      },
+      {
+        "title": "Jedno organizované exportovanie",
+        "body": "Zabaľte obrázky a metadáta dohromady"
+      }
+    ],
+    "proofAriaLabel": "Výhody produktu",
+    "localization": {
+      "ariaLabel": "Náhľad lokalizácie Ollama",
+      "pill": "Poháňané vaším serverom Ollama",
+      "title": "Vaša kampaň snímok obrazovky pripravená hovoriť každým trhom.",
+      "description": "Pripojte Screenshot (App) Maker k Ollame a prekladajte nadpisy na snímkach a metadáta App Store v rámci toho istého pracovného postupu. Pôvodné rozloženie zostáva nedotknuté, zatiaľ čo text sa mení pre každú lokalizáciu.",
+      "checks": [
+        "Preložiť každý nadpis na snímke obrazovky hromadne",
+        "Lokalizovať popisy, kľúčové slová a poznámky k vydaniu",
+        "Skontrolovať preklady pred konečným exportom"
+      ],
+      "action": "Zobraziť návod na nastavenie Ollamy",
+      "source": "Zdroj · Angličtina",
+      "localeCount": "4 lokalizácie",
+      "sourceLabel": "Zdroj",
+      "ready": "Pripravené",
+      "samples": [
+        "Plánujte menej.<br /><strong>Robte viac.</strong>",
+        "Menej plánovania.<br /><strong>Viac pokroku.</strong>",
+        "Menej nastavenia.<br /><strong>Viac tvorby.</strong>",
+        "Menej trenia.<br /><strong>Viac impulzu.</strong>"
+      ],
+      "complete": "Lokalizácia dokončená",
+      "completeBody": "Text a metadáta sú pripravené na kontrolu"
+    },
+    "workflow": {
+      "overline": "Krátkšia cesta k publikovaniu",
+      "title": "Surové snímky dnu. Aktíva pripravené pre obchod von.",
+      "description": "Žiadny zložitý návrhový setup. Žiadne opätovné budovanie tej istej kampane pre každý jazyk.",
+      "steps": [
+        {
+          "number": "KROK 01",
+          "title": "Import",
+          "body": "Pridajte snímky, ktoré najlepšie rozprávajú príbeh vašej aplikácie."
+        },
+        {
+          "number": "KROK 02",
+          "title": "Dizajn a lokalizácia",
+          "body": "Jednou postavte vzhľad, potom preložte text pomocou Ollamy."
+        },
+        {
+          "number": "KROK 03",
+          "title": "Export",
+          "body": "Stiahnite si organizované obrázky a metadáta pripravené na odoslanie."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Súkromné od dizajnu",
+      "title": "Vaše aktíva aplikácie zostávajú pod vašou kontrolou.",
+      "description": "Úpravy snímok obrazovky prebiehajú na vašom zariadení. Keď si vyberiete Ollamu, text sa odošle len na adresu servera, ktorú nakonfigurujete.",
+      "action": "Prečítať zásady ochrany osobných údajov"
+    },
+    "final": {
+      "overline": "Od snímok obrazovky po odoslanie",
+      "title": "Urobte finálny krok jednoduchým.",
+      "description": "Navrhujte, lokalizujte a exportujte každú snímku obrazovky potrebnú pre vaše ďalšie vydanie aplikácie.",
+      "action": "Stiahnuť na App Store",
+      "appIconAlt": "Ikona aplikácie Screenshot App Maker"
+    }
   },
   "ollama": {
     "title": "Tutoriál k nastaveniu Ollamy",
@@ -63,7 +202,10 @@
       "Ak preferujete používať vzdialený server (domáci PC, VPS), musíte port bezpečne sprístupniť (odporúča sa VPN)."
     ],
     "backHome": "← Späť na Domovskú stránku",
-    "metaTitle": "Tutoriál na nastavenie Ollamy — Screenshot (App) Maker"
+    "metaTitle": "Tutoriál na nastavenie Ollamy — Screenshot (App) Maker",
+    "pill": "Integrácia Ollama",
+    "ctaTitle": "Pripravení na lokalizáciu?",
+    "ctaBody": "Vráťte sa do aplikácie, otestujte pripojenie a začnite s jednou lokalizáciou."
   },
   "privacy": {
     "metaTitle": "Zásady ochrany osobných údajov — Screenshot (App) Maker",
@@ -116,6 +258,31 @@
         ]
       }
     ],
-    "backHome": "← Späť na Domovskú stránku"
+    "backHome": "← Späť na Domovskú stránku",
+    "pill": "Zásady ochrany osobných údajov"
+  },
+  "common": {
+    "skipToContent": "Preskočiť na obsah",
+    "homeAriaLabel": "Domovská stránka aplikácie Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funkcie",
+    "localization": "Lokalizácia",
+    "privacy": "Ochrana osobných údajov",
+    "ollamaSetup": "Nastavenie Ollamy",
+    "ollamaSetupShort": "Nastavenie Ollamy",
+    "downloadIos": "Stiahnuť pre iOS",
+    "downloadIosAriaLabel": "Stiahnuť aplikáciu Screenshot (App) Maker pre iPhone a iPad z App Store",
+    "primaryNavigation": "Hlavná navigácia",
+    "footerNavigation": "Navigácia v pätičke",
+    "backHome": "Späť na domovskú stránku",
+    "footerTagline": "Snímky obrazovky pre App Store, jednoducho.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Vybrať jazyk",
+    "kicker": "Jazyk rozhrania",
+    "title": "Vyberte jazyk",
+    "close": "Zavrieť menu jazykov",
+    "hint": "Vyberte jazyk, ktorý vám pripadá najprirodzenejší. Názvy produktov a technické príkazy zostávajú nezmenené."
   }
 }
