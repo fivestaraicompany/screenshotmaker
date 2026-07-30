@@ -1,449 +1,158 @@
 <!doctype html>
-<html lang="en" data-meta-title-key="privacy.metaTitle" data-meta-desc-key="meta.description">
+<html lang="en" data-meta-title-key="privacy.metaTitle" data-meta-description-key="meta.privacyDescription">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="Create clean, modern App Store screenshots effortlessly using flexible templates." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f8fbff" />
+  <meta name="description" content="Learn how Screenshot (App) Maker keeps your screenshots, edits, and localization workflow private." />
+  <link rel="icon" type="image/png" href="./assets/favicon.png" />
+  <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="./localization.js" defer></script>
   <title>Privacy Policy — Screenshot (App) Maker</title>
-  
-<style>
-  :root{
-    --bg:#ffffff;
-    --bg2:#f6f7fb;
-    --fg:#0f172a;
-    --muted:#64748b;
-    --card:#ffffff;
-    --stroke:#e5e7eb;
-    --brand:#007AFF;
-    --shadow:0 6px 24px rgba(0,0,0,.08);
-    --radius:16px;
-    --max:980px;
-  }
-  *{ box-sizing:border-box; }
-  body{
-    margin:0;
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple SD Gothic Neo","Noto Sans KR", sans-serif;
-    color:var(--fg);
-    background:linear-gradient(180deg,var(--bg),var(--bg2));
-  }
-  .top{
-    position:sticky; top:0;
-    background:rgba(255,255,255,.82);
-    backdrop-filter:saturate(180%) blur(10px);
-    border-bottom:1px solid var(--stroke);
-    z-index:10;
-  }
-  .top{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    padding:14px 18px;
-  }
-  .brand-link{
-    text-decoration:none;
-    color:var(--fg);
-    font-weight:800;
-    letter-spacing:-.02em;
-  }
-  .nav{ display:flex; gap:14px; align-items:center; }
-  .nav a{
-    text-decoration:none;
-    color:var(--muted);
-    font-weight:600;
-    font-size:14px;
-  }
-  .nav a:hover{ color:var(--fg); }
-  .lang-btn{
-    border:1px solid var(--stroke);
-    background:var(--card);
-    border-radius:999px;
-    padding:6px 10px;
-    cursor:pointer;
-    box-shadow:0 2px 10px rgba(0,0,0,.05);
-  }
-  main{
-    max-width:var(--max);
-    margin:0 auto;
-    padding:34px 18px 64px;
-  }
-  .card{
-    background:var(--card);
-    border:1px solid var(--stroke);
-    border-radius:var(--radius);
-    box-shadow:var(--shadow);
-    padding:22px 22px;
-  }
-  h1{ margin:0 0 8px; font-size:30px; letter-spacing:-.03em; }
-  p{ margin:0 0 12px; line-height:1.6; color:var(--muted); }
-  h2{ margin:22px 0 10px; font-size:18px; }
-  ul{ margin:10px 0 0 18px; color:var(--muted); line-height:1.7; }
-  li{ margin:6px 0; }
-  .back{
-    display:inline-block;
-    margin-top:18px;
-    color:var(--brand);
-    text-decoration:none;
-    font-weight:700;
-  }
-  .back:hover{ text-decoration:underline; }
-
-  dialog.lang-dialog{
-    border:none;
-    padding:0;
-    border-radius:18px;
-    width:min(560px, calc(100vw - 28px));
-    box-shadow:0 30px 90px rgba(0,0,0,.25);
-  }
-  dialog::backdrop{ background:rgba(0,0,0,.35); }
-  .lang-card{ padding:16px; background:var(--card); }
-  .lang-head{ display:flex; align-items:center; justify-content:space-between; gap:12px; }
-  .lang-title{ font-weight:800; }
-  .lang-close{
-    border:1px solid var(--stroke);
-    background:var(--card);
-    border-radius:10px;
-    padding:6px 10px;
-    cursor:pointer;
-  }
-  .lang-list{
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    gap:10px;
-    margin-top:12px;
-    max-height:46vh;
-    overflow:auto;
-    padding:4px;
-  }
-  .lang-item{
-    border:1px solid var(--stroke);
-    background:var(--bg2);
-    border-radius:12px;
-    padding:10px 12px;
-    cursor:pointer;
-    text-align:left;
-    font-weight:700;
-    color:var(--fg);
-  }
-  .lang-item:hover{ filter:brightness(.98); }
-  .lang-hint{
-    margin-top:12px;
-    font-size:13px;
-    color:var(--muted);
-    line-height:1.5;
-  }
-</style>
-
 </head>
-<body>
+<body class="document-page privacy-document">
+  <a class="skip-link" href="#main" data-i18n="common.skipToContent">Skip to content</a>
 
-  <header class="top">
-    <div class="brand">
-      <a class="brand-link" href="./index.html" data-keep-lang data-i18n="home.brandTitle"></a>
+  <header class="site-header">
+    <div class="shell nav-shell">
+      <a class="brand" href="./index.html" data-keep-lang data-i18n-attr="aria-label:common.homeAriaLabel" aria-label="Screenshot App Maker home">
+        <img src="./assets/favicon.png" width="42" height="42" alt="" />
+        <span data-i18n-html="common.brandHtml">Screenshot <span class="brand-soft">(App)</span> Maker</span>
+      </a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="./index.html#features" data-keep-lang data-i18n="common.features">Features</a>
+        <a href="./index.html#localization" data-keep-lang data-i18n="common.localization">Localization</a>
+        <a href="./privacy.html" data-keep-lang data-i18n="common.privacy">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <button class="language-button" type="button" data-language-button data-i18n-attr="aria-label:language.buttonLabel" aria-label="Choose language">
+          <span class="language-button-globe" aria-hidden="true">◎</span>
+          <span data-language-code>EN</span>
+        </button>
+        <a class="button button-small button-light" href="./index.html" data-keep-lang>
+          <span data-i18n="common.backHome">Back home</span>
+          <span aria-hidden="true">↗</span>
+        </a>
+      </div>
     </div>
-    <nav class="nav">
-      <a href="./index.html" data-keep-lang data-i18n="nav.home"></a>
-      <a href="./ollamasetuptutorial.html" data-keep-lang data-i18n="nav.ollamaSetup"></a>
-      <a href="./privacy.html" data-keep-lang data-i18n="nav.privacy"></a>
-      <button id="langBtn" class="lang-btn" type="button">🌐</button>
-    </nav>
   </header>
 
-  <dialog id="langDialog" class="lang-dialog">
-    <div class="lang-card">
-      <div class="lang-head">
-        <div class="lang-title" data-i18n="langPicker.title"></div>
-        <button id="langClose" class="lang-close" type="button" aria-label="Close" data-i18n="langPicker.close"></button>
+  <main id="main" class="document-main">
+    <div class="document-glow" aria-hidden="true"></div>
+    <article class="document-card">
+      <header class="document-hero">
+        <div class="privacy-pill">
+          <span aria-hidden="true">◇</span>
+          <span data-i18n="privacy.pill">Privacy policy</span>
+        </div>
+        <h1 data-i18n="privacy.title">Privacy Policy</h1>
+        <p data-i18n="privacy.intro">This Privacy Policy describes how Screenshot (App) Maker ("the App") handles user data.</p>
+      </header>
+
+      <div class="privacy-summary">
+        <div>
+          <strong data-i18n="privacy.summary.0">No accounts. No analytics. No tracking.</strong>
+        </div>
+        <div>
+          <strong data-i18n="privacy.summary.1">Your files and edits stay on your device unless you choose to connect to your own Ollama server.</strong>
+        </div>
+        <div>
+          <strong data-i18n="privacy.summary.2">If you use Ollama, text is sent only to the server address you configure.</strong>
+        </div>
       </div>
-      <div id="langList" class="lang-list"></div>
-      <div class="lang-hint" data-i18n="langPicker.hint"></div>
+
+      <div class="document-content">
+        <section>
+          <span class="document-index">01</span>
+          <div>
+            <h2 data-i18n="privacy.sections.0.title">Information Collection</h2>
+            <ul>
+              <li data-i18n="privacy.sections.0.body.0">The App does not collect, store, or transmit personal information to our servers.</li>
+              <li data-i18n="privacy.sections.0.body.1">Screenshots, templates, and exported images are created and saved locally on your device.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section>
+          <span class="document-index">02</span>
+          <div>
+            <h2 data-i18n="privacy.sections.1.title">Files and Photos Access</h2>
+            <ul>
+              <li data-i18n="privacy.sections.1.body.0">The App may request access to the Files app or your photo library to import screenshots.</li>
+              <li data-i18n="privacy.sections.1.body.1">Imported images are processed on-device and are not uploaded automatically.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section>
+          <span class="document-index">03</span>
+          <div>
+            <h2 data-i18n="privacy.sections.2.title">AI Translation (Ollama)</h2>
+            <ul>
+              <li data-i18n="privacy.sections.2.body.0">If you enable AI text generation or translation, the App can send text to an Ollama server that you configure (for example, your own computer).</li>
+              <li data-i18n="privacy.sections.2.body.1">We do not operate or receive your Ollama traffic, and the App does not log or store the text processed by AI.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section>
+          <span class="document-index">04</span>
+          <div>
+            <h2 data-i18n="privacy.sections.3.title">Third-Party Services</h2>
+            <ul>
+              <li data-i18n="privacy.sections.3.body.0">The App does not use third-party analytics, advertising SDKs, or tracking technologies.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section>
+          <span class="document-index">05</span>
+          <div>
+            <h2 data-i18n="privacy.sections.4.title">Changes</h2>
+            <ul>
+              <li data-i18n="privacy.sections.4.body.0">We may update this Privacy Policy from time to time. Changes will be reflected on this page.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section>
+          <span class="document-index">06</span>
+          <div>
+            <h2 data-i18n="privacy.sections.5.title">Contact</h2>
+            <ul>
+              <li data-i18n="privacy.sections.5.body.0">If you have questions about this Privacy Policy, please contact us via the email address provided on the App Store listing.</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+
+      <div class="document-cta privacy-cta">
+        <div>
+          <strong data-i18n="privacy.summaryTitle">Summary</strong>
+          <span data-i18n="privacy.summary.0">No accounts. No analytics. No tracking.</span>
+        </div>
+        <a class="button button-dark" href="./index.html" data-keep-lang>
+          <span data-i18n="common.backHome">Back to home</span>
+          <span aria-hidden="true">→</span>
+        </a>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <a class="brand footer-brand" href="./index.html" data-keep-lang>
+        <img src="./assets/favicon.png" width="36" height="36" alt="" />
+        <span data-i18n-html="common.brandHtml">Screenshot <span class="brand-soft">(App)</span> Maker</span>
+      </a>
+      <p data-i18n="common.footerTagline">App Store screenshots, made easy.</p>
+      <nav aria-label="Footer navigation">
+        <a href="./ollamasetuptutorial.html" data-keep-lang data-i18n="common.ollamaSetupShort">Ollama Setup</a>
+        <a href="./privacy.html" data-keep-lang data-i18n="common.privacy">Privacy</a>
+      </nav>
+      <p class="copyright" data-i18n="common.copyright">© 2026 Screenshot (App) Maker</p>
     </div>
-  </dialog>
-
-<main>
-  <div class="card">
-    <h1 data-i18n="privacy.title"></h1>
-    <p data-i18n="privacy.intro"></p>
-
-    <h2 data-i18n="privacy.summaryTitle"></h2>
-    <ul>
-      <li data-i18n="privacy.summary.0"></li>
-      <li data-i18n="privacy.summary.1"></li>
-      <li data-i18n="privacy.summary.2"></li>
-    </ul>
-
-    
-        <section>
-          <h2 data-i18n="privacy.sections.0.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.0.body.0"></li>
-            <li data-i18n="privacy.sections.0.body.1"></li>
-          </ul>
-        </section>
-        
-
-        <section>
-          <h2 data-i18n="privacy.sections.1.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.1.body.0"></li>
-            <li data-i18n="privacy.sections.1.body.1"></li>
-          </ul>
-        </section>
-        
-
-        <section>
-          <h2 data-i18n="privacy.sections.2.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.2.body.0"></li>
-            <li data-i18n="privacy.sections.2.body.1"></li>
-          </ul>
-        </section>
-        
-
-        <section>
-          <h2 data-i18n="privacy.sections.3.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.3.body.0"></li>
-            
-          </ul>
-        </section>
-        
-
-        <section>
-          <h2 data-i18n="privacy.sections.4.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.4.body.0"></li>
-            
-          </ul>
-        </section>
-        
-
-        <section>
-          <h2 data-i18n="privacy.sections.5.title"></h2>
-          <ul>
-            <li data-i18n="privacy.sections.5.body.0"></li>
-            
-          </ul>
-        </section>
-        
-
-    <a class="back" href="./index.html" data-keep-lang data-i18n="privacy.backHome"></a>
-  </div>
-</main>
-
-<script>
-  const SUPPORTED_LANGS = ["uk", "ar", "ca", "zh-Hans", "zh-Hant", "hr", "cs", "da", "nl", "fi", "fr", "de", "el", "fr-CA", "he", "hi", "hu", "id", "it", "ja", "ko", "ms", "nb", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "es-MX", "es", "sv", "th", "tr", "vi", "en"];
-
-  function normLang(code) {
-    if (!code) return null;
-    const c = String(code).trim();
-    if (!c) return null;
-    // exact match (case-sensitive for script/region codes)
-    if (SUPPORTED_LANGS.includes(c)) return c;
-    // language-region: try exact, then base language
-    const lower = c.toLowerCase();
-    // Handle navigator like "pt-br"
-    const canonical = SUPPORTED_LANGS.find(x => x.toLowerCase() === lower);
-    if (canonical) return canonical;
-
-    const base = lower.split('-')[0];
-    const baseMatch = SUPPORTED_LANGS.find(x => x.toLowerCase() === base);
-    if (baseMatch) return baseMatch;
-
-    // Chinese heuristic
-    if (base === 'zh') {
-      const hansRegions = ['cn','sg','my'];
-      const hantRegions = ['tw','hk','mo'];
-      const parts = lower.split('-');
-      if (parts.includes('hans') || hansRegions.includes(parts[1])) return 'zh-Hans';
-      if (parts.includes('hant') || hantRegions.includes(parts[1])) return 'zh-Hant';
-      return 'zh-Hans';
-    }
-    return null;
-  }
-
-  function getQueryLang() {
-    const url = new URL(window.location.href);
-    return url.searchParams.get("lang");
-  }
-
-  function setQueryLang(code) {
-    const url = new URL(window.location.href);
-    url.searchParams.set("lang", code);
-    window.history.replaceState({}, "", url.toString());
-  }
-
-  async function loadJson(langCode) {
-    const path = `./i18n/${langCode}.json`;
-    try {
-      const res = await fetch(path, { cache: "no-store" });
-      if (!res.ok) throw new Error("missing");
-      return await res.json();
-    } catch (e) {
-      const res = await fetch("./i18n/en.json", { cache: "no-store" });
-      return await res.json();
-    }
-  }
-
-  function getByPath(obj, path) {
-    // supports dot paths + numeric array indices
-    const parts = path.split(".");
-    let cur = obj;
-    for (const p of parts) {
-      if (cur == null) return null;
-      if (Array.isArray(cur)) {
-        const idx = Number(p);
-        if (Number.isNaN(idx)) return null;
-        cur = cur[idx];
-      } else {
-        cur = cur[p];
-      }
-    }
-    return cur;
-  }
-
-  function applyI18n(dict) {
-    document.querySelectorAll("[data-i18n]").forEach(el => {
-      const key = el.getAttribute("data-i18n");
-      const val = getByPath(dict, key);
-      if (val == null) return;
-      // allow HTML inside translations (code tags, strong, etc.)
-      el.innerHTML = String(val);
-    });
-
-    // meta
-    const metaTitleKey = document.documentElement.getAttribute("data-meta-title-key");
-    if (metaTitleKey) {
-      const t = getByPath(dict, metaTitleKey);
-      if (t) document.title = String(t);
-    } else if (dict?.meta?.title) {
-      document.title = dict.meta.title;
-    }
-
-    const metaDescKey = document.documentElement.getAttribute("data-meta-desc-key");
-    if (metaDescKey) {
-      const d = getByPath(dict, metaDescKey);
-      if (d) {
-        const meta = document.querySelector('meta[name="description"]');
-        if (meta) meta.setAttribute("content", String(d));
-      }
-    } else if (dict?.meta?.description) {
-      const meta = document.querySelector('meta[name="description"]');
-      if (meta) meta.setAttribute("content", dict.meta.description);
-    }
-  }
-
-  function decorateKeepLangLinks(lang) {
-    document.querySelectorAll("a[data-keep-lang]").forEach(a => {
-      try {
-        const u = new URL(a.getAttribute("href"), window.location.href);
-        u.searchParams.set("lang", lang);
-        a.setAttribute("href", u.pathname + u.search);
-      } catch (_) {}
-    });
-  }
-
-  function openLangDialog() {
-    const dlg = document.getElementById("langDialog");
-    if (dlg) dlg.showModal();
-  }
-
-  function closeLangDialog() {
-    const dlg = document.getElementById("langDialog");
-    if (dlg) dlg.close();
-  }
-
-  const LANG_LABELS = {
-    "en": "English",
-    "ko": "한국어",
-    "ja": "日本語",
-    "zh-Hans": "简体中文",
-    "zh-Hant": "繁體中文",
-    "fr": "Français",
-    "de": "Deutsch",
-    "es": "Español",
-    "pt-BR": "Português (Brasil)",
-    "pt-PT": "Português (Portugal)",
-    "ru": "Русский",
-    "ar": "العربية",
-    "hi": "हिन्दी",
-    "tr": "Türkçe",
-    "vi": "Tiếng Việt",
-    "th": "ไทย",
-    "nl": "Nederlands",
-    "it": "Italiano",
-    "pl": "Polski",
-    "sv": "Svenska",
-    "fi": "Suomi",
-    "da": "Dansk",
-    "cs": "Čeština",
-    "hu": "Magyar",
-    "el": "Ελληνικά",
-    "he": "עברית",
-    "id": "Bahasa Indonesia",
-    "ms": "Bahasa Melayu",
-    "nb": "Norsk Bokmål",
-    "ro": "Română",
-    "sk": "Slovenčina",
-    "hr": "Hrvatski",
-    "ca": "Català",
-    "uk": "Українська",
-    "fr-CA": "Français (Canada)",
-    "es-MX": "Español (México)"
-  };
-
-  function renderLangList(dict) {
-    const box = document.getElementById("langList");
-    if (!box) return;
-
-    const all = ["en", ...SUPPORTED_LANGS.filter(c => c !== "en")];
-    box.innerHTML = "";
-
-    for (const code of all) {
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "lang-item";
-      const label = LANG_LABELS[code] || code;
-      btn.textContent = label;
-      btn.addEventListener("click", () => {
-        localStorage.setItem("site_lang", code);
-        setQueryLang(code);
-        window.location.reload();
-      });
-      box.appendChild(btn);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", async () => {
-    const queryLang = getQueryLang();
-    const stored = localStorage.getItem("site_lang");
-    const navLang = (navigator.language || navigator.userLanguage || "").trim();
-
-    const picked =
-      normLang(queryLang) ||
-      normLang(stored) ||
-      normLang(navLang) ||
-      "en";
-
-    // keep the final choice in URL for shareability
-    setQueryLang(picked);
-
-    const dict = await loadJson(picked);
-    applyI18n(dict);
-    decorateKeepLangLinks(picked);
-    renderLangList(dict);
-
-    const btn = document.getElementById("langBtn");
-    if (btn) btn.addEventListener("click", openLangDialog);
-
-    const close = document.getElementById("langClose");
-    if (close) close.addEventListener("click", closeLangDialog);
-
-    const backdrop = document.getElementById("langDialog");
-    if (backdrop) backdrop.addEventListener("click", (e) => {
-      if (e.target === backdrop) closeLangDialog();
-    });
-  });
-</script>
-
+  </footer>
 </body>
 </html>

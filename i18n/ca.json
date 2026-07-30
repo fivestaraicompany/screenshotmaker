@@ -2,7 +2,11 @@
   "meta": {
     "title": "Creador de captures de pantalla (App)",
     "description": "Crea captures de pantalla per a l'App Store netes i moderns sense esforç utilitzant plantilles flexibles.",
-    "languageName": "English"
+    "languageName": "English",
+    "homeTitle": "Screenshot (App) Maker — Captures de pantalla per a l'App Store, fetes senzillament",
+    "homeDescription": "Crea captures de pantalla per a l'App Store polides i llestes per enviar, i fes servir Ollama per generar versions localitzades amb facilitat.",
+    "ollamaDescription": "Connecta Screenshot (App) Maker al teu servidor d'Ollama per a una localització de captures de pantalla privada impulsada per IA.",
+    "privacyDescription": "Descobreix com Screenshot (App) Maker manté privades les teves captures, edicions i el flux de treball de localització."
   },
   "nav": {
     "home": "Home",
@@ -36,7 +40,54 @@
     "learnLink": "Política de privadesa →",
     "footerNote": "Consell: afegeix <code>?lang=ko</code> (o qualsevol codi compatible) a la URL per previsualitzar una localitat.",
     "supportedPill": "Compatible amb iPhone · iPad · Watch · TV",
-    "copyright": "© 2026 Creador de captures de pantalla (App)"
+    "copyright": "© 2026 Creador de captures de pantalla (App)",
+    "hero": {
+      "eyebrow": "Creat per a l'últim tram abans del llançament",
+      "titleHtml": "Converteix les pantalles de l'app en <span>captures de pantalla llestes per a l'enviament.</span>",
+      "description": "Dissenya cada captura de pantalla que necessiti per a l'enviament de la teva app i després connecta Ollama per crear versions localitzades, sense haver de reconstruir cadascuna manualment.",
+      "primaryAction": "Mira com funciona",
+      "secondaryAction": "Explora la localització",
+      "readyFor": "Preparat per a",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Gràfic destacat"
+      ]
+    },
+    "preview": {
+      "project": "Llançament d'estiu",
+      "saved": "Desat",
+      "appStorePreview": "Previsualització de l'App Store",
+      "shots": [
+        {
+          "line1": "Planifica menys.",
+          "line2": "Fes més."
+        },
+        {
+          "line1": "Tot",
+          "line2": "en un sol lloc."
+        },
+        {
+          "line1": "Creat per a",
+          "line2": "el teu dia."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Localitzant captures de pantalla…",
+      "exportComplete": "EXPORTACIÓ COMPLETA",
+      "exportReady": "PNG i metadades preparats"
+    },
+    "proof": [
+      {
+        "title": "Un espai de treball visual",
+        "body": "De captures brutas a actius acabats"
+      },
+      {
+        "title": "Un disseny, cada localització"
+      }
+    ]
   },
   "ollama": {
     "title": "Tutorial de configuració d'Ollama",
@@ -117,5 +168,25 @@
       }
     ],
     "backHome": "← Torna a la pàgina principal"
+  },
+  "common": {
+    "skipToContent": "Saltar al contingut",
+    "homeAriaLabel": "Inici de Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Característiques",
+    "localization": "Localització",
+    "privacy": "Privacitat",
+    "ollamaSetup": "Configura Ollama",
+    "ollamaSetupShort": "Configuració d'Ollama",
+    "backHome": "Tornar a l'inici",
+    "footerTagline": "Captures de pantalla per a l'App Store, ara més fàcils.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Tria l'idioma",
+    "kicker": "Idioma de visualització",
+    "title": "Tria un idioma",
+    "close": "Tanca el menú d'idiomes",
+    "hint": "El text de les noves pàgines actualment s'ofereix en anglès. Es poden afegir traduccions addicionals al recurs d'idioma corresponent en un lot posterior."
   }
 }

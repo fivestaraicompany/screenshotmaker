@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store skrinşotları artıq daha asan",
+    "homeDescription": "Təkmilləşdirilmiş, təslimata hazır App Store skrinşotları yaradın və lokalizasiya olunmuş versiyaları asanlıqla hazırlamaq üçün Ollama-dan istifadə edin.",
+    "ollamaDescription": "Şəxsi süni intellekt dəstəkli skrinşot lokalizasiyası üçün Screenshot (App) Maker-i Ollama serverinizə bağlayın.",
+    "privacyDescription": "Screenshot (App) Maker-in skrinşotlarınızı, redaktələrinizi və lokalizasiya iş axınınızı necə məxfi saxladığını öyrənin.",
+    "languageName": "İngilis dili"
+  },
+  "common": {
+    "skipToContent": "Məzmuna keçid",
+    "homeAriaLabel": "Screenshot App Maker ana səhifəsi",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Xüsusiyyətlər",
+    "localization": "Lokalizasiya",
+    "privacy": "Məxfilik",
+    "ollamaSetup": "Ollama-nı quraşdırın",
+    "ollamaSetupShort": "Ollama Quraşdırılması",
+    "backHome": "Ana səhifəyə qayıt",
+    "footerTagline": "App Store skrinşotlarını yaratmaq indi daha asandır.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Dil seçin",
+    "kicker": "Görüntüləmə dili",
+    "title": "Bir dil seçin",
+    "close": "Dil menyusunu bağlayın",
+    "hint": "Yeni səhifə mətni hazırda ingilis dilində təqdim olunur. Əlavə tərcümələr daha sonra uyğun dil resursuna əlavə edilə bilər."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Buraxılışdan əvvəlki son mərhələ üçün hazırlanmışdır",
+      "titleHtml": "Tətbiq ekranlarını <span>təqdimata hazır skrinşotlara</span> çevirin.",
+      "description": "Tətbiqin təqdimatı üçün lazım olan hər bir skrinşotu dizayn edin, sonra isə hər birini əllə yenidən yaratmadan lokalizasiya edilmiş versiyaları hazırlamaq üçün Ollama-nı qoşun.",
+      "primaryAction": "Necə işlədiyini görün",
+      "secondaryAction": "Lokallaşdırmanı kəşf edin",
+      "readyFor": "Hazırdır",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Saat",
+        "TV",
+        "Xüsusiyyət qrafikası"
+      ]
+    },
+    "preview": {
+      "project": "Yay buraxılışı",
+      "saved": "Yadda saxlanıldı",
+      "appStorePreview": "App Store önizləməsi",
+      "display": "6.7″ ekran",
+      "shots": [
+        {
+          "line1": "Daha az planlayın.",
+          "line2": "Daha çox edin."
+        },
+        {
+          "line1": "Hər şey",
+          "line2": "tək bir yerdə."
+        },
+        {
+          "line1": "Hazırlanmışdır",
+          "line2": "gününüz üçün."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Skrinşotlar yerilləşdirilir…",
+      "exportComplete": "EKSPORT TAMAMLANDI",
+      "exportReady": "PNG-lər + metadata hazırdır"
+    },
+    "proof": [
+      {
+        "title": "Tək bir vizual iş sahəsi",
+        "body": "Xam ekranlardan təkmilləşdirilmiş aktivlərə qədər"
+      },
+      {
+        "title": "Bir dizayn, hər bir lokalizasiya",
+        "body": "Skrinşot mətnlərini Ollama ilə tərcümə edin"
+      },
+      {
+        "title": "Tək bir nizamlı eksport",
+        "body": "Şəkilləri və metadata-nı birlikdə paketləyin"
+      }
+    ],
+    "features": {
+      "overline": "Hər şey bir yerdə",
+      "titleHtml": "Hazırlığa daha az vaxt sərf edin.<br />Daha çox əminliklə yayına verin.",
+      "description": "Screenshot (App) Maker tətbiqin buraxılışı zamanı təkrar olunan işləri aydın və vizual bir iş axınına çevirir.",
+      "cards": [
+        {
+          "title": "Tətbiq ekranlarını bura yerləşdirin.",
+          "body": "Skrinşotları idxal edin, onları cilalanmış cihaz maketlərinə yerləşdirin və bir neçə dəqiqəyə tam bir App Store hekayəsi qurun.",
+          "drop": "Skrinşotları bura sürüşdürüb atın",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Bir dəfə dizayn edin.",
+          "body": "Hər bir mesajı unikal saxlayaraq rəngləri, maketləri, cihaz parametrlərini, şrifti və kölgələri hər səhifəyə tətbiq edin."
+        },
+        {
+          "title": "Hər bir ekrana uyğunlaşdırın.",
+          "body": "Eyni layihədən iPhone, iPad, Apple Watch, Apple TV üçün aktivləri və xüsusi qrafikaları hazırlayın."
+        },
+        {
+          "title": "Göndərməyə hazır paket ixrac edin.",
+          "body": "Yüksək keyfiyyətli şəkillər render edin, lokallaşdırılmış faylları təşkil edin və tərcümə edilmiş App Store meta məlumatlarını təmiz bir arxivdə birləşdirin.",
+          "folder": "App Store Aktivləri"
+        }
+      ]
+    },
+    "localization": {
+      "pill": "Ollama serveriniz ilə işləyir",
+      "title": "Skrinşot kampaniyanız hər bir bazara xitab etməyə hazırdır.",
+      "description": "Screenshot (App) Maker-i Ollama-ya bağlayın və skrinşot başlıqlarını və App Store meta məlumatlarını eyni iş axınında tərcümə edin. Hər bir lokal üçün mətn dəyişərkən orijinal maketiniz olduğu kimi qalır.",
+      "checks": [
+        "Bütün skrinşot başlıqlarını toplu şəkildə tərcümə edin",
+        "Təsvirləri, açar sözləri və buraxılış qeydlərini lokallaşdırın",
+        "Yekun ixracdan əvvəl tərcümələri nəzərdən keçirin"
+      ],
+      "action": "Ollama quraşdırma təlimatına baxın",
+      "source": "Mənbə · İngilis dili",
+      "localeCount": "4 lokalizasiya",
+      "sourceLabel": "Mənbə",
+      "ready": "Hazırdır",
+      "samples": [
+        "Az planlayın.<br /><strong>Daha çox iş görün.</strong>",
+        "Daha az planlama.<br /><strong>Daha çox tərəqqi.</strong>",
+        "Daha az quraşdırma.<br /><strong>Daha çox yaradıcılıq.</strong>",
+        "Daha az maneə.<br /><strong>Daha çox sürət.</strong>"
+      ],
+      "complete": "Lokalizasiya tamamlandı",
+      "completeBody": "Mətn və metadata nəzərdən keçirməyə hazırdır"
+    },
+    "workflow": {
+      "overline": "Nəşr etmək üçün daha qısa yol",
+      "title": "Xam ekranlar daxil. Mağaza üçün hazır aktivlər xaric.",
+      "description": "Mürəkkəb dizayn qurulumu yoxdur. Hər dil üçün eyni kampaniyanı yenidən qurmağa ehtiyac yoxdur.",
+      "steps": [
+        {
+          "number": "ADDIM 01",
+          "title": "İdxal et",
+          "body": "Tətbiqinizin hekayəsini ən yaxşı şəkildə ifadə edən ekranları əlavə edin."
+        },
+        {
+          "number": "ADDIM 02",
+          "title": "Dizayn və lokallaşdırma",
+          "body": "Görünüşü bir dəfə qurun, sonra mətnlərinizi Ollama ilə tərcümə edin."
+        },
+        {
+          "number": "ADDIM 03",
+          "title": "Eksport et",
+          "body": "Təqdimat üçün hazır olan nizamlı şəkilləri və metadata-nı yükləyin."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Mahiyyəti etibarilə məxfi",
+      "title": "Tətbiq aktivləriniz sizin nəzarətinizdə qalır.",
+      "description": "Skrinşotların redaktəsi cihazınızda baş verir. Ollama seçdiyiniz zaman mətn yalnız sizin konfiqurasiya etdiyiniz server ünvanına göndərilir.",
+      "action": "Məxfilik siyasətini oxuyun"
+    },
+    "final": {
+      "overline": "Skrinşotlardan təqdimata qədər",
+      "title": "Son addımı sadələşdirin.",
+      "description": "Növbəti tətbiq versiyanız üçün lazım olan hər bir skrinşotu dizayn edin, lokallaşdırın və ixrac edin.",
+      "action": "Funksiyaları kəşf edin"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama inteqrasiyası",
+    "title": "Ollama Quraşdırma Təlimatı",
+    "subtitle": "Süni intellekt tərcüməsi və mətn generasiyası üçün Screenshot (App) Maker-i öz Ollama instansiyanıza qoşun.",
+    "requirementsTitle": "Lazım olanlar",
+    "requirements": [
+      "Ollama-nı işə salmaq üçün Mac, Windows PC və ya Linux cihazı",
+      "Ollama quraşdırılıb və işləyir",
+      "iPhone/iPad cihazınızın Ollama maşını ilə eyni şəbəkədə olması (tövsiyə olunur)"
+    ],
+    "stepsTitle": "Addım-addım",
+    "steps": [
+      "<strong>Ollama quraşdırın</strong>: əməliyyat sisteminiz üçün Ollama-nı yükləyin və quraşdırın.",
+      "<strong>Ollama-nı başladın</strong>: <code>ollama serve</code> əmrini icra edin (və ya macOS-da Ollama tətbiqini açın).",
+      "<strong>Modeli yükləyin</strong>: <code>ollama pull llama3.2</code> (və ya seçdiyiniz modeli) əmrini icra edin.",
+      "<strong>İşlədiyini təsdiqləyin</strong>: <code>ollama run llama3.2</code> əmrini icra edin və bir sorğunu sınaqdan keçirin.",
+      "<strong>Server ünvanınızı tapın</strong>: kompüterinizin LAN IP-sini qeyd edin (məsələn, <code>192.168.0.10</code>).",
+      "<strong>Tətbiqdə istifadə edin</strong>: Screenshot (App) Maker parametrlərində Host hissəsini <code>http://&lt;LAN-IP&gt;:11434</code> olaraq təyin edin."
+    ],
+    "notesTitle": "Qeydlər və problemlərin həlli",
+    "notes": [
+      "Tətbiq qoşula bilmirsə, telefonunuzun və kompüterinizin eyni Wi-Fi şəbəkəsində olduğunu yoxlayın.",
+      "Port <code>11434</code>-ün təhlükəsizlik divarı tərəfindən icazəli olduğundan əmin olun.",
+      "Uzaq serverdən (ev kompüteri, VPS) istifadə etmək üstünlük verirsinizsə, portu təhlükəsiz şəkildə açmalısınız (VPN tövsiyə olunur)."
+    ],
+    "ctaTitle": "Lokallaşdırmağa hazırsınız?",
+    "ctaBody": "Tətbiqə qayıdın, bağlantını yoxlayın və bir lokalla başlayın.",
+    "backHome": "← Ana səhifəyə qayıt",
+    "metaTitle": "Ollama Quraşdırma Təlimatı — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Məxfilik siyasəti",
+    "metaTitle": "Məxfilik Siyasəti — Screenshot (App) Maker",
+    "title": "Məxfilik Siyasəti",
+    "intro": "Bu Məxfilik Siyasəti, Screenshot (App) Maker-in (\"Tətbiq\") istifadəçi məlumatlarını necə emal etdiyini təsvir edir.",
+    "summaryTitle": "Xülasə",
+    "summary": [
+      "Hesablar yoxdur. Analitika yoxdur. İzləmə yoxdur.",
+      "Öz Ollama serverinizə qoşulmağı seçmədiyiniz halda, fayllarınız və redaktələriniz cihazınızda qalır.",
+      "Ollama-dan istifadə etdikdə, mətn yalnız sizin konfiqurasiya etdiyiniz server ünvanına göndərilir."
+    ],
+    "sections": [
+      {
+        "title": "Məlumatların Toplanması",
+        "body": [
+          "Tətbiq şəxsi məlumatları toplamır, saxlamır və ya serverlərimizə ötürmür.",
+          "Ekran görüntüləri, şablonlar və ixrac edilmiş şəkillər cihazınızda lokal olaraq yaradılır və saxlanılır."
+        ]
+      },
+      {
+        "title": "Fayllara və Şəkillərə Giriş",
+        "body": [
+          "Tətbiq ekran görüntülərini idxal etmək üçün Fayllar tətbiqinə və ya şəkil kitabxananıza giriş icazəsi istəyə bilər.",
+          "İdxal edilmiş şəkillər cihazda emal edilir və avtomatik olaraq yüklənmir."
+        ]
+      },
+      {
+        "title": "Süni İntellekt Tərcüməsi (Ollama)",
+        "body": [
+          "Süni intellektlə mətn yaratma və ya tərcüməni aktivləşdirdikdə, Tətbiq mətni sizin konfiqurasiya etdiyiniz Ollama serverinə (məsələn, öz kompüterinizə) göndərə bilər.",
+          "Biz sizin Ollama trafikinizi idarə etmirik və ya qəbul etmirik, Tətbiq isə süni intellekt tərəfindən emal edilmiş mətni qeyd etmir və ya saxlamır."
+        ]
+      },
+      {
+        "title": "Üçüncü Tərəf Xidmətləri",
+        "body": [
+          "Tətbiq üçüncü tərəf analitikası, reklam SDK-ları və ya izləmə texnologiyalarından istifadə etmir."
+        ]
+      },
+      {
+        "title": "Dəyişikliklər",
+        "body": [
+          "Biz bu Məxfilik Siyasətini vaxtaşırı yeniləyə bilərik. Dəyişikliklər bu səhifədə əks olunacaq."
+        ]
+      },
+      {
+        "title": "Əlaqə",
+        "body": [
+          "Bu Məxfilik Siyasəti ilə bağlı suallarınız varsa, xahiş edirik App Store siyahısında göstərilən e-poçt ünvanı vasitəsilə bizimlə əlaqə saxlayasınız."
+        ]
+      }
+    ],
+    "backHome": "← Ana səhifəyə qayıt"
+  }
+}

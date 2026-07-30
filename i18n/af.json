@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store-skermskote, gemaak maklik",
+    "homeDescription": "Skep gepoleerde, indieningsgereed App Store-skermskote en gebruik Ollama om gelokaliseerde weergawes met gemak te genereer.",
+    "ollamaDescription": "Verbind Screenshot (App) Maker met jou Ollama-bediener vir privaat KI-aangedrewe skermskoot-lokalisering.",
+    "privacyDescription": "Leer hoe Screenshot (App) Maker jou skermskote, redigeringe en lokaliseringsvloei privaat hou.",
+    "languageName": "Engels"
+  },
+  "common": {
+    "skipToContent": "Spring na inhoud",
+    "homeAriaLabel": "Screenshot App Maker tuisblad",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Kenmerke",
+    "localization": "Lokalisering",
+    "privacy": "Privaatheid",
+    "ollamaSetup": "Stel Ollama op",
+    "ollamaSetupShort": "Ollama-opstelling",
+    "backHome": "Terug na tuisblad",
+    "footerTagline": "App Store-skermskote, nou eenvoudig.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Kies taal",
+    "kicker": "Vertoon-taal",
+    "title": "Kies 'n taal",
+    "close": "Sluit taalmenu",
+    "hint": "Nuwe bladsy-teks word tans in Engels verskaf. Addisionele vertalings kan in 'n latere groep by die ooreenstemmende taalbron gevoeg word."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Gebou vir die finale fase voor bekendstelling",
+      "titleHtml": "Verander app-skerms in <span>skermskote wat gereed is vir indiening.</span>",
+      "description": "Ontwerp elke skermskoot wat jou app-indiening benodig, en koppel dan Ollama om gelokaliseerde weergawes te skep—sonder om elk een per een met die hand te herbou.",
+      "primaryAction": "Kyk hoe dit werk",
+      "secondaryAction": "Verken lokalisering",
+      "readyFor": "Gereed vir",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Horlosie",
+        "TV",
+        "Uitgeligte grafika"
+      ]
+    },
+    "preview": {
+      "project": "Somervrystelling",
+      "saved": "Gestoor",
+      "appStorePreview": "App Store-voorskou",
+      "display": "6.7″-skerm",
+      "shots": [
+        {
+          "line1": "Beplan minder.",
+          "line2": "Doen meer."
+        },
+        {
+          "line1": "Alles",
+          "line2": "op een plek."
+        },
+        {
+          "line1": "Gemaak vir",
+          "line2": "jou dag."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokaliseer skermskootte…",
+      "exportComplete": "UITVOER VOLTOOI",
+      "exportReady": "PNG's + metadata gereed"
+    },
+    "proof": [
+      {
+        "title": "Een visuele werksruimte",
+        "body": "Van rou skerms tot gepoleerde bates"
+      },
+      {
+        "title": "Een ontwerp, elke lokaal",
+        "body": "Vertaal skermskoot-teks met Ollama"
+      },
+      {
+        "title": "Een georganiseerde uitvoer",
+        "body": "Pak beelde en metadata saam"
+      }
+    ],
+    "features": {
+      "overline": "Alles op een plek",
+      "titleHtml": "Spandeer minder tyd aan voorbereiding.<br />Vrystel met meer vertroue.",
+      "description": "Screenshot (App) Maker verander die herhalende werk aan die einde van 'n toepassingvrystelling in een duidelike, visuele werkvloei.",
+      "cards": [
+        {
+          "title": "Sleep jou toepassing-skerms in.",
+          "body": "Importeer skermskote, plaas hulle in gepoleerde toestel-uitlegte, en stel 'n volledige App Store-storie binne minute saam.",
+          "drop": "Sleep skermskote hierheen",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Ontwerp een keer.",
+          "body": "Pas kleure, uitlegte, toestelinstellings, tipografie en skaduwees op oor elke bladsy terwyl elke boodskap uniek bly."
+        },
+        {
+          "title": "Pas by elke skerm.",
+          "body": "Berei bates voor vir iPhone, iPad, Apple Watch, Apple TV en kenmerk-grafika uit dieselfde projek."
+        },
+        {
+          "title": "Eksporteer 'n pakket wat gereed is vir indiening.",
+          "body": "Render hoë-resolusie beelde, organiseer gelokaliseerde lêers, en groepeer jou vertaalde App Store-metadata in een netjiese argief.",
+          "folder": "App Store Bates"
+        }
+      ]
+    },
+    "localization": {
+      "pill": "Aangedryf deur jou Ollama-bediener",
+      "title": "Jou skermskoot-veldtog, gereed om tot elke mark te spreek.",
+      "description": "Verbind Screenshot (App) Maker met Ollama en vertaal skermskoot-opskrifte en App Store-metadata in dieselfde werkvloei. Jou oorspronklike uitleg bly ongeskonde terwyl die teks vir elke lokaal verander.",
+      "checks": [
+        "Vertaal elke skermskoot-opskrif in 'n groep",
+        "Lokaliseer beskrywings, sleutelwoorde en vrystellingsnotas",
+        "Hersien vertalings voor die finale eksport"
+      ],
+      "action": "Bekyk die Ollama-opstelgids",
+      "source": "Bron · Engels",
+      "localeCount": "4 tale",
+      "sourceLabel": "Bron",
+      "ready": "Gereed",
+      "samples": [
+        "Beplan minder.<br /><strong>Doen meer.</strong>",
+        "Minder beplanning.<br /><strong>Meer vordering.</strong>",
+        "Minder opstelling.<br /><strong>Meer skepping.</strong>",
+        "Minder wrywing.<br /><strong>Meer momentum.</strong>"
+      ],
+      "complete": "Lokalisering voltooi",
+      "completeBody": "Teks en metadata is gereed vir hersiening"
+    },
+    "workflow": {
+      "overline": "'n Korter pad na publikasie",
+      "title": "Rou skerms in. Gereed-vir-winkel bates uit.",
+      "description": "Geen komplekse ontwerpstelsel nie. Geen herbou van dieselfde veldtog vir elke taal nie.",
+      "steps": [
+        {
+          "number": "STAP 01",
+          "title": "Importeer",
+          "body": "Voeg die skerms by wat jou toepassing se storie die beste vertel."
+        },
+        {
+          "number": "STAP 02",
+          "title": "Ontwerp & lokaliseer",
+          "body": "Bou die voorkoms een keer, en vertaal dan jou teks met Ollama."
+        },
+        {
+          "number": "STAP 03",
+          "title": "Eksporteer",
+          "body": "Laai georganiseerde beelde en metadata af, gereed vir indiening."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privaat by ontwerp",
+      "title": "Jou toepassing-bates bly onder jou beheer.",
+      "description": "Skermskoot-redigering gebeur op jou toestel. Wanneer jy Ollama kies, word teks slegs na die bedieneradres wat jy konfigureer, gestuur.",
+      "action": "Lees die privaatheidsbeleid"
+    },
+    "final": {
+      "overline": "Van skermskote tot indiening",
+      "title": "Maak die finale stap eenvoudig.",
+      "description": "Ontwerp, lokaliseer en eksporteer elke skermskoot wat jou volgende toepassing-vrystelling benodig.",
+      "action": "Verken die kenmerke"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama-integrasie",
+    "title": "Ollama-opstelling-tutoriaal",
+    "subtitle": "Verbind Screenshot (App) Maker met jou eie Ollama-instansie vir KI-vertaling en teksgenerering.",
+    "requirementsTitle": "Wat jy benodig",
+    "requirements": [
+      "'n Mac, Windows-rekenaar of Linux-masjien om Ollama te hardloop",
+      "Ollama geïnstalleer en hardloop",
+      "Jou iPhone/iPad op dieselfde netwerk as die Ollama-masjien (aanbeveel)"
+    ],
+    "stepsTitle": "Stap-vir-stap",
+    "steps": [
+      "<strong>Installeer Ollama</strong>: laai Ollama af en installeer dit vir jou bedryfstelsel.",
+      "<strong>Begin Ollama</strong>: voer <code>ollama serve</code> uit (of maak die Ollama-toepassing op macOS oop).",
+      "<strong>Haal 'n model</strong>: voer <code>ollama pull llama3.2</code> uit (of jou voorkeurmodel).",
+      "<strong>Bevestig dat dit werk</strong>: voer <code>ollama run llama3.2</code> uit en toets 'n prompt.",
+      "<strong>Vind jou bedieneradres</strong>: maak kennis van jou rekenaar se LAN-IP (bv. <code>192.168.0.10</code>).",
+      "<strong>Gebruik dit in die toepassing</strong>: stel Host in Screenshot (App) Maker-instellings na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notas & probleemoplossing",
+    "notes": [
+      "As die toepassing nie kan verbind nie, maak seker dat jou foon en rekenaar op dieselfde Wi‑Fi-netwerk is.",
+      "Maak seker dat poort <code>11434</code> deur jou brandmuur toegelaat word.",
+      "As jy verkies om 'n afstandbedieningsbediener (tuis-PC, VPS) te gebruik, moet jy die poort veilig blootstel (VPN word aanbeveel)."
+    ],
+    "ctaTitle": "Gereed om te lokaliseer?",
+    "ctaBody": "Keer terug na die toepassing, toets die konneksie, en begin met een lokaal.",
+    "backHome": "← Terug na Tuis",
+    "metaTitle": "Ollama Opstelling-tutoriaal — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Privaatheidsbeleid",
+    "metaTitle": "Privaatheidsbeleid — Screenshot (App) Maker",
+    "title": "Privaatheidsbeleid",
+    "intro": "Hierdie Privaatheidsbeleid beskryf hoe Screenshot (App) Maker (\"die Toepassing\") gebruikersdata hanteer.",
+    "summaryTitle": "Opsomming",
+    "summary": [
+      "Geen rekeninge nie. Geen analise nie. Geen nasporing nie.",
+      "Jou lêers en redigerings bly op jou toestel, tensy jy kies om met jou eie Ollama-bediener te verbind.",
+      "As jy Ollama gebruik, word teks slegs na die bedieneradres wat jy konfigureer, gestuur."
+    ],
+    "sections": [
+      {
+        "title": "Inligtinginsameling",
+        "body": [
+          "Die Toepassing versamel, stoor of stuur nie persoonlike inligting na ons bedieners nie.",
+          "Skermskote, sjablone en uitgevoerde beelde word plaaslik op jou toestel geskep en gestoor."
+        ]
+      },
+      {
+        "title": "Toegang tot Lêers en Foto's",
+        "body": [
+          "Die Toepassing mag toegang tot die Lêers-toepassing of jou fotobiblioteek versoek om skermskote in te voer.",
+          "Ingevoerde beelde word op die toestel verwerk en word nie outomaties opgelaai nie."
+        ]
+      },
+      {
+        "title": "KI-vertaling (Ollama)",
+        "body": [
+          "As jy KI-teksgenerering of -vertaling aktiveer, kan die Toepassing teks na 'n Ollama-bediener stuur wat jy konfigureer (byvoorbeeld jou eie rekenaar).",
+          "Ons bedryf of ontvang nie jou Ollama-verkeer nie, en die Toepassing teken nie die teks wat deur KI verwerk word aan of stoor dit nie."
+        ]
+      },
+      {
+        "title": "Derdeparty-dienste",
+        "body": [
+          "Die Toepassing gebruik nie derdeparty-analise, advertensie-SDK's of spoortechnologieë nie."
+        ]
+      },
+      {
+        "title": "Veranderings",
+        "body": [
+          "Ons mag hierdie Privaatheidsbeleid van tyd tot tyd opdateer. Veranderings sal op hierdie bladsy weerspieël word."
+        ]
+      },
+      {
+        "title": "Kontak",
+        "body": [
+          "As u vrae oor hierdie Privaatheidsbeleid het, kontak ons asseblief via die e-posadres wat op die App Store-lys verskaf word."
+        ]
+      }
+    ],
+    "backHome": "← Terug na Tuisblad"
+  }
+}

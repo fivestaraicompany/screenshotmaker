@@ -1,44 +1,171 @@
 {
   "meta": {
-    "title": "Screenshot (App) Maker",
-    "description": "Create clean, modern App Store screenshots effortlessly using flexible templates.",
+    "homeTitle": "Screenshot (App) Maker — App Store Screenshots, Made Easy",
+    "homeDescription": "Create polished, submission-ready App Store screenshots and use Ollama to generate localized versions with ease.",
+    "ollamaDescription": "Connect Screenshot (App) Maker to your Ollama server for private AI-powered screenshot localization.",
+    "privacyDescription": "Learn how Screenshot (App) Maker keeps your screenshots, edits, and localization workflow private.",
     "languageName": "English"
   },
-  "nav": {
-    "home": "Home",
-    "ollamaSetup": "Ollama Setup Tutorial",
-    "privacy": "Privacy Policy"
-  },
-  "langPicker": {
-    "title": "Choose a language",
-    "close": "Close",
-    "hint": "Missing translations? Create <code>./i18n/&lt;code&gt;.json</code> (same keys as <code>en.json</code>)."
-  },
-  "home": {
-    "brandTitle": "Screenshot (App) Maker",
-    "brandSubtitle": "App Store screenshots, made easy.",
-    "heroTitle": "Make App Store screenshots in minutes",
-    "heroBody": "Pick 3–5 screenshots, drop them into templates, add marketing text, and export ready-to-upload images.",
-    "featuresTitle": "Key Features",
-    "features": [
-      "Create stylish App Store screenshots using customizable templates",
-      "Import images from the Files app or your photo library",
-      "Support for iPhone, iPad, Apple Watch, and Apple TV screenshots",
-      "Add marketing text freely and adjust layout visually"
-    ],
-    "aiTitle": "AI-Powered Localization",
-    "aiBody": "With Ollama integration, generate translated marketing text per country code for fast global submissions.",
-    "aiLink": "Open the Ollama setup tutorial →",
-    "privacyTitle": "Privacy First",
-    "privacyBody": "Editing and image generation happen locally. No tracking. No analytics. No ads.",
-    "learnTitle": "Learn More",
-    "learnBody": "Read our Privacy Policy to understand how we protect your data.",
-    "learnLink": "Privacy Policy →",
-    "footerNote": "Tip: append <code>?lang=ko</code> (or any supported code) to the URL to preview a locale.",
-    "supportedPill": "Supports iPhone · iPad · Watch · TV",
+  "common": {
+    "skipToContent": "Skip to content",
+    "homeAriaLabel": "Screenshot App Maker home",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Features",
+    "localization": "Localization",
+    "privacy": "Privacy",
+    "ollamaSetup": "Set up Ollama",
+    "ollamaSetupShort": "Ollama Setup",
+    "backHome": "Back home",
+    "footerTagline": "App Store screenshots, made easy.",
     "copyright": "© 2026 Screenshot (App) Maker"
   },
+  "language": {
+    "buttonLabel": "Choose language",
+    "kicker": "Display language",
+    "title": "Choose a language",
+    "close": "Close language menu",
+    "hint": "New page copy is currently provided in English. Additional translations can be added to the matching language resource in a later batch."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Built for the final mile before launch",
+      "titleHtml": "Turn app screens into <span>submission-ready screenshots.</span>",
+      "description": "Design every screenshot your app submission needs, then connect Ollama to create localized versions—without rebuilding each one by hand.",
+      "primaryAction": "See how it works",
+      "secondaryAction": "Explore localization",
+      "readyFor": "Ready for",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "project": "Summer release",
+      "saved": "Saved",
+      "appStorePreview": "App Store preview",
+      "display": "6.7″ Display",
+      "shots": [
+        {
+          "line1": "Plan less.",
+          "line2": "Do more."
+        },
+        {
+          "line1": "Everything",
+          "line2": "in one place."
+        },
+        {
+          "line1": "Made for",
+          "line2": "your day."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Localizing screenshots…",
+      "exportComplete": "EXPORT COMPLETE",
+      "exportReady": "PNGs + metadata ready"
+    },
+    "proof": [
+      {
+        "title": "One visual workspace",
+        "body": "From raw screens to polished assets"
+      },
+      {
+        "title": "One design, every locale",
+        "body": "Translate screenshot copy with Ollama"
+      },
+      {
+        "title": "One organized export",
+        "body": "Package images and metadata together"
+      }
+    ],
+    "features": {
+      "overline": "Everything in one place",
+      "titleHtml": "Spend less time preparing.<br />Ship with more confidence.",
+      "description": "Screenshot (App) Maker turns the repetitive work at the end of an app release into one clear, visual workflow.",
+      "cards": [
+        {
+          "title": "Drop in your app screens.",
+          "body": "Import screenshots, place them in polished device layouts, and arrange a complete App Store story in minutes.",
+          "drop": "Drop screenshots here",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Design once.",
+          "body": "Apply colors, layouts, device settings, type, and shadows across every page while keeping each message unique."
+        },
+        {
+          "title": "Fit every screen.",
+          "body": "Prepare assets for iPhone, iPad, Apple Watch, Apple TV, and feature graphics from the same project."
+        },
+        {
+          "title": "Export a submission-ready package.",
+          "body": "Render high-resolution images, organize localized files, and bundle your translated App Store metadata into one clean archive.",
+          "folder": "App Store Assets"
+        }
+      ]
+    },
+    "localization": {
+      "pill": "Powered by your Ollama server",
+      "title": "Your screenshot campaign, ready to speak every market.",
+      "description": "Connect Screenshot (App) Maker to Ollama and translate screenshot headlines and App Store metadata in the same workflow. Your original layout stays intact while the copy changes for each locale.",
+      "checks": [
+        "Translate every screenshot headline in a batch",
+        "Localize descriptions, keywords, and release notes",
+        "Review translations before the final export"
+      ],
+      "action": "View the Ollama setup guide",
+      "source": "Source · English",
+      "localeCount": "4 locales",
+      "sourceLabel": "Source",
+      "ready": "Ready",
+      "samples": [
+        "Plan less.<br /><strong>Do more.</strong>",
+        "Less planning.<br /><strong>More progress.</strong>",
+        "Less setup.<br /><strong>More creation.</strong>",
+        "Less friction.<br /><strong>More momentum.</strong>"
+      ],
+      "complete": "Localization complete",
+      "completeBody": "Copy and metadata are ready to review"
+    },
+    "workflow": {
+      "overline": "A shorter path to publish",
+      "title": "Raw screens in. Store-ready assets out.",
+      "description": "No complex design setup. No rebuilding the same campaign for every language.",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "Import",
+          "body": "Add the screens that best tell your app’s story."
+        },
+        {
+          "number": "STEP 02",
+          "title": "Design & localize",
+          "body": "Build the look once, then translate your copy with Ollama."
+        },
+        {
+          "number": "STEP 03",
+          "title": "Export",
+          "body": "Download organized images and metadata, ready for submission."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Private by design",
+      "title": "Your app assets stay under your control.",
+      "description": "Screenshot editing happens on your device. When you choose Ollama, text is sent only to the server address you configure.",
+      "action": "Read the privacy policy"
+    },
+    "final": {
+      "overline": "From screenshots to submission",
+      "title": "Make the final step feel simple.",
+      "description": "Design, localize, and export every screenshot your next app release needs.",
+      "action": "Explore the features"
+    }
+  },
   "ollama": {
+    "pill": "Ollama integration",
     "title": "Ollama Setup Tutorial",
     "subtitle": "Connect Screenshot (App) Maker to your own Ollama instance for AI translation and text generation.",
     "requirementsTitle": "What you need",
@@ -62,10 +189,13 @@
       "Make sure port <code>11434</code> is allowed by your firewall.",
       "If you prefer to use a remote server (home PC, VPS), you must expose the port securely (VPN recommended)."
     ],
+    "ctaTitle": "Ready to localize?",
+    "ctaBody": "Return to the app, test the connection, and start with one locale.",
     "backHome": "← Back to Home",
     "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker"
   },
   "privacy": {
+    "pill": "Privacy policy",
     "metaTitle": "Privacy Policy — Screenshot (App) Maker",
     "title": "Privacy Policy",
     "intro": "This Privacy Policy describes how Screenshot (App) Maker (\"the App\") handles user data.",
