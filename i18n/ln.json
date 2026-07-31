@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Bakitisi ya App Store, ekomi pete",
+    "homeDescription": "Sala bakitisi ya App Store oyo ekoki kokitisa mpe ezali kitoko, mpe zala na Ollama mpo osala bakitisi na minoko ya mboka na mpiko te.",
+    "ollamaDescription": "Connecta Screenshot (App) Maker na serveur na yo ya Ollama mpo na kozongisela bakitisi na minoko ya mboka na nzoto ya AI oyo ezali ya seko.",
+    "privacyDescription": "Yeba ndenge Screenshot (App) Maker kobatela bakitisi na yo, mbongwana oyo osali, mpe mosala ya kozongisela na minoko ya mboka na seko.",
+    "languageName": "English"
+  },
+  "common": {
+    "skipToContent": "Kende na contenu",
+    "homeAriaLabel": "Home ya Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Biyebeli",
+    "localization": "Localisation",
+    "privacy": "Seko",
+    "ollamaSetup": "Ongola Ollama",
+    "ollamaSetupShort": "Configuration ya Ollama",
+    "downloadIos": "Télécharger mpona iOS",
+    "downloadIosAriaLabel": "Télécharger Screenshot (App) Maker mpona iPhone mpe iPad na App Store",
+    "primaryNavigation": "Navigation ya ntina",
+    "footerNavigation": "Navigation ya nse",
+    "backHome": "Zonga na Home",
+    "footerTagline": "Screenshots ya App Store, ekomi pete.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Zola limoni",
+    "kicker": "Limoni ya komonyisa",
+    "title": "Zola limoni moko",
+    "close": "Funga menu ya limoni",
+    "hint": "Kanga monoko oyo emonani lokola ya yo mpenza. Kombo ya biloko mpe makambo ya technique ekotikala ndenge nde."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Esalami mpo na etape ya nsuka liboso ya kokitisa.",
+      "titleHtml": "Ongola screens ya app mpo ekoma <span>screenshot oyo ekonza mpo na kotinda.</span>",
+      "description": "Design-a screenshot nyonso oyo app na yo ezali na mposa mpo na kotinda, nsuka connect-a Ollama mpo kosala version ya monoko ya mboka—kozongisa yango moko na moko na loboko te.",
+      "primaryAction": "Mona ndenge esali",
+      "secondaryAction": "Tala localization",
+      "readyFor": "Esalami mpo na",
+      "supportAriaLabel": "Mifunge ya export oyo ekonza",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Grafiki ya ekonzi"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Kotalela Screenshot Maker liboso",
+      "project": "Ebandisi ya mbeba",
+      "saved": "Etikami",
+      "appStorePreview": "Kotalela App Store liboso",
+      "display": "Ecran ya 6.7″",
+      "shots": [
+        {
+          "line1": "Kobongisa moke.",
+          "line2": "Sala mingi."
+        },
+        {
+          "line1": "Nionso",
+          "line2": "na esika moko."
+        },
+        {
+          "line1": "Esalami mpona",
+          "line2": "mokolo na yo."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Kobongisa ba screenshot…",
+      "exportComplete": "KOBIMISA ESILI",
+      "exportReady": "Ba PNG + metadata ezali prêts"
+    },
+    "proof": [
+      {
+        "title": "Esika moko ya mosala ya visually",
+        "body": "Kobanda na ba écran ya raw kino na ba asset ya kobongisa"
+      },
+      {
+        "title": "Design moko, mpo na mboka nyonso",
+        "body": "Kobongola ba texte ya screenshot na Ollama"
+      },
+      {
+        "title": "Kobimisa moko oyo ebongisami malamu",
+        "body": "Kotia ba image mpe metadata elongo"
+      }
+    ],
+    "proofAriaLabel": "Avantages ya produit",
+    "features": {
+      "overline": "Nionso na esika moko",
+      "titleHtml": "Luta ntango moke mpo na kobongisa.<br />Kutisa na kondima monene.",
+      "description": "Screenshot (App) Maker ekendisi mosala oyo ezongela mbala na mbala na nsuka ya kokutisa app mpo ekoma nzela moko ya pamba mpe ya kitone.",
+      "cards": [
+        {
+          "title": "Tia ba screens ya app na yo awa.",
+          "body": "Importa ba screenshots, tia yango na layout ya ba appareils oyo ekonzi, mpe bongisa lisolo mobimba ya App Store na minoto moke.",
+          "drop": "Tia ba screenshots awa",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Designa mbala moko.",
+          "body": "Tia ba couleurs, ba layouts, misala ya appareil, ba types, mpe ba ombres na page nyonso, kasi tika message nyonso ezala ya sika."
+        },
+        {
+          "title": "Ekondima na screen nyonso.",
+          "body": "Bongisa ba assets mpo na iPhone, iPad, Apple Watch, Apple TV, mpe ba feature graphics kobanda na projet moko."
+        },
+        {
+          "title": "Exporta package oyo ekonzi mpo na kokutisa.",
+          "body": "Rendera ba images ya haute résolution, bongisa ba fichiers ya lokalizasion, mpe funga metadata ya App Store oyo okonzelaki na archive moko ya pamba.",
+          "folder": "Biloko ya App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Kotala liboso ya lokalizasion ya Ollama",
+      "pill": "Esalemaki na serveur na yo ya Ollama",
+      "title": "Kampanyi na yo ya screenshot, ezali prêt mpo na kokende na maketo nyonso.",
+      "description": "Konekta Screenshot (App) Maker na Ollama mpe kobongola bititoli ya screenshot mpe metadata ya App Store na nzela moko. Layout na yo ya liboso ekotikala ndenge ezali, kasi maloba ekobongwana mpo na lokota ya esika moko na moko.",
+      "checks": [
+        "Kobongola bititoli nyonso ya screenshot mbala moko",
+        "Kokaliza ba descriptions, ba keywords, mpe ba release notes na lokota ya esika",
+        "Tala mbala moko lisusu ba traductions liboso ya export ya nsuka"
+      ],
+      "action": "Tala guide ya installation ya Ollama",
+      "source": "Source · Anglais",
+      "localeCount": "Lokota 4 ya esika",
+      "sourceLabel": "Source",
+      "ready": "Ekimi",
+      "samples": [
+        "Koponza moke.<br /><strong>Sala mingi.</strong>",
+        "Koponza moke.<br /><strong>Kokende liboso mingi.</strong>",
+        "Kobongisa moke.<br /><strong>Kotonga mingi.</strong>",
+        "Mikakatoli moke.<br /><strong>Makasi mingi.</strong>"
+      ],
+      "complete": "Lokalisasion esili",
+      "completeBody": "Kopi mpe metadata ezali ready mpo na kotala"
+    },
+    "workflow": {
+      "overline": "Nzela ya mokuse mpo na kobimisa",
+      "title": "Tia ba écran raw. Longola ba assets oyo ekimi mpo na store.",
+      "description": "Ezali na kobongisa design ya mpasi te. Ezali na kosala lisusu campaign moko mpo na monoko nyonso te.",
+      "steps": [
+        {
+          "number": "ETAPE 01",
+          "title": "Kotiisa",
+          "body": "Onga ba screens oyo eyebisaka malamu lisolo ya app na yo."
+        },
+        {
+          "number": "ETAPE 02",
+          "title": "Design mpe lokalizasion",
+          "body": "Sali eloki mbala moko, nsana yango kongola texte na yo na Ollama."
+        },
+        {
+          "number": "ETAPE 03",
+          "title": "Exporta",
+          "body": "Telechargé bafoto mpe metadata oyo ekongisami malamu, mpo na kotinda yango."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privé na kokongisa yango",
+      "title": "Biloko ya app na yo etikali na maboko na yo.",
+      "description": "Kobongisa ba screenshots esalemi na appareil na yo. Soki oponi Ollama, texte ekokende kaka na adresse ya serveur oyo oponaki.",
+      "action": "Tangá politique ya privacy"
+    },
+    "final": {
+      "overline": "Kobanda na ba screenshots kino na kotinda yango.",
+      "title": "Sala etape ya nsuka ezala pamba.",
+      "description": "Designa, lokaliza, mpe exporta screenshot nyonso oyo okosala mpo na version ya sika ya app na yo.",
+      "action": "Telecharger na App Store",
+      "appIconAlt": "Icon ya Screenshot App Maker app"
+    }
+  },
+  "ollama": {
+    "pill": "Intégration ya Ollama",
+    "title": "Tutoriel ya installation ya Ollama",
+    "subtitle": "Connecta Screenshot (App) Maker na instance na yo ya Ollama mpo na traduction ya AI mpe kosala texte.",
+    "requirementsTitle": "Oyo osengeli na yango",
+    "requirements": [
+      "Mac, Windows PC, to machine ya Linux mpo na kokendisa Ollama",
+      "Ollama eza installée mpe ezali kosala",
+      "iPhone/iPad na yo na réseau oyo moko na machine ya Ollama (esengeli)"
+    ],
+    "stepsTitle": "Etape na etape",
+    "steps": [
+      "<strong>Installer Ollama</strong>: telecharger mpe installer Ollama mpona OS na yo.",
+      "<strong>Banda Ollama</strong>: kokende na <code>ollama serve</code> (toa fungola application Ollama na macOS).",
+      "<strong>Kozwa modèle</strong>: kokende na <code>ollama pull llama3.2</code> (toa modèle oyo olingi).",
+      "<strong>Tala soki ezali kosala</strong>: kokende na <code>ollama run llama3.2</code> mpe esaya prompt moko.",
+      "<strong>Luka adresse ya serveur na yo</strong>: koma LAN IP ya ordinateur na yo (na ndakisa <code>192.168.0.10</code>).",
+      "<strong>Salela yango na application</strong>: na réglages ya Screenshot (App) Maker, tia Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Bikoma mpe ndenge ya kosilisa mikakatano",
+    "notes": [
+      "Soki application ekoki kokutana te, tala soki téléphone mpe ordinateur na yo ezali na réseau Wi-Fi moko.",
+      "Tala soki port <code>11434</code> efungwami na firewall na yo.",
+      "Soki olingi osalela serveur ya mosika (home PC, VPS), esengeli ofungola port na ndenge ya sécurisé (VPN ezali kolingama)."
+    ],
+    "ctaTitle": "Oza prêt mpona kobongola?",
+    "ctaBody": "Zonga na application, esaya connexion, mpe banda na monoko moko.",
+    "backHome": "← Zonga na Home",
+    "metaTitle": "Tuto ya kokitisa Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Politique ya sekreti",
+    "metaTitle": "Politique ya sekreti — Screenshot (App) Maker",
+    "title": "Politique ya sekreti",
+    "intro": "Politique ya sekreti oyo elobi ndenge Screenshot (App) Maker (\"App\") azali kosala na ba données ya bazoli.",
+    "summaryTitle": "Résumé",
+    "summary": [
+      "Compte te. Analytics te. Tracking te.",
+      "Ba fichiers na yo mpe ndenge otekisi yango ekotikala na appareil na yo, soki oponi kokitisa yango na serveur na yo ya Ollama te.",
+      "Soki ozali kosalela Ollama, texte ekokende kaka na adresse ya serveur oyo otelemisi."
+    ],
+    "sections": [
+      {
+        "title": "Kobongisa ba informations",
+        "body": [
+          "App oyo ekobongisa te, ekobatela te, mpe ekotinda te ba informations ya moto moko na ba serveurs na biso.",
+          "Screenshots, templates, mpe bafoto oyo ekatami bakelami mpe basengelisami na ekipam na yo."
+        ]
+      },
+      {
+        "title": "Kozwa nzela ya Bakanda mpe Bafoto",
+        "body": [
+          "App ekoki kosenga kozwa nzela ya kofungola app ya Bakanda to bibliothèque na yo ya bafoto mpo ekota na screenshots.",
+          "Bafoto oyo ekoti babongisami na ekipam moko moko, mpe basengelisami te na nzela ya automatique."
+        ]
+      },
+      {
+        "title": "Traduction AI (Ollama)",
+        "body": [
+          "Soki olongoli AI mpo na kosala texte to traduction, App ekoki kotinda texte na serveur Ollama oyo osilisi kokongola (na ndakisa, ordinateur na yo moko).",
+          "Biso tobongisaka te mpe tozwanaka te trafic na yo ya Ollama, mpe App ekotaka te mpe ebombaka te texte oyo AI esalaki."
+        ]
+      },
+      {
+        "title": "Bisaleli ya Basusu",
+        "body": [
+          "App esalelaka te analyse ya basusu, SDK ya publicités, to technologie ya kotondola."
+        ]
+      },
+      {
+        "title": "Bongoli",
+        "body": [
+          "Tokoki kobongisa Politique ya Secret oyo na ntango na ntango. Bongoli ekomonana na page oyo."
+        ]
+      },
+      {
+        "title": "Kontakta",
+        "body": [
+          "Soki ozali na mituna mpo na Politiki ya Bokonzi ya Secret oyo, tinda biso message na adresi ya email oyo ekomi na lisumu ya App Store."
+        ]
+      }
+    ],
+    "backHome": "← Zonga na Home"
+  }
+}

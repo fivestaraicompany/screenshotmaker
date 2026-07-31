@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Hotunan App Store, An Sauƙaƙa Su",
+    "homeDescription": "Kirkiri ingantattun hotunan App Store da aka shirya don mika su, sannan yi amfani da Ollama don samar da sigogi na harsuna daban-daban cikin sauƙi.",
+    "ollamaDescription": "Haɗa Screenshot (App) Maker da sabar Ollama ɗinka don samar da fassarar hotuna ta sirri ta amfani da AI.",
+    "privacyDescription": "Koyi yadda Screenshot (App) Maker yake kiyaye sirrin hotunanka, gyare-gyarenka, da tsarin fassararka.",
+    "languageName": "Turanci"
+  },
+  "common": {
+    "skipToContent": "Tsallake zuwa ga abubuwan ciki",
+    "homeAriaLabel": "Shafin gida na Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Siffofi",
+    "localization": "Fassarar Harshe",
+    "privacy": "Sirri",
+    "ollamaSetup": "Saita Ollama",
+    "ollamaSetupShort": "Saitun Ollama",
+    "downloadIos": "Sauke don iOS",
+    "downloadIosAriaLabel": "Sauke Screenshot (App) Maker don iPhone da iPad daga App Store",
+    "primaryNavigation": "Babban kewayawa",
+    "footerNavigation": "Kewayawar footer",
+    "backHome": "Komawa gida",
+    "footerTagline": "Hotunan App Store, an sauƙaƙa su.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Zaɓi harshe",
+    "kicker": "Harshen nuna wa",
+    "title": "Zaɓi wani harshe",
+    "close": "Rufe menu na harshe",
+    "hint": "Zaɓi harshen da ya fi maka sauƙi. Sunayen samfurori da umarnin fasaha za su tsaya yadda suke."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "An gina shi don mataki na ƙarshe kafin kaddamarwa",
+      "titleHtml": "Maida fuskar manhaja zuwa <span>screenshots da aka shirya don mika su.</span>",
+      "description": "Tsara kowane screenshot da mika manhajarka ke buƙata, sannan haɗa Ollama don ƙirƙirar sigogi na localization—ba tare da sake gina kowanne da hannu ba.",
+      "primaryAction": "Ga yadda yake aiki",
+      "secondaryAction": "Bincika localization",
+      "readyFor": "An shirya don",
+      "supportAriaLabel": "Nau'ikan export da ake tallafawa",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Hoton Siffa"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Duba na samfurin Screenshot Maker",
+      "project": "Fitowar lokacin bazara",
+      "saved": "An ajiye",
+      "appStorePreview": "Duba na App Store",
+      "display": "Allon 6.7″",
+      "shots": [
+        {
+          "line1": "Rage tsare-tsare.",
+          "line2": "Yi abubuwa da yawa."
+        },
+        {
+          "line1": "Komai",
+          "line2": "a wuri guda."
+        },
+        {
+          "line1": "An yi shi don",
+          "line2": "ranarka."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Ana fassara hotunan allo…",
+      "exportComplete": "AN KAMMALA FITARWA",
+      "exportReady": "An shirya PNGs + metadata"
+    },
+    "proof": [
+      {
+        "title": "Filin aiki guda na gani",
+        "body": "Daga hotunan allo na asali zuwa kayayyaki masu kyau"
+      },
+      {
+        "title": "Tsari guda, kowane yanki",
+        "body": "Fassara rubutun hotunan allo tare da Ollama"
+      },
+      {
+        "title": "Fitarwa guda wadda aka tsara",
+        "body": "Haɗa hotuna da metadata tare"
+      }
+    ],
+    "proofAriaLabel": "Amfanin samfurin",
+    "features": {
+      "overline": "Komai a wuri guda",
+      "titleHtml": "Kashe ƙaramin lokaci wajen shiri.<br />Fitar da shi cikin ƙarin kwarin gwiwa.",
+      "description": "Screenshot (App) Maker yana mayar da ayyukan maimaita wa a ƙarshen fitar da manhaja zuwa wani abu guda ɗaya mai bayyanuwa kuma mai hoto.",
+      "cards": [
+        {
+          "title": "Shigar da hotunan fuskar manhajarka.",
+          "body": "Shigo da screenshots, sanya su a cikin tsarin na'urori masu kyau, sannan ka shirya cikakken labarin App Store cikin mintuna.",
+          "drop": "Saka screenshots a nan",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Tsara sau ɗaya.",
+          "body": "Saka launuka, layouts, saitunan na'ura, nau'in rubutu, da inuwa a kowane shafi yayin da kake kiyaye kowace saƙo ta yadda take."
+        },
+        {
+          "title": "Ya dace da kowane screen.",
+          "body": "Shirya assets na iPhone, iPad, Apple Watch, Apple TV, da hotunan siffa daga aikin guda ɗaya."
+        },
+        {
+          "title": "Fitar da package wanda aka shirya don mika shi.",
+          "body": "Haɗa hotuna masu inganci, tsara fayyilan da aka fassara zuwa harshen yanki, sannan ka haɗa bayanan App Store metadata da aka fassara zuwa cikin archive guda ɗaya mai tsafta.",
+          "folder": "Kayan App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Duban fassarar Ollama",
+      "pill": "Yana aiki ta hanyar server ɗinka na Ollama",
+      "title": "Kamfenin hotunan allonku (screenshot), ya shirya don kowane kasuwa.",
+      "description": "Haɗa Screenshot (App) Maker da Ollama sannan ka fassara kanun labaran hotunan allonku da kuma bayanan App Store a cikin tsarin aiki ɗaya. Tsarin asali zai tsaya yadda yake yayin da rubutun zai canza ga kowane harshe.",
+      "checks": [
+        "Fassara dukkan kanun labaran hotunan allonku a matsayin batch",
+        "Fassarar bayanan, kalmomin bincike (keywords), da bayanan fitarwa (release notes)",
+        "Duba fassarorin kafin a fitar da su na ƙarshe"
+      ],
+      "action": "Duba jagorar saita Ollama",
+      "source": "Asali · Turanci",
+      "localeCount": "Harsuna 4",
+      "sourceLabel": "Asali",
+      "ready": "An shirya",
+      "samples": [
+        "Rage tsari.<br /><strong>Kara ayyuka.</strong>",
+        "Rage shiri.<br /><strong>Kara ci gaba.</strong>",
+        "Rage shiryawa.<br /><strong>Kara ƙirƙira.</strong>",
+        "Rage cikas.<br /><strong>Kara ƙarfin tafiya.</strong>"
+      ],
+      "complete": "An kammala fassarar",
+      "completeBody": "Rubutu da metadata sun shirya don duba su"
+    },
+    "workflow": {
+      "overline": "Hanya mafi gajera don wallafawa",
+      "title": "Saka hotunan asali. Fitar da kayayyakin da aka shirya don store.",
+      "description": "Babu bukatar tsari mai sarkakiya na zane. Babu bukatar sake gina wani kamfen ɗaya ga kowane harshe.",
+      "steps": [
+        {
+          "number": "MATAKI 01",
+          "title": "Shigo da",
+          "body": "Ƙara hotunan fuskar da suka fi bayyana labarin manhajarka."
+        },
+        {
+          "number": "MATAKI 02",
+          "title": "Tsari & fassarar yanki",
+          "body": "Gina yanayin yadda zai kasance sau ɗaya, sannan ka fassara rubutunka tare da Ollama."
+        },
+        {
+          "number": "MATAKI 03",
+          "title": "Fitarwa",
+          "body": "Sauke hotuna da bayanan metadata da aka shirya, don shirya mika su."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "An tsara shi don sirri",
+      "title": "Kayan aikin manhajarka suna ƙarƙashin ikonka.",
+      "description": "Gyaran hotunan screenshot yana faruwa ne a na'urarka. Idan ka zaɓi Ollama, rubutu za a tura shi ne kawai zuwa adireshin sabar da ka tsara.",
+      "action": "Karanta manufofin sirri"
+    },
+    "final": {
+      "overline": "Daga hotunan screenshot zuwa mika su",
+      "title": "Sanya matakin ƙarshe ya zama mai sauƙi.",
+      "description": "Tsara, lokalize, sannan ka fitar da kowane screenshot da kake buƙata don fitar da manhajarka ta gaba.",
+      "action": "Sauke a App Store",
+      "appIconAlt": "Alamar manhajar Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Haɗawo da Ollama",
+    "title": "Jagorar Saita Ollama",
+    "subtitle": "Haɗa Screenshot (App) Maker da samfurin Ollama ɗinka don fassarar AI da samar da rubutu.",
+    "requirementsTitle": "Abubuwan da kake buƙata",
+    "requirements": [
+      "Na'urar Mac, Windows PC, ko Linux don gudanar da Ollama",
+      "An sanya Ollama kuma tana aiki",
+      "iPhone/iPad ɗinka a kan network ɗaya da na'urar Ollama (da ake ba da shawarar hakan)"
+    ],
+    "stepsTitle": "Mataki-mataki",
+    "steps": [
+      "<strong>Shigar da Ollama</strong>: sauke sannan ka shigar da Ollama don OS ɗinka.",
+      "<strong>Fara Ollama</strong>: gudanar da <code>ollama serve</code> (ko buɗe manhajar Ollama a macOS).",
+      "<strong>Jawo samfuri</strong>: gudanar da <code>ollama pull llama3.2</code> (ko samfurin da kake so).",
+      "<strong>Tabbatar cewa yana aiki</strong>: gudanar da <code>ollama run llama3.2</code> sannan ka gwada prompt.",
+      "<strong>Nemo adireshin sabarka</strong>: rubuta LAN IP na kwamfutarka (misali <code>192.168.0.10</code>).",
+      "<strong>Yi amfani da shi a cikin manhajar</strong>: a cikin saitunan Screenshot (App) Maker, sanya Host zuwa <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Bayanai da gyaran matsaloli",
+    "notes": [
+      "Idan manhajar ba ta iya haɗewa ba, tabbatar cewa wayarka da kwamfutarka suna kan hanyar sadarwar Wi‑Fi ɗaya.",
+      "Tabbatar cewa an ba wa port <code>11434</code> damar shiga ta hanyar firewall ɗinka.",
+      "Idan ka fi son amfani da remote server (PC na gida, VPS), dole ne ka buɗe port ɗin ta hanyar tsaro (ana ba da shawarar VPN)."
+    ],
+    "ctaTitle": "Kuna shirye don yin localization?",
+    "ctaBody": "Koma cikin manhajar, gwada haɗin, sannan ka fara da locale ɗaya.",
+    "backHome": "← Komawa Gida",
+    "metaTitle": "Jagorar Saita Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Manufofin sirri",
+    "metaTitle": "Manufofin Sirri — Screenshot (App) Maker",
+    "title": "Manufofin Sirri",
+    "intro": "Wannan Manufofin Sirrin yana bayyana yadda Screenshot (App) Maker (\"manhajar\") yake sarrafa bayanan mai amfani.",
+    "summaryTitle": "Takaitaccen Bayani",
+    "summary": [
+      "Babu asusu. Babu nazari. Babu bin diddigi.",
+      "Faillolinka da gyare-gyarenka suna nan a na'urarka sai dai idan ka zaɓi haɗawa da server na Ollama naka.",
+      "Idan kana amfani da Ollama, ana aika rubutu ne kawai zuwa adireshin server wanda ka saita."
+    ],
+    "sections": [
+      {
+        "title": "Tattara Bayanai",
+        "body": [
+          "Manhajar ba ta tattara, ajiye, ko tura bayanan sirri zuwa server-dinmu.",
+          "Ana ƙirƙira da adana screenshots, templates, da hotuna da aka fitar a cikin na'urarka."
+        ]
+      },
+      {
+        "title": "Samun Damar Shiga Fayiloli da Hotuna",
+        "body": [
+          "Manhajar na iya neman damar shiga manhajar Fayiloli ko rumbun hotunanka don shigo da screenshots.",
+          "Ana sarrafa hotunan da aka shigo a cikin na'urar, kuma ba a ɗora su ta atomatik ba."
+        ]
+      },
+      {
+        "title": "Fassarar AI (Ollama)",
+        "body": [
+          "Idan ka kunna samar da rubutu ko fassarar AI, Manhajar na iya aiko rubutu zuwa sabar Ollama wadda ka tsara (misali, kwamfutarka).",
+          "Ba mu ne muke sarrafa ko karɓar zirga-zirgar Ollama ɗinka ba, kuma Manhajar ba ta yin rajista ko adana rubutun da AI ya sarrafa ba."
+        ]
+      },
+      {
+        "title": "Ayyukan ɓangare na uku",
+        "body": [
+          "Manhajar ba ta amfani da nazarin ɓangare na uku, SDKs na talla, ko fasahohin bin diddigi."
+        ]
+      },
+      {
+        "title": "Canje-canje",
+        "body": [
+          "Za mu iya sabunta wannan Manufar Sirri daga lokaci zuwa lokaci. Za a nuna canje-canjen a wannan shafin."
+        ]
+      },
+      {
+        "title": "Tuntuɓa",
+        "body": [
+          "Idan kuna da tambayoyi game da wannan Manufar Sirrin Bayanai, da fatan za ku tuntuɓe mu ta adireshin imel da aka bayar a jere-jeren App Store."
+        ]
+      }
+    ],
+    "backHome": "← Komawa Gida"
+  }
+}

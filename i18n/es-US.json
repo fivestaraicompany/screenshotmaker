@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — capturas de pantalla para la App Store, ahora más fáciles",
+    "homeDescription": "Crea capturas de pantalla pulidas y listas para enviar a la App Store, y usa Ollama para generar versiones localizadas con facilidad.",
+    "ollamaDescription": "Conecta Screenshot (App) Maker a tu servidor de Ollama para obtener una localización de capturas de pantalla privada impulsada por IA.",
+    "privacyDescription": "Descubre cómo Screenshot (App) Maker mantiene la privacidad de tus capturas de pantalla, ediciones y flujo de trabajo de localización.",
+    "languageName": "Inglés"
+  },
+  "common": {
+    "skipToContent": "Saltar al contenido",
+    "homeAriaLabel": "Inicio de Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Características",
+    "localization": "Localización",
+    "privacy": "Privacidad",
+    "ollamaSetup": "Configurar Ollama",
+    "ollamaSetupShort": "Configuración de Ollama",
+    "downloadIos": "Descargar para iOS",
+    "downloadIosAriaLabel": "Descarga Screenshot (App) Maker para iPhone y iPad desde la App Store",
+    "primaryNavigation": "Navegación principal",
+    "footerNavigation": "Navegación del pie de página",
+    "backHome": "Volver al inicio",
+    "footerTagline": "Capturas de pantalla de la App Store, ahora más fáciles.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Elegir idioma",
+    "kicker": "Idioma de visualización",
+    "title": "Elige un idioma",
+    "close": "Cerrar menú de idiomas",
+    "hint": "Elige el idioma que te resulte más natural. Los nombres de los productos y los comandos técnicos no cambian."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Creado para la etapa final antes del lanzamiento",
+      "titleHtml": "Convierte las pantallas de tu aplicación en <span>capturas de pantalla listas para enviar.</span>",
+      "description": "Diseña cada captura de pantalla que necesite el envío de tu aplicación y luego conecta Ollama para crear versiones localizadas, sin tener que reconstruir cada una a mano.",
+      "primaryAction": "Ver cómo funciona",
+      "secondaryAction": "Explorar la localización",
+      "readyFor": "Listo para",
+      "supportAriaLabel": "Tipos de exportación compatibles",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Gráfico destacado"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Vista previa del producto Screenshot Maker",
+      "project": "Lanzamiento de verano",
+      "saved": "Guardado",
+      "appStorePreview": "Vista previa de la App Store",
+      "display": "Pantalla de 6.7″",
+      "shots": [
+        {
+          "line1": "Planifica menos.",
+          "line2": "Haz más."
+        },
+        {
+          "line1": "Todo",
+          "line2": "en un solo lugar."
+        },
+        {
+          "line1": "Hecho para",
+          "line2": "tu día."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Localizando capturas de pantalla…",
+      "exportComplete": "EXPORTACIÓN COMPLETADA",
+      "exportReady": "PNG y metadatos listos"
+    },
+    "proof": [
+      {
+        "title": "Un espacio de trabajo visual",
+        "body": "De pantallas originales a activos pulidos"
+      },
+      {
+        "title": "Un diseño, todas las regiones",
+        "body": "Traduce el texto de las capturas de pantalla con Ollama"
+      },
+      {
+        "title": "Una exportación organizada",
+        "body": "Empaqueta imágenes y metadatos juntos"
+      }
+    ],
+    "proofAriaLabel": "Beneficios del producto",
+    "features": {
+      "overline": "Todo en un solo lugar",
+      "titleHtml": "Dedique menos tiempo a la preparación.<br />Lance sus proyectos con mayor confianza.",
+      "description": "Screenshot (App) Maker convierte el trabajo repetitivo al final del lanzamiento de una aplicación en un flujo de trabajo visual y claro.",
+      "cards": [
+        {
+          "title": "Arrastre las pantallas de su app.",
+          "body": "Importe capturas de pantalla, colóquelas en diseños de dispositivos pulidos y organice una historia completa para la App Store en cuestión de minutos.",
+          "drop": "Suelte las capturas de pantalla aquí",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Diseñe una sola vez.",
+          "body": "Aplique colores, diseños, configuraciones de dispositivo, tipografía y sombras en cada página, manteniendo la singularidad de cada mensaje."
+        },
+        {
+          "title": "Se adapta a cualquier pantalla.",
+          "body": "Prepare activos para iPhone, iPad, Apple Watch, Apple TV y gráficos destacados desde el mismo proyecto."
+        },
+        {
+          "title": "Exporte un paquete listo para su entrega.",
+          "body": "Renderice imágenes de alta resolución, organice archivos localizados y agrupe los metadatos traducidos de la App Store en un único archivo limpio.",
+          "folder": "Recursos de la App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Vista previa de localización de Ollama",
+      "pill": "Impulsado por tu servidor de Ollama",
+      "title": "Tu campaña de capturas de pantalla, lista para llegar a todos los mercados.",
+      "description": "Conecta Screenshot (App) Maker a Ollama y traduce los encabezados de las capturas de pantalla y los metadatos de la App Store en el mismo flujo de trabajo. Tu diseño original se mantiene intacto mientras que el texto cambia para cada idioma.",
+      "checks": [
+        "Traduce todos los encabezados de las capturas de pantalla en lote",
+        "Localiza descripciones, palabras clave y notas de versión",
+        "Revisa las traducciones antes de la exportación final"
+      ],
+      "action": "Ver la guía de configuración de Ollama",
+      "source": "Origen · Inglés",
+      "localeCount": "4 idiomas",
+      "sourceLabel": "Origen",
+      "ready": "Listo",
+      "samples": [
+        "Planifica menos.<br /><strong>Haz más.</strong>",
+        "Menos planificación.<br /><strong>Más progreso.</strong>",
+        "Menos configuración.<br /><strong>Más creación.</strong>",
+        "Menos fricción.<br /><strong>Más impulso.</strong>"
+      ],
+      "complete": "Localización completada",
+      "completeBody": "El texto y los metadatos están listos para revisar"
+    },
+    "workflow": {
+      "overline": "Un camino más corto hacia la publicación",
+      "title": "Pantallas originales entran. Activos listos para la tienda salen.",
+      "description": "Sin configuraciones de diseño complejas. Sin tener que reconstruir la misma campaña para cada idioma.",
+      "steps": [
+        {
+          "number": "PASO 01",
+          "title": "Importar",
+          "body": "Agrega las pantallas que mejor cuenten la historia de tu aplicación."
+        },
+        {
+          "number": "PASO 02",
+          "title": "Diseña y localiza",
+          "body": "Crea la apariencia una sola vez y luego traduce tus textos con Ollama."
+        },
+        {
+          "number": "PASO 03",
+          "title": "Exportar",
+          "body": "Descarga imágenes y metadatos organizados, listos para el envío."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privacidad por diseño",
+      "title": "Los activos de tu aplicación permanecen bajo tu control.",
+      "description": "La edición de capturas de pantalla se realiza en tu dispositivo. Cuando eliges Ollama, el texto se envía únicamente a la dirección del servidor que configures.",
+      "action": "Lee la política de privacidad"
+    },
+    "final": {
+      "overline": "Desde las capturas de pantalla hasta el envío",
+      "title": "Haga que el paso final sea sencillo.",
+      "description": "Diseñe, localice y exporte cada captura de pantalla que necesite para el próximo lanzamiento de su aplicación.",
+      "action": "Descargar en el App Store",
+      "appIconAlt": "Icono de la aplicación Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Integración con Ollama",
+    "title": "Tutorial de configuración de Ollama",
+    "subtitle": "Conecte Screenshot (App) Maker a su propia instancia de Ollama para la traducción por IA y la generación de texto.",
+    "requirementsTitle": "Lo que necesita",
+    "requirements": [
+      "Una computadora Mac, Windows PC o Linux para ejecutar Ollama",
+      "Ollama instalado y en ejecución",
+      "Su iPhone/iPad en la misma red que la máquina de Ollama (recomendado)"
+    ],
+    "stepsTitle": "Paso a paso",
+    "steps": [
+      "<strong>Instalar Ollama</strong>: descarga e instala Ollama para tu sistema operativo.",
+      "<strong>Iniciar Ollama</strong>: ejecuta <code>ollama serve</code> (o abre la aplicación Ollama en macOS).",
+      "<strong>Descargar un modelo</strong>: ejecuta <code>ollama pull llama3.2</code> (o el modelo de tu preferencia).",
+      "<strong>Confirmar que funciona</strong>: ejecuta <code>ollama run llama3.2</code> y prueba un prompt.",
+      "<strong>Buscar la dirección del servidor</strong>: anota la IP de LAN de tu computadora (por ejemplo, <code>192.168.0.10</code>).",
+      "<strong>Usarlo en la aplicación</strong>: en los ajustes de Screenshot (App) Maker, establece el Host como <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notas y solución de problemas",
+    "notes": [
+      "Si la aplicación no puede conectarse, verifica que tu teléfono y computadora estén en la misma red Wi‑Fi.",
+      "Asegúrate de que el puerto <code>11434</code> esté permitido por tu firewall.",
+      "Si prefieres usar un servidor remoto (PC de casa, VPS), debes exponer el puerto de forma segura (se recomienda una VPN)."
+    ],
+    "ctaTitle": "¿Listo para localizar?",
+    "ctaBody": "Regresa a la aplicación, prueba la conexión y comienza con un idioma.",
+    "backHome": "← Volver al inicio",
+    "metaTitle": "Tutorial de configuración de Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Política de privacidad",
+    "metaTitle": "Política de Privacidad — Screenshot (App) Maker",
+    "title": "Política de Privacidad",
+    "intro": "Esta Política de Privacidad describe cómo Screenshot (App) Maker (\"la aplicación\") maneja los datos del usuario.",
+    "summaryTitle": "Resumen",
+    "summary": [
+      "Sin cuentas. Sin análisis. Sin rastreo.",
+      "Sus archivos y ediciones permanecen en su dispositivo, a menos que elija conectarse a su propio servidor de Ollama.",
+      "Si utiliza Ollama, el texto se envía únicamente a la dirección del servidor que usted configure."
+    ],
+    "sections": [
+      {
+        "title": "Recopilación de información",
+        "body": [
+          "La aplicación no recopila, almacena ni transmite información personal a nuestros servidores.",
+          "Las capturas de pantalla, las plantillas y las imágenes exportadas se crean y guardan localmente en tu dispositivo."
+        ]
+      },
+      {
+        "title": "Acceso a archivos y fotos",
+        "body": [
+          "Es posible que la aplicación solicite acceso a la aplicación Archivos o a tu biblioteca de fotos para importar capturas de pantalla.",
+          "Las imágenes importadas se procesan en el dispositivo y no se cargan automáticamente."
+        ]
+      },
+      {
+        "title": "Traducción con IA (Ollama)",
+        "body": [
+          "Si activas la generación o traducción de texto mediante IA, la aplicación puede enviar texto a un servidor de Ollama que hayas configurado (por ejemplo, tu propia computadora).",
+          "No operamos ni recibimos el tráfico de Ollama, y la aplicación no registra ni almacena el texto procesado por la IA."
+        ]
+      },
+      {
+        "title": "Servicios de terceros",
+        "body": [
+          "La aplicación no utiliza análisis de terceros, SDK de publicidad ni tecnologías de seguimiento."
+        ]
+      },
+      {
+        "title": "Cambios",
+        "body": [
+          "Es posible que actualicemos esta Política de privacidad periódicamente. Los cambios se reflejarán en esta página."
+        ]
+      },
+      {
+        "title": "Contacto",
+        "body": [
+          "Si tiene alguna pregunta sobre esta Política de Privacidad, contáctenos a través de la dirección de correo electrónico proporcionada en la página de la App Store."
+        ]
+      }
+    ],
+    "backHome": "← Volver al inicio"
+  }
+}

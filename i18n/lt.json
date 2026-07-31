@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store ekrano nuotraukos, sukurtos paprastai",
+    "homeDescription": "Kurkite profesionalias, pateikimui paruoštas App Store ekrano nuotraukas ir naudokite Ollama, kad lengvai generuotumėte lokalizuotas versijas.",
+    "ollamaDescription": "Prijunkite Screenshot (App) Maker prie savo Ollama serverio privačiam dirbtinio intelekto pagalba atliekamam ekrano nuotraukų lokalizavimui.",
+    "privacyDescription": "Sužinokite, kaip Screenshot (App) Maker saugo jūsų ekrano nuotraukų, redagavimų ir lokalizavimo darbo eigos privatumą.",
+    "languageName": "Anglų"
+  },
+  "common": {
+    "skipToContent": "Praleisti iki turinio",
+    "homeAriaLabel": "Screenshot App Maker pagrindinis puslapis",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funkcijos",
+    "localization": "Lokalizavimas",
+    "privacy": "Privatumas",
+    "ollamaSetup": "Konfiguruoti Ollama",
+    "ollamaSetupShort": "Ollama nustatymas",
+    "downloadIos": "Atsisiųsti iOS",
+    "downloadIosAriaLabel": "Atsisiųskite Screenshot (App) Maker iPhone ir iPad įrenginiams iš App Store",
+    "primaryNavigation": "Pagrindinė navigacija",
+    "footerNavigation": "Apatinės dalies navigacija",
+    "backHome": "Grįžti į pradžią",
+    "footerTagline": "App Store ekrano nuotraukos – paprastai.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Pasirinkite kalbą",
+    "kicker": "Rodo kalba",
+    "title": "Pasirinkite kalbą",
+    "close": "Uždaryti kalbos meniu",
+    "hint": "Pasirinkite kalbą, kuri jums yra natūraliausia. Produkto pavadinimai ir techninės komandos lieka nepakeiti."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Sukurta paskutiniam etapui prieš paleidimą",
+      "titleHtml": "Paverskite programėlės ekranus <span>pateikimui pasiruošusiomis ekrano nuotraukomis.</span>",
+      "description": "Sukurkite visas programėlės pateikimui reikiamas ekrano nuotraukas, tada prijunkite Ollama, kad sukurtumėte lokalizuotas versijas – nereikės kiekvienos kurti rankiniu būdu.",
+      "primaryAction": "Žiūrėti, kaip tai veikia",
+      "secondaryAction": "Tyrinėkite lokalizaciją",
+      "readyFor": "Suderinama su",
+      "supportAriaLabel": "Palaikomi eksporto formatai",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Pagrindinis paveikslėlis"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker produkto peržiūra",
+      "project": "Vasaros išleidimas",
+      "saved": "Išsaugota",
+      "appStorePreview": "App Store peržiūra",
+      "shots": [
+        {
+          "line1": "Planuokite mažiau.",
+          "line2": "Veikite daugiau."
+        },
+        {
+          "line1": "Viskas",
+          "line2": "vienoje vietoje."
+        },
+        {
+          "line1": "Sukurta",
+          "line2": "jūsų dienai."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokalizuojami ekrano nuotraukos…",
+      "exportComplete": "EKSPORTAVIMAS BAIGTAS",
+      "exportReady": "PNG ir metaduomenys paruošti"
+    },
+    "proof": [
+      {
+        "title": "Viena vizualinė darbo erdvė",
+        "body": "Nuo originalių ekranų iki apdorotų elementų"
+      },
+      {
+        "title": "Vienas dizainas, visos lokalizacijos",
+        "body": "Vertinkite ekrano nuotraukų tekstą naudojant Ollama"
+      },
+      {
+        "title": "Vienas tvarkingas eksportavimas",
+        "body": "Grupuokite vaizdus ir metaduomenis kartu"
+      }
+    ],
+    "proofAriaLabel": "Produkto privalumai",
+    "features": {
+      "overline": "Viskas vienoje vietoje",
+      "titleHtml": "Skirtite mažiau laiko pasiruošimui.<br />Išleiskite programėlę drąsiau.",
+      "description": "Screenshot (App) Maker paverčia pasikartojančius darbus programėlės išleidimo pabaigoje vienu aiškiu ir vizualiu darbo procesu.",
+      "cards": [
+        {
+          "title": "Numerkite savo programėlės ekranyus.",
+          "body": "Importuokite ekrano nuotraukas, išdėkite jas į sutvarkytus įrenginių maketus ir per kelias minutes sukurkite visą App Store istoriją.",
+          "drop": "Numerkite ekrano nuotraukas čia",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Sukurkite dizainą vieną kartą.",
+          "body": "Taikykite spalvas, maketus, įrenginio nustatymus, šriftus ir šešėlius visose puslapiuose, išlaikydami kiekvienos žinutės unikalumą."
+        },
+        {
+          "title": "Tinka visiems ekranams.",
+          "body": "Parengkite resursus iPhone, iPad, Apple Watch, Apple TV ir pagrindines grafikas iš to paties projekto."
+        },
+        {
+          "title": "Eksportuokite paketą, paruoštą pateikimui.",
+          "body": "Kurkite aukštos raišyklės vaizdus, tvarkykite lokalizuotus failus ir sugrupuokite išverstus App Store metaduomenis į vieną tvarkingą archyvą.",
+          "folder": "„App Store“ resursai"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ollama lokalizacijos peržiūra",
+      "pill": "Veikia naudojant jūsų Ollama serverį",
+      "title": "Jūsų ekrano nuotraukų kampanija, paruošta kiekvienai rinkai.",
+      "description": "Prijunkite Screenshot (App) Maker prie Ollama ir verskite ekrano nuotraukų antraštes bei „App Store“ metaduomenis tame pačiame darbo procese. Jūsų originalus maketas išlieka nepakeistas, o tekstas keičiasi pagal kiekvieną lokalizaciją.",
+      "checks": [
+        "Vertkite visas ekrano nuotraukų antraštes partijomis",
+        "Lokalizuokite aprašymus, raktinius žodžius ir išleidimo pastabas",
+        "Peržiūrėkite vertimus prieš galutinį eksportavimą"
+      ],
+      "action": "Peržiūrėti Ollama konfigūravimo vadovą",
+      "source": "Šaltinis · anglų k.",
+      "localeCount": "4 lokalizacijos",
+      "sourceLabel": "Šaltinis",
+      "ready": "Parengta",
+      "samples": [
+        "Mažiau planuokite.<br /><strong>Daugiau dirbkite.</strong>",
+        "Mažiau planavimo.<br /><strong>Daugiau pažangos.</strong>",
+        "Mažiau paruošimo.<br /><strong>Daugiau kūrimo.</strong>",
+        "Mažiau trikdymų.<br /><strong>Daugiau impulso.</strong>"
+      ],
+      "complete": "Lokalicizavimas baigtas",
+      "completeBody": "Tekstas ir metaduomenys yra pasiruošę peržiūrai"
+    },
+    "workflow": {
+      "overline": "Trumpesnis kelias iki publikavimo",
+      "title": "Žali ekrano vaizdai įvidų. Pasiruošę mağazinui elementai išvidų.",
+      "description": "Jokių sudėtingų dizaino nustatymų. Nereikia kurti tos pačios kampanijos kiekvienai kalbai iš naujo.",
+      "steps": [
+        {
+          "number": "ŽINGSNIS 01",
+          "title": "Importuoti",
+          "body": "Pridėkite ekranus, kurie geriausiai pasakoja jūsų programėlės istoriją."
+        },
+        {
+          "number": "ŽINGSNIS 02",
+          "title": "Dizainas ir lokalizacija",
+          "body": "Vienkartai sukūrkite išvaizdą, tada išverskite tekstą naudojant Ollama."
+        },
+        {
+          "number": "ŽINGSNIS 03",
+          "title": "Eksportuoti",
+          "body": "Atsisiųskite suorganizuotus vaizdus ir metaduomenis, pasiruošusius pateikimui."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privatumas projektuojant",
+      "title": "Jūsų programėlės resursai išlieka jūsų kontrolėje.",
+      "description": "Ekrano nuotraukų redagavimas vyksta jūsų įrenginyje. Pasirinkus Ollama, tekstas siunčiamas tik į jūsų nustatytą serverio adresą.",
+      "action": "Skaitykite privatumo politiką"
+    },
+    "final": {
+      "overline": "Nuo ekrano nuotraukų iki pateikimo",
+      "title": "Padarykite, kad paskutinis žingsnis būtų paprastas.",
+      "description": "Projektuokite, lokalizuokite ir eksportuokite visas nuotrauktas, kurių reikės jūsų kitam programėlės išleidimui.",
+      "action": "Atsisiųskite „App Store“",
+      "appIconAlt": "„Screenshot App Maker“ programėlės piktograma"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama integracija",
+    "title": "Ollama nustatymų vadovas",
+    "subtitle": "Prijunkite „Screenshot (App) Maker“ prie savo Ollama egzemplioriaus, kad naudotumėte DI vertimą ir teksto generavimą.",
+    "requirementsTitle": "Ko jums reikės",
+    "requirements": [
+      "Mac, „Windows PC“ arba „Linux“ kompiuterio, kad galėtumėte paleisti Ollama",
+      "Įdiegto ir veikiančio Ollama",
+      "Jūsų „iPhone“/„iPad“ tame pačiame tinkle, kuriame yra Ollama kompiuteris (rekomenduojama)"
+    ],
+    "stepsTitle": "Žingsnis po žingsnio",
+    "steps": [
+      "<strong>Įdiegti Ollama</strong>: atsisiųskite ir įdiekite Ollama savo operacinei sistemai.",
+      "<strong>Paleisti Ollama</strong>: paleiskite <code>ollama serve</code> (arba atidarykite „Ollama“ programėlę macOS).",
+      "<strong>Atsisiųsti modelį</strong>: paleiskite <code>ollama pull llama3.2</code> (arba pasirinktą modelį).",
+      "<strong>Patikrinti veikimą</strong>: paleiskite <code>ollama run llama3.2</code> ir išbandykite užklausą.",
+      "<strong>Rasti serverio adresą</strong>: užsirašykite savo kompiuterio LAN IP (pvz., <code>192.168.0.10</code>).",
+      "<strong>Naudoti programėlėje</strong>: „Screenshot (App) Maker“ nustatymuose nustatykite Host reikšmę <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Pastabos ir problemų sprendimas",
+    "notes": [
+      "Jei programėlė negali prisijungti, įsitikinkite, kad telefonas ir kompiuteris prijungti prie to paties Wi-Fi tinklo.",
+      "Įsitikinkite, kad jūsų ugsiau leidžiamas <code>11434</code> prievadas.",
+      "Jei norite naudoti nuotolinį serverį (namų PC, VPS), prievadas turi būti atidarytas saugiai (rekomenduojama naudoti VPN)."
+    ],
+    "ctaTitle": "Pasiruošę lokalizuoti?",
+    "ctaBody": "Grįžkite į programėlę, patikrinkite ryšį ir pradėkite nuo vienos kalbos.",
+    "backHome": "← Atgal į pradžią",
+    "metaTitle": "Ollama nustatymų vadovas — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Privatumo politika",
+    "metaTitle": "Privatumo politika — Screenshot (App) Maker",
+    "title": "Privatumo politika",
+    "intro": "Ši privatumo politika aprašo, kaip „Screenshot (App) Maker“ („Programėlė“) tvarko vartotojų duomenis.",
+    "summaryTitle": "Santrauka",
+    "summary": [
+      "Jokių paskyrų. Jokios analitikos. Jokio sekimo.",
+      "Jūsų failai ir redagavimai lieka jūsų įrenginyje, nebent pasirinksite prisijungti prie savo Ollama serverio.",
+      "Jei naudojate Ollama, tekstas siunčiamas tik į jūsų nustatytą serverio adresą."
+    ],
+    "sections": [
+      {
+        "title": "Informacijos rinkimas",
+        "body": [
+          "Programėlė nerenka, nesaugo ir neperduoda asmeninės informacijos į mūsų serverius.",
+          "Ekrano nuotraukos, šablonai ir eksportuoti vaizdai yra kuriami ir išsaugomi lokaliai jūsų įrenginyje."
+        ]
+      },
+      {
+        "title": "Prieiga prie failų ir nuotraukų",
+        "body": [
+          "Programėlė gali paprašyti prieigos prie „Failai“ programėlės arba jūsų nuotraukų bibliotekos, kad būtų galima importuoti ekrano nuotraukas.",
+          "Importuoti vaizdai yra apdorojami įrenginyje ir nėra automatiškai įkeliami."
+        ]
+      },
+      {
+        "title": "DI vertimas (Ollama)",
+        "body": [
+          "Jei įjungsite DI teksto generavimą arba vertimą, programėlė gali siųsti tekstą į jūsų konfigūruojamą Ollama serverį (pavyzdžiui, į jūsų paties kompiuterį).",
+          "Mes nevaldome ir negavome jūsų Ollama srauto, o programėlė nefiksuoja ir nesaugo DI apdoroto teksto."
+        ]
+      },
+      {
+        "title": "Trečiųjų šalių paslaugos",
+        "body": [
+          "Programėlė nenaudoja trečiųjų šalių analitikos, reklamos SDK ar sekimo technologijų."
+        ]
+      },
+      {
+        "title": "Pakeitimai",
+        "body": [
+          "Mes galime periodiškai atnaujinti šią privatumo politiką. Pakeitimai bus atspiegelėti šiame puslapyje."
+        ]
+      },
+      {
+        "title": "Kontaktai",
+        "body": [
+          "Jei turite klausimų dėl šios Privatumo politikos, susisiekite su nami naudojant el. pašto adresą, nurodytą „App Store“ aprašyme."
+        ]
+      }
+    ],
+    "backHome": "← Grįžti į pradžią"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store'i ekraanipiltide loomine on nüüd lihtne",
+    "homeDescription": "Looge lihvitud ja esitamisele valmis App Store'i ekraanipilte ning kasutage Ollama abil nende lokaliseeritud versioonide lihtset loomist.",
+    "ollamaDescription": "Ühendage Screenshot (App) Maker oma Ollama serveriga, et kasutada privaatset tehisintellektil põhinevat ekraanipiltide lokaliseerimist.",
+    "privacyDescription": "Saage teada, kuidas Screenshot (App) Maker hoiab teie ekraanipildid, muudatused ja lokaliseerimise töövoolu privaatseks.",
+    "languageName": "Inglise keel"
+  },
+  "common": {
+    "skipToContent": "Hüppa sisule",
+    "homeAriaLabel": "Screenshot App Maker avaleht",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Omadused",
+    "localization": "Lokaliseerimine",
+    "privacy": "Privaatsus",
+    "ollamaSetup": "Seadista Ollama",
+    "ollamaSetupShort": "Ollama seadistus",
+    "downloadIos": "Laadi alla iOS-le",
+    "downloadIosAriaLabel": "Laadi Screenshot (App) Maker alla iPhone'i ja iPadi jaoks App Store'ist",
+    "primaryNavigation": "Peamine navigatsioon",
+    "footerNavigation": "Jalise navigatsioon",
+    "backHome": "Tagasi avalehele",
+    "footerTagline": "App Store'i ekranipildi loomine on nüüd lihtne.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Vali keel",
+    "kicker": "Kuvake keel",
+    "title": "Vali keel",
+    "close": "Sulge keelemenüü",
+    "hint": "Valige keel, mis on teile kõige loomulikum. Tootenimed ja tehnilised käsud jäävad muutmata."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Loodud viimaseks etapiks enne lansseerimist",
+      "titleHtml": "Muutke rakenduse ekraanid <span>esitamisele valmis olevate ekranipiltideks.</span>",
+      "description": "Disainige kõik rakenduse esitamiseks vajalikud ekranipildid ja ühendage seejärel Ollama, et luua lokaliseeritud versioonid — ilma, et peaksite neid käsitsi uuesti tegema.",
+      "primaryAction": "Vaadake, kuidas see toimib",
+      "secondaryAction": "Tutvuge lokaliseerimisega",
+      "readyFor": "Valmis järgmiste jaoks",
+      "supportAriaLabel": "Toetatud eksportimise tüübid",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Pealkujundus"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker toote eelvaade",
+      "project": "Suvine väljalase",
+      "saved": "Salvestatud",
+      "appStorePreview": "App Store eelvaade",
+      "shots": [
+        {
+          "line1": "Planeeri vähem.",
+          "line2": "Tee rohkem."
+        },
+        {
+          "line1": "Kõik",
+          "line2": "ühes kohas."
+        },
+        {
+          "line1": "Loodud",
+          "line2": "sinu päevaks."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokaliseeritakse ekranitõbesid…",
+      "exportComplete": "EKSPORTEERIMINE VALMIS",
+      "exportReady": "PNG-d ja metadata on valmis"
+    },
+    "proof": [
+      {
+        "title": "Üks visuaalne tööruum",
+        "body": "Toresest ekraanitõbest lihvitud varadesini"
+      },
+      {
+        "title": "Üks disain, kõik keeled",
+        "body": "Tõlgi ekranitõbe tekste Ollamaga"
+      },
+      {
+        "title": "Üks organiseeritud eksport",
+        "body": "Pakendige pildid ja metadata koos"
+      }
+    ],
+    "proofAriaLabel": "Toote eelised",
+    "features": {
+      "overline": "Kõik ühes kohas",
+      "titleHtml": "Kuluta vähem aega ettevalmistustele.<br />Väljataha suurema kindlusega.",
+      "description": "Screenshot (App) Maker muudab rakenduse väljastamise lõpufaasi korduvad tööd üheks selgeks ja visuaalseks töövooluks.",
+      "cards": [
+        {
+          "title": "Lisa oma rakenduse ekraanid.",
+          "body": "Impordi ekraanipildid, paikuta need lihvitud seadmete makettidele ja loo minutitega terviklik App Store'i lugu.",
+          "drop": "Lohe ekraanipildid siia",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Disaini üks kord.",
+          "body": "Rakenda värve, makette, seadmete sätteid, tüüpi ja varjusid kõigile lehtedele, hoides samal ajal iga sõnumi ainulaasena."
+        },
+        {
+          "title": "Sobib igale ekraanile.",
+          "body": "Valmista ühe projekti põhjal materjale iPhone'i, iPadi, Apple Watch'i, Apple TV-d ja funktsiooni staatiliste piltide jaoks."
+        },
+        {
+          "title": "Eksporteeri esitamisele valmis pakett.",
+          "body": "Renderi kõrge resolutsiooniga pildid, organiseeri lokaliseeritud failid ja koondi tõlgitud App Store'i metadata üheks korralikuks arhiiviks.",
+          "folder": "App Store'i materjalid"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ollama lokaliseerimise eelvaade",
+      "pill": "Toetatud teie Ollama serveri poolt",
+      "title": "Teie ekraanitõtete kampaania on valmis kõigile turgudele.",
+      "description": "Ühendage Screenshot (App) Maker Ollamaga ja tõlkige ekraanitõtete pealkirju ning App Store'i metadata sama töövoolus. Teie algne paigutus säilib, samal ajal kui tekst muutub vastavalt keelele.",
+      "checks": [
+        "Tõlkige kõik ekraanitõtete pealkirjad korraga",
+        "Lokaliseerige kirjelduseid, märksõnu ja versioonimärkmeid",
+        "Korda üle tõlked enne lõplikku eksportimist"
+      ],
+      "action": "Vaadake Ollama seadistamisjuhendit",
+      "source": "Allikas · inglise keel",
+      "localeCount": "4 keelepiirkonda",
+      "sourceLabel": "Allikas",
+      "ready": "Valmis",
+      "samples": [
+        "Planeeri vähem.<br /><strong>Tee rohkem.</strong>",
+        "Vähem planeerimist.<br /><strong>Rohkem eduku.</strong>",
+        "Vähem seadistamist.<br /><strong>Rohkem loomist.</strong>",
+        "Vähem takistusi.<br /><strong>Rohkem impulssi.</strong>"
+      ],
+      "complete": "Lokalisatsioon lõpetatud",
+      "completeBody": "Tekst ja metadata on ülevaatamiseks valmis"
+    },
+    "workflow": {
+      "overline": "Lühem tee avaldamiseni",
+      "title": "Algsed ekraanid sisse. Poele valmis varad välja.",
+      "description": "Pole vaja keerukat disaini seadistamist. Pole vaja igaks keeleks samu kampaaniaid uuesti luua.",
+      "steps": [
+        {
+          "number": "SAMM 01",
+          "title": "Importeerimine",
+          "body": "Lisa ekraanid, mis jutustavad kõige paremini sinu rakenduse lugu."
+        },
+        {
+          "number": "SAMM 02",
+          "title": "Disain ja lokaliseerimine",
+          "body": "Loo välimus üks kord ja tõlgi seejärel oma tekste Ollamaga."
+        },
+        {
+          "number": "SAMM 03",
+          "title": "Eksporteeri",
+          "body": "Laadi alla organiseeritud pildid ja metadata, mis on valmis esitamiseks."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privaatne juba projekteerimisel",
+      "title": "Sinu rakenduse ressursid jäävad sinu kontrolli alla.",
+      "description": "Ekranipiltide redigeerimine toimub sinu seadmes. Kui valid Ollama, saadetakse tekst ainult sinu konfigureeritud serveriaadressile.",
+      "action": "Loe privaatsuspoliitikat"
+    },
+    "final": {
+      "overline": "Ekranipiltidest esitamiseni",
+      "title": "Muuda viimane samm lihtsaks.",
+      "description": "Disaini, lokaliseeri ja eksporteeri kõik ekranitõbed, mida su järgmine rakenduse väljalask vajab.",
+      "action": "Laadi alla App Store'ist",
+      "appIconAlt": "Screenshot App Makeri rakenduse ikoon"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama integratsioon",
+    "title": "Ollama seadistamise juhend",
+    "subtitle": "Ühenda Screenshot (App) Maker oma Ollama eksemplariga tehisintellekti tõlmeks ja teksti genereerimiseks.",
+    "requirementsTitle": "Mida on vaja",
+    "requirements": [
+      "Mac, Windows PC või Linuxi masin Ollama käivitamiseks",
+      "Ollama on installitud ja käivitatud",
+      "Sinu iPhone/iPad on samas võrgus kui Ollama masin (soovitatav)"
+    ],
+    "stepsTitle": "Samm-sammult",
+    "steps": [
+      "<strong>Paigalda Ollama</strong>: laadi alla ja paigalda Ollama oma operatsioonisüsteemile.",
+      "<strong>Käivita Ollama</strong>: käivita <code>ollama serve</code> (või ava Ollama rakendus macOS-is).",
+      "<strong>Laadi mudel</strong>: käivita <code>ollama pull llama3.2</code> (või vali soovitud mudel).",
+      "<strong>Kontrolli toimimist</strong>: käivita <code>ollama run llama3.2</code> ja testi päringut.",
+      "<strong>Leia oma serveri aadress</strong>: märgi oma arvuti LAN-IP (nt <code>192.168.0.10</code>).",
+      "<strong>Kasuta seda rakenduses</strong>: määra Screenshot (App) Makeri seadetes Hostiks <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Märkused ja tõrgetõrje",
+    "notes": [
+      "Kui rakendus ei saa ühendust, kontrolli, kas telefon ja arvuti on samas Wi-Fi võrgus.",
+      "Veendu, et port <code>11434</code> on tulemüüri poolt lubatud.",
+      "Kui soovid kasutada kaugserverit (kodune PC, VPS), pead pordi turvaliselt avama (soovitatav VPN)."
+    ],
+    "ctaTitle": "Kas oled valmis lokaliseerima?",
+    "ctaBody": "Naase rakendusse, testi ühendust ja alusta ühe keelepiirkonnaga.",
+    "backHome": "← Tagasi avalehele",
+    "metaTitle": "Ollama seadistamise õpetus — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Privaatsuspoliitika",
+    "metaTitle": "Privaatsuspoliitika — Screenshot (App) Maker",
+    "title": "Privaatsuspoliitika",
+    "intro": "Käesolev privaatsuspoliitika kirjeldab, kuidas Screenshot (App) Maker („rakendus“) kasutajandmeid käitleb.",
+    "summaryTitle": "Kokkuvõte",
+    "summary": [
+      "Ei kontosid. Ei analüütikat. Ei jälitamist.",
+      "Teie failid ja muudatused jäävad teie seadmesse, välja sept kui otsustate ühenduda oma Ollama serveriga.",
+      "Kui kasutate Ollamat, saadetakse tekst ainult teie poolt konfigureeritud serveri aadressile."
+    ],
+    "sections": [
+      {
+        "title": "Andmete kogumine",
+        "body": [
+          "Rakendus ei kogu, salvesta ega edasta isikuandmeid meie serveritele.",
+          "Ekranipildid, šabloonid ja eksporteeritud pildid loodakse ja salvestatakse kohalikult teie seadmesse."
+        ]
+      },
+      {
+        "title": "Failide ja fotode juurdepääs",
+        "body": [
+          "Rakendus võib ekranipiltide importimiseks küsida juurdepääsu failide rakendusele või teie fototeekule.",
+          "Importitud pildid töödeldakse seadmes ja neid ei laadita automaatselt üles."
+        ]
+      },
+      {
+        "title": "AI tõlge (Ollama)",
+        "body": [
+          "Kui aktiveerite AI tekstigeneratsiooni või tõlke, saab rakendus saata teksti Ollama serverile, mille konfigureerite ise (näiteks oma arvutisse).",
+          "Me ei halda ega vastu võta teie Ollama liiklust ning rakendus ei logi ega salvesta AI poolt töödeldud teksti."
+        ]
+      },
+      {
+        "title": "Kolmandate osapoolte teenused",
+        "body": [
+          "Rakendus ei kasuta kolmandate osapoolte analüütikat, reklaami SDK-sid ega jälgimistehnoloogiaid."
+        ]
+      },
+      {
+        "title": "Muudatused",
+        "body": [
+          "Me võime seda privaatsuspoliitikat aegade jooksul uuendada. Muudatused kuvatakse sellel lehel."
+        ]
+      },
+      {
+        "title": "Kontakt",
+        "body": [
+          "Kui teil on küsimusi selle privaatsuspoliitika kohta, võtke meiega palun ühendust e-posti aadressil, mis on märgitud App Store'i lehel."
+        ]
+      }
+    ],
+    "backHome": "← Tagasi avalehele"
+  }
+}

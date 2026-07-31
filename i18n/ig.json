@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Mee App Store Screenshots n'ụzọ dị mfe",
+    "homeDescription": "Mkpụta App Store screenshots mara mma nke adịla njikere maka nnosonye, jiri Ollama mepụta ụdị ndị egharịrị asụsụ n'ụzọ dị mfe.",
+    "ollamaDescription": "Jikọrọ Screenshot (App) Maker na Ollama server gị maka ngharịrị asụsụ screenshot nke AI na nzuzo.",
+    "privacyDescription": "Mụta otú Screenshot (App) Maker si echebe screenshot, nhazi, na usoro ngharịrị asụsụ gị ka ha bụrụ nzuzo.",
+    "languageName": "Bekee"
+  },
+  "common": {
+    "skipToContent": "Gaa n'isi isi",
+    "homeAriaLabel": "Ụlọ Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Njirimara",
+    "localization": "Ngharịrị asụsụ",
+    "privacy": "Nzuzo",
+    "ollamaSetup": "Hazi Ollama",
+    "ollamaSetupShort": "Nkwadebe Ollama",
+    "downloadIos": "Budata maka iOS",
+    "downloadIosAriaLabel": "Budata Screenshot (App) Maker maka iPhone na iPad site n'Apple App Store",
+    "primaryNavigation": "Njem isi",
+    "footerNavigation": "Njem okpuru",
+    "backHome": "Laghachi n'ụlọ",
+    "footerTagline": "Screenshot ndị App Store, emegharịrị nke dị mfe.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Họrọ asụsụ",
+    "kicker": "Asụsụ ngosi",
+    "title": "Họrọ asụsụ",
+    "close": "Mechie menú asụsụ",
+    "hint": "Họrọ asụsụ kachasị mfe n'ebe gị. Aha ngwaahịa na ntuziaka tekniki agaghị agbanwe."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Emeere ya maka etapa ikpeazụ tupu mmepụta",
+      "titleHtml": "Gbanwee ọnụ ụzọ app gị ka ha bụrụ <span>screenshot ndị dị njikere maka nnyefe.</span>",
+      "description": "Họrọ wdịbe screenshot ọ bụla nke nnyefe app gị chọrọ, mebiea jikọọ Ollama iji mepụta ụdị localization—n'enweghị mkpa ịme onye ọzọ n'aka.",
+      "primaryAction": "Hụ otú ọ si arụ ọrụ",
+      "secondaryAction": "Chọpụta maka localization",
+      "readyFor": "Dị njikere maka",
+      "supportAriaLabel": "Ụdị export a na-akwado",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Graphic nke Feature"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Nlegharị anya ngwaahịa Screenshot Maker",
+      "project": "Mwepụta Summer",
+      "saved": "Echego",
+      "appStorePreview": "Nlegharị anya App Store",
+      "display": "Display 6.7″",
+      "shots": [
+        {
+          "line1": "Belata atụmatụ.",
+          "line2": "Mee ihe karịa."
+        },
+        {
+          "line1": "Ihe niile",
+          "line2": "n'otu ebe."
+        },
+        {
+          "line1": "Emeere",
+          "line2": "ụbọchị gị."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Na-eme localization nke screenshot-s…",
+      "exportComplete": "MWAPUTA GWỌRỌ",
+      "exportReady": "PNGs + metadata adịla njikere"
+    },
+    "proof": [
+      {
+        "title": "Otu ebe ọrụ nhazi anya",
+        "body": "Site na screen ndị mbụ gaa na asset ndị a rụsịrị nke ọma"
+      },
+      {
+        "title": "Otu design, onyeasụsụ niile",
+        "body": "Sgharị ederede screenshot site na Ollama"
+      },
+      {
+        "title": "Otu mwaputa a haziri nke ọma",
+        "body": "Kpokota foto na metadata ọnụ"
+      }
+    ],
+    "proofAriaLabel": "Uru ngwaahịa ahụ",
+    "features": {
+      "overline": "Ihe niile n'otu ebe",
+      "titleHtml": "Kpochaa oge ị na-akwadebe.<br />Wepụta ihe gị n'obi ike.",
+      "description": "Screenshot (App) Maker na-eme ka ọrụ ndị a na-ime ugboro ugboro n'ikpeazụ nke mwepụta app ghọọ otu usoro ọrụ doro anya, nke a pụrụ ịhụ.",
+      "cards": [
+        {
+          "title": "Tinye ndebe-ihe (screens) nke app gị.",
+          "body": "Weta screenshot-s, tinye ha n'usoro igwe mara mma, ma hapụ akụkọ App Store zuru oke n'ime nke okunye.",
+          "drop": "Tinye screenshot-s ebe a",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Design otu ugboro.",
+          "body": "Hapụ agba, usoro (layouts), ntughari igwe, ụdị mkpụrụedemede, na onyinya n'ebe niile, ma na-eme ka ozi ọ bụla dị iche."
+        },
+        {
+          "title": "Ruo screen ọ bụla.",
+          "body": "Kwadere ihe ndị a chọrọ maka iPhone, iPad, Apple Watch, Apple TV, na feature graphics site n'otu project."
+        },
+        {
+          "title": "Wepụta ngwamba dị njikere maka nyefe.",
+          "body": "Mepụta foto ndị nwere resolution dị elu, hagebe faịlụ ndị a sụgharịrị, ma kpọkọta metadata App Store gị nke a sụgharịrị n'otu archive dị ọcha."
+        }
+      ]
+    }
+  }
+}

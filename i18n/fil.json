@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Mas madaling paggawa ng mga App Store screenshot",
+    "homeDescription": "Gumawa ng pulidong mga App Store screenshot na handa nang isumite at gamitin ang Ollama para madaling makabuo ng mga localized version.",
+    "ollamaDescription": "I-connect ang Screenshot (App) Maker sa iyong Ollama server para sa pribadong AI-powered na localization ng mga screenshot.",
+    "privacyDescription": "Alamin kung paano pinapanatiling pribado ng Screenshot (App) Maker ang iyong mga screenshot, edit, at localization workflow.",
+    "languageName": "English"
+  },
+  "common": {
+    "skipToContent": "Laktawan papunta sa content",
+    "homeAriaLabel": "Home ng Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Mga Tampok",
+    "localization": "Localization",
+    "privacy": "Privacy",
+    "ollamaSetup": "I-set up ang Ollama",
+    "ollamaSetupShort": "Pag-setup ng Ollama",
+    "downloadIos": "I-download para sa iOS",
+    "downloadIosAriaLabel": "I-download ang Screenshot (App) Maker para sa iPhone at iPad mula sa App Store",
+    "primaryNavigation": "Pangunahing nabigasyon",
+    "footerNavigation": "Nabigasyon ng footer",
+    "backHome": "Bumalik sa home",
+    "footerTagline": "Mga screenshot ng App Store, ginawang madali.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Pumili ng wika",
+    "kicker": "Wika ng display",
+    "title": "Pumili ng wika",
+    "close": "Isara ang menu ng wika",
+    "hint": "Piliin ang wikang pinaka-natural para sa iyo. Mananatiling hindi nababago ang mga pangalan ng produkto at teknikal na command."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Ginawa para sa huling yugto bago ang launch",
+      "titleHtml": "Gawing <span>mga screenshot na handa nang isumite</span> ang mga screen ng app.",
+      "description": "I-design ang bawat screenshot na kailangan para sa pagsusumite ng iyong app, pagkatapos ay ikonekta ang Ollama upang gumawa ng mga localized version—nang hindi na kailangang isa-isang gawin nang mano-mano.",
+      "primaryAction": "Tingnan kung paano ito gumagana",
+      "secondaryAction": "Galugarin ang localization",
+      "readyFor": "Handa para sa",
+      "supportAriaLabel": "Mga suportadong uri ng export",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Preview ng produktong Screenshot Maker",
+      "project": "Paglalabas sa Tag-araw",
+      "saved": "Naisave",
+      "appStorePreview": "Preview ng App Store",
+      "display": "6.7″ na Display",
+      "shots": [
+        {
+          "line1": "Bawasan ang pagpaplano.",
+          "line2": "Gawin ang higit pa."
+        },
+        {
+          "line1": "Lahat",
+          "line2": "sa isang lugar."
+        },
+        {
+          "line1": "Ginawa para sa",
+          "line2": "iyong araw."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Isinasalin ang mga screenshot…",
+      "exportComplete": "TAPOS NA ANG EXPORT",
+      "exportReady": "Handa na ang mga PNG + metadata"
+    },
+    "proof": [
+      {
+        "title": "Isang visual workspace",
+        "body": "Mula sa mga raw screen hanggang sa mga pulidong asset"
+      },
+      {
+        "title": "Isang disenyo, para sa lahat ng locale",
+        "body": "Isalin ang kopya ng screenshot gamit ang Ollama"
+      },
+      {
+        "title": "Isang organisadong export",
+        "body": "I-package nang magkasama ang mga imahe at metadata"
+      }
+    ],
+    "proofAriaLabel": "Mga benepisyo ng produkto",
+    "features": {
+      "overline": "Lahat ay nasa isang lugar",
+      "titleHtml": "Bawasan ang oras sa paghahanda.<br />Mag-release nang may higit na kumpiyansa.",
+      "description": "Ginagawang isang malinaw at visual na workflow ng Screenshot (App) Maker ang mga paulit-ulit na gawain sa dulo ng pag-release ng app.",
+      "cards": [
+        {
+          "title": "I-drop ang iyong mga screen ng app.",
+          "body": "Mag-import ng mga screenshot, ilagay ang mga ito sa mga polished na device layout, at bumuo ng isang kumpletong App Store story sa loob lamang ng ilang minuto.",
+          "drop": "I-drop ang mga screenshot dito",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Mag-design nang isang beses lang.",
+          "body": "Ilapat ang mga kulay, layout, device settings, type, at shadows sa bawat pahina habang pinapanatiling natatangi ang bawat mensahe."
+        },
+        {
+          "title": "Kasyahin sa lahat ng screen.",
+          "body": "Ihanda ang mga asset para sa iPhone, iPad, Apple Watch, Apple TV, at feature graphics mula sa iisang proyekto."
+        },
+        {
+          "title": "Mag-export ng package na handa na para sa submission.",
+          "body": "Mag-render ng mga high-resolution image, ayusin ang mga localized file, at pagsama-samahin ang iyong translated App Store metadata sa isang malinis na archive.",
+          "folder": "Mga Asset ng App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Preview ng lokalisasyon ng Ollama",
+      "pill": "Pinapatakbo ng iyong server ng Ollama",
+      "title": "Ang iyong kampanya sa screenshot, handa na para sa bawat merkado.",
+      "description": "I-connect ang Screenshot (App) Maker sa Ollama at isalin ang mga headline ng screenshot at metadata ng App Store sa iisang workflow. Mananatiling buo ang iyong orihinal na layout habang nagbabago ang kopya para sa bawat locale.",
+      "checks": [
+        "Isalin ang lahat ng headline ng screenshot sa isang batch",
+        "I-localize ang mga paglalarawan, keyword, at release note",
+        "Suriin ang mga pagsasalin bago ang huling export"
+      ],
+      "action": "Tingnan ang gabay sa pag-setup ng Ollama",
+      "source": "Pinagmulan · Ingles",
+      "localeCount": "4 na locale",
+      "sourceLabel": "Pinagmulan",
+      "ready": "Handa na",
+      "samples": [
+        "Bawasan ang pagpaplano.<br /><strong>Higit pang gawin.</strong>",
+        "Kaunting pagpaplano.<br /><strong>Higit na pag-unlad.</strong>",
+        "Kaunting setup.<br /><strong>Higit na paglikha.</strong>",
+        "Bawasan ang sagabal.<br /><strong>Higit pang momentum.</strong>"
+      ],
+      "complete": "Kumpleto na ang lokalisasyon",
+      "completeBody": "Handa nang suriin ang copy at metadata"
+    },
+    "workflow": {
+      "overline": "Mas maikling landas patungo sa pag-publish",
+      "title": "Ipasok ang raw screens. Ilabas ang mga asset na handa na para sa store.",
+      "description": "Walang kumplikadong design setup. Hindi na kailangang ulitin ang pagbuo ng parehong kampanya para sa bawat wika.",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "I-import",
+          "body": "Idagdag ang mga screen na pinakamahusay na nagkukuwento tungkol sa iyong app."
+        },
+        {
+          "number": "STEP 02",
+          "title": "Idisenyo at i-localize",
+          "body": "Buuin ang hitsura nang isang beses, pagkatapos ay isalin ang iyong copy gamit ang Ollama."
+        },
+        {
+          "number": "STEP 03",
+          "title": "I-export",
+          "body": "I-download ang mga organisadong imahe at metadata, handa na para sa pagsusumite."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Pribado ayon sa disenyo",
+      "title": "Ang iyong mga asset ng app ay mananatili sa ilalim ng iyong kontrol.",
+      "description": "Ang pag-edit ng screenshot ay nangyayari sa iyong device. Kapag pinili mo ang Ollama, ang teksto ay ipapadala lamang sa server address na iyon-configure mo.",
+      "action": "Basahin ang patakaran sa privacy"
+    },
+    "final": {
+      "overline": "Mula sa mga screenshot hanggang sa pagsusumite",
+      "title": "Gawing simple ang huling hakbang.",
+      "description": "I-design, i-localize, at i-export ang bawat screenshot na kailangan para sa susunod mong app release.",
+      "action": "I-download sa App Store",
+      "appIconAlt": "App icon ng Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Integrasyon ng Ollama",
+    "title": "Tutorial sa Pag-setup ng Ollama",
+    "subtitle": "I-connect ang Screenshot (App) Maker sa iyong sariling Ollama instance para sa AI translation at text generation.",
+    "requirementsTitle": "Mga kailangan mo",
+    "requirements": [
+      "Isang Mac, Windows PC, o Linux machine para patakbuhin ang Ollama",
+      "Naka-install at tumatakbo ang Ollama",
+      "Ang iyong iPhone/iPad sa parehong network ng Ollama machine (inirerekomenda)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>I-install ang Ollama</strong>: i-download at i-install ang Ollama para sa iyong OS.",
+      "<strong>Simulan ang Ollama</strong>: patakbuhin ang <code>ollama serve</code> (o buksan ang Ollama app sa macOS).",
+      "<strong>Kumuha ng model</strong>: patakbuhin ang <code>ollama pull llama3.2</code> (o ang iyong piniling model).",
+      "<strong>Kumpirmahing gumagana ito</strong>: patakbuhin ang <code>ollama run llama3.2</code> at subukan ang isang prompt.",
+      "<strong>Hanapin ang iyong server address</strong>: itala ang LAN IP ng iyong computer (hal. <code>192.168.0.10</code>).",
+      "<strong>Gamitin ito sa app</strong>: sa mga setting ng Screenshot (App) Maker, i-set ang Host sa <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Mga Tala at Troubleshooting",
+    "notes": [
+      "Kung hindi makakonekta ang app, suriin kung ang iyong telepono at computer ay nasa iisang Wi‑Fi network.",
+      "Tiyaking pinapayagan ng iyong firewall ang port <code>11434</code>.",
+      "Kung mas gusto mong gumamit ng remote server (home PC, VPS), dapat mong i-expose ang port nang ligtas (inirerekomenda ang VPN)."
+    ],
+    "ctaTitle": "Handa na bang i-localize?",
+    "ctaBody": "Bumalik sa app, subukan ang koneksyon, at magsimula sa isang locale.",
+    "backHome": "← Balik sa Home",
+    "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Patakaran sa Privacy",
+    "metaTitle": "Patakaran sa Privacy — Screenshot (App) Maker",
+    "title": "Patakaran sa Privacy",
+    "intro": "Inilalarawan ng Patakarang ito sa Privacy kung paano pinamamahalaan ng Screenshot (App) Maker (\"ang App\") ang data ng user.",
+    "summaryTitle": "Buod",
+    "summary": [
+      "Walang mga account. Walang analytics. Walang pagsubaybay.",
+      "Ang iyong mga file at edit ay mananatili sa iyong device maliban kung pipiliin mong kumonekta sa iyong sariling Ollama server.",
+      "Kung gagamit ka ng Ollama, ang text ay ipapadala lamang sa server address na i-configure mo."
+    ],
+    "sections": [
+      {
+        "title": "Koleksyon ng Impormasyon",
+        "body": [
+          "Hindi nangongolekta, nag-iimbak, o nagpapadala ang App ng personal na impormasyon sa aming mga server.",
+          "Ang mga screenshot, template, at exported na imahe ay nililikha at iniimbak nang lokal sa iyong device."
+        ]
+      },
+      {
+        "title": "Access sa mga File at Larawan",
+        "body": [
+          "Maaaring humiling ang App ng access sa Files app o sa iyong photo library upang mag-import ng mga screenshot.",
+          "Ang mga imported na imahe ay pinoproseso sa device at hindi awtomatikong ina-upload."
+        ]
+      },
+      {
+        "title": "AI Translation (Ollama)",
+        "body": [
+          "Kung i-e-enable mo ang AI text generation o translation, maaaring magpadala ang App ng text sa isang Ollama server na i-co-configure mo (halimbawa, ang iyong sariling computer).",
+          "Hindi namin pinapatakbo o tinatanggap ang iyong Ollama traffic, at hindi nilo-log o iniimbak ng App ang text na pinroseso ng AI."
+        ]
+      },
+      {
+        "title": "Mga Third-Party Service",
+        "body": [
+          "Hindi gumagamit ang App ng third-party analytics, advertising SDKs, o mga tracking technology."
+        ]
+      },
+      {
+        "title": "Mga Pagbabago",
+        "body": [
+          "Maaari naming i-update ang Privacy Policy na ito paminsan-minsan. Ang mga pagbabago ay masasalamin sa pahinang ito."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "Kung mayroon kang mga katanungan tungkol sa Patakarang ito sa Pagkapribado, mangyaring makipag-ugnayan sa amin gamit ang email address na nakasaad sa App Store listing."
+        ]
+      }
+    ],
+    "backHome": "← Balik sa Home"
+  }
+}

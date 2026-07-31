@@ -1,0 +1,246 @@
+{
+  "common": {
+    "ollamaSetupShort": "Ollama iestatījumi",
+    "downloadIos": "Lejupielādēt iOS",
+    "downloadIosAriaLabel": "Lejupielādējiet Screenshot (App) Maker iPhone un iPad ierīcēm no App Store",
+    "primaryNavigation": "Galvenā navigācija",
+    "footerNavigation": "Navigācija kājenē",
+    "backHome": "Atpakaļ uz sākumu",
+    "footerTagline": "App Store ekrānuzņēmumi, kļuvuši vienkārši.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Izvēlieties valodu",
+    "kicker": "Rādīšanas valoda",
+    "title": "Izvēlieties valodu",
+    "close": "Aizvērt valodas izvēlni",
+    "hint": "Izvēlieties sev visērtākās valodas. Produkta nosaukumi un tehniskās komandas paliek nemainīti."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Izveidots pēdējam posmam pirms izlaide",
+      "titleHtml": "Pārveidojiet lietotnes ekrānus par <span>iesniegšanai gataviem ekrānuzņēmumiem.</span>",
+      "description": "Izveidojiet visus lietotnes iesniegšanai nepiekšamās ekrānuzņēmumus, pēc tam savienojiet Ollama, lai izveidotu lokalizētas versijas — bez nepieciešamības veidot katru manuāli.",
+      "primaryAction": "Skatīties, kā tas darbojas",
+      "secondaryAction": "Izpētīt lokalizāciju",
+      "readyFor": "Saderīgs ar",
+      "supportAriaLabel": "Atbalstītie eksporta veidi",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Galvenais attēls"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker produkta priekšskatīums",
+      "project": "Vasaras izlaidums",
+      "saved": "Saglabāts",
+      "appStorePreview": "App Store priekšskatīums",
+      "shots": [
+        {
+          "line1": "Plano mazāk.",
+          "line2": "Dari vairāk."
+        },
+        {
+          "line1": "Viss",
+          "line2": "vienā vietā."
+        },
+        {
+          "line1": "Izveidots",
+          "line2": "tavai dienai."
+        }
+      ],
+      "display": "6.7″ ekrāns",
+      "ollama": "OLLAMA",
+      "localizing": "Lokālizē ekrānuzņēmumus…",
+      "exportComplete": "EKSPORTĒŠANA PABEIGTA",
+      "exportReady": "PNG un metadati ir gatavi"
+    },
+    "proof": [
+      {
+        "title": "Viena vizuāla darba vieta",
+        "body": "No neapstrādātiem ekrāniem līdz perfekti sagatavotiem resursiem"
+      },
+      {
+        "title": "Viens dizains visām lokālajām versijām",
+        "body": "Tulko ekrānuzņēmumu tekstu ar Ollama"
+      },
+      {
+        "title": "Viens organizēts eksports",
+        "body": "Iepakojiet attēlus un metadatus kopā"
+      }
+    ],
+    "proofAriaLabel": "Produkta priekšrocības",
+    "features": {
+      "overline": "Viss vienuviet",
+      "titleHtml": "Tērējiet mazāk laika sagatavošanai.<br />Izlaidiet produktu ar lielāku pārliecību.",
+      "description": "Screenshot (App) Maker pārvērš atkārtotu darbu lietotnes izlaišanas beigās vienā skaidrā, vizuālā darba plūmā.",
+      "cards": [
+        {
+          "title": "Ievietojiet savas lietotnes ekrānus.",
+          "body": "Importējiet ekrānuzņēmumus, novietojiet tos rūpīgi izstrādātos ierīču izkārtojumos un dažu minūšu laikā izveidojiet pilnu App Store stāstu.",
+          "drop": "Ievietojiet ekrānuzņēmumus šeit",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Sagatavojiet dizainu vienreiz.",
+          "body": "Pielietojiet krāsas, izkārtojumus, ierīču iestatījumus, šriftus un ēnas visām lapām, vienlaikus saglabājot katra ziņojuma unikālumu."
+        },
+        {
+          "title": "Pielāgojiet jebkuram ekrānam.",
+          "body": "Sagatavojiet resursus iPhone, iPad, Apple Watch, Apple TV un funkciju grafiku no viena projekta."
+        },
+        {
+          "title": "Eksportējiet iesniegšanai gatavu paketi.",
+          "body": "Renderējiet augstas izšķirtspējas attēlumus, sakārtojiet lokalizētos failus un apvienojiet tulkotos App Store metadatus vienā tīrā arhīvā.",
+          "folder": "App Store resursi"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ollama lokalizācijas priekšskatums",
+      "pill": "Darbināts ar jūsu Ollama serveri",
+      "title": "Jūsu ekrānuzņēmumu kampaņa, kas ir gatava jebkuram tirgum.",
+      "description": "Savienojiet Screenshot (App) Maker ar Ollama un tulkojiet ekrānuzņēmumu virsrakstus un App Store metadatus vienā darba plūmā. Jūsu oriģinālais izkārtojums paliek nemainīts, kamēr teksts tiek mainīts katrai lokālei.",
+      "checks": [
+        "Tulkojiet visus ekrānuzņēmumu virsrakstus kopīmē",
+        "Lokalizējiet aprakstus, atslēgvārdus un izlaiduma piezīmes",
+        "Pārskatiet tulkojumus pirms galīgās eksportēšanas"
+      ],
+      "action": "Skatīt Ollama konfigurācijas ceļvedi",
+      "source": "Avots · angļu",
+      "localeCount": "4 lokāles",
+      "sourceLabel": "Avots",
+      "ready": "Gatavs",
+      "samples": [
+        "Plano mazāk.<br /><strong>Darī vairāk.</strong>",
+        "Mazāk plānošanas.<br /><strong>Vairāk progresa.</strong>",
+        "Mazāk konfigurēšanas.<br /><strong>Vairāk radīšanas.</strong>",
+        "Mazāk šķēršļu.<br /><strong>Vairāk impulsa.</strong>"
+      ],
+      "complete": "Lokālizācija pabeigta",
+      "completeBody": "Teksts un metadata ir gatavi pārskatīšanai"
+    },
+    "workflow": {
+      "overline": "Īsāks ceļš līdz publicēšanai",
+      "title": "Ievadi neapstrādātus ekrānus. Saņem veikalam gatavos resursus.",
+      "description": "Nevajag sarežģītas dizaina konfigurēšanas. Nevajag atkārtoti veidot vienu un to pašu kampaņu katrai valodai.",
+      "steps": [
+        {
+          "number": "SOLIS 01",
+          "title": "Importēt",
+          "body": "Pievieno ekrānus, kas vislabāk stāsta stāstu par tavu lietotni."
+        },
+        {
+          "title": "Dizains un lokalizācija",
+          "body": "Izveido izskatu vienreiz, pēc tam iztulko tekstu ar Ollama.",
+          "number": "SOLIS 02"
+        },
+        {
+          "title": "Eksportēt",
+          "body": "Lejupielādē sakārtotus attēlus un metadatus, kas ir gatavi iesniegšanai.",
+          "number": "SOLIS 03"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privātums pēc būtības",
+      "title": "Tavas lietotnes resursi paliek tavā kontrolē.",
+      "description": "Ekranuzņēmumu rediģēšana notiek tavā ierīcē. Izvēloties Ollama, teksts tiek sūtīts tikai uz konfigurēto servera adresi.",
+      "action": "Lasīt privātuma politiku"
+    },
+    "final": {
+      "overline": "No ekranuzņēmumiem līdz iesniegšanai",
+      "title": "Padariet pēdējo soli vienkāršu.",
+      "description": "Izveidojiet, lokalizējiet un eksportējiet katru ekrānuzņēmumu, kas nepieciešams jūsu nākamajai lietotnes izlaidīšanai.",
+      "action": "Lejupielādēt no App Store",
+      "appIconAlt": "Screenshot App Maker lietotnes ikona"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama integrācija",
+    "title": "Ollama konfigurēšanas pamācība",
+    "subtitle": "Savienojiet Screenshot (App) Maker ar savu Ollama instanci AI tulkošanai un teksta ģenerēšanai.",
+    "requirementsTitle": "Kas jums ir nepieciešams",
+    "requirements": [
+      "Mac, Windows PC vai Linuxdators Ollama darbināšanai",
+      "Instalēta un darbojošies Ollama",
+      "Jūsu iPhone/iPad tajā pašā tīklā, kurā atrodas Ollamadators (ieteicams)"
+    ],
+    "stepsTitle": "Soli pa solim",
+    "steps": [
+      "<strong>Instalēt Ollama</strong>: lejupielādējiet un instalējiet Ollama savai OS.",
+      "<strong>Sākt Ollama</strong>: palaidiet <code>ollama serve</code> (vai atveriet Ollama lietotni macOS).",
+      "<strong>Iegūt modeli</strong>: palaidiet <code>ollama pull llama3.2</code> (vai savu izvēlēto modeli).",
+      "<strong>Apstiprināt darbību</strong>: palaidiet <code>ollama run llama3.2</code> un pārbaudiet uzsaucumu.",
+      "<strong>Atrast servera adresi</strong>: pierakstiet sava datora LAN IP (piemēram, <code>192.168.0.10</code>).",
+      "<strong>Izmantot lietotnē</strong>: Screenshot (App) Maker iestatījumos iestatiet Host uz <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Piezīmes un vainu meklēšana",
+    "notes": [
+      "Ja lietotne nevar savienoties, pārliecinieties, ka tālrunis un dators atrodas vienā Wi-Fi tīklā.",
+      "Pārliecinieties, ka jūsu ugunmūris atļauj portu <code>11434</code>.",
+      "Ja vēlaties izmantot tālstatnējo serveri (mājokļa PC, VPS), portam jābūt droši pieejamam (ieteicams VPN)."
+    ],
+    "ctaTitle": "Gatavs lokalizēt?",
+    "ctaBody": "Atgriezieties lietotnē, pārbaudiet savienojumu un sāciet ar vienu lokāli.",
+    "backHome": "← Atpakaļ uz sākumu",
+    "metaTitle": "Ollama konfigurēšanas pamācība — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Privātuma politika",
+    "metaTitle": "Privātuma politika — Screenshot (App) Maker",
+    "title": "Privātuma politika",
+    "intro": "Šī Privātuma politika apraksta, kā Screenshot (App) Maker (\"Lietotne\") apstrādā lietotāja datus.",
+    "summaryTitle": "Kopsavilkums",
+    "summary": [
+      "Nav kontu. Nav analītikas. Nav izsekošanas.",
+      "Jūsu faili un labojumi paliek jūsu ierīcē, ja vien jūs nolemjat savienoties ar savu Ollama serveri.",
+      "Ja izmantojat Ollama, teksts tiek sūtīts tikai uz jūsu konfigurēto servera adresi."
+    ],
+    "sections": [
+      {
+        "title": "Informācijas vākšana",
+        "body": [
+          "Lietotne neivāc, nesaglabā un nepārsūta personīgo informāciju uz mūsu serveriem.",
+          "Ekranuzņēmumi, šabloni un eksportētie attēli tiek izveidoti un saglabāti lokāli jūsu ierīcē."
+        ]
+      },
+      {
+        "title": "Piekļuve failiem un fotoattēliem",
+        "body": [
+          "Lai importētu ekranuzņēmumus, lietotne var pieprasīt piekļuvi Failu lietotnei vai jūsu fotoattēlu bibliotēkai.",
+          "Importētie attēli tiek apstrādāti ierīcē un netiek automātiski augšupielādēti."
+        ]
+      },
+      {
+        "title": "AI tulkošana (Ollama)",
+        "body": [
+          "Ja iespējojat AI teksta ģenerēšanu vai tulkošanu, lietotne var sūtīt tekstu uz Ollama servera, kuru konfigurējat (piemēram, jūsu datoru).",
+          "Mēs nepārvaldam un nesaņemam jūsu Ollama trafiku, un lietotne nereģistrē un nesaglabā ar AI apstrādāto tekstu."
+        ]
+      },
+      {
+        "title": "Trešo pušu pakalpojumi",
+        "body": [
+          "Lietotne neizmanto trešo pušu analītiku, reklāmas SDK vai izsekošanas tehnoloģijas."
+        ]
+      },
+      {
+        "title": "Izmaiņas",
+        "body": [
+          "Mēs laikam pa laikam varam atjaunināt šo Privātuma politiku. Izmaiņas tiks atspoguļotas šajā lapā."
+        ]
+      },
+      {
+        "title": "Kontakti",
+        "body": [
+          "Ja jums ir jautājumi par šo Privātuma politiku, lūdzu, sazinieties ar mums, izmantojot e-pasta adresi, kas norādīta App Store lapā."
+        ]
+      }
+    ],
+    "backHome": "← Atpakaļ uz sākumu"
+  }
+}
