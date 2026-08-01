@@ -1395,17 +1395,21 @@ html[dir="rtl"] .locale-card {
 }
 
 .check-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
   color: #4a5871;
   font-size: 13px;
   font-weight: 600;
+  line-height: 1.55;
 }
 
-.check-list li span {
+.check-list li > span:first-child {
+  flex: none;
   display: inline-grid;
   place-items: center;
   width: 20px;
   height: 20px;
-  margin-right: 9px;
   color: #347f6b;
   background: #d5f3e9;
   border-radius: 50%;
