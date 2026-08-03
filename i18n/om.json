@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Iskuuriinoota App Store, salphatti hojjedhu",
+    "homeDescription": "Iskuuriinoota App Store qulqulluu fi dhiyeessifamuu qophaa'an uumi, akkasumas Ollama fayyadamtee bifa naannoo tokkootti jijjiirame salphatti hojjedhu.",
+    "ollamaDescription": "Screenshot (App) Maker sirvaraa Ollama keetiin wal qabsiisi, iskuuriinoota bifa naannoo tokkootti jijjiiruuf AI dhuunfaa fayyadami.",
+    "privacyDescription": "Screenshot (App) Maker akkamitti iskuuriinoota, sirreeffamoota, fi adeemsa jijjiirama naannoo kee iccitii akka gotu baradhu.",
+    "languageName": "Ingiliffa"
+  },
+  "common": {
+    "skipToContent": "Gara qabiyyeetti darbi",
+    "homeAriaLabel": "Mana Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Amalaalee",
+    "localization": "Naannoo tokkootti jijjiiruu",
+    "privacy": "Iccitii",
+    "ollamaSetup": "Ollama qopheessi",
+    "ollamaSetupShort": "Qophii Ollama",
+    "downloadIos": "iOS-f buufadhu",
+    "downloadIosAriaLabel": "Screenshot (App) Maker iPhone fi iPad-f App Store irraa buufadhu",
+    "primaryNavigation": "Navigeeshinii ijoo",
+    "footerNavigation": "Navigeeshinii jala-fuulaa",
+    "backHome": "Gara manaatti deebi'i",
+    "footerTagline": "Suuraawwan iskiriinii App Store, salphateera.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Afaan filadhu",
+    "kicker": "Afaan agarsiisaa",
+    "title": "Afaan tokko filadhu",
+    "close": "Meenuu afaanii cufi",
+    "hint": "Afaan siif salphatu filadhu. Maqaawwan produktii fi ajajoonni teeknikaa hin jijjiiramu."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Sadarkaa dhumaa gadi lakkisuu duraaf kan ijaarame",
+      "titleHtml": "Fuulota appii <span>sukuriinoota dhiyeessuuf qophaa'anitti</span> jijjiiri.",
+      "description": "Sukuriinoota hunda appii kee dhiyeessuuf barbaachisan diizaayini, achiis Ollama walitti hidhuun veershiniiwwan naannoo keetti sirreessite uumi—tokko tokko harkaan irra deebitee ijaaruu hin barbaadu.",
+      "primaryAction": "Akkaataa itti hojjetu ilaali",
+      "secondaryAction": "Localization qoradhu",
+      "readyFor": "Qophii qabuuf",
+      "supportAriaLabel": "Gosoonni export kan ta'an",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Fakkii Ibsaa"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Mirkaneessa Screenshot Maker",
+      "project": "Ba'umsa Sumaraa",
+      "saved": "Kuufame",
+      "appStorePreview": "Mirkaneessa App Store",
+      "display": "Agarsiisa 6.7″",
+      "shots": [
+        {
+          "line1": "Karoora xiqqeesi.",
+          "line2": "Baay'ee hojjedhu."
+        },
+        {
+          "line1": "Wanti hundi",
+          "line2": "bakka tokkotti."
+        },
+        {
+          "line1": "Kan qophaa'eef",
+          "line2": "guyyaa keetiif."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Sikiriinshoototaa afaanitti jijjiiraa jira…",
+      "exportComplete": "BAKKA BAASUUN XUMURE",
+      "exportReady": "PNG-wwii + meeta-daataan qophaa'aniiru"
+    },
+    "proof": [
+      {
+        "title": "Iddoo hojii ilaalchaa tokko",
+        "body": "Screens-oota uumamaa irraa gara qabeenya qulqullaa'etti"
+      },
+      {
+        "title": "Dizaayinii tokko, naannoo hundaaf",
+        "body": "Barreeffama sikiriinshootaa Ollamaan hiiki"
+      },
+      {
+        "title": "Bakka baasuu qindaa'aa tokko",
+        "body": "Fakkiiwwan fi meeta-daataa waliin walitti qabi"
+      }
+    ],
+    "proofAriaLabel": "Faayidaalee produktii",
+    "features": {
+      "overline": "Hundi bakka tokkotti",
+      "titleHtml": "Yeroo qophii gabaabsii.<br />Amantummaa guddaan maxxansi.",
+      "description": "Screenshot (App) Maker hojii irra deddeebiuu xumura maxxansaa appii tokkoo gara workflow viizhuwaal ifa ta'etti jijjiira.",
+      "cards": [
+        {
+          "title": "Fuulota appii keetii asitti gadi-kuusi.",
+          "body": "Screenshot-oota galchi, layout-oota meeshaalee qulqulluu keessatti kaa'i, akkasumas daqiiqoota muraasa keessatti seenaa Apple App Store guutuu qopheessi.",
+          "drop": "Screenshot-oota asitti gadi-kuusi",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Altokko qofa dizaayini.",
+          "body": "Halluuwwan, layout-oota, sirna meeshaalee, gosa barreessaa, fi gaaddiddoota fuula hunda irratti hojjedhu, garuu ergaa tokko tokkoon adda ta'uu isaa mirkaneessi."
+        },
+        {
+          "title": "Fuula hundaaf simadhu.",
+          "body": "Proojektii tokko qofa irraa meeshaalee iPhone, iPad, Apple Watch, Apple TV, fi graafiksii adda aadaa (feature graphics) qopheessi."
+        },
+        {
+          "title": "Paakeejii dhiyeessifamuu qophaa'e export godhi.",
+          "body": "Fakkiiwwan qulqullina olaanaa render godhi, faayiloota naannoo (localized) qindeeffadhu, akkasumas meeta-daataa Apple App Store hiikame tokkoo gara arkivii qulqulluu tokkotti walitti qabbi.",
+          "folder": "Meeshaalee App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Tarkaanfii duraa hiikkaa Ollamaa",
+      "pill": "Saaraavara Ollama keetiin hojjeta",
+      "title": "Kampyeenii iskiriniishootii keessan, gabaa hundaaf qophaa'eera.",
+      "description": "Screenshot (App) Maker gara Ollamaa walitti qabattee mata-dureewwan iskiriniishootii fi metadata App Store workflow tokko keessatti hiiki. Layoutiin kee kan duraanii yeroo barreeffamni afaanota adda addaaf jijjiiramu sirna isaa eegata.",
+      "checks": [
+        "Mata-dureewwan iskiriniishootii hunda walitti qabanii hiiki",
+        "Ibsa, jechoota furtuu (keywords), fi hubannoo release-ii afaanota garaa garaatti jijjiiri",
+        "Ergaa xumuraa utuu hin baasiniin dura hiikkaalee mirkaneessi"
+      ],
+      "action": "Qajeelfama qophii Ollamaa ilaali",
+      "source": "Madda · Ingiliffaa",
+      "localeCount": "Afaanota 4",
+      "sourceLabel": "Madda",
+      "ready": "Qophaa'e",
+      "samples": [
+        "Karoora hir'isi.<br /><strong>Hojii baay'isi.</strong>",
+        "Karooruu hir'isi.<br /><strong>Guddina baay'isi.</strong>",
+        "Qophii hir'isi.<br /><strong>Uumuu baay'isi.</strong>",
+        "Rakkoo hir'isi.<br /><strong>Humna baay'isi.</strong>"
+      ],
+      "complete": "Naannofsi xumurameera",
+      "completeBody": "Kopiin fi meeta-daataan xiinxalaaf qophaa'aniiru"
+    },
+    "workflow": {
+      "overline": "Karaa gabaabaa maxxansiif",
+      "title": "Fuulleewwan uumamaa galchi. Meeshaalee store-f qophaa'an baasi.",
+      "description": "Qophii dizaayinii walxaxaa hin barbaadu. Afaan hundaaf kampyeen tokko irra deebi'ee ijaaruu hin barbaadu.",
+      "steps": [
+        {
+          "number": "STEPII 01",
+          "title": "Galchi",
+          "body": "Fuulleewwan seenaa appii keessanii hunda caalaa ibsan dabalaa."
+        },
+        {
+          "number": "STEPII 02",
+          "title": "Diizaayinii fi lokalize gochuu",
+          "body": "Yeroo tokko qofa bifa isaa ijaaraa, sana booda barreeffama keessan Ollamaan hiikaa."
+        },
+        {
+          "number": "STEPII 03",
+          "title": "Al-baasuu",
+          "body": "Fakkiiwwan fi meetaadaata qindaa'an kan galeeffachuu qophaa'an buufadhaa."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Iccitii ta'uun ijaarsa isaa keessa jira",
+      "title": "Meeshaaleen appii keessanii hundi to’annoo keessan jala jiraatu.",
+      "description": "Gulaallii screenshot meeshaa keessan irratti raawwatama. Yeroo Ollama filattan, barreeffamni gara teessoo saarvaaraa isin qindeeffattan qofa ergama.",
+      "action": "Poliisii iccitii dubbisaa"
+    },
+    "final": {
+      "overline": "Screenshot irraa kaasee hanga galeeffachutti",
+      "title": "Sadarkaa dhumaa salphaa gochuu.",
+      "description": "Screenshot hunda kan release appii kee itti aanuif barbaachisan design godhi, localize godhi, fi export godhi.",
+      "action": "App Store irraa buufadhu",
+      "appIconAlt": "Aayikooni appii Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Walitti qabsiisa Ollamaa",
+    "title": "Tutorial Setup-ii Ollamaa",
+    "subtitle": "Hiikkaa AI fi uumuu barreeffamaaf, Screenshot (App) Maker instance Ollama kee waliin wal qabsiisi.",
+    "requirementsTitle": "Wanti si barbaachisu",
+    "requirements": [
+      "Mac, Windows PC, ykn meeshaa Linux kan Ollama hojjechiisu",
+      "Ollama kan install ta'ee fi hojjechaa jiru",
+      "iPhone/iPad kee network meeshaa Ollamaa waliin wal fakkaatu irratti (kan gorsame)"
+    ],
+    "stepsTitle": "Tarkaanfii-tarkaanfiin",
+    "steps": [
+      "<strong>Ollama Install godhi</strong>: Ollama OS keetiif buufadhuu install godhadhu.",
+      "<strong>Ollama Jalqabi</strong>: <code>ollama serve</code> hojjedhisi (yookaan appii Ollama macOS irratti bani).",
+      "<strong>Model fidi</strong>: <code>ollama pull llama3.2</code> (yookaan model ati filatte) hojjedhisi.",
+      "<strong>Hojjechuun isaa mirkaneessi</strong>: <code>ollama run llama3.2</code> hojjedhisiitii prompt tokko yaali.",
+      "<strong>Teessoo saarvaaraa keetii barbaadi</strong>: LAN IP kompiutara keetii galmeessi (fkn <code>192.168.0.10</code>).",
+      "<strong>Appii keessatti fayyadami</strong>: Screenshot (App) Maker settings keessatti, Host <code>http://&lt;LAN-IP&gt;:11434</code> godhadhu."
+    ],
+    "notesTitle": "Yaadannoo fi rakkoo hiikuu",
+    "notes": [
+      "Yoo appiin wal xidhuu dhabe, bilbilli fi kompiutarri kee neetworkii Wi-Fi tokko irratti akka jiran mirkaneessi.",
+      "Port <code>11434</code> firewall keetiin hayyamameera mirkaneessi.",
+      "Yoo saarvaara fagootti argamu (PC manaa, VPS) fayyadamuu filatte, porticha karaa nageenya qabu banuu qabda (VPN gorsama)."
+    ],
+    "ctaTitle": "Afaan naannoo gochuuf qophiidhaa?",
+    "ctaBody": "Gara appii keetti deebi'i, wal xidhuu yaali, akkasumas afaan tokkoon jalqabi.",
+    "backHome": "← Gara Manaatti Deebi'i",
+    "metaTitle": "Tutorial Setup Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Poolisii Pribaasiyii",
+    "metaTitle": "Poolisii Pribaasiyii — Screenshot (App) Maker",
+    "title": "Poolisii Pribaasiyii",
+    "intro": "Poolisii Pribaasiyii kun Screenshot (App) Maker (\"Appichaa\") daataa fayyadamaa akkamitti akka itti fayyadamu ibsa.",
+    "summaryTitle": "Cuunfa",
+    "summary": [
+      "Akkauntii hin jiru. Analytics hin jiru. Hordoffii hin jiru.",
+      "Fayiloonni kee fi sirreeffamoonni kee, yoo ati server Ollama keetti qunnamuu filatte malee, meeshaa kee irratti hafu.",
+      "Yoo Ollama fayyadamte, barreeffamni gara teessuma serverii ati qopheessite qofaan ergama."
+    ],
+    "sections": [
+      {
+        "title": "Sassaabuu Odeeffannoo",
+        "body": [
+          "Appichi odeeffannoo dhuunfaa hin sassaabu, hin kuusatu, ykn gara serverii keenyaatti hin ergu.",
+          "Sikiriinshootiiwwan, templeetiiwwan, fi fakkiiwwan omishaman meeshaa kee irratti uumamuu fi kuufamu."
+        ]
+      },
+      {
+        "title": "Seenna Fayyoommaa fi Fakkiiwwanii",
+        "body": [
+          "Appiin kun sikiriinshootiiwwan galchuu (import) gochuuf, appii Fayyoommaa ykn layibiraarii fakkiiwwanii keetiif seenna gaafachuu danda'a.",
+          "Fakkiiwwan galataman meeshaa kee irratti qophaa'u malee, ofumaan upload hin ta'an."
+        ]
+      },
+      {
+        "title": "Hiikkaa AI (Ollama)",
+        "body": [
+          "Yoo uumuu barreeffamaa ykn hiikkaa AI banatte, Appiin kun barreeffama gara saarvaarii Ollama ati qopheessite (fkn, kompiutara kee) erguu danda'a.",
+          "Nuti traafikii Ollama keetii hin hojjin ykn hin fudhannu, akkasumas Appiin kun barreeffama AI'n qophaa'e hin galmeessu ykn hin kuufsu."
+        ]
+      },
+      {
+        "title": "Tajaajiloota Qaama Sadaffaa",
+        "body": [
+          "Appiin kun xiinxala qaama sadaffaa, SDK-wwan beeksisaa, ykn teeknoolojii hordoffii hin fayyadamu."
+        ]
+      },
+      {
+        "title": "Jijjiirama",
+        "body": [
+          "Nuti Polisii Seensa Dhuunfaa kana yeroo yeroon haaromsuu dandeenya. Jijjiiramni kun fuula kana irratti argama."
+        ]
+      },
+      {
+        "title": "Quunnamtii",
+        "body": [
+          "Yoo gaaffiiwwan waa'ee Polisii Koochiitii kanaa qabaattan, maaloo teessuma App Store irratti kan argamu imeliin nu quunnamaa."
+        ]
+      }
+    ],
+    "backHome": "← Gara Manaatti Deebi'i"
+  }
+}

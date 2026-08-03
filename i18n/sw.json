@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Picha za App Store, kwa Urahisi",
+    "homeDescription": "Tengeneza picha za App Store zilizonyooka na zilizokamilika kwa ajili ya kuwasilisha, na utumie Ollama kutengeneza matoleo ya lugha mbalimbali kwa urahisi.",
+    "ollamaDescription": "Unganisha Screenshot (App) Maker kwenye seva yako ya Ollama kwa ajili ya utafsiri wa picha za skrini wenye nguvu ya AI na faragha.",
+    "privacyDescription": "Jifunze jinsi Screenshot (App) Maker inavyolinda faragha ya picha zako za skrini, uhariri, na mchakato wa utafsiri.",
+    "languageName": "Kiingereza"
+  },
+  "common": {
+    "skipToContent": "Ruka kwenda kwenye maudhui",
+    "homeAriaLabel": "Nyumbani kwa Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Vipengele",
+    "localization": "Utafsiri",
+    "privacy": "Faragha",
+    "ollamaSetup": "Sanidi Ollama",
+    "ollamaSetupShort": "Usanidi wa Ollama",
+    "downloadIos": "Pakua kwa iOS",
+    "downloadIosAriaLabel": "Pakua Screenshot (App) Maker kwa iPhone na iPad kutoka App Store",
+    "primaryNavigation": "Urambazaji mkuu",
+    "footerNavigation": "Urambazaji wa footer",
+    "backHome": "Rudi nyumbani",
+    "footerTagline": "Picha za skrini za App Store, kwa urahisi.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Chagua lugha",
+    "kicker": "Lugha ya onyesho",
+    "title": "Chagua lugha",
+    "close": "Funga menyu ya lugha",
+    "hint": "Chagua lugha inayokufaa zaidi. Majina ya bidhaa na amri za kiufundi hazitabadilika."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Imeundwa kwa ajili ya hatua za mwisho kabla ya uzinduzi",
+      "titleHtml": "Badilisha skrini za programu kuwa <span>picha za skrini zilizotayarishwa kwa ajili ya kuwasilisha.</span>",
+      "description": "Sanifu kila picha ya skrini inayohitajika kwa ajili ya kuwasilisha programu yako, kisha unganisha Ollama ili kutengeneza matoleo ya lugha mbalimbali—bila kuhitaji kuzijenga upya moja baada ya nyingine kwa mkono.",
+      "primaryAction": "Tazama jinsi inavyofanya kazi",
+      "secondaryAction": "Chunguza ubadilishaji wa lugha (localization)",
+      "readyFor": "Tayari kwa",
+      "supportAriaLabel": "Aina za export zinazoungwa mkono",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Picha ya Kipengele"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Kionyo cha bidhaa ya Screenshot Maker",
+      "project": "Toleo la Kiangazi",
+      "saved": "Imehifadhiwa",
+      "appStorePreview": "Kionyo cha App Store",
+      "display": "Kioo cha 6.7″",
+      "shots": [
+        {
+          "line1": "Panga kidogo.",
+          "line2": "Fanya zaidi."
+        },
+        {
+          "line1": "Kila kitu",
+          "line2": "mahali pamoja."
+        },
+        {
+          "line1": "Imetengenezwa kwa ajili ya",
+          "line2": "siku yako."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Inatafsiri picha za skrini…",
+      "exportComplete": "KUTOA KUMEKAMILIKA",
+      "exportReady": "PNG na metadata ziko tayari"
+    },
+    "proof": [
+      {
+        "title": "Eneo moja la kazi la kuonekana",
+        "body": "Kutoka skrini ghafi hadi rasilimali zilizoboreshwa"
+      },
+      {
+        "title": "Muundo mmoja, kila lugha",
+        "body": "Tafsiri maandishi ya picha za skrini kwa kutumia Ollama"
+      },
+      {
+        "title": "Utoaji mmoja uliopangwa",
+        "body": "Funga picha na metadata pamoja"
+      }
+    ],
+    "proofAriaLabel": "Faida za bidhaa",
+    "features": {
+      "overline": "Kila kitu sehemu moja",
+      "titleHtml": "Tumia muda mchache kuandaa.<br />Zindua kwa ujasiri zaidi.",
+      "description": "Screenshot (App) Maker hubadilisha kazi zinazojirudia mwishoni mwa uzinduzi wa programu kuwa mtiririko mmoja wazi na wa kuonekana.",
+      "cards": [
+        {
+          "title": "Weka skrini za programu yako hapa.",
+          "body": "Import screenshots, ziweke katika mipangilio ya kifaa iliyoboreshwa, na upange hadithi kamili ya App Store ndani ya dakika chache.",
+          "drop": "Weka skrini hapa",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Buni mara moja.",
+          "body": "Tumia rangi, mipangilio, mipangilio ya kifaa, aina ya maandishi, na vivuli katika kila ukurasa huku ukifanya ujumbe wa kila mmoja kuwa wa kipekee."
+        },
+        {
+          "title": "Inafaa kwa kila skrini.",
+          "body": "Andaa rasilimali za iPhone, iPad, Apple Watch, Apple TV, na grafiki za sifa kutoka kwa mradi uleule."
+        },
+        {
+          "title": "Export kifurushi kilichokuwa tayari kwa kuwasilisha.",
+          "body": "Tengeneza picha za azimio la juu, panda faili zilizotafsiriwa, na fungasha metadata ya App Store iliyotafsiriwa katika archive moja safi.",
+          "folder": "Rasilimali za App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Hakiki ya utafsiri wa Ollama",
+      "pill": "Inendeshwa na seva yako ya Ollama",
+      "title": "Kampeni yako ya picha za skrini, tayari kwa kila soko.",
+      "description": "Unganisha Screenshot (App) Maker na Ollama na utafsiri vichwa vya habari vya picha za skrini na metadata ya App Store katika mtiririko mmoja wa kazi. Mpangilio wako wa asili unabaki vilevile huku maandishi yakibadilika kwa kila lugha.",
+      "checks": [
+        "Tafsiri kila kichwa cha habari cha picha za skrini kwa pamoja",
+        "Tafsiri maelezo, maneno muhimu, na vidokezo vya toleo",
+        "Kagua tafsiri kabla ya kuhamisha kwa mara ya mwisho"
+      ],
+      "action": "Angalia mwongozo wa usanidi wa Ollama",
+      "source": "Chanzo · Kiingereza",
+      "localeCount": "Lugha 4",
+      "sourceLabel": "Chanzo",
+      "ready": "Tayari",
+      "samples": [
+        "Panga kidogo.<br /><strong>Fanya zaidi.</strong>",
+        "Upangaji mdogo.<br /><strong>Maendeleo zaidi.</strong>",
+        "Usanidi mdogo.<br /><strong>Ubunifu zaidi.</strong>",
+        "Msuguano mdogo.<br /><strong>Kasi zaidi.</strong>"
+      ],
+      "complete": "Utafsiri wa kienyeji umekamilika",
+      "completeBody": "Maandishi na metadata ziko tayari kupitiwa"
+    },
+    "workflow": {
+      "overline": "Njia fupi zaidi ya kuchapisha",
+      "title": "Ingiza skrini ghafi. Toa rasilimali zilizotayarishwa kwa ajili ya stoo.",
+      "description": "Hakuna usanidi tata wa usanifu. Hakuna kujenga upya kampeni hiyo hiyo kwa kila lugha.",
+      "steps": [
+        {
+          "number": "HATUA 01",
+          "title": "Ingiza",
+          "body": "Ongeza skrini zinazoelezea vyema hadithi ya programu yako."
+        },
+        {
+          "number": "HATUA 02",
+          "title": "Sanifu na ulocalize",
+          "body": "Tengeneza mwonekano mara moja, kisha tafsiri maandishi yako kwa kutumia Ollama."
+        },
+        {
+          "number": "HATUA 03",
+          "title": "Hamisha",
+          "body": "Pakua picha zilizopangwa na metadata, zikiwa tayari kwa uwasilishaji."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Faragha kulingana na usanifu",
+      "title": "Rasilimali za programu yako zinabaki chini ya udhibiti wako.",
+      "description": "Uhariri wa skrini unafanyika kwenye kifaa chako. Unapochagua Ollama, maandishi hutumwa tu kwenye anwani ya seva uliyosanidi.",
+      "action": "Soma sera ya faragha"
+    },
+    "final": {
+      "overline": "Kutoka skrini hadi uwasilishaji",
+      "title": "Fanya hatua ya mwisho ionekane rahisi.",
+      "description": "Sanifu, localize, na export kila screenshot inayohitajika kwa toleo lako lijalo la app.",
+      "action": "Pakua kwenye App Store",
+      "appIconAlt": "Icon ya app ya Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Utangamano wa Ollama",
+    "title": "Mafunzo ya Usanidi wa Ollama",
+    "subtitle": "Unganisha Screenshot (App) Maker kwenye instance yako ya Ollama kwa tafsiri ya AI na uzalishaji wa maandishi.",
+    "requirementsTitle": "Unachohitaji",
+    "requirements": [
+      "Mashine ya Mac, Windows PC, au Linux ili kuendesha Ollama",
+      "Ollama imewekwa na inafanya kazi",
+      "iPhone/iPad yako kwenye mtandao uleule kama mashine ya Ollama (inapendekezwa)"
+    ],
+    "stepsTitle": "Hatua kwa hatua",
+    "steps": [
+      "<strong>Sakinisha Ollama</strong>: pakua na usakinishe Ollama kwa mfumo wako wa uendeshaji.",
+      "<strong>Anza Ollama</strong>: endesha <code>ollama serve</code> (au fungua programu ya Ollama kwenye macOS).",
+      "<strong>Pakua modeli</strong>: endesha <code>ollama pull llama3.2</code> (au modeli unayopendelea).",
+      "<strong>Thibitisha kuwa inafanya kazi</strong>: endesha <code>ollama run llama3.2</code> na ujaribu prompt.",
+      "<strong>Tafuta anwani ya seva yako</strong>: andika IP ya LAN ya kompyuta yako (mfano <code>192.168.0.10</code>).",
+      "<strong>Tumia kwenye programu</strong>: katika mipangilio ya Screenshot (App) Maker, weka Host kuwa <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Vidokezo na utatuzi wa matatizo",
+    "notes": [
+      "Ikiwa programu haiwezi kuunganishwa, hakikisha kuwa simu yako na kompyuta yako zipo kwenye mtandao mmoja wa Wi-Fi.",
+      "Hakikisha kuwa port <code>11434</code> inaruhusiwa na firewall yako.",
+      "Ikiwa unapendelea kutumia seva ya mbali (PC ya nyumbani, VPS), lazima ufunue port hiyo kwa usalama (VPN inapendekezwa)."
+    ],
+    "ctaTitle": "Uko tayari kufanya localization?",
+    "ctaBody": "Rudi kwenye programu, jaribu muunganisho, na uanze na locale moja.",
+    "backHome": "← Rudi Nyumbani",
+    "metaTitle": "Mafunzo ya Usanidi wa Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Sera ya faragha",
+    "metaTitle": "Sera ya Faragha — Screenshot (App) Maker",
+    "title": "Sera ya Faragha",
+    "intro": "Sera hii ya Faragha inaelezea jinsi Screenshot (App) Maker (\"Programu\") inavyoshughulikia data za mtumiaji.",
+    "summaryTitle": "Muhtasari",
+    "summary": [
+      "Hakuna akaunti. Hakuna uchambuzi. Hakuna ufuatiliaji.",
+      "Faili na uhariri wako hubaki kwenye kifaa chako isipokuwa ukichagua kuunganisha na seva yako ya Ollama.",
+      "Ikiwa unatumia Ollama, maandishi hutumwa tu kwenye anwani ya seva uliyosanidi."
+    ],
+    "sections": [
+      {
+        "title": "Ukusanyaji wa Taarifa",
+        "body": [
+          "Programu haikusanyi, haihifadhi, wala hairutisha taarifa binafsi kwenye seva zetu.",
+          "Picha za skrini, templet, na picha zilizohamishwa huundwa na kuhifadhiwa ndani ya kifaa chako."
+        ]
+      },
+      {
+        "title": "Ufikiaji wa Faili na Picha",
+        "body": [
+          "Programu inaweza kuomba ufikiaji wa programu ya Faili au maktaba yako ya picha ili kuingiza picha za skrini.",
+          "Picha zilizoingizwa huchakatwa kwenye kifaa na hazipakwiwa kiotomatiki."
+        ]
+      },
+      {
+        "title": "Tafsiri ya AI (Ollama)",
+        "body": [
+          "Ikiwa utawasha uzalishaji wa maandishi ya AI au tafsiri, Programu inaweza kutuma maandishi kwenye seva ya Ollama unayoiweka (kwa mfano, kompyuta yako mwenyewe).",
+          "Hatutendeshi wala kupokea trafiki yako ya Ollama, na Programu hairekodi wala kuhifadhi maandishi yaliyochakatwa na AI."
+        ]
+      },
+      {
+        "title": "Huduma za Upande wa Tatu",
+        "body": [
+          "Programu haitumii uchambuzi wa upande wa tatu, SDK za matangazo, au teknolojia za ufuatiliaji."
+        ]
+      },
+      {
+        "title": "Mabadiliko",
+        "body": [
+          "Tunaweza kusasisha Sera hii ya Faragha mara kwa mara. Mabadiliko yataonekana kwenye ukurasa huu."
+        ]
+      },
+      {
+        "title": "Mawasiliano",
+        "body": [
+          "Ikiwa una maswali kuhusu Sera hii ya Faragha, tafadhali wasiliana nasi kupitia anwani ya barua pepe iliyotolewa kwenye orodha ya App Store."
+        ]
+      }
+    ],
+    "backHome": "← Rudi Nyumbani"
+  }
+}

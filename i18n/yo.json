@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Àwòrán Screenshot fún App Store, Rírọ̀run Látí Ṣe",
+    "homeDescription": "Ṣẹ̀dá àwòrán Screenshot fún App Store tí ó dáa mọ́, tí a ti ṣetán fún ìfiwéra, kí o sì lo Ollama láti ṣe àwòrán tí a ti yí padà sí èdè rẹ̀ ní ọ̀nà rírọ̀run.",
+    "ollamaDescription": "So Mọ́ Screenshot (App) Maker sí òṣèrẹ̀ Ollama rẹ fún ìyípadà èdè àwòrán Screenshot tí ó dá lórí AI pẹ̀lú ìpamọ́ ìjìnlẹ̀.",
+    "privacyDescription": "Kọ̀ bí Screenshot (App) Maker ṣe ń pa àwòrán Screenshot rẹ, ìyípadà, àti iṣẹ́ ìyípadà èdè rẹ mọ́ ní ìpamọ́ ìjìnlẹ̀.",
+    "languageName": "Èdè Gẹ̀ẹ́sì"
+  },
+  "common": {
+    "skipToContent": "Kọjá sí àkópọ̀",
+    "homeAriaLabel": "Ilé Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Àwọn Ohun Ìṣe",
+    "localization": "Ìyípadà Èdè",
+    "privacy": "Ìpamọ́ Ìjìnlẹ̀",
+    "ollamaSetup": "Ṣètò Ollama",
+    "ollamaSetupShort": "Ìṣètò Ollama",
+    "downloadIos": "Gba fun iOS",
+    "downloadIosAriaLabel": "Gba Screenshot (App) Maker fun iPhone ati iPad lati App Store",
+    "primaryNavigation": "Ìtọsọna akọkọ",
+    "footerNavigation": "Ìtọsọna fútà",
+    "backHome": "Padà sí ile",
+    "footerTagline": "Àwòrán sáríntàn App Store, ṣe é rọrùn.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Yan èdè",
+    "kicker": "Èdè àfihàn",
+    "title": "Yan èdè kan",
+    "close": "Pa àtòjọ èdè mọ́",
+    "hint": "Yan èdè tí ó rọrùn fún ẹni tó ń yan jùlọ. Orúkà àwọn ọjà àti ìtọ́nà tékníkì kò yí padà."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "A ṣe é fún ìgbésẹ̀ ikẹyìn ṣáájú kí ó tó wà láàyè.",
+      "titleHtml": "Yí àwọn iboju sáréẹ̀pù di <span>àwòrán tí ó ti ṣetán fún ìfi sílẹ̀.</span>",
+      "description": "Ṣàpèjúwe gbogbo àwòrán tí ìfi sáréẹ̀pù rẹ nílò, lẹ́yìn náà so Ollama mọ́ láti dá àwọn ẹ̀dà tí a ti yí padà sí èdè ibilẹ̀ sílẹ̀—láìsí ìlò ọwọ́ láti tún ọ̀kan kọ̀ọ̀kan ṣe.",
+      "primaryAction": "Wo bí ó ṣe ń ṣiṣẹ́",
+      "secondaryAction": "Wádìí ìyípadà sí èdè ibilẹ̀",
+      "readyFor": "Ti ṣetán fún",
+      "supportAriaLabel": "Àwọn irúfẹ́ ìyọkúrò tí a ṣe àtìlẹ́yìn fún",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Àwòrán Pàtàkì"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Àyẹ̀wò ọjà Screenshot Maker",
+      "project": "Ìṣàfihàn Irẹ́sì",
+      "saved": "Tí a ti tọ́jú",
+      "appStorePreview": "Àyẹ̀wò Apple App Store",
+      "display": "6.7″ Fífi hàn",
+      "shots": [
+        {
+          "line1": "Kọ́ ìlànà díẹ̀ sí i.",
+          "line2": "Ṣe púpọ̀ sí i."
+        },
+        {
+          "line1": "Gbogbo nǹkan",
+          "line2": "ní ibi kan."
+        },
+        {
+          "line1": "Tí a ṣe fún",
+          "line2": "ọjọ́ rẹ."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "N ṣàtúnṣe sárínṣútì…",
+      "exportComplete": "ÌFÌLÉWÈ TI PARÍ",
+      "exportReady": "Àwòrán PNG + metadata ti ṣetán"
+    },
+    "proof": [
+      {
+        "title": "Agbègbè iṣẹ́ oníwoju kan",
+        "body": "Láti sárínṣútì òde dé ohun èlò tí a ti ṣàtúnṣe"
+      },
+      {
+        "title": "Ìyàwòrán kan, fún gbogbo ibi",
+        "body": "Tùká àkọsílẹ̀ sárínṣútì pẹ̀lú Ollama"
+      },
+      {
+        "title": "Ìfíléwè tí a ti ṣètò kan",
+        "body": "Kó àwòrán àti metadata pọ̀ sí iṣan"
+      }
+    ],
+    "proofAriaLabel": "Àwọn anfàní ohun èlò",
+    "features": {
+      "overline": "Gbogbo nǹkan ní ibi kan",
+      "cards": [
+        "",
+        "",
+        "",
+        {
+          "folder": "Àwọn Ohun Èlò App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ìwòrán ìbẹ̀rẹ̀ ìbámu Ollama",
+      "pill": "A n lo agbara olutọ́jú Ollama rẹ",
+      "title": "Ìgbésẹ̀ ìwòrán rẹ, ti ṣetan láti kàn sí gbogbo ọjà.",
+      "description": "So Screenshot Maker mọ́ Ollama kí o sì túmọ̀ àwọn oríṣi ìwòrán àti metadata App Store nínú ilana iṣẹ́ kan náà. Ìṣètò rẹ tí ó wà níbẹ̀ yóò dúró báyìí, nígbà tí ìkọ̀wé bá yípadà fún ọ̀kọ̀ọ̀kan ibi.",
+      "checks": [
+        "Túmọ̀ gbogbo oríṣi ìwòrán ní ẹgbẹ́ kan",
+        "Ṣe ìbámu àlàyé, àwọn ọ̀rọ̀-àpèjúwe, àti àkọsílẹ̀ ìfihàn",
+        "Ṣe àyẹ̀wò àwọn ìtumọ̀ ṣáájú kí o tó gbé jáde ní ipari"
+      ],
+      "action": "Wo ìtọ́ni ìṣètò Ollama",
+      "source": "Orísun · Gẹ̀ẹ́sì",
+      "localeCount": "4 ibi",
+      "sourceLabel": "Orísun"
+    },
+    "workflow": {
+      "steps": [
+        {
+          "body": "Fi awọn iboju ti o ṣe alaye itan ohun elo rẹ daradara jọ."
+        },
+        {
+          "number": "IPELE 02",
+          "title": "Apẹrẹ & Ìyípadà Èdè",
+          "body": "Ṣe apẹrẹ kan ṣoṣi, lẹhinna yi alaye rẹ pada pẹlu Ollama."
+        },
+        {
+          "number": "IPELE 03",
+          "title": "Jade",
+          "body": "Gba aworan ati metadata ti a ṣeto silẹ, ti o ti ṣetan fun fifiranṣẹ."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Ipari Nipasẹ Apẹrẹ",
+      "title": "Awọn ohun-ini ohun elo rẹ wa labẹ itọsọna rẹ.",
+      "description": "Iyipada fọwọsi waye lori ẹrọ rẹ. Nigba ti o yan Ollama, ọrọ a firanṣẹ si adirẹsi server ti o ṣeto nikan.",
+      "action": "Ka ofin aabo data"
+    },
+    "final": {
+      "overline": "Lati fọwọsi si fifiranṣẹ",
+      "title": "Jẹ ki igbesẹ ikẹhin rọrun.",
+      "description": "Ṣe apẹrẹ, ṣe àtúnṣe èdè, kí o sì tú jáde gbogbo sísán mànìyàn tí ìfihan ohun elo rẹ tó wá nílò.",
+      "action": "Gba lori Apple App Store",
+      "appIconAlt": "Àwòrán ìfihàn ohun èlò Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Ìṣepọ pẹlu Ollama",
+    "title": "Ìtọsọna Ìtò Ollama",
+    "subtitle": "So Screenshot (App) Maker mọ ẹ̀rọ Ollama tirẹ fun itumọ AI ati ikole ọrọ.",
+    "requirementsTitle": "Ohun ti o nilo",
+    "requirements": [
+      "Ẹrọ Mac, kọmputa Windows, tabi Linux lati ṣiṣẹ Ollama",
+      "Ollama ti fi sori ẹrọ ati pe o n ṣiṣẹ",
+      "iPhone/iPad rẹ lori nẹtiwọki kanna pẹlu ẹrọ Ollama (a gba pe)"
+    ],
+    "stepsTitle": "Lati igbesẹ si igbesẹ",
+    "backHome": "← Padà sí Ilé",
+    "metaTitle": "Itọsọna Ìtò Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Ìlànà Ìparí Iwé-ìwé",
+    "metaTitle": "Ìlànà Ìparí Iwé-ìwé — Screenshot (App) Maker",
+    "title": "Ìlànà Ìparí Iwé-ìwé",
+    "intro": "Ìlànà Ìparí Iwé-ìwé yìí ṣàpèjúwe bí Screenshot (App) Maker (\"ẹ̀rọ náà\") ṣe ń tọ́jú data olùṣòwó.",
+    "summaryTitle": "Àkópọ̀",
+    "summary": [
+      "Kò sí àkọ́lé. Kò sí ìwádìí. Kò sí ìtọ́jú.",
+      "Fájì àti ìyípadà rẹ̀ máa ń wà lórí ẹ̀rọ rẹ̀, ayafi tí o bá yan láti sopọ̀ mọ́ olùṣakoso Ollama tirẹ̀.",
+      "Tí o bá lo Ollama, àwọn ọ̀rọ̀ máa ń ránṣẹ́ sí ìdámọ̀ olùṣakoso tí o ṣètò nìkan."
+    ],
+    "sections": [
+      {
+        "title": "Gbigba Alàyè",
+        "body": [
+          "Ẹ̀rọ náà kò gba, kò sì mọ́, tàbí kò sì rán àwọn alàyè ara ẹni sí àwọn olùṣakoso wa.",
+          "Awọn fọto-scrin, awoṣe, ati aworan ti a mu jade ni a ṣẹda ati tọju ni agbegbe lori ẹrọ rẹ."
+        ]
+      },
+      {
+        "title": "Wiwọle si Awọn Faili ati Aworan",
+        "body": [
+          "Ohun elo naa le beere wiwọle si ohun elo Awọn Faili tabi ile-ikawe aworan rẹ lati gba awọn fọto-scrin wọle.",
+          "Aworan ti a mu wọle ni a ṣiṣẹ lori ẹrọ ati pe ko ni gbe silẹ laifọwọyi."
+        ]
+      },
+      {
+        "title": "Itumọ AI (Ollama)",
+        "body": [
+          "Ti o ba mu iṣẹlẹ ọrọ AI tabi itumọ ṣiṣẹ, Ohun elo naa le fi ọrọ ranṣẹ si Ollama server ti o ṣeto (fun apẹẹrẹ, kọnputa tirẹ).",
+          "A ko ṣakoso tabi gba iṣan Ollama rẹ, ati pe Ohun elo naa ko kọ silẹ tabi tọju ọrọ ti AI ṣe itọsọna."
+        ]
+      },
+      {
+        "title": "Awọn Iṣẹ Ẹgbẹ Kẹta",
+        "body": [
+          "Ohun elo naa ko lo itupalẹ ẹgbẹ kẹta, awọn SDK iṣowo-ọrọ, tabi awọn ẹrọ tita."
+        ]
+      },
+      {
+        "title": "Awọn Ayipada",
+        "body": [
+          "A le ṣe atunṣe Ilana Ipari Pataki yii lati igba si igba. Awọn ayipada yoo han lori oju-iwe yii."
+        ]
+      },
+      {
+        "title": "Kan Si Wa",
+        "body": [
+          "Ti o ba ni ibeere nipa Ofin Ipari Pataki yii, jọwọ kan wa nipasẹ adirẹsi imeeli ti a fun lori akọsilẹ Apple App Store."
+        ]
+      }
+    ],
+    "backHome": "← Padà sí Ilé"
+  }
+}

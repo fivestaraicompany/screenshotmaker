@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Make App Store screenshots easy",
+    "homeDescription": "Make fine App Store screenshots wey ready for submission, and use Ollama take generate local versions with ease.",
+    "ollamaDescription": "Connect Screenshot (App) Maker to your Ollama server for private AI-powered screenshot localization.",
+    "privacyDescription": "Learn how Screenshot (App) Maker dey keep your screenshots, edits, and localization workflow private.",
+    "languageName": "English"
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "homeAriaLabel": "Screenshot App Maker home",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Features",
+    "localization": "Localization",
+    "privacy": "Privacy",
+    "ollamaSetup": "Set up Ollama",
+    "ollamaSetupShort": "Ollama Setup",
+    "downloadIos": "Download for iOS",
+    "downloadIosAriaLabel": "Download Screenshot (App) Maker for iPhone and iPad from App Store",
+    "primaryNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "backHome": "Go back home",
+    "footerTagline": "App Store screenshots, e don easy.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Pick language",
+    "kicker": "Display language",
+    "title": "Pick one language",
+    "close": "Close language menu",
+    "hint": "Pick the language wey easy pass for you. Product names and technical commands no go change."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "E build for the final stage before launch",
+      "titleHtml": "Change app screens to <span>screenshots wey ready for submission.</span>",
+      "description": "Design all the screenshots wey your app submission need, then connect Ollama to make different language versions—you no need build each one by hand again.",
+      "primaryAction": "See how e dey work",
+      "secondaryAction": "Explore localization",
+      "readyFor": "Ready for",
+      "supportAriaLabel": "Export types wey e support",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Feature Graphic"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker product preview",
+      "project": "Summer release",
+      "saved": "Don save",
+      "appStorePreview": "App Store preview",
+      "display": "6.7″ Display",
+      "shots": [
+        {
+          "line1": "No plan too much.",
+          "line2": "Do more."
+        },
+        {
+          "line1": "All of am",
+          "line2": "for one place."
+        },
+        {
+          "line1": "Dem make am for",
+          "line2": "your day."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Dey localize screenshots…",
+      "exportComplete": "Export don finish",
+      "exportReady": "PNGs and metadata don ready"
+    },
+    "proof": [
+      {
+        "title": "One visual workspace",
+        "body": "From raw screens to fine assets"
+      },
+      {
+        "title": "One design, for every area",
+        "body": "Use Ollama translate screenshot copy"
+      },
+      {
+        "title": "One organized export",
+        "body": "Package images and metadata together"
+      }
+    ],
+    "proofAriaLabel": "Product benefits",
+    "features": {
+      "overline": "Everything dey one place",
+      "titleHtml": "No waste too much time dey prepare.<br />Release with more confidence.",
+      "description": "Screenshot (App) Maker dey turn the repetitive work for the end of app release into one clear, visual workflow.",
+      "cards": [
+        {
+          "title": "Drop your app screens.",
+          "body": "Import screenshots, put dem inside fine device layouts, and arrange a complete App Store story in few minutes.",
+          "drop": "Drop screenshots here",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Design once.",
+          "body": "Apply colors, layouts, device settings, font, and shadows for every page while keeping each message unique."
+        },
+        {
+          "title": "Fit every screen.",
+          "body": "Prepare assets for iPhone, iPad, Apple Watch, Apple TV, and feature graphics from the same project."
+        },
+        {
+          "title": "Export package wey don ready for submission.",
+          "body": "Render high-resolution images, arrange localized files, and pack your translated App Store metadata into one clean archive.",
+          "folder": "App Store Assets"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ollama localization preview",
+      "pill": "Your Ollama server dey power am",
+      "title": "Your screenshot campaign, e don ready for any market.",
+      "description": "Connect Screenshot (App) Maker to Ollama make you fit translate screenshot headlines and App Store metadata for one go. Your original layout no go change, only the words go change for every locale.",
+      "checks": [
+        "Translate all screenshot headlines once",
+        "Localize descriptions, keywords, and release notes",
+        "Check the translations before you export am finally"
+      ],
+      "action": "See the Ollama setup guide",
+      "source": "Source · English",
+      "localeCount": "4 locales",
+      "sourceLabel": "Source",
+      "ready": "Don ready",
+      "samples": [
+        "No plan too much.<br /><strong>Do more.</strong>",
+        "Plan small.<br /><strong>Progress more.</strong>",
+        "Setup small.<br /><strong>Create more.</strong>",
+        "No too much wahala.<br /><strong>Get more ginger.</strong>"
+      ],
+      "complete": "Localization don finish",
+      "completeBody": "Copy and metadata don ready make you check am"
+    },
+    "workflow": {
+      "overline": "Fast way to publish",
+      "title": "Put raw screens in. Get store-ready assets out.",
+      "description": "No need for complex design setup. You no need build the same campaign again for every language.",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "Import",
+          "body": "Put those screens wey go explain your app story pass."
+        },
+        {
+          "number": "STEP 02",
+          "title": "Design and localize",
+          "body": "Build the look once, then use Ollama translate your copy."
+        },
+        {
+          "number": "STEP 03",
+          "title": "Export",
+          "body": "Download images and metadata wey don arrange, ready for submission."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Private by design",
+      "title": "You get full control over your app assets.",
+      "description": "Screenshot editing dey happen for your own device. If you choose Ollama, text go only go to the server address wey you set.",
+      "action": "Read the privacy policy"
+    },
+    "final": {
+      "overline": "From screenshots reach submission",
+      "title": "Make the last step easy.",
+      "description": "Design, translate, and export all screenshots wey you need for your next app release.",
+      "action": "Download am for App Store",
+      "appIconAlt": "Screenshot App Maker app icon"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama integration",
+    "title": "Ollama Setup Tutorial",
+    "subtitle": "Connect Screenshot (App) Maker to your own Ollama instance so you fit use AI translate and generate text.",
+    "requirementsTitle": "Wetin you need",
+    "requirements": [
+      "Mac, Windows PC, or Linux machine wey fit run Ollama",
+      "Ollama don install and e dey run",
+      "Your iPhone/iPad for the same network as the Ollama machine (we recommend this)"
+    ],
+    "stepsTitle": "Step-by-step",
+    "steps": [
+      "<strong>Install Ollama</strong>: download and install Ollama for your OS.",
+      "<strong>Start Ollama</strong>: run <code>ollama serve</code> (or open the Ollama app on macOS).",
+      "<strong>Pull a model</strong>: run <code>ollama pull llama3.2</code> (or any other model wey you prefer).",
+      "<strong>Confirm say e dey work</strong>: run <code>ollama run llama3.2</code> and test a prompt.",
+      "<strong>Find your server address</strong>: note your computer's LAN IP (e.g. <code>192.168.0.10</code>).",
+      "<strong>Use am for the app</strong>: inside Screenshot (App) Maker settings, set Host to <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Notes & troubleshooting",
+    "notes": [
+      "If the app no fit connect, check say your phone and computer dey on the same Wi‑Fi network.",
+      "Make sure say your firewall allow port <code>11434</code>.",
+      "If you prefer to use remote server (home PC, VPS), you must expose the port securely (VPN recommended)."
+    ],
+    "ctaTitle": "You ready to localize?",
+    "ctaBody": "Go back to the app, test the connection, and start with one locale.",
+    "backHome": "← Go back home",
+    "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Privacy policy",
+    "metaTitle": "Privacy Policy — Screenshot (App) Maker",
+    "title": "Privacy Policy",
+    "intro": "Dis Privacy Policy dey explain how Screenshot (App) Maker (\"the App\") dey handle user data.",
+    "summaryTitle": "Summary",
+    "summary": [
+      "No accounts. No analytics. No tracking.",
+      "Your files and the things wey you edit go remain for your device, unless you decide say make you connect to your own Ollama server.",
+      "If you use Ollama, text go only go to the server address wey you set."
+    ],
+    "sections": [
+      {
+        "title": "Information Collection",
+        "body": [
+          "The App no dey collect, save, or send any personal information go our servers.",
+          "Screenshots, templates, and images wey you export, dem dey create and save am for your own device."
+        ]
+      },
+      {
+        "title": "Access to Files and Photos",
+        "body": [
+          "The App fit ask for permission to enter your Files app or your photo library so e go fit bring in screenshots.",
+          "Images wey you import, na for the device dem dey process am; dem no dey upload am automatically."
+        ]
+      },
+      {
+        "title": "AI Translation (Ollama)",
+        "body": [
+          "If you turn on AI text generation or translation, the App fit send text go one Ollama server wey you set up (for example, your own computer).",
+          "We no dey run or collect your Ollama traffic, and the App no dey record or keep the text wey AI process."
+        ]
+      },
+      {
+        "title": "Third-Party Services",
+        "body": [
+          "The App no dey use third-party analytics, advertising SDKs, or any technology wey dey track person."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We fit change this Privacy Policy from time to time. Any changes go show for this page."
+        ]
+      },
+      {
+        "title": "Contact",
+        "body": [
+          "If you get any question about this Privacy Policy, abeg contact us through the email address wey dey for the App Store listing."
+        ]
+      }
+    ],
+    "backHome": "← Go back home"
+  }
+}

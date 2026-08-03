@@ -7,7 +7,14 @@
     "footerNavigation": "Navigācija kājenē",
     "backHome": "Atpakaļ uz sākumu",
     "footerTagline": "App Store ekrānuzņēmumi, kļuvuši vienkārši.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "skipToContent": "Pāriet uz saturu",
+    "homeAriaLabel": "Screenshot App Maker sākumlapa",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Funkcijas",
+    "localization": "Lokalizācija",
+    "privacy": "Privātums",
+    "ollamaSetup": "Iestati Ollama"
   },
   "language": {
     "buttonLabel": "Izvēlieties valodu",
@@ -242,5 +249,12 @@
       }
     ],
     "backHome": "← Atpakaļ uz sākumu"
+  },
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store ekrānuzņēmumi, izveidoti vienkārši",
+    "homeDescription": "Izveido rūpīgi sagatavotus, iesniegšanai gatavus App Store ekrānuzņēmumus un izmanto Ollama, lai viegli ģenerētu lokalizētas versijas.",
+    "ollamaDescription": "Savieno Screenshot (App) Maker ar savu Ollama serveri privātai, ar AI darbinātai ekrānuzņēmumu lokalizācijai.",
+    "privacyDescription": "Uzzini, kā Screenshot (App) Maker nodrošina tavu ekrānuzņēmumu, labojumu un lokalizācijas darba plūsmas privātumu.",
+    "languageName": "Angļu"
   }
 }

@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Sawirada App Store-ka, oo si fudud loo sameeyo",
+    "homeDescription": "Sameyso sawirada App Store-ka oo tayo leh, kuna diyaari gudbinta, isticmaalna Ollama si aad si fudud ugu soo saarto noocyada afafka kale lagu turjumay.",
+    "ollamaDescription": "Ku xir Screenshot (App) Maker server-kaaga Ollama si aad u hesho turjumaada sawirada oo AI ku shaqaynaysa laguna ilaalinayo sirta.",
+    "privacyDescription": "Baro sida Screenshot (App) Maker u ilaalinayo sirta sawiradaada, wax-ka-beddelkaaga, iyo hannaanka turjumaada.",
+    "languageName": "Ingiriis"
+  },
+  "common": {
+    "skipToContent": "U gudub nuxurka",
+    "homeAriaLabel": "Bogga hore ee Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Astaamaha",
+    "localization": "Turjumaada",
+    "privacy": "Sirta",
+    "ollamaSetup": "Deji Ollama",
+    "ollamaSetupShort": "Habaynta Ollama",
+    "downloadIos": "Ku soo degso iOS",
+    "downloadIosAriaLabel": "Ka soo degso Screenshot (App) Maker-ka iPhone iyo iPad-ka ee App Store",
+    "primaryNavigation": "Hagaha koobaad",
+    "footerNavigation": "Hagaha hoose",
+    "backHome": "Ku noqo bogga hore",
+    "footerTagline": "Sawirrada App Store-ka, si fudud loo sameeyay.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Dooro luqadda",
+    "kicker": "Luqadda lagu soo bandhigayo",
+    "title": "Dooro luqad",
+    "close": "Xir menu-ka luqadda",
+    "hint": "Dooro luqadda kuugu habboon. Magacyada alaabta iyo awaamiirta farsamada ma isbeddelayaan."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Waxaa loo dhisay wejiga ugu dambeeya ka hor daah-furka",
+      "titleHtml": "U beddel shaashadaha app-ka <span>sawirrada (screenshots) diyaarka u ah gudbinta.</span>",
+      "description": "Naqshadeey sawir kasta oo uu u baahan yahay gudbinta app-kaaga, ka dibna ku xir Ollama si aad u abuurto noocyo luqado kala duwan leh—adiga oo aan mid walba gacanta ku dib u samayn.",
+      "primaryAction": "Fiiri sida ay u shaqayso",
+      "secondaryAction": "Sahmi waafajinta luqadaha",
+      "readyFor": "Diyaar u ah",
+      "supportAriaLabel": "Noocyada dhoofinta ee la taageero",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Graafigga Astaanta"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Hordhaca alaabta Screenshot Maker",
+      "project": "Soo saarista Xagaaga",
+      "saved": "La kaydiyay",
+      "appStorePreview": "Hordhaca App Store",
+      "display": "Shaashadda 6.7″",
+      "shots": [
+        {
+          "line1": "Yaree qorshaynta.",
+          "line2": "Samee wax badan."
+        },
+        {
+          "line1": "Wax kasta",
+          "line2": "meel qura."
+        },
+        {
+          "line1": "Loogu talagalay",
+          "line2": "maalintaada."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "La qabsashada sawirrada shaashadda…",
+      "exportComplete": "SOO SAARISTU WAA DHAMMAADAY",
+      "exportReady": "PNG-yada + metadata-du waa diyaar"
+    },
+    "proof": [
+      {
+        "title": "Hal goob oo shaqo oo muuqaal ah",
+        "body": "Laga bilaabo shaashadaha cayriin ilaa agabka lagu sifeeyay"
+      },
+      {
+        "title": "Hal naqshad, luuqad kasta",
+        "body": "Ku turjum qoraalka sawirrada shaashadda adigoo isticmaalaya Ollama"
+      },
+      {
+        "title": "Hal soo saarid oo habaysan",
+        "body": "Isku xir sawirrada iyo metadata-da"
+      }
+    ],
+    "proofAriaLabel": "Faa'iidooyinka alaabta",
+    "features": {
+      "overline": "Wax kasta hal meel",
+      "titleHtml": "Waqtiga diyaarinta yaree.<br />Si kalsooni leh u soo saar.",
+      "description": "Screenshot (App) Maker waxay shaqada soo noqnoqota ee dhamaadka soo saarista app-ka u beddeshaa hab shaqo oo muuqaal ah oo cad.",
+      "cards": [
+        {
+          "title": "Ku soo tuur shaashadaha app-kaaga.",
+          "body": "Soo geli screenshots-ka, ku qabo qaababka qalabka ee hagaagsan, oo dhowr daqiiqo gudahood ku habeey sheeko dhammaystiran oo Apple App Store ah.",
+          "drop": "Halkan ku soo tuur screenshots-ka",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Hal mar naqshadeey.",
+          "body": "Ku dabaq midabada, qaababka, habaynta qalabka, nooca farta, iyo hooska bog kasta, adigoo ilaalinaya in farriin kasta ay tahay mid gaar ah."
+        },
+        {
+          "title": "Ku habee shaashad kasta.",
+          "body": "Diyaari agabka iPhone, iPad, Apple Watch, Apple TV, iyo garaafyada muhiimka ah adigoo isticmaalaya mashruuc isku mid ah."
+        },
+        {
+          "title": "Soo saar xirmo diyaar u ah gudbinta.",
+          "body": "Sameey sawirro tayo sare leh, nidaami faylalka maxalliga ah, oo isku xir xogta Apple App Store ee turjuman hal kayd oo nadiif ah.",
+          "folder": "Hantida App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Hordhaca localization-ka Ollama",
+      "pill": "Waxaa ay kaxayso server-kaaga Ollama",
+      "title": "Ololahaaga sawirrada shaashadda, oo diyaar u ah suuq kasta.",
+      "description": "Ku xir Screenshot (App) Maker Ollama, oo turjum cinwaannada sawirrada shaashadda iyo metadata-ka App Store ee isla habka shaqada. Qaabkaaga asalka ah wuxuu ahaanayaa sidii uu ahaa halka qoraalku uu isbeddelayo luqad kasta.",
+      "checks": [
+        "Turjum dhammaan cinwaannada sawirrada shaashadda si koox ah",
+        "Ku turjum luqadaha maxalliga ah sharraxaadaha, ereyada muhiimka ah, iyo qoraallada soo saarista",
+        "Dib u eeg turjumaadaha ka hor dhoofinta ugu dambaysa"
+      ],
+      "action": "Fiiri hagaha rakibaadda Ollama",
+      "source": "Isha · Ingiriis",
+      "localeCount": "4 luqadood",
+      "sourceLabel": "Isha",
+      "ready": "Diyaar",
+      "samples": [
+        "Yaree qorshaynta.<br /><strong>Kordhi ficilka.</strong>",
+        "Qorshayn yar.<br /><strong>Horumar badan.</strong>",
+        "Habayn yar.<br /><strong>Abuuris badan.</strong>",
+        "Caqabad yar.<br /><strong>Xoog badan.</strong>"
+      ],
+      "complete": "Maxallayntu way dhammaatay",
+      "completeBody": "Nuqulka iyo metadata-du waxay diyaar u yihiin dib-u-eegis"
+    },
+    "workflow": {
+      "overline": "Waddo gaaban oo lagu baahiyo",
+      "title": "Geli shaashadaha cayriin. Soo saar hantida diyaarka u ah Store-ka.",
+      "description": "Ma jirto habayn naqshad oo adag. Ma jirto baahi lagu dib-u-sameeyo ololaha isku midka ah luqad kasta.",
+      "steps": [
+        {
+          "number": "TALLABADA 01",
+          "title": "Soo geli",
+          "body": "Ku dar shaashadaha sida ugu wanaagsan u sheegaya sheekada app-kaaga."
+        },
+        {
+          "number": "TALLABADA 02",
+          "title": "Naqshadayn & turjumid",
+          "body": "Halkii mar dhis muuqaalka, ka dibna qoraalkaaga ku turjun Ollama."
+        },
+        {
+          "number": "TALLABADA 03",
+          "title": "Dhoofi",
+          "body": "Soo deji sawirrada iyo metadata-da habaysan, kuwaas oo diyaar u ah gudbinta."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Gaarayn xagga naqshadda",
+      "title": "Hantida app-kaaga waxay ku nagaanaynaa gacantaada.",
+      "description": "Habaynta screenshot-yada waxay ka dhacaysaa qalabkaaga. Markaad doorato Ollama, qoraalka waxaa loo diraa oo kaliya cinwaanka server-ka aad habaysay.",
+      "action": "Akhri siyaasadda xogta gaarka ah"
+    },
+    "final": {
+      "overline": "Laga bilaabo screenshot-yada ilaa gudbinta",
+      "title": "Ka dhig tallaabada ugu dambaysa mid fudud.",
+      "description": "Naqshadeey, u turjum luuqadaha, oo dhoofiyo sawir kasta (screenshot) ee ay u baahan tahay soo saarista app-kaaga xigta.",
+      "action": "Ka soo degso Apple App Store",
+      "appIconAlt": "Astaanta app-ka Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Isku-xirka Ollama",
+    "title": "Hagaha Habaynta Ollama",
+    "subtitle": "Ku xir Screenshot (App) Maker nuqulkaaga Ollama si aad u hesho turjumaada AI iyo soo saarista qoraalka.",
+    "requirementsTitle": "Waxa aad u baahan tahay",
+    "requirements": [
+      "Kumbuyuutar Mac, Windows PC, ama Linux si loo kiciyo Ollama",
+      "Ollama oo rakiban oo shaqaynaya",
+      "iPhone-kaaga/iPad-kaaga oo ku jira shabakadda isku midka ah ee qalabka Ollama (lagu taliyo)"
+    ],
+    "stepsTitle": "Tallaabo-tallaabo",
+    "steps": [
+      "<strong>Ku rakib Ollama</strong>: soo dejiso oo ku rakib Ollama OS-kaaga.",
+      "<strong>Bilow Ollama</strong>: socodsii <code>ollama serve</code> (ama fura app-ka Ollama ee macOS).",
+      "<strong>Soo jiid moodal</strong>: socodsii <code>ollama pull llama3.2</code> (ama moodalka aad doorbidayso).",
+      "<strong>Xaqiiji inuu shaqaynayo</strong>: socodsii <code>ollama run llama3.2</code> oo tijaabi prompt.",
+      "<strong>Raadi cinwaanka server-kaaga</strong>: qoro LAN IP-ga kombiyuutarkaaga (tusaale ahaan <code>192.168.0.10</code>).",
+      "<strong>Ku isticmaal app-ka</strong>: qaybta settings-ka ee Screenshot (App) Maker, u dejiso Host-ka <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Xusuusyada iyo xallinta dhibaatooyinka",
+    "notes": [
+      "Haddii app-ku waayo xiriirka, hubi in taleefankaaga iyo kombiyuutarkaagu ay ku jiraan isku shabakadda Wi‑Fi.",
+      "Hubi in port-ka <code>11434</code> loo oggolaaday firewall-kaaga.",
+      "Haddii aad doorbidayso inaad isticmaasho server fog (PC-ga guriga, VPS), waa inaad port-ka u furtaa si ammaan ah (waxaa lagula talinayaa VPN)."
+    ],
+    "ctaTitle": "Ma diyaar u tahay localization-ka?",
+    "ctaBody": "Ku noqo app-ka, tijaabi xiriirka, oo ku bilow hal luqad (locale).",
+    "backHome": "← Ku noqo Hoyga",
+    "metaTitle": "Casharka Rakibaadda Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Siyaasadda Qarsoodiga",
+    "metaTitle": "Siyaasadda Qarsoodiga — Screenshot (App) Maker",
+    "title": "Siyaasadda Qarsoodiga",
+    "intro": "Siyaasaddan Qarsoodiga ah waxay sharraxaysaa sida Screenshot (App) Maker (\"App-ka\") uu u maareeyo xogta isticmaalaha.",
+    "summaryTitle": "Soo koobid",
+    "summary": [
+      "Ma jiraan akoonno. Ma jiraan falanqaynyo. Ma jiraan raadraac.",
+      "Faylalkaaga iyo wax-beddelkaagu waxay ku harayaan qalabkaaga ilaa aad doorato inaad ku xirto server-kaaga Ollama.",
+      "Haddii aad isticmaasho Ollama, qoraalka waxaa loo diraa oo kaliya cinwaanka server-ka aad habaystay."
+    ],
+    "sections": [
+      {
+        "title": "Ururinta Macluumaadka",
+        "body": [
+          "App-ku ma ururiyo, ma kaydiyo, mana gudbiyo macluumaadka shakhsiga ah server-yadayada.",
+          "Sawirrada shaashadda, shimikooyinka, iyo sawirrada la dhoofiyay waxaa lagu abuuraa laguna kaydiyaa qalabkaaga."
+        ]
+      },
+      {
+        "title": "Helitaanka Faylalka iyo Sawirrada",
+        "body": [
+          "App-ku wuxuu codsan karaa inuu galo app-ka Faylalka ama maktabadda sawirradaada si uu u soo dejiyo sawirrada shaashadda.",
+          "Sawirrada la soo dejiyay waxaa lagu habaynayaa qalabka dhexdiisa, loomana gudbinayo si otomaatig ah."
+        ]
+      },
+      {
+        "title": "Turjumaada AI (Ollama)",
+        "body": [
+          "Haddii aad u shiddo soo saarista qoraalka AI ama turjumaada, App-ku wuxuu qoraalka u diri karaa server-ka Ollama ee aad adigu habaystay (tusaale ahaan, kombiyuutarkaaga).",
+          "Ma maamulno mana helno xogtaada Ollama, App-kuna ma diwaangeliyo mana kaydiyo qoraalka ay AI-du habayso."
+        ]
+      },
+      {
+        "title": "Adeegyada Dhinac Saddexaad",
+        "body": [
+          "App-ku ma isticmaalo falanqaynta dhinaca saddexaad, SDK-yada xayaysiinta, ama tignoolajiyada raadraaca."
+        ]
+      },
+      {
+        "title": "Isbeddellada",
+        "body": [
+          "Waxaan kordhin karnaa Siyaasaddan Qarsoodiga ah mar walba. Isbeddellada waxaa lagu soo bandhigi doonaa boggan."
+        ]
+      },
+      {
+        "title": "Xiriirka",
+        "body": [
+          "Haddii aad qabto su'aalo ku saabsan Siyaasaddan Khaaska ah, fadlan nagala soo xiriir iimaylka lagu bixiyay liiska App Store-ka."
+        ]
+      }
+    ],
+    "backHome": "← Dib ugu noqo Hoyga"
+  }
+}

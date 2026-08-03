@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — App Store skrinšotovi, jednostavno napravljeni",
+    "homeDescription": "Kreirajte profesionalne, spremne za slanje App Store skrinšotove i koristite Ollama kako biste s lakoćom generisali lokalizovane verzije.",
+    "ollamaDescription": "Povežite Screenshot (App) Maker sa svojim Ollama serverom za privatnu lokalizaciju skrinšotova pomoću AI tehnologije.",
+    "privacyDescription": "Saznajte kako Screenshot (App) Maker čuva privatnost vaših skrinšotova, izmena i procesa lokalizacije.",
+    "languageName": "Engleski"
+  },
+  "common": {
+    "skipToContent": "Preskoči na sadržaj",
+    "homeAriaLabel": "Početna stranica Screenshot App Makera",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Karakteristike",
+    "localization": "Lokalizacija",
+    "privacy": "Privatnost",
+    "ollamaSetup": "Podesite Ollama",
+    "ollamaSetupShort": "Ollama podešavanje",
+    "downloadIos": "Preuzmite za iOS",
+    "downloadIosAriaLabel": "Preuzmite Screenshot (App) Maker za iPhone i iPad sa App Store-a",
+    "primaryNavigation": "Glavna navigacija",
+    "footerNavigation": "Navigacija u podnožju",
+    "backHome": "Nazad na početnu",
+    "footerTagline": "Screenshot-ovi za App Store, sada jednostavno.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Izaberite jezik",
+    "kicker": "Jezik prikaza",
+    "title": "Izaberite jezik",
+    "close": "Zatvori meni za jezik",
+    "hint": "Izaberite jezik koji vam najprirodnije zvuči. Nazivi proizvoda i tehničke komande ostaju nepromenjeni."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Napravljeno za poslednji korak pre lansiranja",
+      "titleHtml": "Pretvorite ekrane aplikacije u <span>skrinšotove spremne za podnošenje.</span>",
+      "description": "Dizajnirajte svaki skrinšot koji je potreban za podnošenje aplikacije, a zatim povežite Ollama kako biste kreirali lokalizovane verzije — bez potrebe da svaki ponovo pravite ručno.",
+      "primaryAction": "Pogledajte kako funkcioniše",
+      "secondaryAction": "Istražite lokalizaciju",
+      "readyFor": "Spreman za",
+      "supportAriaLabel": "Podržani tipovi izvoza",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Istaknuta grafika"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Pregled proizvoda Screenshot Maker",
+      "project": "Letnje izdanje",
+      "saved": "Sačuvano",
+      "appStorePreview": "Pregled App Store-a",
+      "shots": [
+        {
+          "line1": "Manje planirajte.",
+          "line2": "Uradite više."
+        },
+        {
+          "line1": "Sve",
+          "line2": "na jednom mestu."
+        },
+        {
+          "line1": "Napravljeno za",
+          "line2": "vaš dan."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokalizacija snimaka ekrana…",
+      "exportComplete": "IZVOZ ZAVRŠEN",
+      "exportReady": "PNG i metapodaci spremni",
+      "display": "6.7″ ekran"
+    },
+    "proof": [
+      {
+        "title": "Jedan vizuelni radni prostor",
+        "body": "Od sirovih ekrana do uglađenih resursa"
+      },
+      {
+        "title": "Jedan dizajn, svaki lokal",
+        "body": "Prevedite tekst sa snimaka ekrana pomoću Ollama"
+      },
+      {
+        "title": "Jedan organizovan izvoz",
+        "body": "Pakujte slike i metapodatke zajedno"
+      }
+    ],
+    "proofAriaLabel": "Prednosti proizvoda",
+    "features": {
+      "overline": "Sve na jednom mestu",
+      "titleHtml": "Trošite manje vremena na pripremu.<br />Lansirajte sa više samopouzdanja.",
+      "description": "Screenshot (App) Maker pretvara repetitivni rad pri kraju izdavanja aplikacije u jedan jasan, vizuelni tok rada.",
+      "cards": [
+        {
+          "title": "Ubacite ekrane vaše aplikacije.",
+          "body": "Uvezite snimke ekrana, postavite ih u doterane rasporede uređaja i organizujte kompletnu App Store priču za nekoliko minuta.",
+          "drop": "Prevucite snimke ekrana ovde",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Dizajnirajte jednom.",
+          "body": "Primenite boje, rasporede, podešavanja uređaja, tipografiju i senke na svaku stranicu, dok istovremeno čuvate jedinstvenost svake poruke."
+        },
+        {
+          "title": "Prilagodite svakom ekranu.",
+          "body": "Pripremite materijale za iPhone, iPad, Apple Watch, Apple TV i promotivne grafike u okviru istog projekta."
+        },
+        {
+          "title": "Izvezite paket spreman za predaju.",
+          "body": "Renderujte slike visoke rezolucije, organizujte lokalizovane datoteke i grupišite vaše prevedene App Store metapodatke u jednu urednu arhivu.",
+          "folder": "Resursi za App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Pregled lokalizacije Ollama",
+      "pill": "Pokreće vaš Ollama server",
+      "title": "Vaša kampanja skrinšotova, spremna za svako tržište.",
+      "description": "Povežite Screenshot (App) Maker sa Ollama i prevedite naslove skrinšotova i metapodatke za App Store u istom radnom procesu. Vaš originalni izgled ostaje netaknut, dok se tekst menja za svaku lokalizaciju.",
+      "checks": [
+        "Prevedite sve naslove skrinšotova odjednom",
+        "Lokalizujte opise, ključne reči i beleške o izdanju",
+        "Pregledajte prevode pre konačnog izvoza"
+      ],
+      "action": "Pogledajte vodič za podešavanje Ollama",
+      "source": "Izvor · Engleski",
+      "localeCount": "4 lokalizacije",
+      "sourceLabel": "Izvor",
+      "ready": "Spremno",
+      "samples": [
+        "Manje planiranja.<br /><strong>Više delovanja.</strong>",
+        "Manje planiranja.<br /><strong>Veći napredak.</strong>",
+        "Manje podešavanja.<br /><strong>Više kreiranja.</strong>",
+        "Manje prepreka.<br /><strong>Veći zamah.</strong>"
+      ],
+      "complete": "Lokalizacija završena",
+      "completeBody": "Tekst i metapodaci su spremni za pregled"
+    },
+    "workflow": {
+      "overline": "Kraći put do objavljivanja",
+      "title": "Ubacite sirove ekrane. Dobijte materijale spremne za prodavnicu.",
+      "description": "Bez složenog podešavanja dizajna. Bez ponovnog pravljenja iste kampanje za svaki jezik.",
+      "steps": [
+        {
+          "number": "KORAK 01",
+          "title": "Uvoz",
+          "body": "Dodajte ekrane koji najbolje pričaju priču o vašoj aplikaciji."
+        },
+        {
+          "number": "KORAK 02",
+          "title": "Dizajnirajte i lokalizujte",
+          "body": "Kreirajte izgled jednom, a zatim prevedite tekst pomoću Ollama."
+        },
+        {
+          "number": "KORAK 03",
+          "title": "Izvoz",
+          "body": "Preuzmite organizovane slike i metapodatke, spremne za slanje."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Privatnost po dizajnu",
+      "title": "Resursi vaše aplikacije ostaju pod vašom kontrolom.",
+      "description": "Uređivanje snimaka ekrana odvija se na vašem uređaju. Kada odaberete Ollama, tekst se šalje samo na adresu servera koju konfigurišete.",
+      "action": "Pročitajte politiku privatnosti"
+    },
+    "final": {
+      "overline": "Od snimaka ekrana do slanja",
+      "title": "Učinite da poslednji korak bude jednostavan.",
+      "description": "Dizajnirajte, lokalizujte i izvezite svaki snimak ekrana koji je potreban za vaše sledeće izdanje aplikacije.",
+      "action": "Preuzmite na App Store-u",
+      "appIconAlt": "Ikona aplikacije Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama integracija",
+    "title": "Tutorijal za podešavanje Ollama-e",
+    "subtitle": "Povežite Screenshot (App) Maker sa sopstvenom Ollama instancom za AI prevod i generisanje teksta.",
+    "requirementsTitle": "Šta vam je potrebno",
+    "requirements": [
+      "Mac, Windows PC ili Linux računar za pokretanje Ollama-e",
+      "Instalirana i pokrenuta Ollama",
+      "Vaš iPhone/iPad na istoj mreži kao i Ollama računar (preporučeno)"
+    ],
+    "stepsTitle": "Korak po korak",
+    "steps": [
+      "<strong>Instalirajte Ollama</strong>: preuzmite i instalirajte Ollama za vaš operativni sistem.",
+      "<strong>Pokrenite Ollama</strong>: pokrenite <code>ollama serve</code> (ili otvorite aplikaciju Ollama na macOS-u).",
+      "<strong>Preuzmite model</strong>: pokrenite <code>ollama pull llama3.2</code> (ili vaš željeni model).",
+      "<strong>Potvrdite da radi</strong>: pokrenite <code>ollama run llama3.2</code> i testirajte prompt.",
+      "<strong>Pronađite adresu svog servera</strong>: zapišite LAN IP adresu vašeg računara (npr. <code>192.168.0.10</code>).",
+      "<strong>Koristite u aplikaciji</strong>: u podešavanjima Screenshot (App) Maker-a, postavite Host na <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Napomene i rešavanje problema",
+    "notes": [
+      "Ako se aplikacija ne može povezati, proverite da li su vaš telefon i računar na istoj Wi-Fi mreži.",
+      "Uverite se da je port <code>11434</code> dozvoljen u vašem vatrozidu.",
+      "Ako želite da koristite udaljeni server (kućni PC, VPS), morate bezbedno izložiti port (preporučuje se VPN)."
+    ],
+    "ctaTitle": "Spremni za lokalizaciju?",
+    "ctaBody": "Vratite se u aplikaciju, testirajte vezu i počnite sa jednom lokalizacijom.",
+    "backHome": "← Nazad na početnu",
+    "metaTitle": "Ollama tutorijal za podešavanje — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Politika privatnosti",
+    "metaTitle": "Politika privatnosti — Screenshot (App) Maker",
+    "title": "Politika privatnosti",
+    "intro": "Ova Politika privatnosti opisuje kako Screenshot (App) Maker („Aplikacija“) obrađuje korisničke podatke.",
+    "summaryTitle": "Sažetak",
+    "summary": [
+      "Bez naloga. Bez analitike. Bez praćenja.",
+      "Vaši fajlovi i izmene ostaju na vašem uređaju, osim ako ne odlučite da se povežete sa sopstvenim Ollama serverom.",
+      "Ako koristite Ollama, tekst se šalje samo na adresu servera koju konfigurišete."
+    ],
+    "sections": [
+      {
+        "title": "Prikupljanje informacija",
+        "body": [
+          "Aplikacija ne prikuplja, ne čuva niti prenosi lične informacije na naše servere.",
+          "Snimci ekrana, šabloni i izvezene slike kreiraju se i čuvaju lokalno na vašem uređaju."
+        ]
+      },
+      {
+        "title": "Pristup datotekama i fotografijama",
+        "body": [
+          "Aplikacija može zatražiti pristup aplikaciji Datoteke ili vašoj biblioteci fotografija kako bi uvezla snimke ekrana.",
+          "Uvezene slike se obrađuju na samom uređaju i ne otpremljuju se automatski."
+        ]
+      },
+      {
+        "title": "AI prevod (Ollama)",
+        "body": [
+          "Ako omogućite AI generisanje teksta ili prevod, aplikacija može poslati tekst na Ollama server koji konfigurišete (na primer, vaš sopstveni računar).",
+          "Mi ne upravljamo vašim Ollama saobraćajem niti ga primamo, a aplikacija ne beleži niti čuva tekst koji je obradio AI."
+        ]
+      },
+      {
+        "title": "Usluge trećih strana",
+        "body": [
+          "Aplikacija ne koristi analitiku trećih strana, reklamne SDK-ove niti tehnologije za praćenje."
+        ]
+      },
+      {
+        "title": "Izmene",
+        "body": [
+          "Možemo povremeno ažurirati ovu Politiku privatnosti. Izmene će biti vidljive na ovoj stranici."
+        ]
+      },
+      {
+        "title": "Kontakt",
+        "body": [
+          "Ako imate pitanja u vezi sa ovom Politikom privatnosti, molimo vas da nas kontaktirate putem adrese e-pošte navedene u opisu aplikacije na App Store-u."
+        ]
+      }
+    ],
+    "backHome": "← Nazad na početnu"
+  }
+}

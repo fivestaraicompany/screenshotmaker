@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Litšoantšo tsa App Store, li entsoe habonolo",
+    "homeDescription": "Etsa litšoantšo tsa App Store tse hlakileng le tse lokiselitseng ho romela, 'me u sebelise Ollama ho etsa mefuta e fetoleloang ka puo ea sebaka habonolo.",
+    "ollamaDescription": "Kopanya Screenshot (App) Maker le seva ya hau ea Ollama bakeng sa phetolelo ea litšoantšo e thusitsoang ke AI e private.",
+    "privacyDescription": "Fututsisa hore na Screenshot (App) Maker e boloka litšoantšo tsa hau, likhoahlo, le tsela ea mosebetsi ea phetolelo ho ba private.",
+    "languageName": "Seengleshi"
+  },
+  "common": {
+    "skipToContent": "Tlohela u ee litabeng",
+    "homeAriaLabel": "Lehae la Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Litšobotsi",
+    "localization": "Phetolelo ea puo",
+    "privacy": "Privacy",
+    "ollamaSetup": "Lokisetsa Ollama",
+    "ollamaSetupShort": "Tokisetso ya Ollama",
+    "downloadIos": "Laola bakeng sa iOS",
+    "downloadIosAriaLabel": "Laola Screenshot (App) Maker bakeng sa iPhone le iPad ho tsoa App Store",
+    "primaryNavigation": "Tsamaiso e ka sehloohong",
+    "footerNavigation": "Tsamaiso ya tlase",
+    "backHome": "Khutla lebaleng la pele",
+    "footerTagline": "Litšoantšo tsa skrine tsa App Store, ho entsoe ho be bonolo.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Kgetha puo",
+    "kicker": "Puo ya ponahalo",
+    "title": "Kgetha puo",
+    "close": "Koala menyu ya puo",
+    "hint": "Kgetha puo e u utloang e le tlhaho ho wena. Maina a lihlahiso le litaelo tsa thekniki ha a fetohwe."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "E entsoe bakeng sa mohato oa ho qetela pele ho tsoahla",
+      "titleHtml": "Fetolelletsa liphaposi tsa app ho ba <span>screenshot tse lokiselitseng ho romelwa.</span>",
+      "description": "Thala screenshot tsohle tseo ho romelwang app ea hau ho li hlokang, ebe u kopanya Ollama ho etsa mefuta e fetolelletsoeng—ntle le ho li aha hape ka letsoho.",
+      "primaryAction": "Bona hore na e sebetsa joang",
+      "secondaryAction": "Hlahloba phetolelo ea puo",
+      "readyFor": "E lokiselitse",
+      "supportAriaLabel": "Mefuta ea export e thusoang",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Setšoantšho sa Feature"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Tlhahlolelo ea produkto ea Screenshot Maker",
+      "project": "Tsoahlo ea lehlolo",
+      "saved": "E bolokiloe",
+      "appStorePreview": "Tlhahlolelo ea App Store",
+      "display": "Display ea 6.7″",
+      "shots": [
+        {
+          "line1": "Rala ho finyane.",
+          "line2": "Etsa ho feta."
+        },
+        {
+          "line1": "Tsohle",
+          "line2": "lefelong le le seng."
+        },
+        {
+          "line1": "E entsoe bakeng sa",
+          "line2": "letsatsi la hao."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Ho lokisetsa litšoantšo tsa skrine…",
+      "exportComplete": "HO PHETHELEHILOE HO NTŠOA",
+      "exportReady": "PNG le metadata li lokile"
+    },
+    "proof": [
+      {
+        "title": "Sebaka se le seng sa mosebetsi sa ponahalo",
+        "body": "Ho tloha litšoantšong tsa skrine tse hloohloho ho ea ho lisebelisoa tse lokisitsoeng"
+      },
+      {
+        "title": "Moralo o le mong, libaka tsohle",
+        "body": "Fetolela litaba tsa litšoantšo tsa skrine ka Ollama"
+      },
+      {
+        "title": "Ho ntšoa ho le mong ho hlophisitsoeng",
+        "body": "Paketsa litšoantšo le metadata hammoho"
+      }
+    ],
+    "proofAriaLabel": "Melemo ea produkto",
+    "features": {
+      "overline": "Tsohle sebakeng se le seng",
+      "titleHtml": "Sebelisa nako e nyane ho itokisetsa.<br />Phatlalatsa ka ts'episo e kholo.",
+      "description": "Screenshot (App) Maker e fetola mosebetsi o pheta-phetoang qetellong ea ho phatlalatsa app ho ba ts'ebetso e hlakileng le e bonahalang.",
+      "cards": [
+        {
+          "title": "Tjhefatsa lifoto tsa skrine ea hau.",
+          "body": "Kenya lifoto tsa skrine, li be ka har'a likhoutu tse hlophisitsoeng tsa lisebelisoa, 'me u hlophise pale e felletseng ea App Store ka metsotsoana.",
+          "drop": "Tjhefatsa lifoto tsa skrine mona",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Rala hang.",
+          "body": "Sebelisa mebala, likhoutu, litlhophiso tsa lisebelisoa, lithoto, le litšila ho leqephe le leng le le leng ha u boloka molaetsa o mong le o mong o ikhethang."
+        },
+        {
+          "title": "Ama skrine e 'ngoe le e 'ngoe.",
+          "body": "Itokisetse lintho tse hlokahalang bakeng sa iPhone, iPad, Apple Watch, Apple TV, le litšoantšo tsa feature ho tsoa morerong o le mong."
+        },
+        {
+          "title": "Romella pakete e itokisetsileng ho kenngoa.",
+          "body": "Hlahisa litšoantšo tse nang le boleng bo phahameng, hlophisa lifaele tse fetolelitsoeng, 'me u kopanye metadata ea hau ea App Store e fetotsoeng ho ba archive e hloekileng.",
+          "folder": "Lisebelisoa tsa App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ponelopele ea tlhahlobo ea Ollama",
+      "pill": "E tsamaisoa ke seva sa hau sa Ollama",
+      "title": "Kampene ea hau ea litšoantšo tsa skrine, e loketse ho bua le 'maraka o mong le o mong.",
+      "description": "Hokela Screenshot (App) Maker ho Ollama 'me u fetolele li-headline tsa litšoantšo tsa skrine le tlhahisoleseling ea App Store ka ts'ebetso e le 'ngoe. Sebopeho sa hau sa mantlha se sala se sa fetohe ha mangolo a fetoha bakeng sa sebaka se seng le se seng.",
+      "checks": [
+        "Fetolela headline e 'ngoe le e 'ngoe ea litšoantšo tsa skrine ka sehlopha.",
+        "Lokisa tlhaloso, mantsoe a bohlokoa, le mananeo a ntjhafatso.",
+        "Hlahloba li-fetolelo pele ho romelloa ho qetela."
+      ],
+      "action": "Sheba tataiso ea ho beha Ollama.",
+      "source": "Mohloli · Senyesemane",
+      "localeCount": "Libaka tse 4",
+      "sourceLabel": "Mohloli",
+      "ready": "E loketse",
+      "samples": [
+        "Hlahloba hanyane.<br /><strong>Etsa haholo.</strong>",
+        "Tlhahlo e fokolang.<br /><strong>Tsoelo-pele e ngata.</strong>",
+        "Tlhophiso e fokolang.<br /><strong>Tlhahiso e ngata.</strong>",
+        "Tšitiso e fokolang.<br /><strong>Matla a ngata.</strong>"
+      ],
+      "complete": "Phetolelo e felile",
+      "completeBody": "Mongolo le metadata li loketse ho hlahlojoa."
+    },
+    "workflow": {
+      "overline": "Tsela e khuts'oane bakeng sa ho phatlalatsa.",
+      "title": "Kenya lifilimi tsa mantlha. Ntša lisebelisoa tse loketseng polokelo.",
+      "description": "Ha ho tlhophiso e rarahaneng ea moralo. Ha ho hlokahale ho aha bocha lekhampa le tšoanang bakeng sa puo e 'ngoe le e 'ngoe.",
+      "steps": [
+        {
+          "number": "MOHATO 01",
+          "title": "Kenya",
+          "body": "Eketsa marotholi a skrine a bontšang pale ea sesebelisoa sa hau ka ho fetisisa."
+        },
+        {
+          "number": "MOHATO 02",
+          "title": "Moralo le ho fetolela setso",
+          "body": "Hahela ponahalo e le 'ngoe, ebe o fetolela mangolo a hau ka Ollama."
+        },
+        {
+          "number": "MOHATO 03",
+          "title": "Romela kantle",
+          "body": "Jara litšoantšo le metadata tse hlophisitsoeng, u loketse ho romela."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Ponamo ka moralo",
+      "title": "Lithoto tsa sesebelisoa sa hau li lula li laoloa ke uena.",
+      "description": "Ho lokisa litšoantšo tsa skrine ho etsahala sesebelisoeng sa hau. Ha o khetha Ollama, mantsoe a romeloa feela ho aterese ea seva eo u e hlophisitseng.",
+      "action": "Bala leano la ponamo"
+    },
+    "final": {
+      "overline": "Ho tloha litšoantšong ho isa ho romelloa",
+      "title": "Etsa hore mohato oa ho qetela o be bonolo.",
+      "description": "Rala, fetolela le ntša screenshot e 'ngoe le e 'ngoe eo phatlalatso ea hau e latelang ea app e hlokang.",
+      "action": "Jarolla ho App Store",
+      "appIconAlt": "Setšoantšo sa app ea Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Kopanyo ea Ollama",
+    "title": "Thuto ea ho Hlophisa Ollama",
+    "subtitle": "Hokela Screenshot (App) Maker ho instance ea hau ea Ollama bakeng sa phetolelo ea AI le tlhahiso ea mantsuoa.",
+    "requirementsTitle": "Seo u se Hlokang",
+    "requirements": [
+      "Khomphutha ea Mac, Windows PC kapa Linux ho tsamaisa Ollama",
+      "Ollama e kentsoe 'me e sebetsa",
+      "iPhone/iPad ea hau ho marang-rang a tšoanang le khomphutha ea Ollama (e khothaletsoa)"
+    ],
+    "stepsTitle": "Mohato ka Mohato",
+    "steps": [
+      "<strong>Kenya Ollama</strong>: jarolla le ho kenya Ollama bakeng sa tsamaiso ea hau.",
+      "<strong>Qala Ollama</strong>: tsamaisa <code>ollama serve</code> (kapa bula sesebelisoa sa Ollama ho macOS).",
+      "<strong>Hula mofuta</strong>: tsamaisa <code>ollama pull llama3.2</code> (kapa mofuta oo u o khethileng).",
+      "<strong>Tlhomma hore e sebetsa</strong>: tsamaisa <code>ollama run llama3.2</code> le ho lekola taelo.",
+      "<strong>Fumana aterese ea seva sa hau</strong>: ngola IP ea LAN ea khomphutha ea hau (mohlala, <code>192.168.0.10</code>).",
+      "<strong>E sebelisa ho sesebelisoa</strong>: litlhophisong tsa Screenshot (App) Maker, behela Host ho <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Lintlha le ho rarolla mathata",
+    "notes": [
+      "Haeba sesebelisoa se ke ke sa hokahana, netefatsa hore mohala le khomphutha ea hau li holim'a marang-rang a Wi‑Fi a tšoanang.",
+      "Netefatsa hore port <code>11434</code> e lumelletsoe ke firewall ea hau.",
+      "Haeba u khetha ho sebelisa seva se hole (PC ea lehae, VPS), u tlameha ho bula port ka tsela e sireletsehileng (VPN e khothaletsoa)."
+    ],
+    "ctaTitle": "U loketse ho fetolela?",
+    "ctaBody": "Boela ho sesebelisoa, lekola kamano, 'me u qale ka puo e le' ngoe.",
+    "backHome": "← Khutlela Hae",
+    "metaTitle": "Thuto ea ho Beha Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Leano la Lekunutu",
+    "metaTitle": "Leano la Lekunutu — Screenshot (App) Maker",
+    "title": "Leano la Lekunutu",
+    "intro": "Leano lena la Lekunutu le hlalosa hore na Screenshot (App) Maker (\"App\") e sebetsana joang ka data ea mosebelisi.",
+    "summaryTitle": "Kakaretso",
+    "summary": [
+      "Ha ho na li-account. Ha ho na tlhatlhobo. Ha ho na latelo.",
+      "Lifaele le liphetoho tsa hau li sala sesebelisong sa hau haeba u sa khetha ho hokela ho seva ea hau ea Ollama.",
+      "Haeba u sebelisa Ollama, molaetsa o romelloa feela ho aterese ea seva eo u e hlophisang."
+    ],
+    "sections": [
+      {
+        "title": "Kopano ea Tlhahisoleseling",
+        "body": [
+          "App ha e bokelle, boloke, kapa e romelle tlhahisoleseling ea motho ka mong ho li-seva tsa rona.",
+          "Litšoantšo tsa skrineng, mehlala le litšoantšo tse hlahisoang li a etsoa 'me li bolokoa sebakeng sa sejoale-joale ho sesebeliswa sa hau."
+        ]
+      },
+      {
+        "title": "Phihlello ho Lifaele le Litšoantšo",
+        "body": [
+          "App e ka kopa phihlello ho App ea Lifaele kapa polokelo ea litšoantšo tsa hau ho kenya litšoantšo tsa skrineng.",
+          "Litšoantšo tse kentsoeng li sebetswa ka har'a sesebeliswa 'me ha li romelloe ka boiketsetso."
+        ]
+      },
+      {
+        "title": "Phetolelo ea AI (Ollama)",
+        "body": [
+          "Haeba u lumella ho hlahisoa kapa phetolelo ea mantswe a AI, App e ka romella mantswe ho seva sa Ollama seo u se behang (mohlala, khomphutha ea hau).",
+          "Ha re tsamaisa kapa ha re amohelle phallo ea hau ea Ollama, 'me App ha e ngole kapa e boloke litlhaku tse sebetsitsoeng ke AI."
+        ]
+      },
+      {
+        "title": "Litšebeletso tsa Ba bang",
+        "body": [
+          "App ha e sebelise litlhahlobo tsa ba bang, li-SDK tsa patlo kapa mekhoa ea ho latela."
+        ]
+      },
+      {
+        "title": "Liphetoho",
+        "body": [
+          "Re ka nchafatsa Leano lena la Tšireletso ea Boitsebiso nakong e fapaneng. Liphetoho li tla bonahala leqepheng lena."
+        ]
+      },
+      {
+        "title": "Ikopanye",
+        "body": [
+          "Haeba u na le lipotso mabapi le Molao-motheo ona oa Poloko ea Tlhahisoleseling, ka kopo ikopanye le rona ka aterese ea lengolo-tsoibila e fanoeng tsebiso ea App Store."
+        ]
+      }
+    ],
+    "backHome": "← Khutlela Hau"
+  }
+}

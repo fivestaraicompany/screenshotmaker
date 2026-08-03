@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Izithombe ze-App Store, Zenziwe Kalula",
+    "homeDescription": "Yakha izithombe ze-App Store ezicwebile neziphelele zokuhambisa, bese usebenzisa i-Ollama ukukhiqiza izinhlobo ezihambisana nolimi lwendawo kalula.",
+    "ollamaDescription": "Xhumela i-Screenshot (App) Maker kuserver yakho ye-Ollama ukuze uthole ukuhumusha izithombe ngokusebenzisa i-AI eyimfihlo.",
+    "privacyDescription": "Funda ukuthi i-Screenshot (App) Maker igcina kanjani izithombe zakho, ukuhlela, nohlelo lokusebenza lokuhumusha kube yimfihlo.",
+    "languageName": "IsiNgisi"
+  },
+  "common": {
+    "skipToContent": "Gaya uye okuqukethwe",
+    "homeAriaLabel": "Ikhaya le-Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Izici",
+    "localization": "Ukuhambisana Nolimi",
+    "privacy": "Imfihlo",
+    "ollamaSetup": "Lungisa i-Ollama",
+    "ollamaSetupShort": "Ukulungiselela i-Ollama",
+    "downloadIos": "Landa ku-iOS",
+    "downloadIosAriaLabel": "Landa i-Screenshot (App) Maker ye-iPhone ne-iPad ku-App Store",
+    "primaryNavigation": "Ukuzulazula okuyinhloko",
+    "footerNavigation": "Ukuzulazula kwe-footer",
+    "backHome": "Buyela ekhaya",
+    "footerTagline": "Izithombe ze-App Store, zenziwe kalula.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Khetha ulimi",
+    "kicker": "Ulimi lokubonisa",
+    "title": "Khetha ulimi",
+    "close": "Vala imenyu yolimi",
+    "hint": "Khetha ulimi oluzwakala lulula kakhulu kuwe. Amagama omkhiqizo nemiyalelo yezobuchwepheshe awushintshi."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Yakhelwe isigaba sokugcina ngaphambi kokukhishwa",
+      "titleHtml": "Shintsha izikrini ze-app zibe <span>izithombe-sikrini ezilungele ukuhambiswa.</span>",
+      "description": "Yakha zonke izithombe-sikrini ezidingeka ekuhambiseni i-app yakho, bese uxhumana no-Ollama ukuze udale izinhlobo ezihambisana nolimi lwendawo—ngaphandle kokuzenza kabusha ngesandla.",
+      "primaryAction": "Buka ukuthi isebenza kanjani",
+      "secondaryAction": "Hlola ukuhambisana nolimi lwendawo",
+      "readyFor": "Kulungele",
+      "supportAriaLabel": "Izinhlobo zokukhipha ezisekelwayo",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Isithombe Esivelele"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Ukubuka kokuqala komkhiqizo we-Screenshot Maker",
+      "project": "Ukukhishwa kwasehlobo",
+      "saved": "Kugcinwe",
+      "appStorePreview": "Ukubuka kokuqala kwe-App Store",
+      "display": "Isikrinizimu se-6.7″",
+      "shots": [
+        {
+          "line1": "Hlela kancane.",
+          "line2": "Yenza okuningi."
+        },
+        {
+          "line1": "Konke",
+          "line2": "endaweni eyodwa."
+        },
+        {
+          "line1": "Yenzelwe",
+          "line2": "usuku lwakho."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Kuhunyushwa izithombe-skrini…",
+      "exportComplete": "UKUKHIPHA KUQEDILE",
+      "exportReady": "I-PNGs + imetadata sezilungile"
+    },
+    "proof": [
+      {
+        "title": "Indawo eyodwa yokusebenza yobukiso",
+        "body": "Kusuka ezithombeni-skrini ezingakashintshwa kuya kwezinto ezicophelelayo"
+      },
+      {
+        "title": "Idizayini eyodwa, zonke izindawo",
+        "body": "Hunyusha umbhalo wesithombe-skrini nge-Ollama"
+      },
+      {
+        "title": "Ukukhipha okuhlelekile kanye",
+        "body": "Pakisha izithombe nemetadata ndawonye"
+      }
+    ],
+    "proofAriaLabel": "Izinzuzo zomkhiqizo",
+    "features": {
+      "overline": "Konke kusedawo olulodwa",
+      "titleHtml": "Sebenzisa isikhathi esincane ekulungiseni.<br />Khipha imikhiqizo yakho ngokuzethemba okukhulu.",
+      "description": "I-Screenshot (App) Maker ishintsha umsebenzi ophindaphindwayo ekupheleni kokukhipha i-app ibe yindlela eyodwa ecacile yokusebenza ebonakalayo.",
+      "cards": [
+        {
+          "title": "Faka izikrini zakho ze-app.",
+          "body": "Namukela ama-screenshot, uwabeke kuma-layout adizayiniwe wezinto zokusebenzisa, bese uhlela indaba ephelele ye-App Store ngemizuzu embalwa.",
+          "drop": "Faka ama-screenshot lapha",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Dizayina kanye kuphela.",
+          "body": "Faka imibala, ama-layout, izilungiselelo zezinto zokusebenzisa, uhlobo lobhalo, nemithunzi kuzo zonke ikhasi ngenkathi ugcina umlayezo ngamunye uyingqayizivele."
+        },
+        {
+          "title": "Lungisa zonke izikrini.",
+          "body": "Lungiselela ama-asset e-iPhone, i-iPad, i-Apple Watch, i-Apple TV, kanye nezithombe ze-feature kusukela ohlelweni olulodwa."
+        },
+        {
+          "title": "Khipha iphakheji elilungile lokuhambisa.",
+          "body": "Yakha izithombe ezisulu (high-resolution), hlela amafayela aqondiswe endaweni, bese uhlanganisa i-metadata ye-App Store ehunyushwe ibe yi-archive eyodwa ehlanzekile.",
+          "folder": "Izinto ze-App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Isibonelo sokuhumushwa kwe-Ollama",
+      "pill": "Kuxhaswa yi-server yakho ye-Ollama",
+      "title": "Umkhankaso wakho we-screenshot, ulungile ukukhuluma zonke izimakethe.",
+      "description": "Xhumela i-Screenshot (App) Maker ku-Ollama bese uhumusha izihloko ze-screenshot kanye ne-metadata ye-App Store kulo workflow olulodwa. Uhlelo lwakho lokuqala luhlala lungashintshanga ngenkathi imibhalo ishintsha ngokwendawo ngasinye.",
+      "checks": [
+        "Hhumusha zonke izihloko ze-screenshot ngokuhlanganyela",
+        "Hhumusha imichaziso, amagama angukhiye, kanye nemininingwane yokukhishwa",
+        "Buyekeza izihumushi ngaphambi kokukhipha kokugcina"
+      ],
+      "action": "Buka umhlahlandlela wokulungisa i-Ollama",
+      "source": "Umthombo · IsiNgisi",
+      "localeCount": "Izilimi ezi-4",
+      "sourceLabel": "Umthombo",
+      "ready": "Kulungile",
+      "samples": [
+        "Hlela kancane.<br /><strong>Yenza okuningi.</strong>",
+        "Ukuhlela okuncane.<br /><strong>Inqubekela phambili eminingi.</strong>",
+        "Ukulungisa okuncane.<br /><strong>Ukudala okuningi.</strong>",
+        "Ukubambana okuncane.<br /><strong>Amandla aqhamuka amaningi.</strong>"
+      ],
+      "complete": "Ukuhumusha kwindawo kuqedile",
+      "completeBody": "Umbhalo nemininingwane (metadata) sekulungile ukubuyekezwa"
+    },
+    "workflow": {
+      "overline": "Indlela emfushane yokushicilela",
+      "title": "Faka izikrini ezingashintshwanga. Khipha izinto ezilungile zestolo.",
+      "description": "Alikho ukulungisa kwamansiseko okuyinkimbinkimbi. Akukho ukwakha kabusha i-campaign efanayo kuzo zonke izilimi.",
+      "steps": [
+        {
+          "number": "ISINYATHELO 01",
+          "title": "Geniza",
+          "body": "Yengeza izikrini ezichaza kangcono indaba yo-app yakho."
+        },
+        {
+          "number": "INYATHELO 02",
+          "title": "Hlela nokuhumusha ngokwendawo",
+          "body": "Yakha ukubukeka kanye, bese uhumusha imibhalo yakho nge-Ollama."
+        },
+        {
+          "number": "INYATHELO 03",
+          "title": "Khipha",
+          "body": "Landa izithombe ne-metadata ehlelekile, ezilungele ukuhambiswa."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Yimfihlo ngokuklama",
+      "title": "Izinsiza ze-app yakho zihlala ngaphansi kokulawula kwakho.",
+      "description": "Ukuhlela izithombe zesikrini kwenzeka kudivayisi yakho. Uma ukhetha i-Ollama, umbhalo uthumelwa kuphela kuleli kheli le-server olililungisile.",
+      "action": "Funda isopolisi yobumfihlo"
+    },
+    "final": {
+      "overline": "Kusukela ezithombeni zesikrini kuya ekuhambisweni",
+      "title": "Yenza isinyathelo sokugcina sizizwe silula.",
+      "description": "Hlela, hlukanisa ngokwendawo, futhi thumela zonke izithombe-skrini ezidingeka ekukhishweni kwakho kokulandelayo kwe-app.",
+      "action": "Landa ku-App Store",
+      "appIconAlt": "Isithombe se-app se-Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Ukuhlanganiswa kwe-Ollama",
+    "title": "Isifundo sokusetha i-Ollama",
+    "subtitle": "Xhumela i-Screenshot (App) Maker ku-instance yakho ye-Ollama ukuze uthole ukuhumusha kwe-AI nokukhiqiza umbhalo.",
+    "requirementsTitle": "Okudingekayo",
+    "requirements": [
+      "I-Mac, i-Windows PC, noma imishini ye-Linux ukuze usebenzise i-Ollama",
+      "I-Ollama ifakwe futhi isebenza",
+      "I-iPhone/iPad yakho kwinetwork efanayo neyemshini we-Ollama (kunconywa)"
+    ],
+    "stepsTitle": "Isinyathelo ngesinyathelo",
+    "steps": [
+      "<strong>Faka i-Ollama</strong>: landa ufake i-Ollama ku-OS yakho.",
+      "<strong>Qala i-Ollama</strong>: sebenzisa u-<code>ollama serve</code> (noma uvule i-app ye-Ollama ku-macOS).",
+      "<strong>Thola imodeli</strong>: sebenzisa u-<code>ollama pull llama3.2</code> (noma imodeli oyikhethayo).",
+      "<strong>Qinisekisa ukuthi iyasebenza</strong>: sebenzisa u-<code>ollama run llama3.2</code> bese uhlola i-prompt.",
+      "<strong>Thola ikheli lakho le-server</strong>: bhala phansi i-LAN IP ye-computer yakho (isib. <code>192.168.0.10</code>).",
+      "<strong>Yisebenzise ku-app</strong>: kuzilungiselelo ze-Screenshot (App) Maker, beka i-Host kube ngu-<code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Amanothi nokuxazulula izinkinga",
+    "notes": [
+      "Uma i-app ingakwazi ukuxhumana, qinisekisa ukuthi ifoni ne-computer yakho zise-network efanayo ye-Wi‑Fi.",
+      "Qinisekisa ukuthi i-port <code>11434</code> ivumeleke ku-firewall yakho.",
+      "Uma ukhetha ukusebenzisa i-remote server (i-PC yasekhaya, i-VPS), kumele uveze i-port ngokuphepha (kunconywa i-VPN)."
+    ],
+    "ctaTitle": "Usukulungele uku-localize?",
+    "ctaBody": "Buyela ku-app, hlola ukuxhumana, bese uqala nge-locale eyodwa.",
+    "backHome": "← Buyela eKhaya",
+    "metaTitle": "Isifundo sokuSethwa kwe-Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Inqubo yoBumfihlo",
+    "metaTitle": "Inqubo yoBumfihlo — Screenshot (App) Maker",
+    "title": "Inqubo yoBumfihlo",
+    "intro": "Le Nqubo yoBumfihlo ichaza ukuthi i-Screenshot (App) Maker (\"i-App\") iphatha kanjani idatha yomsebenzisi.",
+    "summaryTitle": "Isifingqo",
+    "summary": [
+      "Azikho izakhawulo. Akukho ukuhlaziya. Akukho ukulandelela.",
+      "Amafayela akho nokuhlela kwakho kusala kudivayisi yakho ngaphandle kokuba ukhethe ukuxhumana neseva yakho ye-Ollama.",
+      "Uma usebenzisa i-Ollama, umbhalo uthumelwa kuphela kikheli leseva owulungisile."
+    ],
+    "sections": [
+      {
+        "title": "Ukuqoqwa Kolwazi",
+        "body": [
+          "I-App ayiqoqi, ayigcini, noma ayithumeli imininingwane yomuntu siqu kuma-server ethu.",
+          "Izithombe zesikrini, ama-templates, nezithombe ezikhiphishwe zakhiwa futhi zigcinwe ngokwendawu kudivayisi yakho."
+        ]
+      },
+      {
+        "title": "Ukufinyelela emafailini nezithombe",
+        "body": [
+          "I-App ingase icele ukufinyelela ohlelweni lweFiles noma kulayibrari yakho yezithombe ukuze ifake izithombe zesikrini.",
+          "Izithombe ezifakiwe zicutshungulwa kudivayisi futhi azithunyelwa phezulu ngokuzenzakalelayo."
+        ]
+      },
+      {
+        "title": "Ukuhumusha kwe-AI (Ollama)",
+        "body": [
+          "Uma uvumela ukukhiqizwa kombhalo we-AI noma ukuhumusha, i-App ingathumela umbhalo ku-Ollama server oyilungisile (isibonelo, ikhompyutha yakho).",
+          "Asiphathi noma asitholi ithrafikhi yakho ye-Ollama, futhi i-App ayigcini noma ayigcini ngombhalo ocutshungulwe yi-AI."
+        ]
+      },
+      {
+        "title": "Izinsizakalo zezinhlangothi zesithathu",
+        "body": [
+          "I-App ayisebenzisi ukuhlaziya kwezinhlangothi zesithathu, ama-SDK ezikhangiso, noma ezobuchwepheshe bokulandelela."
+        ]
+      },
+      {
+        "title": "Izinguquko",
+        "body": [
+          "Singase sishintshe le Nkqubo Yeziimfihlo ngezikhathi ezithile. Izinguquko zizobonakala kuleli khasi."
+        ]
+      },
+      {
+        "title": "Ukuxhumana",
+        "body": [
+          "Uma unemibuzo mayelana nale Policy Yokuvikela Imfihlo, sicela usithintele kuleli kheli le-imeyili elikhombisiwe ku-App Store."
+        ]
+      }
+    ],
+    "backHome": "← Buyela eKhaya"
+  }
+}

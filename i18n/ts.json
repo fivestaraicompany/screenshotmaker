@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Switshini swa App Store, swi endliwe hi ku ownela",
+    "homeDescription": "Endla switshini swa App Store swa xisandza leswi lungiseke ku rhuma, naswona hlisa Ollama ku endla tivhoni ta tindzimi ta le xitlala hi ku ownela.",
+    "ollamaDescription": "Xandla Screenshot (App) Maker eka server ya wena ya Ollama leswaku u endla vutshini bya switshini hi ku titsheka ka AI.",
+    "privacyDescription": "Tivha howu Screenshot (App) Maker a hlayisaka switshini swa wena, swirivanyiso, na tindlela ta vutshini bya tindzimi hi xefana.",
+    "languageName": "Xinghisi"
+  },
+  "common": {
+    "skipToContent": "Yana eka xikongori",
+    "homeAriaLabel": "Kaya ya Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Swivandla",
+    "localization": "Vutshini bya tindzimi",
+    "privacy": "Xefana",
+    "ollamaSetup": "Seta Ollama",
+    "ollamaSetupShort": "Kuseta ka Ollama",
+    "downloadIos": "Landa va iOS",
+    "downloadIosAriaLabel": "Landa Screenshot (App) Maker ya iPhone na iPad eka App Store",
+    "primaryNavigation": "Kuhamba ka nkulu",
+    "footerNavigation": "Kuhamba ka footer",
+    "backHome": "Vuya eka Home",
+    "footerTagline": "Screenshot ya App Store, ku endlisiwa hi ku rhula.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Khetsa ririmi",
+    "kicker": "Ririmi ra ku kombisa",
+    "title": "Khetsa ririmi",
+    "close": "Vala menu ya ririmi",
+    "hint": "Khangeta ririmi leri u titwa ri ri ra ntlawa eka wena. Maveno ya mahutiso na swikongomi swa tekiniki a yi cincileki."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Yi endliwe lava xitirho xa ntshwa ku rhuma",
+      "titleHtml": "Hundlisa swikhomu swa app ku va <span>screenshot leti lungisilekeke ku rhumiwa.</span>",
+      "description": "Dizayina screenshot hinkwaswo leti xavaka eka ku rhuma app ya wena, kutani hlanganisa Ollama ku endla tindzalo ta ririmi ra le xitlirisana—u nga hlawuleki ku vumba yin'wana na yin'wana hi maoko.",
+      "primaryAction": "Vona howu yi tirhaka",
+      "secondaryAction": "Hlava ku endleka hi ririmi ra le xitlirisana",
+      "readyFor": "Yi lungisilekeke lava",
+      "supportAriaLabel": "Mikhaka ya ku humisa leti tswiyetswaka",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Xifaniso xa Feature"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Xikombiso xa Screenshot Maker",
+      "project": "Ku humiswa ka Xihundla",
+      "saved": "Ku hlayisiwe",
+      "appStorePreview": "Xikombiso xa App Store",
+      "display": "Display ya 6.7″",
+      "shots": [
+        {
+          "line1": "Plana kutsongo.",
+          "line2": "Endla swo tala."
+        },
+        {
+          "line1": "Hinkwaswo",
+          "line2": "eka ndhawu yin'we."
+        },
+        {
+          "line1": "Yi endliwe liye",
+          "line2": "siku ra wena."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Ku lokala swikhomisela…",
+      "exportComplete": "KU HUMBISA KU HERILE",
+      "exportReady": "PNGs + metadata swi lungheke"
+    },
+    "proof": [
+      {
+        "title": "Xiyimo xin'we xa ntirho wa xikombiso",
+        "body": "Ku sukela eka swikhomisela swa xitirhisiwa ku fika eka swivandla swa xikombiso"
+      },
+      {
+        "title": "Xidizayini xin'we, tindlela hinkwaswo ta ririmi",
+        "body": "Hundlula mavoko ya swikhomisela hi Ollama"
+      },
+      {
+        "title": "Ku humbisa kun'we loku hleleketeke",
+        "body": "Paketi swifaniso na metadata swi karhi"
+      }
+    ],
+    "proofAriaLabel": "Vunala bya xitirhisiwa",
+    "features": {
+      "overline": "Hinkwaswo xikweni xin'we",
+      "titleHtml": "Lungisela hi nkarhi wo vutlula.<br />Humbisa hi ku tshembeka ku tlula.",
+      "description": "Screenshot (App) Maker yi cinca ntirho lowu fambelanaka emaheleni ya ku humbisaka app ku va workflow yo vonakala leyi hlayiseke.",
+      "cards": [
+        {
+          "title": "Nghenisa swikombo swa app ya wena.",
+          "body": "Nghenisa screenshot, veka ta hlayiseka eka layout ya device, naswona lulamisa xana xa App Store hi maminyeti.",
+          "drop": "Nghenisa screenshot kona",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Dizayina hi nkarhi kun'we.",
+          "body": "Sebentisa mit AVC, layout, swiseti swa device, mufuna wa mavutiso, na mimunyi eka ripapi rin'wana na rin'wana kambe u tshamela ku endla leswaku xivandla xin'wana na xin'wana xi va xi ri xo hlawuleka."
+        },
+        {
+          "title": "Hambisana na xikombo xin'wana na xin'wana.",
+          "body": "Lungiselela swilo swa iPhone, iPad, Apple Watch, Apple TV, na feature graphics eka projekto yin'we."
+        },
+        {
+          "title": "Export-a package leyi lungiseke ku humbiswa.",
+          "body": "Endla swifaniso swo voneka kahle (high-resolution), lulamisa mafayela ya lexiyondlwana, naswona hlanganisa App Store metadata leyi hundzuluxiweke eka archive yin'we leyi hlayiseke.",
+          "folder": "Switirhisiwa swa App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Xiyimo xa ku vona ku hundzuluxa ka Ollama",
+      "pill": "Swi khomekile hi server ya wena ya Ollama",
+      "title": "Campaign ya wena ya screenshot, yi lungheke ku vulavula eka dyiko hinkwawo.",
+      "description": "Xandla Screenshot (App) Maker eka Ollama naswona u hundzuluxa matlhoko ya screenshot na metadata ya App Store eka workflow yo fana. Layout ya wena yi sala tanihi leyi yiko loko mavele ya hundzuka eka ririmi rin'wana na rin'wana.",
+      "checks": [
+        "Hundzuluxa matlhoko hinkwawo ya screenshot hi ntlawa",
+        "Hundzuluxa mavele, keywords, na ntsalwa ta xingheniso",
+        "Hlanganisa hundzuluxo ku tlhela u vona ku nandziha ka export ya bumakele"
+      ],
+      "action": "Vuva xitsundzuxo xa ku seta Ollama",
+      "source": "Source · English",
+      "localeCount": "Mirhimi 4",
+      "sourceLabel": "Source",
+      "ready": "Ku lulamile",
+      "samples": [
+        "Hlela switsongo.<br /><strong>Endla swo tala.</strong>",
+        "Ku hlela switsongo.<br /><strong>Ku famba emahlweni swo tala.</strong>",
+        "Ku lulamisa switsongo.<br /><strong>Ku vumba swo tala.</strong>",
+        "Kutshwukutshwuka switsongo.<br /><strong>Matimba yo famba emahlweni swo tala.</strong>"
+      ],
+      "complete": "Ku hundzuluxa ku herile",
+      "completeBody": "Mindzima na metadata ya lulamile ku hlola"
+    },
+    "workflow": {
+      "overline": "Ndlela yo rhula yo hlayisa",
+      "title": "Nghenisa swikhombo swa xitirho. Humisa swivandla swo lulamela store.",
+      "description": "A ku na ku lulamisa ka design ko tsemeta. A ku na ku vumba hi ntlawa lowu fanaka eka ririmi rin'wana na rin'wana.",
+      "steps": [
+        {
+          "number": "N'GHALO 01",
+          "title": "Nghenisa",
+          "body": "Engetela swikombo leswi kombisaka xiyimo xa app ya wena hi ndlela leyinene."
+        },
+        {
+          "number": "XIKHATLO 02",
+          "title": "Dizayini na ku lokaliza",
+          "body": "Yima xifananiso xa xona hi nkarhi un’we, kutani hundlula mavele ya wena hi Ollama."
+        },
+        {
+          "number": "XIKHATLO 03",
+          "title": "Ekspoti",
+          "body": "Dlownuloda swifaniso na metadata leti hleleketiwile, ku lava ku rhuma."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "I xihundla hi ndlela yo yima",
+      "title": "Switirhisiwa swa app ya wena swi ta sala eka vutshindzulo bya wena.",
+      "description": "Ku lulamisa screenshot ku endleka eka xitirhisiwa xa wena. Loko u khetha Ollama, mavele ya rhumelwa ntsena eka adirese ya server leyi u yi lulamisaka.",
+      "action": "Hlaya polisi ya xihundla"
+    },
+    "final": {
+      "overline": "Ku sukela eka screenshot ku fika eka ku rhuma",
+      "title": "Endla xikongomiso xa ntshwa xi va swi kongorile.",
+      "description": "Dizayina, lokalayiza, naswona export-a screenshot hinkwaswo lawsi app ya wena leyi kumaka yi swi lava.",
+      "action": "Downloada eka App Store",
+      "appIconAlt": "Ayikoni ya Screenshot App Maker app"
+    }
+  },
+  "ollama": {
+    "pill": "Ku hlanganisa Ollama",
+    "title": "Tutorial ya ku seta Ollama",
+    "subtitle": "Hlanganisa Screenshot (App) Maker eka Ollama instance ya wena leswaku u hundzuluxa na ku endla teksi hi AI.",
+    "requirementsTitle": "Leswi u swi lavaka",
+    "requirements": [
+      "Mac, Windows PC, kumbe xishandzisi xa Linux xo khomisa Ollama",
+      "Ollama yi setiwile naswona yi khomeka",
+      "iPhone/iPad ya wena eka network yin'wana na xishandzisi xa Ollama (yi tsembiwa)"
+    ],
+    "stepsTitle": "N’wendlo hi n’wendlo",
+    "steps": [
+      "<strong>Instala Ollama</strong>: download-a na ku instala Ollama eka OS ya wena.",
+      "<strong>Sungula Ollama</strong>: rhunza <code>ollama serve</code> (kumbe pfula app ya Ollama eka macOS).",
+      "<strong>Kha model</strong>: rhunza <code>ollama pull llama3.2</code> (kumbe model leyi u yi lavaka).",
+      "<strong>Titivisa ukuri swi hlaya</strong>: rhunza <code>ollama run llama3.2</code> kutani tlola prompt.",
+      "<strong>Vuva adiresi ya server</strong>: tsala LAN IP ya khomputa ya wena (xikombiso <code>192.168.0.10</code>).",
+      "<strong>Yi tirhisa eka app</strong>: eka settings ta Screenshot (App) Maker, veka Host kuva <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Tinotsi na ku lungisa swiphiqo",
+    "notes": [
+      "Loko app yi ingeta ku connect-a, titivisa ukuri foni na khomputa ya wena swi le xitirhisiwa xa Wi‑Fi xin'we.",
+      "Titivisa ukuri port <code>11434</code> yi pfumelelwa hi firewall ya wena.",
+      "Loko u lava ku tirhisa remote server (home PC, VPS), u fanele ku pfula port hi ndlela leyi hlayisekileke (ku khutsatswiwa VPN)."
+    ],
+    "ctaTitle": "U lungheku ku localize-a?",
+    "ctaBody": "Vutela eka app, tlola connection, kutani sungula hi ririmi rin'we.",
+    "backHome": "← Vuya eKaya",
+    "metaTitle": "Tutorial ya ku seta Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Polisi ya xichandzeni",
+    "metaTitle": "Polisi ya Xichandzeni — Screenshot (App) Maker",
+    "title": "Polisi ya Xichandzeni",
+    "intro": "Polisi leyi ya Xichandzeni yi hlamusela howu Screenshot (App) Maker (\"app\") yi fambisaka vutivi bya xitsarixi.",
+    "summaryTitle": "Pfukutelo",
+    "summary": [
+      "A ku na ti-account. A ku na analytics. A ku na ku landzelela.",
+      "Mafayela na ku lulamisa ka wena swi sala eka xitirhisiwa xa wena loko u nga nketa ku xandza na server ya wena ya Ollama.",
+      "Loko u tirhisa Ollama, titekisi ti rhumiwa ntsena eka xiyandziro xa server lexi u xi setelele."
+    ],
+    "sections": [
+      {
+        "title": "Ku hlangela vutivi",
+        "body": [
+          "App leyi a yi hlangeli, yi hlayi, kumbe yi rhuma vutivi bya munhu eka ti-server ta hina.",
+          "Sikrinishoti, temipulati na swifaniso swo humisiwa swi endliwa naswona swi hlayisiwa eka xitirhisi xa wena."
+        ]
+      },
+      {
+        "title": "Ku akanyeta Mafayila na Swifaniso",
+        "body": [
+          "App yi nga kombela ku akanyeta app ya Mafayila kumbe layibrari ya swifaniso swa wena ku tisa sikrinishoti.",
+          "Swifaniso swo tisiwa swi endliwa eka xitirhisi naswona a swi hlayisiwi hi xivandla."
+        ]
+      },
+      {
+        "title": "Ku hundzuluxa ka AI (Ollama)",
+        "body": [
+          "Loko u enabla ku endla tekisi kumbe ku hundzuluxa ka AI, App yi nga rhuma tekisi eka sevura ya Ollama leyi u yi lulamisaka (hi xikombiso, khomputa ya wena).",
+          "Hi nga fambisiyi kumbe hi nga tsemii trafik ya wena ya Ollama, naswona App a yi hlayisi tekisi leyi endliwe hi AI."
+        ]
+      },
+      {
+        "title": "Tirhiselo ta Vanyikazi",
+        "body": [
+          "App a yi tirhisi analytics ta vanyikazi, SDKs ta xitshungulo kumbe tikonolodzhi ta ku landzekisa."
+        ]
+      },
+      {
+        "title": "Ku cinca",
+        "body": [
+          "Hi nga hlayisa Polisi ya Xivandlu leyi nkarhi na nkarhi. Swi cincaka swi ta voneka eka pephani leyi."
+        ]
+      },
+      {
+        "title": "Xikambelo",
+        "body": [
+          "Loko u ri na swivutiso hi Polisi leyi ya Xivumelelo xa Xiyimo, rhuluxana na hina hi adirese ya imeyile lexi nyikiweke eka xilistu xa App Store."
+        ]
+      }
+    ],
+    "backHome": "← Vuya eKaya"
+  }
+}

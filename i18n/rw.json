@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Gukora amafoto ya App Store byoroshye",
+    "homeDescription": "Kora amafoto ya App Store meze neza kandi yiteguye koherezwa, ukoreshe Ollama kugira ngo ukore amandike mu rurimi rw'igihugu mu buryo bworoshye.",
+    "ollamaDescription": "Huza Screenshot (App) Maker na server yawe ya Ollama kugira ngo ukore localization y'amafoto ukoresheje AI mu buryo bwizigirwa kandi bwihariye.",
+    "privacyDescription": "Menya uburyo Screenshot (App) Maker ibika amafoto yawe, imihindure, n'imikorere ya localization mu buryo bwihariye.",
+    "languageName": "Icyongereza"
+  },
+  "common": {
+    "skipToContent": "Simbuka ujye ku bikubiyemo",
+    "homeAriaLabel": "Hapage ya mbere ya Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Ibiranga",
+    "localization": "Localization",
+    "privacy": "Ibanga",
+    "ollamaSetup": "Gitegura Ollama",
+    "ollamaSetupShort": "Gushyiraho Ollama",
+    "downloadIos": "Manura kuri iOS",
+    "downloadIosAriaLabel": "Manura Screenshot (App) Maker ya iPhone na iPad muri App Store",
+    "primaryNavigation": "Uburyo bw'ingenzi bwo kugenda",
+    "footerNavigation": "Uburyo bwo kugenda bwo hasi",
+    "backHome": "Garuka ahabanza",
+    "footerTagline": "Screenshots za App Store, byorohejwe.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Hitamo ururimi",
+    "kicker": "Ururimi rugaragara",
+    "title": "Hitamo ururimi",
+    "close": "Funga imenyu y'ururimi",
+    "hint": "Hitamo ururimi rwakubera rworoshye cyane. Amazina y'ibicuruzwa n'amabwiriza ya tekiniki ntibihinduka."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Yakozwe ku bw'intambwe ya nyuma mbere yo gusohora",
+      "titleHtml": "Hindura ibishashwe by'app ube ufite <span>screenshot ziteguye koherezwa.</span>",
+      "description": "Tegura buri screenshot isabwa mu kohereza app yawe, hanyuma huza na Ollama kugira ngo ukore verisiyo zihuye n'ururimi rw'aho—utabanje kuzikora imwe ku yindi n'intoki.",
+      "primaryAction": "Reba uko bikora",
+      "secondaryAction": "Sura uburyo bwo guhindura mu rurimi rw'aho",
+      "readyFor": "Biteguye kuri",
+      "supportAriaLabel": "Imiterere yo kohereza hanze yemewe",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Ishusho y'ingenzi"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Icyitegererezo cya Screenshot Maker",
+      "project": "Isohoka ry'impeshyi",
+      "saved": "Byabitswe",
+      "appStorePreview": "Icyitegererezo cya App Store",
+      "display": "Ekirani ya 6.7″",
+      "shots": [
+        {
+          "line1": "Kora gahunda nke.",
+          "line2": "Kora byinshi."
+        },
+        {
+          "line1": "Byose",
+          "line2": "ahantu hamwe."
+        },
+        {
+          "line1": "Yakorewe",
+          "line2": "umunsi wawe."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Guhindura ururimi rw'ama-screenshot…",
+      "exportComplete": "KUSOHORA BYARANGIRIYE",
+      "exportReady": "PNGs + metadata biteguye"
+    },
+    "proof": [
+      {
+        "title": "Urwego rumwe rw'akazi rugaragara",
+        "body": "Kuva ku mashusho asanzwe kugeza ku mashusho yashyizweho neza"
+      },
+      {
+        "title": "Idizayini imwe, mu ndimi zose",
+        "body": "Hindura amagambo ari muri screenshots ukoresheje Ollama"
+      },
+      {
+        "title": "Kusohora byose mu buryo bugenewe neza",
+        "body": "Huza amafoto na metadata hamwe"
+      }
+    ],
+    "proofAriaLabel": "Akamaro k'iki gishoro",
+    "features": {
+      "overline": "Byose ahantu hamwe",
+      "titleHtml": "Koresha igihe gito mu gutegura.<br />Sohora ibikora byawe wizeye kurushaho.",
+      "description": "Screenshot (App) Maker ihindura imirimo isubiramo itangira mu gusohora app, ikayigira nk'imigendekere imwe y'amaso kandi isobanutse.",
+      "cards": [
+        {
+          "title": "Shyiramo amafoto y'ibice bya app yawe.",
+          "body": "Zana amafoto (screenshots), uyishyire mu miterere y'ibikoresho iteye neza, kandi utegure inkuru yuzuye ya App Store mu minota mike.",
+          "drop": "Shyira amafoto (screenshots) hano",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Kora igenamiterere rimwe.",
+          "body": "Shyiraho amabara, imiterere, ibyerekeye ibikoresho, uburyo bwo kwandika, n'ibishishwa kuri buri paji, ariko ugumya ubutumwa bwa buri paji bwihariye."
+        },
+        {
+          "title": "Kora ibihuye na buri screen.",
+          "body": "Tegura ibikoresho bya iPhone, iPad, Apple Watch, Apple TV, n'amafoto y'ingenzi (feature graphics) ukoresheje umushinga umwe."
+        },
+        {
+          "title": "Sohora ikirango cyiteguye koherezwa.",
+          "body": "Kora amafoto afite ireme ryo hejuru, utegure amadosiye ahinduye ururimi, kandi uhuze amakuru ya App Store yahinduwe mu ndimi zitandukanye mu kazu kamwe gasobanutse.",
+          "folder": "Ibikoresho by'App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Icyitegererezo cyo guhuza ururimi cya Ollama",
+      "pill": "Gishyizwe mu kazi na serivuzi yawe ya Ollama",
+      "title": "Kampayi yawe y'amafoto (screenshots), itegurewe kuvugira buri soko.",
+      "description": "Huza Screenshot (App) Maker na Ollama hanyuma uhindure imyandikire y'amafoto n'amakuru ya App Store mu nzira imwe. Imiterere yawe isanzwe igumana uko ari, mu gihe amagambo ahinduka bijyanye n'ururimi rw'igihugu.",
+      "checks": [
+        "Hindura imyandikire yose y'amafoto icyarimwe",
+        "Huza ibisobanuro, amagambo y'ingenzi (keywords), n'inyandiko zishimangira itangaza ry'impinduka n'ururimi rw'igihugu",
+        "Sura ibyashyizwe mu rundi rurimi mbere yo kubisohora bwa nyuma"
+      ],
+      "action": "Reba icyigisho cyo gushyiraho Ollama",
+      "source": "Isoko · Icyongereza",
+      "localeCount": "Indimi 4",
+      "sourceLabel": "Isoko",
+      "ready": "Byiteguye",
+      "samples": [
+        "Igenamigambi gake.<br /><strong>Kora byinshi.</strong>",
+        "Igenamigambi gake.<br /><strong>Iterambere rishize.</strong>",
+        "Gutegura gake.<br /><strong>Kurema byinshi.</strong>",
+        "Inzitizi gake.<br /><strong>Umuvuduko mwinshi.</strong>"
+      ],
+      "complete": "Guhindura ururimi byarangiye",
+      "completeBody": "Amagambo n'amakuru y'inyongezo byiteguye gusuzumwa"
+    },
+    "workflow": {
+      "overline": "Inzira ngufi yo gusohora",
+      "title": "Shyiramo amafoto y'ibanze. Uyobye ibikoresho byiteguye ku isoko.",
+      "description": "Nta gutegura imishusho bigoye. Nta gusubiramo gukora gahunda imwe kuri buri rurimi.",
+      "steps": [
+        {
+          "number": "INTAMWE 01",
+          "title": "Injiza",
+          "body": "Shyiramo imbuga zigaragaza neza ibyo app yawe ikora."
+        },
+        {
+          "number": "INTAMBWE 02",
+          "title": "Kurema isura no guhindura mu rurimi",
+          "body": "Kora isura rimwe gusa, hanyuma uhindure amagambo ukoresheje Ollama."
+        },
+        {
+          "number": "INTAMBWE 03",
+          "title": "Sohora",
+          "body": "Manura amafoto n'amakuru (metadata) atewe neza, abyiteguye koherezwa."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Yateguwe kugira ngo ibe ibanga",
+      "title": "Ibikoresho bya app yawe biguma mu bushobozi bwawe.",
+      "description": "Guhindura amafoto (screenshots) bikorwa kuri gikoresho cyawe. Iyo uhisemo Ollama, amagambo yohererezwa gusa aho wateguye itumanaho rya server.",
+      "action": "Soma politiki y'ibanga"
+    },
+    "final": {
+      "overline": "Kuva ku mafoto (screenshots) kugeza ku kohereza",
+      "title": "Kora intambwe ya nyuma mu buryo bworoshye.",
+      "description": "Kora, hindura mu rurimi rw'igihugu, kandi ohereza hanze buri screenshot yose ukeneye ku isohora rya app yawe rishya.",
+      "action": "Downloada kuri App Store",
+      "appIconAlt": "Ikimenyetso cya Screenshot App Maker app"
+    }
+  },
+  "ollama": {
+    "pill": "Guhuza na Ollama",
+    "title": "Inyigisho yo gutegura Ollama",
+    "subtitle": "Huza Screenshot (App) Maker n'uburyo bwawe bwa Ollama kugira ngo ukore guhindura ururimi hakoreshejwe AI no kurema inyandiko.",
+    "requirementsTitle": "Ibyo ukeneye",
+    "requirements": [
+      "Imashini ya Mac, Windows PC, cyangwa Linux yo gukoresha Ollama",
+      "Ollama yashyizweho kandi ikora",
+      "iPhone/iPad yawe kuri network imwe n'imashini ya Ollama (birashimwa)"
+    ],
+    "stepsTitle": "Intambwe ku yindi",
+    "steps": [
+      "<strong>Shyiraho Ollama</strong>: manura hanyuma ushyireho Ollama kuri OS yawe.",
+      "<strong>Tangiza Ollama</strong>: koresha <code>ollama serve</code> (cyangwa fungura app ya Ollama kuri macOS).",
+      "<strong>Kuzana model</strong>: koresha <code>ollama pull llama3.2</code> (cyangwa model wifuza).",
+      "<strong>Menya ko bikora</strong>: koresha <code>ollama run llama3.2</code> hanyuma ugerageze prompt.",
+      "<strong>Shaka adresi ya serivuri yawe</strong>: andika LAN IP ya mudasobwa yawe (urugero <code>192.168.0.10</code>).",
+      "<strong>Byikoreshe muri app</strong>: muri Screenshot (App) Maker settings, shyira Host kuri <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Icyitonderwa no gukemura ibibazo",
+    "notes": [
+      "Niba app itashoboye guhuza, reba niba telefone yawe na mudasobwa ziri kuri Wi-Fi imwe.",
+      "Menya neza ko port <code>11434</code> yemewe na firewall yawe.",
+      "Niba wishimira gukoresha serivuri yo kure (home PC, VPS), ugomba gufungura port mu buryo bwizewe (VPN irashimangirwa)."
+    ],
+    "ctaTitle": "Witeguye guhindura mu rurimi?",
+    "ctaBody": "Garuka muri app, gerageza guhuza, hanyuma utangire n'ururimi rumwe.",
+    "backHome": "← Garuka Ahabanza",
+    "metaTitle": "Inyigisho zo gushyiraho Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Politiki y'ibanga",
+    "metaTitle": "Politiki y'ibanga — Screenshot (App) Maker",
+    "title": "Politiki y'ibanga",
+    "intro": "Iyi Politiki y'ibanga isobanura uburyo Screenshot (App) Maker (\"App\") itunganya amakuru y'umukoresha.",
+    "summaryTitle": "Incamake",
+    "summary": [
+      "Nta makonti. Nta isuzuma. Nta gukurikirana.",
+      "Amadosiye yawe n'ibyo wahinduye biguma ku gikoresho cyawe, keretse niba uhisemo guhuza na server yawe ya Ollama.",
+      "Niba ukoresha Ollama, inyandiko yohererezwa gusa ku adresi ya server wateguye."
+    ],
+    "sections": [
+      {
+        "title": "Gukusanya amakuru",
+        "body": [
+          "Iyi App ntigukusanya, ngo ibike, cyangwa yohereze amakuru y'umuntu ku ma server yacu.",
+          "Screenshots, templates, n'amafoto yasohowe bikorwa kandi bikabikwa mu gikoresho cyawe."
+        ]
+      },
+      {
+        "title": "Kwinjira mu Mafaili n'Amafoto",
+        "body": [
+          "Iyi App ishobora gusaba uburenganzira bwo kwinjira muri app y'amafaili cyangwa mu bufunguzo bw'amafoto yawe kugira ngo izane screenshots.",
+          "Amafoto yazanywe akorwaho mu gikoresho kandi ntabwo yohererezwa hanze mu buryo bwikora."
+        ]
+      },
+      {
+        "title": "Guhindura ururimi hakoreshejwe AI (Ollama)",
+        "body": [
+          "Niba wemeje gukora cyangwa guhindura inyandiko hakoreshejwe AI, iyi App ishobora kohereza inyandiko kuri server ya Ollama wateguye (urugero, mudasobwa yawe).",
+          "Ntituyobora cyangwa ntukira imyandiko yawe ya Ollama, kandi iyi App ntabwo ibika cyangwa isubiza inyandiko zakozwe na AI."
+        ]
+      },
+      {
+        "title": "Serivisi z'abandi",
+        "body": [
+          "Iyi App ntiyikoresha serivisi z'abandi zo gusesengura, SDK z'itangazo, cyangwa ikoranabuhanga ryo gukurikirana."
+        ]
+      },
+      {
+        "title": "Impinduka",
+        "body": [
+          "Tushobora guhindura iyi Politiki y'Ubwizerwa kenshi. Impinduka zizagaragara kuri iyi paji."
+        ]
+      },
+      {
+        "title": "Kumenyerana",
+        "body": [
+          "Niba ufite ibibazo bijyanye na Politiki y'ibanga, nyandikire kuri imeyili yashyizwe mu rutonde rwa App Store."
+        ]
+      }
+    ],
+    "backHome": "← Garuka Ahabanza"
+  }
+}

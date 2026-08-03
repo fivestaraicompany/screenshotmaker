@@ -69,7 +69,8 @@
       "ollama": "OLLAMA",
       "localizing": "Lokaliseeritakse ekranitõbesid…",
       "exportComplete": "EKSPORTEERIMINE VALMIS",
-      "exportReady": "PNG-d ja metadata on valmis"
+      "exportReady": "PNG-d ja metadata on valmis",
+      "display": "6.7″ ekraan"
     },
     "proof": [
       {

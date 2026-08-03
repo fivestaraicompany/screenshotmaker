@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — 輕鬆製作 App Store 螢幕截圖",
+    "homeDescription": "製作精美且符合提交標準的 App Store 螢幕截圖，並使用 Ollama 輕鬆生成本地化版本。",
+    "ollamaDescription": "將 Screenshot (App) Maker 連接至您的 Ollama 伺服器，以實現私密的 AI 驅動螢幕截圖本地化。",
+    "privacyDescription": "了解 Screenshot (App) Maker 如何保護您的螢幕截圖、編輯內容及本地化工作流程的私密性。",
+    "languageName": "英文"
+  },
+  "common": {
+    "skipToContent": "跳至內容",
+    "homeAriaLabel": "Screenshot App Maker 首頁",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "功能",
+    "localization": "本地化",
+    "privacy": "私隱",
+    "ollamaSetup": "設定 Ollama",
+    "ollamaSetupShort": "Ollama 設定",
+    "downloadIos": "下載 iOS 版本",
+    "downloadIosAriaLabel": "從 App Store 下載適用於 iPhone 及 iPad 的 Screenshot (App) Maker",
+    "primaryNavigation": "主要導航",
+    "footerNavigation": "頁腳導航",
+    "backHome": "返回首頁",
+    "footerTagline": "輕鬆製作 App Store 螢幕截圖。",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "選擇語言",
+    "kicker": "顯示語言",
+    "title": "選擇一種語言",
+    "close": "關閉語言選單",
+    "hint": "請選擇對您最自然的語言。產品名稱和技術指令將保持不變。"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "專為發佈前的最後階段打造",
+      "titleHtml": "將應用程式畫面轉換為<span>可直接提交的螢幕截圖。</span>",
+      "description": "設計應用程式提交所需的所有螢幕截圖，然後連接 Ollama 以建立本地化版本——無需手動逐一重新製作。",
+      "primaryAction": "查看運作方式",
+      "secondaryAction": "探索本地化",
+      "readyFor": "適用於",
+      "supportAriaLabel": "支援的匯出類型",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "精選圖"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Screenshot Maker 產品預覽",
+      "project": "夏季發佈",
+      "saved": "已儲存",
+      "appStorePreview": "App Store 預覽",
+      "display": "6.7″ 螢幕",
+      "shots": [
+        {
+          "line1": "少計劃。",
+          "line2": "多行動。"
+        },
+        {
+          "line1": "一切",
+          "line2": "盡在其中。"
+        },
+        {
+          "line1": "專為",
+          "line2": "你的每一天而設。"
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "正在將螢幕截圖本地化…",
+      "exportComplete": "匯出完成",
+      "exportReady": "PNG 及元數據已準備就緒"
+    },
+    "proof": [
+      {
+        "title": "單一視覺化工作空間",
+        "body": "從原始畫面到精美素材"
+      },
+      {
+        "title": "一次設計，適用於所有地區",
+        "body": "使用 Ollama 翻譯螢幕截圖文案"
+      },
+      {
+        "title": "一次有序的匯出",
+        "body": "將圖片和元數據一起打包"
+      }
+    ],
+    "proofAriaLabel": "產品優勢",
+    "features": {
+      "overline": "所有內容盡在同一處",
+      "titleHtml": "減少準備時間。<br />更自信地發佈產品。",
+      "description": "Screenshot (App) Maker 將應用程式發佈末期的重複工作，轉化為一個清晰且視覺化的工作流程。",
+      "cards": [
+        {
+          "title": "放入你的 App 畫面。",
+          "body": "匯入螢幕截圖，將其放置在精美的裝置佈局中，並在數分鐘內構建完整的 App Store 故事。",
+          "drop": "將螢幕截圖拖放到此處",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "一次設計即可。",
+          "body": "在所有頁面中套用顏色、佈局、裝置設定、字體和陰影，同時保持每條訊息的獨特性。"
+        },
+        {
+          "title": "適配所有螢幕。",
+          "body": "在同一個專案中為 iPhone, iPad, Apple Watch, Apple TV 及精選圖準備素材。"
+        },
+        {
+          "title": "匯出可直接提交的套件。",
+          "body": "渲染高解析度圖像，整理本地化文件，並將翻譯後的 App Store 元數據打包成一個整潔的存檔。",
+          "folder": "App Store 資源"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Ollama 本地化預覽",
+      "pill": "由您的 Ollama 伺服器驅動",
+      "title": "讓您的螢幕截圖宣傳活動，準備好迎接每個市場。",
+      "description": "將 Screenshot (App) Maker 連接至 Ollama，在同一個工作流程中翻譯螢幕截圖標題和 App Store 元數據。您的原始佈局將保持不變，而文案則會根據每個地區進行更改。",
+      "checks": [
+        "批量翻譯所有螢幕截圖標題",
+        "本地化說明、關鍵字及版本說明",
+        "在最終匯出前審核翻譯"
+      ],
+      "action": "查看 Ollama 設定指南",
+      "source": "來源 · 英文",
+      "localeCount": "4 種語言",
+      "sourceLabel": "來源",
+      "ready": "準備就緒",
+      "samples": [
+        "少計劃<br /><strong>多行動</strong>",
+        "少計劃<br /><strong>多進展</strong>",
+        "少設定<br /><strong>多創作</strong>",
+        "少阻礙<br /><strong>多動力</strong>"
+      ],
+      "complete": "本地化完成",
+      "completeBody": "文案及元數據已準備好供審核"
+    },
+    "workflow": {
+      "overline": "更快捷的發佈路徑",
+      "title": "輸入原始截圖，輸出商店就緒資源。",
+      "description": "無需複雜的設計設定。無需為每種語言重新建立相同的廣告活動。",
+      "steps": [
+        {
+          "number": "STEP 01",
+          "title": "匯入",
+          "body": "添加最能展現你應用程式故事的畫面。"
+        },
+        {
+          "number": "第 02 步",
+          "title": "設計與本地化",
+          "body": "設定一次外觀，然後使用 Ollama 翻譯你的文案。"
+        },
+        {
+          "number": "第 03 步",
+          "title": "匯出",
+          "body": "下載整理好的圖片和元數據，即可準備提交。"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "原生隱私設計",
+      "title": "你的應用程式資產將由你掌控。",
+      "description": "螢幕截圖編輯在你的裝置上進行。當你選擇 Ollama 時，文本僅會發送到你配置的伺服器地址。",
+      "action": "閱讀私隱政策"
+    },
+    "final": {
+      "overline": "從螢幕截圖到提交",
+      "title": "使最後一步變得簡單。",
+      "description": "為你的下一次 App 發佈設計、本地化並匯出所有需要的螢幕截圖。",
+      "action": "在 App Store 下載",
+      "appIconAlt": "Screenshot App Maker 應用程式圖示"
+    }
+  },
+  "ollama": {
+    "pill": "Ollama 整合",
+    "title": "Ollama 設定教學",
+    "subtitle": "將 Screenshot (App) Maker 連接至你自己的 Ollama 實例，以進行 AI 翻譯及文本生成。",
+    "requirementsTitle": "準備事項",
+    "requirements": [
+      "運行 Ollama 的 Mac、Windows PC 或 Linux 裝置",
+      "已安裝並正在運行的 Ollama",
+      "你的 iPhone/iPad 與 Ollama 裝置處於同一網絡（建議）"
+    ],
+    "stepsTitle": "逐步操作",
+    "steps": [
+      "<strong>安裝 Ollama</strong>：根據您的作業系統下載並安裝 Ollama。",
+      "<strong>啟動 Ollama</strong>：執行 <code>ollama serve</code>（或在 macOS 上開啟 Ollama 應用程式）。",
+      "<strong>拉取模型</strong>：執行 <code>ollama pull llama3.2</code>（或您偏好的模型）。",
+      "<strong>確認運作正常</strong>：執行 <code>ollama run llama3.2</code> 並測試提示詞。",
+      "<strong>尋找伺服器位址</strong>：記錄您電腦的區域網路 (LAN) IP（例如 <code>192.168.0.10</code>）。",
+      "<strong>在應用程式中使用</strong>：在 Screenshot (App) Maker 設定中，將 Host 設為 <code>http://&lt;LAN-IP&gt;:11434</code>。"
+    ],
+    "notesTitle": "注意事項與故障排除",
+    "notes": [
+      "如果應用程式無法連線，請檢查您的手機和電腦是否連接到同一個 Wi‑Fi 網絡。",
+      "請確保您的防火牆允許連接埠 <code>11434</code>。",
+      "如果您偏好使用遠端伺服器（家用電腦、VPS），則必須安全地開放連接埠（建議使用 VPN）。"
+    ],
+    "ctaTitle": "準備好進行本地化了嗎？",
+    "ctaBody": "返回應用程式，測試連線並從一種語言開始。",
+    "backHome": "← 返回首頁",
+    "metaTitle": "Ollama 設定教學 — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "私隱政策",
+    "metaTitle": "私隱政策 — Screenshot (App) Maker",
+    "title": "私隱政策",
+    "intro": "本私隱政策說明 Screenshot (App) Maker（「本應用程式」）如何處理用戶數據。",
+    "summaryTitle": "摘要",
+    "summary": [
+      "無需帳戶。無分析。無追蹤。",
+      "除非您選擇連接到自己的 Ollama 伺服器，否則您的檔案和編輯內容將保留在您的裝置上。",
+      "如果您使用 Ollama，文本僅會發送到您配置的伺服器地址。"
+    ],
+    "sections": [
+      {
+        "title": "資訊收集",
+        "body": [
+          "本應用程式不會收集、儲存或將個人資訊傳輸至我們的伺服器。",
+          "螢幕截圖、模板及匯出的圖片會在您的裝置上本地建立並儲存。"
+        ]
+      },
+      {
+        "title": "檔案及相片存取權限",
+        "body": [
+          "本應用程式可能會要求存取「檔案」App 或您的相片庫，以便匯入螢幕截圖。",
+          "匯入的圖片會在裝置上處理，不會自動上傳。"
+        ]
+      },
+      {
+        "title": "AI 翻譯 (Ollama)",
+        "body": [
+          "如果您啟用 AI 文本生成或翻譯，本應用程式可將文本發送到您配置的 Ollama 伺服器（例如您的電腦）。",
+          "我們不會營運或接收您的 Ollama 流量，且本應用程式不會記錄或儲存由 AI 處理的文本。"
+        ]
+      },
+      {
+        "title": "第三方服務",
+        "body": [
+          "本應用程式不使用第三方分析、廣告 SDK 或追蹤技術。"
+        ]
+      },
+      {
+        "title": "變更",
+        "body": [
+          "我們可能會不時更新本私隱政策。變更將反映在此頁面中。"
+        ]
+      },
+      {
+        "title": "聯絡方式",
+        "body": [
+          "如果您對本私隱政策有任何疑問，請透過 App Store 頁面提供的電子郵件地址與我們聯絡。"
+        ]
+      }
+    ],
+    "backHome": "← 返回主頁"
+  }
+}

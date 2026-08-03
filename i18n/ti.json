@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — ስክሪንሾታት ናይ App Store ብቐሊሉ ስራሕ",
+    "homeDescription": "ንመድረክ App Store ዝተዳለዉ ጽቡቕ ስክሪንሾታት ስራሕ፣ ብቐሊሉ ድማ ናይ ዞባ ትርጉማት ንምፍጣር Ollama ተጠቐም።",
+    "ollamaDescription": "ንናይ ዞባ ስክሪንሾታት ብAI ንምስራሕ፣ Screenshot (App) Maker ምስ ሰርቨር Ollama ኣተያይዘሉ።",
+    "privacyDescription": "Screenshot (App) Maker ስክሪንሾታትካ፣ ናይ መግለጺ ለውጥታትካን ናይ ትርጉም ስራሕናን ከመይ ጌሩ ምስጢራዊ ከም ዝገብሮ ተረድእ።",
+    "languageName": "እንግሊዝኛ"
+  },
+  "common": {
+    "skipToContent": "ቀጥታ ናብ ትሕዝቶ",
+    "homeAriaLabel": "Screenshot App Maker መበገሲ",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "ባህርያት",
+    "localization": "ናይ ዞባ ትርጉም",
+    "privacy": "ምስጢራዊነት",
+    "ollamaSetup": "Ollama ኣቀናቕል",
+    "ollamaSetupShort": "ዝግጅት Ollama",
+    "downloadIos": "ን iOS ውሳብ",
+    "downloadIosAriaLabel": "Screenshot (App) Maker ን iPhoneን iPadን ካብ App Store ውሳብ",
+    "primaryNavigation": "ቀንዲ መምርሒ",
+    "footerNavigation": "ተሓት መምርሒ",
+    "backHome": "ናብ መበገሲ ተመሊስ",
+    "footerTagline": "ስክሪንሾትስ App Store፣ ቀሊል ዝዀነ።",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "ቋንቋ ምረጽ",
+    "kicker": "ዝርአ ቋንቋ",
+    "title": "ሓደ ቋንቋ ምረጽ",
+    "close": "ሜኑ ቋንቋ ዓጽእ",
+    "hint": "ንዓኻ ዝያዳ ተፈጥሮኣዊ ዝመስለካ ቋንቋ ምረጽ። ስምታት ፍርያትን ቴክኒካዊ ትእዛዛትን ኣይቀየሩን እዮም።"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "ቅድሚ ምውጻእ ንመወዳእታ ስጉምቲ ዝተሰርሐ",
+      "titleHtml": "ናይ ኣፕሊኬሽን ስክሪናት ናብ <span>ንመስጸዊ ዝተዳለዉ ስክሪንሾትስ</span> ቀይር።",
+      "description": "ንመስጸዊ ኣፕሊኬሽንካ ዘድልዩ ኩሎም ስክሪንሾትስ ዲዛይን ግበር፣ ድሕሪኡ ተመሳሰሊ ዝኾኑ ቋንቋታት ንምፍጣር Ollama ኣተሳስር—ነፍሲ ወከፎም ብኣእጋጽካ ዳግማይ ክትሰርሖ ኣየድልየካን።",
+      "primaryAction": "ከመይ ጌሩ ከም ዝሰርሕ ርአ",
+      "secondaryAction": "Localization መርምር",
+      "readyFor": "ንነዚ ዝተዳለወ:",
+      "supportAriaLabel": "ዝድገፉ ዓይነትታት ኤክስፖርት",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "መግለጺ ስእሊ"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "ናይ Screenshot Maker ቅድመ-ርኢቶ ፍርያት",
+      "project": "ናይ በጋ ስርጭት",
+      "saved": "ተዓቂቡ",
+      "appStorePreview": "ናይ App Store ቅድመ-ርኢቶ",
+      "display": "6.7″ ስክሪን",
+      "shots": [
+        {
+          "line1": "ትልሚ ቀንሲ።",
+          "line2": "ዝያዳ ግበር።"
+        },
+        {
+          "line1": "ኩሉ ነገር",
+          "line2": "ኣብ ሓደ ቦታ።"
+        },
+        {
+          "line1": "ተዳልዩ ዝመጸ ን",
+          "line2": "መዓልትኻ።"
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "ስክሪንሾታትን ናብ স্থানীয় ቋንቋ እናቐየርና ኣሎ…",
+      "exportComplete": "ምውጻእ ተዛሚሉ",
+      "exportReady": "PNGታት + ሜታዳታ ዝተዳለዉ እዮም"
+    },
+    "proof": [
+      {
+        "title": "ሓደ ርእሰ-ምስሊ ስፍሓት ስራሕ",
+        "body": "ካብ ጥራይ ስክሪናት ናብ ዝተቀረጹ ንብረትታት"
+      },
+      {
+        "title": "ሓደ ዲዛይን፣ ንኹሉ ቋንቋታት",
+        "body": "ብ Ollama ስክሪንሾት ኮፒ ተርጉም"
+      },
+      {
+        "title": "ሓደ ዝተሰናዳ ምውጻእ",
+        "body": "ምስላትን ሜታዳታን ብሓባር ኣሽተት"
+      }
+    ],
+    "proofAriaLabel": "ጥቕምቲ እቲ ፍርያት",
+    "features": {
+      "overline": "ኩሉ ኣብ ሓደ ቦታ",
+      "titleHtml": "ንመዳለዊ ዝኸውን ግዜ ቀንስ።<br />ብዝያዳ እምነት ኣልቀቕ።",
+      "description": "Screenshot (App) Maker ኣብ መወዳእታ ናይ ኣፕሊኬሽን ምንቅስቃስ ዝርከብ ተደጋጋሚ ስራሕ ናብ ሓደ ንጹህን ምስላዊን ስራሕ ይቕይሮ።",
+      "cards": [
+        {
+          "title": "ናይ ኣፕሊኬሽን ስክሪናትካ ኣብዚ ኣእትው።",
+          "body": "ስክሪንሾታትን ኣእትው፣ ኣብ ዝተቀረጹ ናይ መሳርሒ ሌያውቶች ኣቐምጥ፣ ከምኡውን ኣብ ውሽጢ ሒደት ደቒቓት ምሉእ ናይ App Store ታሪክ ኣዳልው።",
+          "drop": "ስክሪንሾታትን ኣብዚ ኣእትው",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "ሓንሳብ ዲዛይን ግበር።",
+          "body": "ነፍሲ ወከፍ መልእኽቲ ፍሉይ ብምግባር፣ ኣብ ኩሉ ገጽታት ሕብዓት፣ ሌያውቶች፣ ናይ መሳርሒ ስነ-ስርዓታትን፣ ዓይነት ጽሑፋትን ጥላታትን ተጠቐም።"
+        },
+        {
+          "title": "ንኩሉ ስክሪን ዝምጥን።",
+          "body": "ካብ ሓደ ፕሮጀክት ን iPhone, iPad, Apple Watch, Apple TV, ከምኡውን ንልዩ ስእላዊ መግለጺታት (feature graphics) ኣዳልው።"
+        },
+        {
+          "title": "ንምስዳድ ዝተዳለወ ፓኬጅ ኤክስፖርት ግበር።",
+          "body": "ልዑል ጥራት ዘለዎም ስእላትን ኣዳልው፣ ናይ ቋንቋ ፋይላትን ኣደራጅብ፣ ከምኡውን ትርጉም ዝተገብረሎም ናይ App Store ሜታዳታታት ኣብ ሓደ ንጹህ ኣርካይቭ ኣእትው።",
+          "folder": "ንብረታት App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "ቅድመ-ርኢቶ ናይ Ollama ሎካላይዜሽን",
+      "pill": "ብሰርቨር Ollama ዝሰርሕ",
+      "title": "ናይ ስክሪንሾት ካምፔይንካ፣ ንኹሉ ዕዳጋታት ዝተዳለወ።",
+      "description": "Screenshot (App) Maker ምስ Ollama ኣተያይዘካ፣ ናይ ስክሪንሾት ኣርእስትታትን ሜታዳታ App Store-ን ኣብቲ একেላ ስራሕ ተርጉሞም። እቲ ናይ መጀመርታ ዲዛይን ከም ዘሎ እናተሓለወ፣ እቲ ጽሑፍ ንነፍሲ ወከፎም ዞባታት ይቕየር።",
+      "checks": [
+        "ኩሉ ኣርእስትታት ስክሪንሾት ብሓባር ተርጉሞም",
+        "መግለጺታትን፣ ኪወርድታትን (keywords)፣ ከምኡውን ናይ ልውውጥ መዘክሪታትን (release notes) ኣላመሞም",
+        "ቅድሚ ናይ መወዳእታ ኤክስፖርት ትርጉማት ተዓያይዘ"
+      ],
+      "action": "መምርሒ ምጥቀስ Ollama ርአ",
+      "source": "ምንጪ · እንግሊዝኛ",
+      "localeCount": "4 ቋንቋታት",
+      "sourceLabel": "ምንጪ",
+      "ready": "ዝግጁ",
+      "samples": [
+        "ንእሽቶ ኣቀሚጥ።<br /><strong>ዝያዳ ፈጽም።</strong>",
+        "ንእሽቶ ኣቀማጥ።<br /><strong>ዝያዳ ስጉምቲ።</strong>",
+        "ንእሽቶ ምድላው።<br /><strong>ዝያዳ ምፍጣር።</strong>",
+        "ንእሽቶ ጸናሕቲ።<br /><strong>ዝያዳ ጉልበት።</strong>"
+      ],
+      "complete": "ናይ ቋንቋ ምግላጽ ተወዲኡ",
+      "completeBody": "ጽሑፍን ሜታዳታን ንምርጋጽ ዝግጁ እዮም"
+    },
+    "workflow": {
+      "overline": "ንምውጻእ ሓጺር መገዲ",
+      "title": "ጥራይ ስክሪናት ኣእትው። ንስቶር ዝተዳለዉ ፋይላት ኣውጽእ።",
+      "description": "ጸላም ናይ ዲዛይን ምድላው የብሉን። ንነፍሲ ወከፎም ቋንቋተታትቲ একেይቲ ካምፔይን ዳግማይ ምስራሕ ኣየድልይም።",
+      "steps": [
+        {
+          "number": "ስጉምቲ 01",
+          "title": "ኣእትው",
+          "body": "ናይ ኣፕሊኬሽንካ ዛንታ ብዝበለጸ ዝገልጹ ስክሪናት ወስኑ።"
+        },
+        {
+          "number": "ስጉምቲ 02",
+          "title": "ዲዛይንን ሎካላይዜሽንን",
+          "body": "ላዕሊኡ ሓንሳብ ጥራይ ስራሕ፣ ድሕሪኡ ብ Ollama ትርጉም ስራሕካ ኣዳልው።"
+        },
+        {
+          "number": "ስጉምቲ 03",
+          "title": "ኤክስፖርት",
+          "body": "ዝተሰናዱ ስሉጥ ምስላትን ሜታዳታን ዳውንሎድ ግበር፣ ንምልኣኽ ዝተዳለዉ እዮም።"
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "ብዲዛይኑ ምስጢራዊ",
+      "title": "ናይ ኣፕሊኬሽንካ ንብረታት ኣብ ቁጥጥርኻ ይቕመጡ።",
+      "description": "ናይ ስክሪንሾት ኤዲቲንግ ኣብ መሳርያኻ ይካየድ። Ollama ምስ ዝመርጽካ፣ ጽሑፍ ናብቲ ዝተዋቀረ ናይ ሰርቨር ኣድራሻ ጥራይ ይላክእ።",
+      "action": "ፖሊሲ ምስጢራዊነት ንዓንብብ"
+    },
+    "final": {
+      "overline": "ካብ ስክሪንሾት ክሳብ ምልኣኽ",
+      "title": "ናይ መወዳእታ ደረጃ ቀሊል ክኸውን ግበሮ.",
+      "description": "ንዝጊ ዝቕርብ ናይ ኣፕሊኬሽን ስሪት ዘድሊ ኩሉ ስክሪንሾት ዲዛይን ግበር፣ ናጥብ (localize) ግበር፣ ብኤክስፖርት እላዕ።",
+      "action": "ካብ App Store ዳውንሎድ ግበር",
+      "appIconAlt": "ናይ Screenshot App Maker ኣይኮን"
+    }
+  },
+  "ollama": {
+    "pill": "ጥምረት Ollama",
+    "title": "መምህሪ ምስርራት Ollama",
+    "subtitle": "ን AI ትርጉምን ጽሑፍ ምፍጣርን Screenshot (App) Maker ምስ ናይ ብራስኻ Ollama ኢንስታንስ ኣተያይዝ።",
+    "requirementsTitle": "ዘድልዩ ነገራት",
+    "requirements": [
+      "Ollama ንምስራሕ Mac፣ Windows PC ወይ Linux ማሽን",
+      "Ollama ተተኽሊሉን ዝሰርሕን",
+      "iPhone/iPad ንኹን ምስ ናይ Ollama ማሽን ኣብቲ একেኑ ኔትወርክ (ዝመከር)"
+    ],
+    "stepsTitle": "ደረጃ ብደረጃ",
+    "steps": [
+      "<strong>Ollama ተጠቅልሎ</strong>: ን OS ትካእ Ollama ኣውርዶን ተጠቅልሎን።",
+      "<strong>Ollama ጀምር</strong>: <code>ollama serve</code> ኣንቀጽ (ወይ ኣብ macOS ናይ Ollama መተግበሪያ ክፈት)።",
+      "<strong>ሞዴል ስሓብ</strong>: <code>ollama pull llama3.2</code> (ወይ ዝተረኽየካ ሞዴል) ኣንቀጽ።",
+      "<strong>ክሰርሕ ኣረጋግጽ</strong>: <code>ollama run llama3.2</code> ኣንቀጽን ሓደ prompt ፈትሽን።",
+      "<strong>ናይ ሰርቨር አድራሻ ፍለጥ</strong>: ናይ ኮምፒተርካ LAN IP (ንኣብነት <code>192.168.0.10</code>) ጽውና።",
+      "<strong>ኣብ መተግበሪያ ተጠቐምሉ</strong>: ኣብ ስነ-ስርዐት Screenshot (App) Maker፣ Host ናብ <code>http://&lt;LAN-IP&gt;:11434</code> ኣስተካክል።"
+    ],
+    "notesTitle": "መዘክሪታትን መፍትሒ ጸገማትን",
+    "notes": [
+      "መተግበሪያው ክትስርሕ እንተዘይፈለጠ፣ ስልኪካን ኮምፒተርካን ኣብ ሓደ Wi-Fi ኔትወርክ ምሆናቶም ኣረጋግጽ።",
+      "ፖርት <code>11434</code> ብ firewall ተፈቂዱ ምሆናም ኣረጋግጽ።",
+      "ርቀት ሰርቨር (home PC, VPS) ክትጥቀም እንተደሊኩም፣ ፖርቱን ብውሑስ መገዲ ክትከፍቶ ኣለካ (VPN ይምከር)።"
+    ],
+    "ctaTitle": "ናብ localization ክትጅምር ድሉው ዲኻ?",
+    "ctaBody": "ናብ መተግበሪያው ተመለስ፣ ትስስሩ ፈትሽ፣ ብሓደ locale ጀምር።",
+    "backHome": "← ናብ መበገሲ ተመለስ",
+    "metaTitle": "ትምህርቲ ምጥቃቕ Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "ፖሊሲ ምስጢራዊነት",
+    "metaTitle": "ፖሊሲ ምስጢራዊነት — Screenshot (App) Maker",
+    "title": "ፖሊሲ ምስጢራዊነት",
+    "intro": "እዚ ፖሊሲ ምስጢራዊነት እዚ Screenshot (App) Maker (\"እቲ ኣፕሊኬሽን\") ናይ ተጠቃሚ ዳታ ከመይ ጌሩ ከም ዝሕዝ ዝገልጽ እዩ።",
+    "summaryTitle": "ሓጺር መግለጺ",
+    "summary": [
+      "ኣካውንት የለን። ትንተና የለን። ክትትል የለን።",
+      "ናይ ብሓዘንካ ሰርቨር Ollama ንምጥቃቕ እንተዘይመረጽካ፡ ፋይላትካን ስራሕቲ ኣርማይትካን ኣብ መሳርያኻ ጥራይ ይርከቡ።",
+      "Ollama እንተተጠቐምካ፡ ጽሑፍ ናብቲ ዝተሰርሐሉ ናይ ሰርቨር ኣድራሻ ጥራይ ይላክእ።"
+    ],
+    "sections": [
+      {
+        "title": "ምእካብ ሓበሬታ",
+        "body": [
+          "እቲ ኣፕሊኬሽን ውልቃዊ ሓበሬታ ኣይእክብን፣ ኣይዕቅብን ወይ ናብ ሰርቨራትና ኣይልኣኽን።",
+          "ስክሪንሾትስ፣ ቴምፕሌትስን ዝተላእኩ ምስልታትን ኣብ መሳርያኻ ብሎካል ተፈጢሮም ይዕቀቡ።"
+        ]
+      },
+      {
+        "title": "ናይ ፋይላትን ፎቶታትን መዳረሲ",
+        "body": [
+          "እቲ ኣፕሊኬሽን ስክሪንሾትስ ንምእታው ናብ ናይ ፋይላት ኣፕሊኬሽን ወይ ናብ ናይ ፎቶታት ላይብረሪኻ መዳረሲ ክሓተት ይኽእል እዩ።",
+          "ዝኣተዉ ምስልታት ኣብቲ መሳርያ ጥራይ ዝስራሕ ኮይኖም ብባዕላን ኣይሰናብኡን እዮም።"
+        ]
+      },
+      {
+        "title": "ትርጉም AI (Ollama)",
+        "body": [
+          "ናይ AI ጽሑፍ ምፍጣር ወይ ትርጉም እንተኣነቃቕካ፣ እቲ ኣፕሊኬሽን ንዓኻ ዝተዋቀረ ናብ Ollama ሰርቨር (ንኣብነት፡ ናብቲ ናይ ገዛእ ርእስኻ ኮምፒውተር) ጽሑፍ ክልኣክ ይኽእል እዩ።",
+          "ንሕና ናይ Ollama ትራፊክካ ኣይመሓደርን ወይ ኣይተረክብን ኢና፣ እቲ ኣፕሊኬሽን ድማ ብ AI ዝተሰርሐ ጽሑፍ ኣይመዝግብን ወይ ኣይዕቅብን እዩ።"
+        ]
+      },
+      {
+        "title": "ናይ ሳልሳይ ወገን ኣገልግሎታት",
+        "body": [
+          "እቲ ኣፕሊኬሽን ናይ ሳልሳይ ወገን ትንተናታት፣ ናይ ማስታወቂያ SDKs ወይ ናይ መከታተሊ ቴክኖሎጂታት ኣይጥቀመን።"
+        ]
+      },
+      {
+        "title": "ለውጥታት",
+        "body": [
+          "እዛ ናይ ምስጢራዊነት ፖሊሲ እዚኣ ካብዚ ናብዛ ብስርጋት ክንሕድሳ ንኽእል ኢና። ለውጥታት ኣብዚ ገጽ እዚ ክርአ ይኽእሉ እዮም።"
+        ]
+      },
+      {
+        "title": "መተያየዪ",
+        "body": [
+          "ብዛዕባ እዚ ፖሊሲ ምስጢራዊነት ሕቶታት እንተለኩም፣ ኣብ ዝርዝር App Store ተዋሂሉ ዘሎ ኢሜይል ብምጥቃም ንዓና ተላእኩ።"
+        ]
+      }
+    ],
+    "backHome": "← ናብ መበገሲ ተመለስ"
+  }
+}

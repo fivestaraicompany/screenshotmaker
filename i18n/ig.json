@@ -108,9 +108,153 @@
         },
         {
           "title": "Wepụta ngwamba dị njikere maka nyefe.",
-          "body": "Mepụta foto ndị nwere resolution dị elu, hagebe faịlụ ndị a sụgharịrị, ma kpọkọta metadata App Store gị nke a sụgharịrị n'otu archive dị ọcha."
+          "body": "Mepụta foto ndị nwere resolution dị elu, hagebe faịlụ ndị a sụgharịrị, ma kpọkọta metadata App Store gị nke a sụgharịrị n'otu archive dị ọcha.",
+          "folder": "Ihe Ndị App Store"
         }
       ]
+    },
+    "localization": {
+      "ariaLabel": "Mlele ntụgharị asụsụ Ollama",
+      "pill": "Na-arụ ọrụ site na server Ollama gị",
+      "title": "Kampaanya screenshot gị, dị njikizoro ịga n'ahịa ụwa niile.",
+      "description": "Jikọọ Screenshot (App) Maker na Ollama, tụgharịkwa isiokwu screenshot na metadata App Store n'otu usoro ọrụ. Layout gị nke mbụ anaghị agbanwebe ebe ederede na-agbanwe maka asụsụ ọ bụla.",
+      "checks": [
+        "Tụgharị isiokwu screenshot niile n'otu ugbo",
+        "Tụgharị nkọwa, keywords, na release notes maka asụsụ dị iche iche",
+        "Lee ntụgharị ndị ahụ anya tupu ịme export ikpeazụ."
+      ],
+      "action": "Lee ndu maka ntọala Ollama.",
+      "source": "Isi · Bekee",
+      "localeCount": "Asụsụ 4",
+      "sourceLabel": "Isi",
+      "ready": "Adịla njikere",
+      "samples": [
+        "Atụla atụ nke ukwuu.<br /><strong>Mee ihe karịa.</strong>",
+        "Ntụgharị obere.<br /><strong>Mgbaga karịa.</strong>",
+        "Ntọala obere.<br /><strong>Ime ihe ọhụrụ karịa.</strong>",
+        "Nsogbu obere.<br /><strong>Ihu ike karịa.</strong>"
+      ],
+      "complete": "Ntụgharị asụsụ gụchala",
+      "completeBody": "Ederede na metadata adịla njikere maka nyocha"
+    },
+    "workflow": {
+      "overline": "Ụzọ dị mkpụmkpụ maka ịkpupụta",
+      "title": "Tinye screen ndị raw. Wetuo asset ndị adịla njikere maka Store.",
+      "description": "Ọ dịghị ntọala aatụgharịrị nka siri ike. Ọ dịghị mkpa ịrụ ụzọ kampen ahụ ọzọ maka asụsụ ọ bụla.",
+      "steps": [
+        {
+          "number": "NZIGA 01",
+          "title": "Weta",
+          "body": "Tinye screens ndị kachasị akọwa akụkọ app gị."
+        },
+        {
+          "number": "NZIGA 02",
+          "title": "Design & nsụgharị asụsụ",
+          "body": "Rụọ ụdị ya otu ugbo, mgbe ahụ sụgharị ederede gị na Ollama."
+        },
+        {
+          "number": "NZIGA 03",
+          "title": "Kpọpụta",
+          "body": "Download foto na metadata ndị a tọrọ n'usoro, ndị dị njikere maka ntụgharị."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "Nchekwa n'ụdị ya",
+      "title": "Ihe ndị app gị nwere na-anọ n'okpuru nchịkwa gị.",
+      "description": "Ndozi screenshot na-eme n'igwe gị. Mgbe ị họrọrọ Ollama, a na-eziga ederede naanị n'adreesi server i setara.",
+      "action": "Gụọ atụmatụ nchekwa nzuzo"
+    },
+    "final": {
+      "overline": "Site na screenshot ruo n'ntụgharị",
+      "title": "Mee ka nzọrọ ikpeazụ dị mfe.",
+      "description": "Idizayn, mee n'asụsụ obodo, ma wepụta screenshot niile nke mwepụta app gị na-achọ.",
+      "action": "Budata na App Store",
+      "appIconAlt": "Ayikọn app Screenshot App Maker"
     }
+  },
+  "ollama": {
+    "pill": "Njikọ Ollama",
+    "title": "Nkuzi ntụgharị Ollama",
+    "subtitle": "Jikọrọ Screenshot (App) Maker na Ollama instance gị maka nsụgharị AI na imepụta ederede.",
+    "requirementsTitle": "Ihe ị chọrọ",
+    "requirements": [
+      "Kọmputa Mac, Windows PC, ma ọ bụ Linux iji mee ka Ollama gbaa",
+      "Ollama etinyere ma na-agba",
+      "iPhone/iPad gị n'otu netiwọk na kọmputa Ollama (a mụmụrụ ya)"
+    ],
+    "stepsTitle": "Otu otu",
+    "steps": [
+      "<strong>Tụọ Ollama</strong>: dịburu ma tụọ Ollama maka OS gị.",
+      "<strong>Malite Ollama</strong>: megharịa <code>ollama serve</code> (ma ọ bụ mepee app Ollama na macOS).",
+      "<strong>Weta model</strong>: megharịa <code>ollama pull llama3.2</code> (ma ọ bụ model ị kacha mkpa).",
+      "<strong>Họrọ na ọ na-arụ ọrụ</strong>: megharịa <code>ollama run llama3.2</code> ma nwalea prompt.",
+      "<strong>Chọta adreesi server gị</strong>: dee LAN IP kọmputa gị (dịka <code>192.168.0.10</code>).",
+      "<strong>Jiri ya mee ihe na app ahụ</strong>: na ntọala Screenshot (App) Maker, setị Host ka ọ bụ <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Ihe a ga-echeta na ntụgharị nsogbu",
+    "notes": [
+      "Ọ bụrụ na app ahụ enweghị ike ijikọ, lelee ma ekwentị gị na kọmputa gị nọ na network Wi‑Fi dị otu.",
+      "Hụ na firewall gị kwenyere port <code>11434</code>.",
+      "Ọ bụrụ na ị chọrọ iji remote server (home PC, VPS), ị ga-emepee port ahụ n'ụzọ nchekwa (a mụmụrụ VPN)."
+    ],
+    "ctaTitle": "Ị dị njikere maka localization?",
+    "ctaBody": "Laghachi na app ahụ, nwalea njikọ, ma malite na otu locale.",
+    "backHome": "← Laghachi na Home",
+    "metaTitle": "Tutorial maka Isote Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Usoro nchebe nke nkịtị",
+    "metaTitle": "Usoro Nchebe nke Nkịtị — Screenshot (App) Maker",
+    "title": "Usoro Nchebe nke Nkịtị",
+    "intro": "Usoro Nchebe nke Nkịtị a na-akọwa otu Screenshot (App) Maker (\"App ahụ\") si anahị data onye ji ya.",
+    "summaryTitle": "Nchịkọta",
+    "summary": [
+      "Ọ dịghị akaụntụ. Ọ dịghị nyocha. Ọ dịghị iso ụzọ.",
+      "Faịlụ gị na nhazi gị na-anọ n'igwe gị ọ bụrụ na ị hapụbeghị ka ha jikọọ na server Ollama gị nke onwe gị.",
+      "Ọ bụrụ na iji Ollama mee ihe, a na-eziga ederede naanị n'adreesi server ị hapụrụ."
+    ],
+    "sections": [
+      {
+        "title": "Njikọta Ihe Ọmụma",
+        "body": [
+          "App ahụ anaghị ekpocha, ezobe, ma ọ bụ eziga omume onye onye gaa na server anyị.",
+          "A na-emepụta ma na-echebe screenshots, templates, na foto ndị a wepụtara n'ime ngwa ahụ gị."
+        ]
+      },
+      {
+        "title": "Ilo ụzọ n'ime Faịlụ na Foto",
+        "body": [
+          "Ngwa ahụ nwere ike ịrị maka ikike ịnweta ngwa faịlụ ma ọ bụ ụlọ akwụkwọ foto gị iji wetara screenshots.",
+          "A na-arụ ọrụ na foto ndị e wetara n'ime ngwa ahụ, ha anaghị agba elu n'ụzọ automatik."
+        ]
+      },
+      {
+        "title": "Nsụgharị AI (Ollama)",
+        "body": [
+          "Ọ bụrụ na ị mepee mmepụta ederede AI ma ọ bụ nsụgharị, ngwa ahụ nwere ike iziga ederede gaa na sèrvà Ollama i setịrị (dịka ọmụmaatụ, kọmputa gị).",
+          "Anyị anaghị ahụle ma ọ bụ nabata traffic Ollama gị, ngwa ahụ anaghị ede ma ọ bụ echebe ederede AI rụrụ ọrụ na ya."
+        ]
+      },
+      {
+        "title": "Ọrụ ndị Ụzọ Atụ",
+        "body": [
+          "Ngwa ahụ anaghị eji nyocha nke ndị ụzọ atụ, advertising SDKs, ma ọ bụ teknoloji nsochie aji."
+        ]
+      },
+      {
+        "title": "Mgbanwe",
+        "body": [
+          "Anyị nwere ike imezu Atụmatụ Nchebe Nzuzo a ugboro ugboro. Mgbanwe ndị ahụ ga-apụta na ibe a."
+        ]
+      },
+      {
+        "title": "Kọntaktị",
+        "body": [
+          "Ọ bụrụ na ị nwere ajụjụ gbasara Atụmatụ Nchebe Ihe Ndị Na-enweghị Ahụ a, biko kpọrọ anyị site na adreesi imel e debere na App Store."
+        ]
+      }
+    ],
+    "backHome": "← Laghachi n'Ụlọ"
   }
 }

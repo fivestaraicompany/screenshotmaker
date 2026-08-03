@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "homeTitle": "Screenshot (App) Maker — Screenshots për App Store, të krijuara lehtë",
+    "homeDescription": "Krijoni screenshots të përsosura dhe gati për dërgim në App Store dhe përdorni Ollama për të gjeneruar versione të lokalizuara me lehtësi.",
+    "ollamaDescription": "Lidhni Screenshot (App) Maker me serverin tuaj Ollama për lokalizim privat të screenshots-eve të fuqizuar nga AI.",
+    "privacyDescription": "Mësoni se si Screenshot (App) Maker i mban private screenshots-et, editimet dhe procesin e lokalizimit tuaj.",
+    "languageName": "Anglisht"
+  },
+  "common": {
+    "skipToContent": "Kalo tek përmbajtja",
+    "homeAriaLabel": "Ballina e Screenshot App Maker",
+    "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
+    "features": "Karakteristikat",
+    "localization": "Lokalizimi",
+    "privacy": "Privatësia",
+    "ollamaSetup": "Konfiguro Ollama",
+    "ollamaSetupShort": "Konfigurimi i Ollama",
+    "downloadIos": "Shkarkoni për iOS",
+    "downloadIosAriaLabel": "Shkarkoni Screenshot (App) Maker për iPhone dhe iPad nga App Store",
+    "primaryNavigation": "Navigimi kryesor",
+    "footerNavigation": "Navigimi i footer-it",
+    "backHome": "Kthehu në faqen kryesore",
+    "footerTagline": "Screenshot-et e App Store, të krijuara thjeshtë.",
+    "copyright": "© 2026 Screenshot (App) Maker"
+  },
+  "language": {
+    "buttonLabel": "Zgjidhni gjuhën",
+    "kicker": "Gjuha e shfaqjes",
+    "title": "Zgjidhni një gjuhë",
+    "close": "Mbyllni menunë e gjuhës",
+    "hint": "Zgjidhni gjuhën që ju duket më natyrale. Emrat e produkteve dhe komandat teknike mbeten pa ndryshuar."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Ndërtuar për fazën përfundimtare para lançimit",
+      "titleHtml": "Shndërroni ekranet e aplikacionit në <span>screenshot-e gati për dorëzim.</span>",
+      "description": "Dizajnoni çdo screenshot që i nevojitet dorëzimit të aplikacionit tuaj, pastaj lidhni Ollama për të krijuar versione të lokalizuara—pa pasur nevojë t'i rindizajnoni secilin manualisht.",
+      "primaryAction": "Shihni se si funksionon",
+      "secondaryAction": "Eksploroni lokalizimin",
+      "readyFor": "Gati për",
+      "supportAriaLabel": "Llojet e eksportit të mbështetura",
+      "devices": [
+        "iPhone",
+        "iPad",
+        "Watch",
+        "TV",
+        "Grafika e veçuar"
+      ]
+    },
+    "preview": {
+      "ariaLabel": "Parashikimi i produktit Screenshot Maker",
+      "project": "Lëshimi veror",
+      "saved": "Ruajtur",
+      "appStorePreview": "Parashikimi i App Store",
+      "display": "Ekran 6.7″",
+      "shots": [
+        {
+          "line1": "Planifikoni më pak.",
+          "line2": "Bëni më shumë."
+        },
+        {
+          "line1": "Çdo gjë",
+          "line2": "në një vend."
+        },
+        {
+          "line1": "Krijuar për",
+          "line2": "ditën tuaj."
+        }
+      ],
+      "ollama": "OLLAMA",
+      "localizing": "Lokalizimi i screenshot-eve…",
+      "exportComplete": "EKSPORTIMI U PLOTËSUA",
+      "exportReady": "PNG-të + metadata janë gati"
+    },
+    "proof": [
+      {
+        "title": "Një hapësirë vizuale pune",
+        "body": "Nga ekranet e papërpunuara në asete të përmirësuara"
+      },
+      {
+        "title": "Një dizajn, çdo lokalitet",
+        "body": "Përktheni tekstin e screenshot-eve me Ollama"
+      },
+      {
+        "title": "Një eksport i organizuar",
+        "body": "Paketoni imazhet dhe metadata-të së bashku"
+      }
+    ],
+    "proofAriaLabel": "Përfitimet e produktit",
+    "features": {
+      "overline": "Çdo gjë në një vend",
+      "titleHtml": "Shpenzoni më pak kohë në përgatitje.<br />Lansojeni me më shumë besim.",
+      "description": "Screenshot (App) Maker e kthen punën përsëritëse në fund të lëshimit të një aplikacioni në një proces pune të qartë dhe vizual.",
+      "cards": [
+        {
+          "title": "Vendosni ekranet e aplikacionit tuaj.",
+          "body": "Importoni screenshot-et, vendosini ato në layout-e të përsosura të pajisjeve dhe organizoni një histori të plotë për App Store në pak minuta.",
+          "drop": "Tërhiqni screenshot-et këtu",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Dizajnoni një herë.",
+          "body": "Zbatoni ngjyrat, layout-et, cilësimet e pajisjes, tipografinë dhe hijet në çdo faqe, duke mbajtur gjithashtu çdo mesazh unik."
+        },
+        {
+          "title": "Përshtatet për çdo ekran.",
+          "body": "Përgatitni asetet për iPhone, iPad, Apple Watch, Apple TV dhe grafikën kryesore nga i njëjti projekt."
+        },
+        {
+          "title": "Eksportoni një paketë gati për dorëzim.",
+          "body": "Krijoni imazhe me rezolucion të lartë, organizoni skedarët e lokalizuar dhe bashkoni meta-të përkthyera të App Store në një arkivë të pastër.",
+          "folder": "Asset-et e App Store"
+        }
+      ]
+    },
+    "localization": {
+      "ariaLabel": "Parashikimi i lokalizimit të Ollama",
+      "pill": "Punon me serverin tuaj Ollama",
+      "title": "Fushata juaj e screenshot-eve, gati për çdo treg.",
+      "description": "Lidhni Screenshot (App) Maker me Ollama dhe përkthyni titujt e screenshot-eve dhe meta-të dhënat e App Store në të njëjtin proces pune. Layout-i juaj origjinal mbetet i paprekur ndërsa teksti ndryshon për çdo lokalitet.",
+      "checks": [
+        "Përktheni të gjithë titujt e screenshot-eve në një grup",
+        "Lokalizoni përshkrimet, fjalët kyçe dhe shënimet e versionit",
+        "Rishikoni përkthimet përpara eksportimit përfundimtar"
+      ],
+      "action": "Shiko udhëzuesin e konfigurimit të Ollama",
+      "source": "Burimi · Anglisht",
+      "localeCount": "4 lokalitete",
+      "sourceLabel": "Burimi",
+      "ready": "Gati",
+      "samples": [
+        "Planifikoni më pak.<br /><strong>Bëni më shumë.</strong>",
+        "Më pak planifikim.<br /><strong>Më shumë progres.</strong>",
+        "Më pak konfigurim.<br /><strong>Më shumë krijim.</strong>",
+        "Më pak fërkim.<br /><strong>Më shumë vrull.</strong>"
+      ],
+      "complete": "Lokalizimi i përfunduar",
+      "completeBody": "Teksti dhe meta-të dhënat janë gati për rishikim"
+    },
+    "workflow": {
+      "overline": "Një rrugë më e shkurtër drejt publikimit",
+      "title": "Ekranet e papërpunuara hyjnë. Asetet gati për dyqanin dalin.",
+      "description": "Pa konfigurime komplekse dizajni. Pa rindërtimin e së njëjtës fushatë për çdo gjuhë.",
+      "steps": [
+        {
+          "number": "HAPI 01",
+          "title": "Importo",
+          "body": "Shto ekranet që tregojnë më së miri historinë e aplikacionit tuaj."
+        },
+        {
+          "number": "HAPI 02",
+          "title": "Dizajnoni dhe lokalizoni",
+          "body": "Ndërtoni pamjen një herë, pastaj përkthjeni tekstin tuaj me Ollama."
+        },
+        {
+          "number": "HAPI 03",
+          "title": "Eksportoni",
+          "body": "Shkarkoni imazhet dhe meta-të dhënat e organizuara, gati për dorëzim."
+        }
+      ]
+    },
+    "privacy": {
+      "overline": "I projektuar për privatësi",
+      "title": "Asetet e aplikacionit tuaj mbeten nën kontrollin tuaj.",
+      "description": "Redaktimi i imazheve të ekranit ndodh në pajisjen tuaj. Kur zgjidhni Ollama, teksti dërgohet vetëm në adresën e serverit që konfiguroni.",
+      "action": "Lexoni politikën e privatësisë"
+    },
+    "final": {
+      "overline": "Nga imazhet e ekranit deri te dorëzimi",
+      "title": "Bëjeni hapin final të duket i thjeshtë.",
+      "description": "Dizajnoni, lokalizoni dhe eksportoni çdo screenshot që i nevojitet versionit tuaj të ardhshëm të aplikacionit.",
+      "action": "Shkarkoni në App Store",
+      "appIconAlt": "Ikona e aplikacionit Screenshot App Maker"
+    }
+  },
+  "ollama": {
+    "pill": "Integrimi i Ollama",
+    "title": "Tutoriali për konfigurimin e Ollama",
+    "subtitle": "Lidhni Screenshot (App) Maker me instancën tuaj të Ollama për përkthim me AI dhe gjenerim teksti.",
+    "requirementsTitle": "Çfarë ju nevojitet",
+    "requirements": [
+      "Një Mac, PC Windows ose një makinë Linux për të ekzekutuar Ollama",
+      "Ollama e instaluar dhe aktive",
+      "iPhone/iPad-ja juaj në të njëjtën rrjet me makinën Ollama (e rekomanduar)"
+    ],
+    "stepsTitle": "Hap pas hapi",
+    "steps": [
+      "<strong>Instaloni Ollama</strong>: shkarkoni dhe instaloni Ollama për sistemin tuaj operativ.",
+      "<strong>Nisni Ollama</strong>: ekzekutoni <code>ollama serve</code> (ose hapni aplikacionin Ollama në macOS).",
+      "<strong>Shkarkoni një model</strong>: ekzekutoni <code>ollama pull llama3.2</code> (ose modelin tuaj të preferuar).",
+      "<strong>Konfirmoni që funksionon</strong>: ekzekutoni <code>ollama run llama3.2</code> dhe testoni një prompt.",
+      "<strong>Gjeni adresën e serverit tuaj</strong>: shënoni IP-në LAN të kompjuterit tuaj (p.sh. <code>192.168.0.10</code>).",
+      "<strong>Përdoreni në aplikacion</strong>: në cilësimet e Screenshot (App) Maker, caktoni Host-in në <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Shënime dhe zgjidhja e problemeve",
+    "notes": [
+      "Nëse aplikacioni nuk mund të lidhet, kontrolloni nëse telefoni dhe kompjuteri juaj janë në të njëjtën rrjet Wi-Fi.",
+      "Sigurohuni që porta <code>11434</code> lejohet nga firewall-i juaj.",
+      "Nëse preferoni të përdorni një server në distancë (PC shtëpie, VPS), duhet ta ekspozoni portën në mënyrë të sigurt (rekomandohet VPN)."
+    ],
+    "ctaTitle": "Gati për lokalizim?",
+    "ctaBody": "Kthehuni në aplikacion, testoni lidhjen dhe filloni me një lokalitet.",
+    "backHome": "← Kthehu në faqen kryesore",
+    "metaTitle": "Tutoriali për konfigurimin e Ollama — Screenshot (App) Maker"
+  },
+  "privacy": {
+    "pill": "Politika e privatësisë",
+    "metaTitle": "Politika e Privatësisë — Screenshot (App) Maker",
+    "title": "Politika e Privatësisë",
+    "intro": "Kjo Politikë e Privatësisë përshkruan se si Screenshot (App) Maker (\"Aplikacioni\") i trajton të dhënat e përdoruesit.",
+    "summaryTitle": "Përmbledhje",
+    "summary": [
+      "Pa llogari. Pa analiza. Pa gjurmim.",
+      "Skedarët dhe modifikimet tuaja qëndrojnë në pajisjen tuaj, përveç rastit kur zgjidhni të lidheni me serverin tuaj Ollama.",
+      "Nëse përdorni Ollama, teksti dërgohet vetëm në adresën e serverit që konfiguroni."
+    ],
+    "sections": [
+      {
+        "title": "Mbledhja e Informacionit",
+        "body": [
+          "Aplikacioni nuk mbledh, ruan ose transmeton informacione personale në serverët tanë.",
+          "Screenshot-et, shabllonet dhe imazhet e eksportuara krijohen dhe ruhen lokalist në pajisjen tuaj."
+        ]
+      },
+      {
+        "title": "Qasja në Skedarë dhe Foto",
+        "body": [
+          "Aplikacioni mund të kërkojë qasje në aplikacionin e Skedarëve ose në librarinë tuaj të fotove për të importuar screenshot-et.",
+          "Imazhet e importuara përpunohen në pajisje dhe nuk ngarkohen automatikisht."
+        ]
+      },
+      {
+        "title": "Përkthimi me AI (Ollama)",
+        "body": [
+          "Nëse aktivizoni gjenerimin ose përkthimin e tekstit me AI, Aplikacioni mund të dërgojë tekstin në një server Ollama që konfiguroni ju (për shembull, në kompjuterin tuaj).",
+          "Ne nuk operojmë dhe as nuk marrim trafikun tuaj të Ollama-s, dhe Aplikacioni nuk regjistron apo ruan tekstin e përpunuar nga AI."
+        ]
+      },
+      {
+        "title": "Shërbimet e Palëve të Treta",
+        "body": [
+          "Aplikacioni nuk përdor analitika të palëve të treta, SDK-të e reklamimit ose teknologjitë e gjurmimit."
+        ]
+      },
+      {
+        "title": "Ndryshimet",
+        "body": [
+          "Ne mund ta përditësojmë këtë Politikë të Privatësisë herë pas here. Ndryshimet do të pasqyrohen në këtë faqe."
+        ]
+      },
+      {
+        "title": "Kontakti",
+        "body": [
+          "Nëse keni pyetje rreth kësaj Politike të Privatësisë, ju lutemi na kontaktoni përmes adresës së email-it të dhënë në listimin e App Store."
+        ]
+      }
+    ],
+    "backHome": "← Kthehu në Ballfaqe"
+  }
+}
