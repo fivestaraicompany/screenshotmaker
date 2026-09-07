@@ -21,7 +21,9 @@
     "footerNavigation": "Kewayawar footer",
     "backHome": "Komawa gida",
     "footerTagline": "Hotunan App Store, an sauƙaƙa su.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Zazzage don Android",
+    "downloadAndroidAriaLabel": "Zazzage Screenshot (App) Maker don Android daga Google Play"
   },
   "language": {
     "buttonLabel": "Zaɓi harshe",
@@ -170,7 +172,8 @@
       "title": "Sanya matakin ƙarshe ya zama mai sauƙi.",
       "description": "Tsara, lokalize, sannan ka fitar da kowane screenshot da kake buƙata don fitar da manhajarka ta gaba.",
       "action": "Sauke a App Store",
-      "appIconAlt": "Alamar manhajar Screenshot App Maker"
+      "appIconAlt": "Alamar manhajar Screenshot App Maker",
+      "actionAndroid": "Samu shi akan Google Play"
     }
   },
   "ollama": {

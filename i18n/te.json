@@ -21,7 +21,9 @@
     "footerNavigation": "ఫుటర్ నావిగేషన్",
     "backHome": "హోమ్‌కు తిరిగి వెళ్లండి",
     "footerTagline": "App Store స్క్రీన్‌షాట్‌లు, ఇప్పుడు సులభంగా.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android కోసం డౌన్‌లోడ్ చేయండి",
+    "downloadAndroidAriaLabel": "Google Play నుండి Android కోసం Screenshot (App) Maker ని డౌన్‌లోడ్ చేయండి"
   },
   "language": {
     "buttonLabel": "భాషను ఎంచుకోండి",
@@ -170,7 +172,8 @@
       "title": "చివరి దశను సరళంగా మార్చుకోండి.",
       "description": "మీ తదుపరి యాప్ విడుదలకు అవసరమైన ప్రతి స్క్రీన్‌షాట్‌ను డిజైన్ చేయండి, లోకలైజ్ చేయండి మరియు ఎగుమతి చేయండి.",
       "action": "App Store నుండి డౌన్‌లోడ్ చేసుకోండి",
-      "appIconAlt": "Screenshot App Maker యాప్ ఐకాన్"
+      "appIconAlt": "Screenshot App Maker యాప్ ఐకాన్",
+      "actionAndroid": "దీన్ని Google Playలో పొందండి"
     }
   },
   "ollama": {

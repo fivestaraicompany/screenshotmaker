@@ -21,7 +21,9 @@
     "downloadIos": "Изтегляне за iOS",
     "downloadIosAriaLabel": "Изтеглете Screenshot (App) Maker за iPhone и iPad от App Store",
     "primaryNavigation": "Основно меню",
-    "footerNavigation": "Меню в долната част на страницата"
+    "footerNavigation": "Меню в долната част на страницата",
+    "downloadAndroid": "Изтегляне за Android",
+    "downloadAndroidAriaLabel": "Изтеглете Screenshot (App) Maker за Android от Google Play"
   },
   "language": {
     "buttonLabel": "Изберете език",
@@ -169,7 +171,8 @@
       "title": "Направете последната стъпка да бъде лесна.",
       "description": "Дизайнирайте, локализирайте и експортирайте всяка екранна снимка, необходима за следващото издание на вашето приложение.",
       "action": "Изтеглете от App Store",
-      "appIconAlt": "Лого на приложението Screenshot App Maker"
+      "appIconAlt": "Лого на приложението Screenshot App Maker",
+      "actionAndroid": "Вземете го от Google Play"
     },
     "proofAriaLabel": "Предимства на продукта"
   },

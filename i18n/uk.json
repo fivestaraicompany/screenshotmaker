@@ -174,7 +174,8 @@
       "title": "Зробіть фінальний крок простим.",
       "description": "Дизайн, локалізація та експорт кожного екранного знімка, необхідного для вашого наступного випуску додатка.",
       "action": "Завантажити в App Store",
-      "appIconAlt": "Іконка додатка Screenshot App Maker"
+      "appIconAlt": "Іконка додатка Screenshot App Maker",
+      "actionAndroid": "Отримайте в Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Нижня навігація",
     "backHome": "На головну",
     "footerTagline": "Екранні знімки для App Store — просто.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Завантажити для Android",
+    "downloadAndroidAriaLabel": "Завантажте Screenshot (App) Maker для Android із Google Play"
   },
   "language": {
     "buttonLabel": "Обрати мову",

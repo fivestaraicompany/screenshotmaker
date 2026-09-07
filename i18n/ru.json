@@ -174,7 +174,8 @@
       "title": "Сделайте финальный шаг простым.",
       "description": "Создавайте, локализуйте и экспортируйте каждый скриншот, необходимый для следующего выпуска вашего приложения.",
       "action": "Скачать в App Store",
-      "appIconAlt": "Значок приложения Screenshot App Maker"
+      "appIconAlt": "Значок приложения Screenshot App Maker",
+      "actionAndroid": "Загрузите его в Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Навигация в подвале",
     "backHome": "Вернуться на главную",
     "footerTagline": "Скриншоты для App Store, созданные просто.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Скачать для Android",
+    "downloadAndroidAriaLabel": "Скачать Screenshot (App) Maker на Андроид из Google Play"
   },
   "language": {
     "buttonLabel": "Выбрать язык",

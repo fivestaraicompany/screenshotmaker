@@ -21,7 +21,9 @@
     "footerNavigation": "ഫൂട്ടർ നാവിഗേഷൻ",
     "backHome": "ഹോമിലേക്ക് തിരികെ പോകുക",
     "footerTagline": "ആപ്പ് സ്റ്റോർ സ്ക്രീൻഷോട്ടുകൾ, ഇനി എളുപ്പത്തിൽ നിർമ്മിക്കാം.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "ആൻഡ്രോയിഡിനായി ഡൗൺലോഡ് ചെയ്യുക",
+    "downloadAndroidAriaLabel": "ഗൂഗിൾ പ്ലേയിൽ നിന്ന് ആൻഡ്രോയിഡിനായി Screenshot (App) Maker ഡൗൺലോഡ് ചെയ്യുക"
   },
   "language": {
     "buttonLabel": "ഭാഷ തിരഞ്ഞെടുക്കുക",
@@ -170,7 +172,8 @@
       "title": "അവസാന ഘട്ടം ലളിതമാക്കൂ.",
       "description": "നിങ്ങളുടെ അടുത്ത ആപ്പ് റിലീസിന് ആവശ്യമായ എല്ലാ സ്ക്രീൻഷോട്ടുകളും ഡിസൈൻ ചെയ്യുക, ലോക്കലൈസ് ചെയ്യുക, എക്‌സ്‌പോർട്ട് ചെയ്യുക.",
       "action": "App Store-ൽ നിന്ന് ഡൗൺലോഡ് ചെയ്യുക",
-      "appIconAlt": "Screenshot App Maker ആപ്പ് ഐക്കൺ"
+      "appIconAlt": "Screenshot App Maker ആപ്പ് ഐക്കൺ",
+      "actionAndroid": "ഇത് Google Play-യിൽ നേടുക"
     }
   },
   "ollama": {

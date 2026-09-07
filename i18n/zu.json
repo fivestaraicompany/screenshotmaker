@@ -21,7 +21,9 @@
     "footerNavigation": "Ukuzulazula kwe-footer",
     "backHome": "Buyela ekhaya",
     "footerTagline": "Izithombe ze-App Store, zenziwe kalula.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Landa okwe-Android",
+    "downloadAndroidAriaLabel": "Landa Screenshot (App) Maker ye-Android kusuka ku-Google Play"
   },
   "language": {
     "buttonLabel": "Khetha ulimi",
@@ -170,7 +172,8 @@
       "title": "Yenza isinyathelo sokugcina sizizwe silula.",
       "description": "Hlela, hlukanisa ngokwendawo, futhi thumela zonke izithombe-skrini ezidingeka ekukhishweni kwakho kokulandelayo kwe-app.",
       "action": "Landa ku-App Store",
-      "appIconAlt": "Isithombe se-app se-Screenshot App Maker"
+      "appIconAlt": "Isithombe se-app se-Screenshot App Maker",
+      "actionAndroid": "Ithole ku-Google Play"
     }
   },
   "ollama": {

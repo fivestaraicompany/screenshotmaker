@@ -174,7 +174,8 @@
       "title": "Fă ultimul pas să pară simplu.",
       "description": "Proiectează, localizează și exportă fiecare captură de ecran necesară pentru următoarea lansare a aplicației tale.",
       "action": "Descarcă de pe App Store",
-      "appIconAlt": "Pictograma aplicației Screenshot App Maker"
+      "appIconAlt": "Pictograma aplicației Screenshot App Maker",
+      "actionAndroid": "Obțineți-l pe Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigare subsol",
     "backHome": "Înapoi la pagina principală",
     "footerTagline": "Capturi de ecran pentru App Store, ușor de realizat.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Descărcați pentru Android",
+    "downloadAndroidAriaLabel": "Descărcați Screenshot (App) Maker pentru Android de pe Google Play"
   },
   "language": {
     "buttonLabel": "Alege limba",

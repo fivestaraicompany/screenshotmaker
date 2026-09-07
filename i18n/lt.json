@@ -21,7 +21,9 @@
     "footerNavigation": "Apatinės dalies navigacija",
     "backHome": "Grįžti į pradžią",
     "footerTagline": "App Store ekrano nuotraukos – paprastai.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Atsisiųskite „Android“.",
+    "downloadAndroidAriaLabel": "Atsisiųskite Screenshot (App) Maker , skirtą „Android“, iš „Google Play“."
   },
   "language": {
     "buttonLabel": "Pasirinkite kalbą",
@@ -170,7 +172,8 @@
       "title": "Padarykite, kad paskutinis žingsnis būtų paprastas.",
       "description": "Projektuokite, lokalizuokite ir eksportuokite visas nuotrauktas, kurių reikės jūsų kitam programėlės išleidimui.",
       "action": "Atsisiųskite „App Store“",
-      "appIconAlt": "„Screenshot App Maker“ programėlės piktograma"
+      "appIconAlt": "„Screenshot App Maker“ programėlės piktograma",
+      "actionAndroid": "Gaukite jį iš „Google Play“."
     }
   },
   "ollama": {

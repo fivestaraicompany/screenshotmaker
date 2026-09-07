@@ -21,7 +21,9 @@
     "footerNavigation": "Hagaha hoose",
     "backHome": "Ku noqo bogga hore",
     "footerTagline": "Sawirrada App Store-ka, si fudud loo sameeyay.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "U soo deji Android",
+    "downloadAndroidAriaLabel": "Kala soo deg Screenshot (App) Maker ee Android ka Google Play"
   },
   "language": {
     "buttonLabel": "Dooro luqadda",
@@ -170,7 +172,8 @@
       "title": "Ka dhig tallaabada ugu dambaysa mid fudud.",
       "description": "Naqshadeey, u turjum luuqadaha, oo dhoofiyo sawir kasta (screenshot) ee ay u baahan tahay soo saarista app-kaaga xigta.",
       "action": "Ka soo degso Apple App Store",
-      "appIconAlt": "Astaanta app-ka Screenshot App Maker"
+      "appIconAlt": "Astaanta app-ka Screenshot App Maker",
+      "actionAndroid": "Ka hel Google Play"
     }
   },
   "ollama": {

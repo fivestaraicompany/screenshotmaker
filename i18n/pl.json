@@ -174,7 +174,8 @@
       "title": "Spraw, by ostatni krok był prosty.",
       "description": "Projektuj, lokalizuj i eksportuj każdy zrzut ekranu potrzebny do Twojej kolejnej premiery aplikacji.",
       "action": "Pobierz w App Store",
-      "appIconAlt": "Ikona aplikacji Screenshot App Maker"
+      "appIconAlt": "Ikona aplikacji Screenshot App Maker",
+      "actionAndroid": "Pobierz go w Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Nawigacja stopki",
     "backHome": "Powrót na stronę główną",
     "footerTagline": "Zrzuty ekranu do App Store, prosto i szybko.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Pobierz na Androida",
+    "downloadAndroidAriaLabel": "Pobierz Screenshot (App) Maker na Androida z Google Play"
   },
   "language": {
     "buttonLabel": "Wybierz język",

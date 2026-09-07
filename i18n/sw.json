@@ -21,7 +21,9 @@
     "footerNavigation": "Urambazaji wa footer",
     "backHome": "Rudi nyumbani",
     "footerTagline": "Picha za skrini za App Store, kwa urahisi.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Pakua kwa Android",
+    "downloadAndroidAriaLabel": "Pakua Screenshot (App) Maker kwa Android kutoka Google Play"
   },
   "language": {
     "buttonLabel": "Chagua lugha",
@@ -170,7 +172,8 @@
       "title": "Fanya hatua ya mwisho ionekane rahisi.",
       "description": "Sanifu, localize, na export kila screenshot inayohitajika kwa toleo lako lijalo la app.",
       "action": "Pakua kwenye App Store",
-      "appIconAlt": "Icon ya app ya Screenshot App Maker"
+      "appIconAlt": "Icon ya app ya Screenshot App Maker",
+      "actionAndroid": "Ipate kwenye Google Play"
     }
   },
   "ollama": {

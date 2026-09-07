@@ -174,7 +174,8 @@
       "title": "Gör det sista stecket enkelt.",
       "description": "Designa, lokalisera och exportera varje skärmdump som ditt nästa app-släpp behöver.",
       "action": "Ladda ner på App Store",
-      "appIconAlt": "Screenshot App Maker-appikonen"
+      "appIconAlt": "Screenshot App Maker-appikonen",
+      "actionAndroid": "Skaffa det på Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Sidfot-navigering",
     "backHome": "Tillbaka till hem",
     "footerTagline": "App Store-skärmdumpar, enkelt gjort.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Ladda ner för Android",
+    "downloadAndroidAriaLabel": "Ladda ner Screenshot (App) Maker för Android från Google Play"
   },
   "language": {
     "buttonLabel": "Välj språk",

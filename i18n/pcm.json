@@ -21,7 +21,9 @@
     "footerNavigation": "Footer navigation",
     "backHome": "Go back home",
     "footerTagline": "App Store screenshots, e don easy.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Download for Android",
+    "downloadAndroidAriaLabel": "Download Screenshot (App) Maker for Android from Google Play"
   },
   "language": {
     "buttonLabel": "Pick language",
@@ -170,7 +172,8 @@
       "title": "Make the last step easy.",
       "description": "Design, translate, and export all screenshots wey you need for your next app release.",
       "action": "Download am for App Store",
-      "appIconAlt": "Screenshot App Maker app icon"
+      "appIconAlt": "Screenshot App Maker app icon",
+      "actionAndroid": "Get it on Google Play"
     }
   },
   "ollama": {

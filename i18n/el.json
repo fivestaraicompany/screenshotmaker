@@ -174,7 +174,8 @@
       "title": "Κάντε το τελευταίο βήμα να φαίνεται απλό.",
       "description": "Σχεδιάστε, μεταφράστε και εξαγάγετε κάθε εικόνα που χρειάζεται για την επόμενη κυκλοφορία της εφαρμογής σας.",
       "action": "Λήψη από το App Store",
-      "appIconAlt": "Εικόνα εφαρμογής Screenshot App Maker"
+      "appIconAlt": "Εικόνα εφαρμογής Screenshot App Maker",
+      "actionAndroid": "Αποκτήστε το στο Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Περιήγηση υποσέλιδου",
     "backHome": "Επιστροφή στην αρχική σελίδα",
     "footerTagline": "Εικόνες για το App Store, εύκολα.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Λήψη για Android",
+    "downloadAndroidAriaLabel": "Λήψη Screenshot (App) Maker για Android από το Google Play"
   },
   "language": {
     "buttonLabel": "Επιλογή γλώσσας",

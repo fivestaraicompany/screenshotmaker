@@ -174,7 +174,8 @@
       "title": "Jadikan langkah akhir terasa mudah.",
       "description": "Reka, setematkan, dan eksport setiap screenshot yang diperlukan untuk pelancaran aplikasi seterusnya anda.",
       "action": "Muat turun di App Store",
-      "appIconAlt": "Ikon aplikasi Screenshot App Maker"
+      "appIconAlt": "Ikon aplikasi Screenshot App Maker",
+      "actionAndroid": "Dapatkannya di Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigasi kaki halaman",
     "backHome": "Kembali ke laman utama",
     "footerTagline": "Screenshot App Store, dibuat dengan mudah.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Muat turun untuk Android",
+    "downloadAndroidAriaLabel": "Muat turun Screenshot (App) Maker untuk Android daripada Google Play"
   },
   "language": {
     "buttonLabel": "Pilih bahasa",

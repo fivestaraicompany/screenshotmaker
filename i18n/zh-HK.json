@@ -21,7 +21,9 @@
     "footerNavigation": "頁腳導航",
     "backHome": "返回首頁",
     "footerTagline": "輕鬆製作 App Store 螢幕截圖。",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "下載安卓版",
+    "downloadAndroidAriaLabel": "從 Google Play 下載 Android 版 Screenshot (App) Maker"
   },
   "language": {
     "buttonLabel": "選擇語言",
@@ -170,7 +172,8 @@
       "title": "使最後一步變得簡單。",
       "description": "為你的下一次 App 發佈設計、本地化並匯出所有需要的螢幕截圖。",
       "action": "在 App Store 下載",
-      "appIconAlt": "Screenshot App Maker 應用程式圖示"
+      "appIconAlt": "Screenshot App Maker 應用程式圖示",
+      "actionAndroid": "在 Google Play 上取得"
     }
   },
   "ollama": {

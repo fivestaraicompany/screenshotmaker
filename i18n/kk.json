@@ -21,7 +21,9 @@
     "footerNavigation": "Футер навигациясы",
     "backHome": "Басты бетке қайту",
     "footerTagline": "App Store скриншоттарын жасау енді оңай.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android үшін жүктеу",
+    "downloadAndroidAriaLabel": "Google Play дүкенінен Android үшін Screenshot (App) Maker жүктеп алыңыз"
   },
   "language": {
     "buttonLabel": "Тілді таңдаңыз",
@@ -170,7 +172,8 @@
       "title": "Соңғы қадамды қарапайым етіңіз.",
       "description": "Келесі қосымша шығарылымына қажетті әрбір скриншотты жобалаңыз, локализациялаңыз және экспорттаңыз.",
       "action": "App Store-дан жүктеп алыңыз",
-      "appIconAlt": "Screenshot App Maker қосымшасының белгішесі"
+      "appIconAlt": "Screenshot App Maker қосымшасының белгішесі",
+      "actionAndroid": "Google Play-де жүктеп алыңыз"
     }
   },
   "ollama": {

@@ -21,7 +21,9 @@
     "footerNavigation": "အောက်ခြေ လမ်းညွှန်ချက်များ",
     "backHome": "ပင်မစာမျက်နှာသို့ ပြန်သွားရန်",
     "footerTagline": "App Store စခရင်ရှော့များကို လွယ်ကူစွာ ဖန်တီးပါ။",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android အတွက် ဒေါင်းလုဒ်လုပ်ပါ။",
+    "downloadAndroidAriaLabel": "Google Play မှ Android အတွက် Screenshot (App) Maker ကို ဒေါင်းလုဒ်လုပ်ပါ။"
   },
   "language": {
     "buttonLabel": "ဘာသာစကား ရွေးချယ်ပါ",
@@ -170,7 +172,8 @@
       "title": "နောက်ဆုံးအဆင့်ကို ရိုးရှင်းစေပါ။",
       "description": "သင်၏နောက်တစ်ကြိမ် အက်ပ်ထုတ်ဝေမှုအတွက် လိုအပ်သော စခရင်ရှော့အားလုံးကို ဒီဇိုင်းဆွဲခြင်း၊ ပြည်တွင်းဘာသာစကားသို့ ပြောင်းလဲခြင်းနှင့် ပို့ထုတ်ခြင်းများကို လုပ်ဆောင်ပါ။",
       "action": "App Store တွင် ဒေါင်းလုဒ်လုပ်ပါ",
-      "appIconAlt": "Screenshot App Maker အက်ပ်အိုင်ကွန်"
+      "appIconAlt": "Screenshot App Maker အက်ပ်အိုင်ကွန်",
+      "actionAndroid": "Google Play တွင် ရယူပါ။"
     }
   },
   "ollama": {

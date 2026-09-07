@@ -21,7 +21,9 @@
     "footerNavigation": "Tsamaiso ya tlase",
     "backHome": "Khutla lebaleng la pele",
     "footerTagline": "Litšoantšo tsa skrine tsa App Store, ho entsoe ho be bonolo.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Khoasolla bakeng sa Android",
+    "downloadAndroidAriaLabel": "Khoasolla Screenshot (App) Maker bakeng sa Android ho tsoa ho Google Play"
   },
   "language": {
     "buttonLabel": "Kgetha puo",
@@ -170,7 +172,8 @@
       "title": "Etsa hore mohato oa ho qetela o be bonolo.",
       "description": "Rala, fetolela le ntša screenshot e 'ngoe le e 'ngoe eo phatlalatso ea hau e latelang ea app e hlokang.",
       "action": "Jarolla ho App Store",
-      "appIconAlt": "Setšoantšo sa app ea Screenshot App Maker"
+      "appIconAlt": "Setšoantšo sa app ea Screenshot App Maker",
+      "actionAndroid": "E fumane ho Google Play"
     }
   },
   "ollama": {

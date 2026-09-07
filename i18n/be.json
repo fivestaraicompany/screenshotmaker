@@ -21,7 +21,9 @@
     "downloadIos": "Спампаваць для iOS",
     "downloadIosAriaLabel": "Спампаваць праграму Screenshot (App) Maker для iPhone і iPad з App Store",
     "primaryNavigation": "Галоўнае меню",
-    "footerNavigation": "Меню ўнізе старонкі"
+    "footerNavigation": "Меню ўнізе старонкі",
+    "downloadAndroid": "Спампаваць для Android",
+    "downloadAndroidAriaLabel": "Спампуйце Screenshot (App) Maker для Android з Google Play"
   },
   "language": {
     "buttonLabel": "Выбраць мову",
@@ -169,7 +171,8 @@
       "title": "Зрабіце апошні крок простым.",
       "description": "Дызайнуйце, лакалізуйце і экспартуйце кожны скрыншот, які патрэбны для наступнага выпуску вашай праграмы.",
       "action": "Спампаваць у App Store",
-      "appIconAlt": "Лямпачка Screenshot App Maker"
+      "appIconAlt": "Лямпачка Screenshot App Maker",
+      "actionAndroid": "Атрымаць яго на Google Play"
     },
     "proofAriaLabel": "Перавагі прадукта"
   },

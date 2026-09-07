@@ -174,7 +174,8 @@
       "title": "اجعل الخطوة الأخيرة سهلة.",
       "description": "صمم، وقم بترجمة، وصدر جميع لقطات الشاشة التي يحتاجها إصدار تطبيقك القادم.",
       "action": "تنزيل من متجر التطبيقات",
-      "appIconAlt": "رمز تطبيق Screenshot App Maker"
+      "appIconAlt": "رمز تطبيق Screenshot App Maker",
+      "actionAndroid": "احصل عليه على جوجل بلاي"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "downloadIos": "تنزيل لنظام iOS",
     "downloadIosAriaLabel": "قم بتنزيل تطبيق Screenshot (App) Maker لجهاز iPhone و iPad من متجر التطبيقات.",
     "primaryNavigation": "التنقل الرئيسي",
-    "footerNavigation": "التنقل في التذييل"
+    "footerNavigation": "التنقل في التذييل",
+    "downloadAndroid": "تحميل لالروبوت",
+    "downloadAndroidAriaLabel": "قم بتنزيل Screenshot (App) Maker لنظام Android من Google Play"
   },
   "language": {
     "buttonLabel": "اختر اللغة",

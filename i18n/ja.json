@@ -174,7 +174,8 @@
       "title": "最後のステップをシンプルに。",
       "description": "次のアプリリリースに必要なすべてのスクリーンショットのデザイン、ローカライズ、エクスポートを行います。",
       "action": "App Storeでダウンロード",
-      "appIconAlt": "Screenshot App Maker アプリアイコン"
+      "appIconAlt": "Screenshot App Maker アプリアイコン",
+      "actionAndroid": "Google Play で入手"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "フッターナビゲーション",
     "backHome": "ホームに戻る",
     "footerTagline": "App Store用スクリーンショットを、簡単に。",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android 用ダウンロード",
+    "downloadAndroidAriaLabel": "Google Play から Android 用 Screenshot (App) Maker をダウンロード"
   },
   "language": {
     "buttonLabel": "言語を選択",

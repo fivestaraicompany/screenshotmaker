@@ -174,7 +174,8 @@
       "title": "Udělejte z finální fáze jednoduchý proces.",
       "description": "Navrhněte, lokalizujte a exportujte každý snímek obrazovky pro vaši další aplikaci.",
       "action": "Stáhnout v App Store",
-      "appIconAlt": "Ikona aplikace Screenshot App Maker"
+      "appIconAlt": "Ikona aplikace Screenshot App Maker",
+      "actionAndroid": "Získejte ji na Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigace v patičce",
     "backHome": "Zpět na domovskou stránku",
     "footerTagline": "Snímky obrazovky pro App Store, snadno a rychle.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Stáhnout pro Android",
+    "downloadAndroidAriaLabel": "Stáhněte si Screenshot (App) Maker pro Android z Google Play"
   },
   "language": {
     "buttonLabel": "Vybrat jazyk",

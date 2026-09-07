@@ -21,7 +21,9 @@
     "footerNavigation": "فوٹر نیویگیشن",
     "backHome": "ہوم پر واپس جائیں",
     "footerTagline": "App Store اسکرین شاٹس، اب آسان۔",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "اینڈرائیڈ کے لیے ڈاؤن لوڈ کریں۔",
+    "downloadAndroidAriaLabel": "گوگل پلے سے اینڈرائیڈ کے لیے Screenshot (App) Maker ڈاؤن لوڈ کریں۔"
   },
   "language": {
     "buttonLabel": "زبان منتخب کریں",
@@ -170,7 +172,8 @@
       "title": "آخری مرحلے کو سادہ بنائیں۔",
       "description": "اپنی اگلی ایپ ریلیز کے لیے درکار ہر اسکرین شاٹ کو ڈیزائن کریں، مقامی بنائیں اور ایکسپورٹ کریں۔",
       "action": "App Store سے ڈاؤن لوڈ کریں",
-      "appIconAlt": "Screenshot App Maker ایپ آئیکن"
+      "appIconAlt": "Screenshot App Maker ایپ آئیکن",
+      "actionAndroid": "اسے Google Play پر حاصل کریں۔"
     }
   },
   "ollama": {

@@ -174,7 +174,8 @@
       "title": "Haz que la etapa final sea sencilla.",
       "description": "Diseña, localiza y exporta cada captura de pantalla que necesita tu próxima versión de app.",
       "action": "Descargar en la App Store",
-      "appIconAlt": "Ícono de la app Screenshot App Maker"
+      "appIconAlt": "Ícono de la app Screenshot App Maker",
+      "actionAndroid": "Consíguelo en Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navegación del pie de página",
     "backHome": "Volver a la página principal",
     "footerTagline": "Capturas de pantalla para la App Store, ¡fácilmente!",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Descargar para Android",
+    "downloadAndroidAriaLabel": "Descargar Screenshot (App) Maker para Android desde Google Play"
   },
   "language": {
     "buttonLabel": "Elegir idioma",

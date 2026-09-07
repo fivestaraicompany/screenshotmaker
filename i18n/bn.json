@@ -21,7 +21,9 @@
     "downloadIos": "iOS-এর জন্য ডাউনলোড করুন",
     "downloadIosAriaLabel": "iPhone এবং iPad-এর জন্য App Store থেকে Screenshot (App) Maker ডাউনলোড করুন",
     "primaryNavigation": "প্রধান নেভিগেশন",
-    "footerNavigation": "ফুটার নেভিগেশন"
+    "footerNavigation": "ফুটার নেভিগেশন",
+    "downloadAndroid": "অ্যান্ড্রয়েডের জন্য ডাউনলোড করুন",
+    "downloadAndroidAriaLabel": "Google Play থেকে Android এর জন্য Screenshot (App) Maker ডাউনলোড করুন"
   },
   "language": {
     "buttonLabel": "ভাষা নির্বাচন করুন",
@@ -169,7 +171,8 @@
       "title": "শেষ ধাপটি সহজ করুন।",
       "description": "আপনার পরবর্তী অ্যাপ রিলিজের জন্য প্রয়োজনীয় প্রতিটি স্ক্রিনশট ডিজাইন, লোকলাইজ এবং এক্সপোর্ট করুন।",
       "action": "App Store থেকে ডাউনলোড করুন",
-      "appIconAlt": "Screenshot App Maker অ্যাপ আইকন"
+      "appIconAlt": "Screenshot App Maker অ্যাপ আইকন",
+      "actionAndroid": "এটি Google Play এ পান"
     },
     "proofAriaLabel": "এই অ্যাপের সুবিধা"
   },

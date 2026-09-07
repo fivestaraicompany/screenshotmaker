@@ -21,7 +21,9 @@
     "footerNavigation": "ଫୁଟର ନେଭିଗେସନ୍",
     "backHome": "ହୋମକୁ ଫେରିଯାନ୍ତୁ",
     "footerTagline": "App Store ସ୍କ୍ରିନସଟ୍, ଏବେ ସହଜ।",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "ଆଣ୍ଡ୍ରଏଡ୍ ପାଇଁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |",
+    "downloadAndroidAriaLabel": "ଗୁଗୁଲ୍ ପ୍ଲେରୁ ଆଣ୍ଡ୍ରଏଡ୍ ପାଇଁ Screenshot (App) Maker ଡାଉନଲୋଡ୍ କରନ୍ତୁ |"
   },
   "language": {
     "buttonLabel": "ଭାଷା ବାଛନ୍ତୁ",
@@ -170,7 +172,8 @@
       "title": "ଶେଷ ପଦକ୍ଷେପକୁ ସହଜ କରନ୍ତୁ।",
       "description": "ଆପଣଙ୍କର ପରବର୍ତ୍ତୀ ଆପ୍ ରିଲିଜ୍ ପାଇଁ ଆବଶ୍ୟକ ସମସ୍ତ ସ୍କ୍ରିନସଟ୍‌କୁ ଡିଜାଇନ୍, ଲୋକାଲାଇଜ୍ ଏବଂ ଏକ୍ସପୋର୍ଟ କରନ୍ତୁ।",
       "action": "App Store ରୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
-      "appIconAlt": "Screenshot App Maker ଆପ୍ ଆଇକନ୍"
+      "appIconAlt": "Screenshot App Maker ଆପ୍ ଆଇକନ୍",
+      "actionAndroid": "ଏହାକୁ ଗୁଗୁଲ୍ ପ୍ଲେରେ ପାଆନ୍ତୁ |"
     }
   },
   "ollama": {

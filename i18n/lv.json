@@ -14,7 +14,9 @@
     "features": "Funkcijas",
     "localization": "Lokalizācija",
     "privacy": "Privātums",
-    "ollamaSetup": "Iestati Ollama"
+    "ollamaSetup": "Iestati Ollama",
+    "downloadAndroid": "Lejupielādēt Android ierīcēm",
+    "downloadAndroidAriaLabel": "Lejupielādējiet Screenshot (App) Maker Android ierīcēm no pakalpojuma Google Play"
   },
   "language": {
     "buttonLabel": "Izvēlieties valodu",
@@ -163,7 +165,8 @@
       "title": "Padariet pēdējo soli vienkāršu.",
       "description": "Izveidojiet, lokalizējiet un eksportējiet katru ekrānuzņēmumu, kas nepieciešams jūsu nākamajai lietotnes izlaidīšanai.",
       "action": "Lejupielādēt no App Store",
-      "appIconAlt": "Screenshot App Maker lietotnes ikona"
+      "appIconAlt": "Screenshot App Maker lietotnes ikona",
+      "actionAndroid": "Iegūstiet to pakalpojumā Google Play"
     }
   },
   "ollama": {

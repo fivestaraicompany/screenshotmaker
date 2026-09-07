@@ -174,7 +174,8 @@
       "title": "Son adımı basit hale getirin.",
       "description": "Bir sonraki uygulama yayını için gereken her ekran görüntüsünü tasarlayın, yerelleştirin ve dışa aktarın.",
       "action": "App Store'dan İndir",
-      "appIconAlt": "Screenshot App Maker uygulama simgesi"
+      "appIconAlt": "Screenshot App Maker uygulama simgesi",
+      "actionAndroid": "Google Play'den edinin"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Alt bilgi gezinme",
     "backHome": "Ana sayfaya dön",
     "footerTagline": "App Store ekran görüntüleri, kolayca hazırlanır.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android için indirin",
+    "downloadAndroidAriaLabel": "Google Play'den Android için Screenshot (App) Maker 'i indirin"
   },
   "language": {
     "buttonLabel": "Dil seçin",

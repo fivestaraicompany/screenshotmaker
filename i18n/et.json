@@ -21,7 +21,9 @@
     "footerNavigation": "Jalise navigatsioon",
     "backHome": "Tagasi avalehele",
     "footerTagline": "App Store'i ekranipildi loomine on nüüd lihtne.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Laadige alla Androidi jaoks",
+    "downloadAndroidAriaLabel": "Laadige Google Playst alla Androidi jaoks mõeldud Screenshot (App) Maker"
   },
   "language": {
     "buttonLabel": "Vali keel",
@@ -170,7 +172,8 @@
       "title": "Muuda viimane samm lihtsaks.",
       "description": "Disaini, lokaliseeri ja eksporteeri kõik ekranitõbed, mida su järgmine rakenduse väljalask vajab.",
       "action": "Laadi alla App Store'ist",
-      "appIconAlt": "Screenshot App Makeri rakenduse ikoon"
+      "appIconAlt": "Screenshot App Makeri rakenduse ikoon",
+      "actionAndroid": "Hankige see Google Playst"
     }
   },
   "ollama": {

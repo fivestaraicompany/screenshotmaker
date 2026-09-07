@@ -174,7 +174,8 @@
       "title": "Fes que l'últim pas sigui senzill.",
       "description": "Disseny, localitza i exporta totes les captures de pantalla que necessita el teu proper llançament d'aplicació.",
       "action": "Descarrega a l'App Store",
-      "appIconAlt": "Icona de l'aplicació Screenshot App Maker"
+      "appIconAlt": "Icona de l'aplicació Screenshot App Maker",
+      "actionAndroid": "Aconsegueix-ho a Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "downloadIos": "Descarrega per a iOS",
     "downloadIosAriaLabel": "Descarrega Screenshot (App) Maker per a iPhone i iPad des de l'App Store",
     "primaryNavigation": "Navegació principal",
-    "footerNavigation": "Navegació del peu de pàgina"
+    "footerNavigation": "Navegació del peu de pàgina",
+    "downloadAndroid": "Descarrega per a Android",
+    "downloadAndroidAriaLabel": "Baixeu Screenshot (App) Maker per a Android des de Google Play"
   },
   "language": {
     "buttonLabel": "Tria l'idioma",

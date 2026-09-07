@@ -21,7 +21,9 @@
     "footerTagline": "Zaslonski snimci za App Store, jednostavno izrađeni.",
     "copyright": "© 2026 Screenshot (App) Maker",
     "ollamaSetupShort": "Postavljanje Ollama",
-    "ollamaSetup": "Podesite Ollama"
+    "ollamaSetup": "Podesite Ollama",
+    "downloadAndroid": "Preuzmite za Android",
+    "downloadAndroidAriaLabel": "Preuzmite Screenshot (App) Maker za Android sa Google Play-a"
   },
   "language": {
     "buttonLabel": "Odaberite jezik",
@@ -170,7 +172,8 @@
       "title": "Zadnji korak učinite jednostavnim.",
       "description": "Dizajnirajte, lokalizirajte i izvezite svaku snimku zaslona potrebnu za sljedeće izdanje vaše aplikacije.",
       "action": "Preuzmi na App Storeu",
-      "appIconAlt": "Ikona aplikacije Screenshot Maker"
+      "appIconAlt": "Ikona aplikacije Screenshot Maker",
+      "actionAndroid": "Nabavite ga na Google Play"
     }
   },
   "ollama": {

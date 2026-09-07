@@ -21,7 +21,9 @@
     "footerNavigation": "Ìtọsọna fútà",
     "backHome": "Padà sí ile",
     "footerTagline": "Àwòrán sáríntàn App Store, ṣe é rọrùn.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Ṣe igbasilẹ fun Android",
+    "downloadAndroidAriaLabel": "Ṣe igbasilẹ Screenshot (App) Maker fun Android lati Google Play"
   },
   "language": {
     "buttonLabel": "Yan èdè",
@@ -170,7 +172,8 @@
       "title": "Jẹ ki igbesẹ ikẹhin rọrun.",
       "description": "Ṣe apẹrẹ, ṣe àtúnṣe èdè, kí o sì tú jáde gbogbo sísán mànìyàn tí ìfihan ohun elo rẹ tó wá nílò.",
       "action": "Gba lori Apple App Store",
-      "appIconAlt": "Àwòrán ìfihàn ohun èlò Screenshot App Maker"
+      "appIconAlt": "Àwòrán ìfihàn ohun èlò Screenshot App Maker",
+      "actionAndroid": "Gba lori Google Play"
     }
   },
   "ollama": {

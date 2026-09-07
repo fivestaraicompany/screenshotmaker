@@ -21,7 +21,9 @@
     "footerNavigation": "Uburyo bwo kugenda bwo hasi",
     "backHome": "Garuka ahabanza",
     "footerTagline": "Screenshots za App Store, byorohejwe.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Kuramo kuri Android",
+    "downloadAndroidAriaLabel": "Kuramo Screenshot (App) Maker kuri Android muri Google Play"
   },
   "language": {
     "buttonLabel": "Hitamo ururimi",
@@ -170,7 +172,8 @@
       "title": "Kora intambwe ya nyuma mu buryo bworoshye.",
       "description": "Kora, hindura mu rurimi rw'igihugu, kandi ohereza hanze buri screenshot yose ukeneye ku isohora rya app yawe rishya.",
       "action": "Downloada kuri App Store",
-      "appIconAlt": "Ikimenyetso cya Screenshot App Maker app"
+      "appIconAlt": "Ikimenyetso cya Screenshot App Maker app",
+      "actionAndroid": "Kubona kuri Google Play"
     }
   },
   "ollama": {

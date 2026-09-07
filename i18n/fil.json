@@ -21,7 +21,9 @@
     "footerNavigation": "Nabigasyon ng footer",
     "backHome": "Bumalik sa home",
     "footerTagline": "Mga screenshot ng App Store, ginawang madali.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "I-download para sa Android",
+    "downloadAndroidAriaLabel": "I-download ang Screenshot (App) Maker para sa Android mula sa Google Play"
   },
   "language": {
     "buttonLabel": "Pumili ng wika",
@@ -170,7 +172,8 @@
       "title": "Gawing simple ang huling hakbang.",
       "description": "I-design, i-localize, at i-export ang bawat screenshot na kailangan para sa susunod mong app release.",
       "action": "I-download sa App Store",
-      "appIconAlt": "App icon ng Screenshot App Maker"
+      "appIconAlt": "App icon ng Screenshot App Maker",
+      "actionAndroid": "Kunin ito sa Google Play"
     }
   },
   "ollama": {

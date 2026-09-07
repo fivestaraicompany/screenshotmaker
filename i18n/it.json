@@ -174,7 +174,8 @@
       "title": "Rendi semplice l'ultimo passo.",
       "description": "Progetta, localizza ed esporta ogni screenshot necessario per il prossimo rilascio della tua app.",
       "action": "Scarica sull'App Store",
-      "appIconAlt": "Icona dell'app Screenshot App Maker"
+      "appIconAlt": "Icona dell'app Screenshot App Maker",
+      "actionAndroid": "Scaricalo su Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigazione nel piè di pagina",
     "backHome": "Torna alla home",
     "footerTagline": "Screenshot per App Store, semplificati.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Scarica per Android",
+    "downloadAndroidAriaLabel": "Scarica Screenshot (App) Maker per Android da Google Play"
   },
   "language": {
     "buttonLabel": "Scegli lingua",

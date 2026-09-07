@@ -174,7 +174,8 @@
       "title": "Tedd egyszerűvé a végső lépést.",
       "description": "Tervezd meg, helyi testreszabd és exportáld minden olyan képernyőképet, amelyre a következő alkalmazásod kiadásához szükséged van.",
       "action": "Letöltés az App Store-ból",
-      "appIconAlt": "Screenshot App Maker alkalmazás ikonja"
+      "appIconAlt": "Screenshot App Maker alkalmazás ikonja",
+      "actionAndroid": "Szerezd meg a Google Playen"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Lábléc navigáció",
     "backHome": "Vissza a kezdőlapra",
     "footerTagline": "App Store képernyőképek, egyszerűen.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Letöltés Androidra",
+    "downloadAndroidAriaLabel": "Töltse le a Screenshot (App) Maker számot Androidra a Google Playről"
   },
   "language": {
     "buttonLabel": "Nyelv kiválasztása",

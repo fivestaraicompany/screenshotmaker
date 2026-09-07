@@ -174,7 +174,8 @@
       "title": "अंतिम चरण को सरल बनाएं।",
       "description": "डिज़ाइन करें, स्थानीयकृत करें और अपनी अगली ऐप रिलीज़ के लिए आवश्यक हर स्क्रीनशॉट निर्यात करें।",
       "action": "ऐप स्टोर पर डाउनलोड करें",
-      "appIconAlt": "स्क्रीनशॉट ऐप मेकर ऐप आइकन"
+      "appIconAlt": "स्क्रीनशॉट ऐप मेकर ऐप आइकन",
+      "actionAndroid": "इसे Google Play पर प्राप्त करें"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "फुटर नेविगेशन",
     "backHome": "वापस होम पर जाएं",
     "footerTagline": "ऐप स्टोर स्क्रीनशॉट, आसान बनाया गया।",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "एंड्रॉइड के लिए डाउनलोड करें",
+    "downloadAndroidAriaLabel": "Google Play से Android के लिए Screenshot (App) Maker डाउनलोड करें"
   },
   "language": {
     "buttonLabel": "भाषा चुनें",

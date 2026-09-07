@@ -174,7 +174,8 @@
       "title": "Gjør det siste steget enkelt.",
       "description": "Design, lokaliser og eksporter hvert eneste skjermbildet neste apputgivelse trenger.",
       "action": "Last ned på App Store",
-      "appIconAlt": "Appikon for Screenshot App Maker"
+      "appIconAlt": "Appikon for Screenshot App Maker",
+      "actionAndroid": "Få den på Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Bunnlinjenavigasjon",
     "backHome": "Tilbake til forsiden",
     "footerTagline": "App Store-skjermbilder, enkelt laget.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Last ned for Android",
+    "downloadAndroidAriaLabel": "Last ned Screenshot (App) Maker for Android fra Google Play"
   },
   "language": {
     "buttonLabel": "Velg språk",

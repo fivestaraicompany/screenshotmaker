@@ -348,7 +348,8 @@ img {
   white-space: nowrap;
 }
 
-.ios-label {
+.ios-label,
+.android-label {
   display: inline-grid;
   place-items: center;
   min-width: 30px;
@@ -360,6 +361,13 @@ img {
   font-size: 9px;
   font-weight: 800;
   letter-spacing: 0.08em;
+}
+
+.android-label {
+  min-width: 22px;
+  color: #fff;
+  background: var(--blue);
+  font-size: 8px;
 }
 
 .button-dark {
@@ -1718,6 +1726,12 @@ html[dir="rtl"] .locale-card {
   box-shadow: 0 22px 48px rgba(0, 0, 0, 0.24);
 }
 
+.final-cta-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
 .final-cta .overline {
   color: #8ea7ff;
 }
@@ -2112,6 +2126,10 @@ html[dir="rtl"] .locale-card {
     font-size: 11px;
   }
 
+  .header-actions > .button-light {
+    display: none;
+  }
+
   .language-button {
     min-width: 42px;
     width: 42px;
@@ -2312,8 +2330,9 @@ html[dir="rtl"] .locale-card {
     font-size: 38px;
   }
 
-  .final-cta .button {
+  .final-cta-actions {
     justify-self: center;
+    align-items: center;
   }
 
   .footer-grid {

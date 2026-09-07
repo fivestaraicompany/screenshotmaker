@@ -21,7 +21,9 @@
     "footerNavigation": "ਫੁਟਰ ਨੇਵੀਗੇਸ਼ਨ",
     "backHome": "ਹੋਮ 'ਤੇ ਵਾਪਸ ਜਾਓ",
     "footerTagline": "App Store ਸਕ੍ਰੀਨਸ਼ੌਟ, ਹੁਣ ਆਸਾਨ।",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "downloadAndroidAriaLabel": "ਗੂਗਲ ਪਲੇ ਤੋਂ ਐਂਡਰਾਇਡ ਲਈ Screenshot (App) Maker ਡਾਊਨਲੋਡ ਕਰੋ"
   },
   "language": {
     "buttonLabel": "ਭਾਸ਼ਾ ਚੁਣੋ",
@@ -170,7 +172,8 @@
       "title": "ਆਖਰੀ ਕਦਮ ਨੂੰ ਸਰਲ ਬਣਾਓ।",
       "description": "ਆਪਣੇ ਅਗਲੇ ਐਪ ਰਿਲੀਜ਼ ਲਈ ਲੋੜੀਂਦੇ ਹਰ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨੂੰ ਡਿਜ਼ਾਈਨ, ਸਥਾਨਕ (localize) ਅਤੇ ਐਕਸਪੋਰਟ ਕਰੋ।",
       "action": "App Store ਤੋਂ ਡਾਊਨਲੋਡ ਕਰੋ",
-      "appIconAlt": "Screenshot App Maker ਐਪ ਆਈਕਨ"
+      "appIconAlt": "Screenshot App Maker ਐਪ ਆਈਕਨ",
+      "actionAndroid": "ਇਸਨੂੰ Google Play 'ਤੇ ਪ੍ਰਾਪਤ ਕਰੋ"
     }
   },
   "ollama": {

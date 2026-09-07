@@ -21,7 +21,9 @@
     "footerNavigation": "Njem okpuru",
     "backHome": "Laghachi n'ụlọ",
     "footerTagline": "Screenshot ndị App Store, emegharịrị nke dị mfe.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Budata maka gam akporo",
+    "downloadAndroidAriaLabel": "Budata Screenshot (App) Maker maka gam akporo site na Google Play"
   },
   "language": {
     "buttonLabel": "Họrọ asụsụ",
@@ -170,7 +172,8 @@
       "title": "Mee ka nzọrọ ikpeazụ dị mfe.",
       "description": "Idizayn, mee n'asụsụ obodo, ma wepụta screenshot niile nke mwepụta app gị na-achọ.",
       "action": "Budata na App Store",
-      "appIconAlt": "Ayikọn app Screenshot App Maker"
+      "appIconAlt": "Ayikọn app Screenshot App Maker",
+      "actionAndroid": "Nweta ya na Google Play"
     }
   },
   "ollama": {

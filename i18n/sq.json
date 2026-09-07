@@ -21,7 +21,9 @@
     "footerNavigation": "Navigimi i footer-it",
     "backHome": "Kthehu në faqen kryesore",
     "footerTagline": "Screenshot-et e App Store, të krijuara thjeshtë.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Shkarkoni për Android",
+    "downloadAndroidAriaLabel": "Shkarkoni Screenshot (App) Maker për Android nga Google Play"
   },
   "language": {
     "buttonLabel": "Zgjidhni gjuhën",
@@ -170,7 +172,8 @@
       "title": "Bëjeni hapin final të duket i thjeshtë.",
       "description": "Dizajnoni, lokalizoni dhe eksportoni çdo screenshot që i nevojitet versionit tuaj të ardhshëm të aplikacionit.",
       "action": "Shkarkoni në App Store",
-      "appIconAlt": "Ikona e aplikacionit Screenshot App Maker"
+      "appIconAlt": "Ikona e aplikacionit Screenshot App Maker",
+      "actionAndroid": "Merre atë në Google Play"
     }
   },
   "ollama": {

@@ -174,7 +174,8 @@
       "title": "Làm cho bước cuối cùng cảm thấy đơn giản.",
       "description": "Thiết kế, bản địa hóa và xuất mọi ảnh chụp màn hình cần thiết cho giai đoạn phát hành ứng dụng tiếp theo của bạn.",
       "action": "Tải xuống trên App Store",
-      "appIconAlt": "Biểu tượng ứng dụng Screenshot App Maker"
+      "appIconAlt": "Biểu tượng ứng dụng Screenshot App Maker",
+      "actionAndroid": "Tải nó trên Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Điều hướng chân trang",
     "backHome": "Quay lại trang chủ",
     "footerTagline": "Ảnh chụp màn hình App Store, dễ dàng tạo.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Tải xuống cho Android",
+    "downloadAndroidAriaLabel": "Tải xuống Screenshot (App) Maker cho Android từ Google Play"
   },
   "language": {
     "buttonLabel": "Chọn ngôn ngữ",

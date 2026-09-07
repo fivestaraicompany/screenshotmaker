@@ -21,7 +21,9 @@
     "footerNavigation": "Navegación del pie de página",
     "backHome": "Volver al inicio",
     "footerTagline": "Capturas de pantalla de la App Store, ahora más fáciles.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Descargar para Android",
+    "downloadAndroidAriaLabel": "Descargar Screenshot (App) Maker para Android desde Google Play"
   },
   "language": {
     "buttonLabel": "Elegir idioma",
@@ -170,7 +172,8 @@
       "title": "Haga que el paso final sea sencillo.",
       "description": "Diseñe, localice y exporte cada captura de pantalla que necesite para el próximo lanzamiento de su aplicación.",
       "action": "Descargar en el App Store",
-      "appIconAlt": "Icono de la aplicación Screenshot App Maker"
+      "appIconAlt": "Icono de la aplicación Screenshot App Maker",
+      "actionAndroid": "Consíguelo en Google Play"
     }
   },
   "ollama": {

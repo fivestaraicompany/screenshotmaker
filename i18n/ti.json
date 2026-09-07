@@ -21,7 +21,9 @@
     "footerNavigation": "ተሓት መምርሒ",
     "backHome": "ናብ መበገሲ ተመሊስ",
     "footerTagline": "ስክሪንሾትስ App Store፣ ቀሊል ዝዀነ።",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "ንኣንድሮይድ ኣውርድ",
+    "downloadAndroidAriaLabel": "Screenshot (App) Maker ንኣንድሮይድ ካብ ጉግል ፕለይ ኣውርድ"
   },
   "language": {
     "buttonLabel": "ቋንቋ ምረጽ",
@@ -170,7 +172,8 @@
       "title": "ናይ መወዳእታ ደረጃ ቀሊል ክኸውን ግበሮ.",
       "description": "ንዝጊ ዝቕርብ ናይ ኣፕሊኬሽን ስሪት ዘድሊ ኩሉ ስክሪንሾት ዲዛይን ግበር፣ ናጥብ (localize) ግበር፣ ብኤክስፖርት እላዕ።",
       "action": "ካብ App Store ዳውንሎድ ግበር",
-      "appIconAlt": "ናይ Screenshot App Maker ኣይኮን"
+      "appIconAlt": "ናይ Screenshot App Maker ኣይኮን",
+      "actionAndroid": "ኣብ Google Play ረኸብዎ።"
     }
   },
   "ollama": {

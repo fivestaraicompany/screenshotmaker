@@ -174,7 +174,8 @@
       "title": "Buat langkah terakhir terasa sederhana.",
       "description": "Desain, lokalkan, dan ekspor setiap screenshot yang dibutuhkan untuk rilis aplikasi berikutnya.",
       "action": "Unduh di App Store",
-      "appIconAlt": "Ikon aplikasi Screenshot App Maker"
+      "appIconAlt": "Ikon aplikasi Screenshot App Maker",
+      "actionAndroid": "Dapatkan di Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigasi footer",
     "backHome": "Kembali ke beranda",
     "footerTagline": "Screenshot App Store, dibuat mudah.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Unduh untuk Android",
+    "downloadAndroidAriaLabel": "Unduh Screenshot (App) Maker untuk Android dari Google Play"
   },
   "language": {
     "buttonLabel": "Pilih bahasa",

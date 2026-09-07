@@ -174,7 +174,8 @@
       "title": "Učinite posljednji korak jednostavnim.",
       "description": "Dizajnirajte, lokalizirajte i izvezite svaku zaslonsku sliku potrebnu za vaše sljedeće izdanje aplikacije.",
       "action": "Preuzmi na App Storeu",
-      "appIconAlt": "Ikona aplikacije Screenshot App Maker"
+      "appIconAlt": "Ikona aplikacije Screenshot App Maker",
+      "actionAndroid": "Nabavite ga na Google Playu"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Navigacija u podnožju",
     "backHome": "Natrag na početnu",
     "footerTagline": "Zaslonski snimci za App Store, jednostavno.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Preuzmite za Android",
+    "downloadAndroidAriaLabel": "Preuzmite Screenshot (App) Maker za Android s Google Playa"
   },
   "language": {
     "buttonLabel": "Odaberi jezik",

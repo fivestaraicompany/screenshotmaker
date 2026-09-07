@@ -21,7 +21,9 @@
     "footerNavigation": "Footer வழிசெலுத்தல்",
     "backHome": "முகப்புக்குத் திரும்பு",
     "footerTagline": "App Store திரைக்காட்சிகளை எளிதாக உருவாக்குங்கள்.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android க்கு பதிவிறக்கவும்",
+    "downloadAndroidAriaLabel": "Google Play இலிருந்து Androidக்கான Screenshot (App) Maker ஐப் பதிவிறக்கவும்"
   },
   "language": {
     "buttonLabel": "மொழியைத் தேர்ந்தெடுங்கள்",
@@ -170,7 +172,8 @@
       "title": "இறுதி நிலையை எளிமையாக மாற்றவும்.",
       "description": "உங்கள் அடுத்த ஆப் வெளியீட்டிற்குத் தேவையான ஒவ்வொரு ஸ்கிரீன்ஷாட்டையும் வடிவமைக்கவும், உள்ளூர்மயமாக்கவும் மற்றும் ஏற்றுமதி செய்யவும்.",
       "action": "App Store-இல் பதிவிறக்கம் செய்யவும்",
-      "appIconAlt": "Screenshot App Maker ஆப் ஐகான்"
+      "appIconAlt": "Screenshot App Maker ஆப் ஐகான்",
+      "actionAndroid": "அதை Google Play இல் பெறவும்"
     }
   },
   "ollama": {

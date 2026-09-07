@@ -174,7 +174,8 @@
       "title": "Maak de laatste stap eenvoudig voelen.",
       "description": "Ontwerp, lokaliseer en exporteer elke screenshot die je volgende app-release nodig heeft.",
       "action": "Downloaden in de App Store",
-      "appIconAlt": "App-pictogram van Screenshot App Maker"
+      "appIconAlt": "App-pictogram van Screenshot App Maker",
+      "actionAndroid": "Download het op Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Voetnavigatie",
     "backHome": "Terug naar home",
     "footerTagline": "App Store-screenshots, eenvoudig gemaakt.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Downloaden voor Android",
+    "downloadAndroidAriaLabel": "Download Screenshot (App) Maker voor Android via Google Play"
   },
   "language": {
     "buttonLabel": "Taal kiezen",

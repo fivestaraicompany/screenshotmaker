@@ -21,7 +21,9 @@
     "footerNavigation": "Доод хэсгийн навигаци",
     "backHome": "Нүүр хуудас руу буцах",
     "footerTagline": "App Store-ын скриншотуудыг хялбаран бүтээгээрэй.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android-д зориулсан татаж авах",
+    "downloadAndroidAriaLabel": "Google Play-с Android-д зориулсан Screenshot (App) Maker татаж аваарай"
   },
   "language": {
     "buttonLabel": "Хэл сонгох",
@@ -170,7 +172,8 @@
       "title": "Эцсийн алхмыг энгийн болгоорой.",
       "description": "Дараагийн апп-ын хувилбарт шаардлагатай бүх скриншотыг загварчилж, локализаци хийж, экспортлоорой.",
       "action": "App Store-оос татаж авна уу",
-      "appIconAlt": "Screenshot App Maker апп-ын дүрс"
+      "appIconAlt": "Screenshot App Maker апп-ын дүрс",
+      "actionAndroid": "Үүнийг Google Play дээрээс аваарай"
     }
   },
   "ollama": {

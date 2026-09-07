@@ -21,7 +21,9 @@
     "footerNavigation": "Навигација во подножјето",
     "backHome": "Назад кон почетната",
     "footerTagline": "Скриеншотови за App Store, на едноставен начин.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Преземете за Андроид",
+    "downloadAndroidAriaLabel": "Преземете Screenshot (App) Maker за Android од Google Play"
   },
   "language": {
     "buttonLabel": "Изберете јазик",
@@ -170,7 +172,8 @@
       "title": "Направете го последниот чекор едноставен.",
       "description": "Дизајнирајте, локализирајте и извезете секоја слика од екранот што ѝ е потребна на вашето следно издание на апликацијата.",
       "action": "Преземете од App Store",
-      "appIconAlt": "Икона на апликацијата Screenshot App Maker"
+      "appIconAlt": "Икона на апликацијата Screenshot App Maker",
+      "actionAndroid": "Преземете го на Google Play"
     }
   },
   "ollama": {

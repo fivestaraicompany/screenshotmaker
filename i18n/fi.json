@@ -174,7 +174,8 @@
       "title": "Tee viimeisestä vaiheesta helppo.",
       "description": "Suunnittele, paikallista ja vie kaikki kuvat, joita seuraava sovelluksen julkaisusi vaatii.",
       "action": "Lataa App Storesta",
-      "appIconAlt": "Screenshot App Maker -sovelluksen kuvake"
+      "appIconAlt": "Screenshot App Maker -sovelluksen kuvake",
+      "actionAndroid": "Hanki se Google Playsta"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Alareunan navigointi",
     "backHome": "Takaisin etusivulle",
     "footerTagline": "Helppokäyttöiset App Store -kuvat.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Lataa Androidille",
+    "downloadAndroidAriaLabel": "Lataa Screenshot (App) Maker Androidille Google Playsta"
   },
   "language": {
     "buttonLabel": "Valitse kieli",

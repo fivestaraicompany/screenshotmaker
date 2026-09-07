@@ -174,7 +174,8 @@
       "title": "마지막 단계를 간단하게 만드세요.",
       "description": "다음 앱 출시에서 필요한 모든 스크린샷을 디자인하고, 현지화하며, 내보내세요.",
       "action": "앱 스토어에서 다운로드",
-      "appIconAlt": "스크린샷 앱 메이커 앱 아이콘"
+      "appIconAlt": "스크린샷 앱 메이커 앱 아이콘",
+      "actionAndroid": "Google Play에서 구매하세요"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "푸터 탐색",
     "backHome": "홈으로 돌아가기",
     "footerTagline": "앱 스토어 스크린샷, 쉽게 제작.",
-    "copyright": "© 2026 스크린샷 (App) Maker"
+    "copyright": "© 2026 스크린샷 (App) Maker",
+    "downloadAndroid": "안드로이드용 다운로드",
+    "downloadAndroidAriaLabel": "Google Play에서 Android용 Screenshot (App) Maker 을 다운로드하세요."
   },
   "language": {
     "buttonLabel": "언어 선택",

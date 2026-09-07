@@ -21,7 +21,9 @@
     "footerNavigation": "Navigation ya nse",
     "backHome": "Zonga na Home",
     "footerTagline": "Screenshots ya App Store, ekomi pete.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Télécharger mpo na Android",
+    "downloadAndroidAriaLabel": "Télécharger Screenshot (App) Maker mpo na Android na Google Play"
   },
   "language": {
     "buttonLabel": "Zola limoni",
@@ -170,7 +172,8 @@
       "title": "Sala etape ya nsuka ezala pamba.",
       "description": "Designa, lokaliza, mpe exporta screenshot nyonso oyo okosala mpo na version ya sika ya app na yo.",
       "action": "Telecharger na App Store",
-      "appIconAlt": "Icon ya Screenshot App Maker app"
+      "appIconAlt": "Icon ya Screenshot App Maker app",
+      "actionAndroid": "Bozua yango na Google Play"
     }
   },
   "ollama": {

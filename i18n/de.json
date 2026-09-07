@@ -174,7 +174,8 @@
       "title": "Machen Sie den letzten Schritt einfach.",
       "description": "Gestalten, lokalisieren und exportieren Sie jeden Screenshot für Ihre nächste App-Veröffentlichung.",
       "action": "Im App Store herunterladen",
-      "appIconAlt": "Screenshot App Maker App-Symbol"
+      "appIconAlt": "Screenshot App Maker App-Symbol",
+      "actionAndroid": "Holen Sie es sich bei Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "Fußernavigation",
     "backHome": "Zurück zur Startseite",
     "footerTagline": "App Store Screenshots, ganz einfach.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Für Android herunterladen",
+    "downloadAndroidAriaLabel": "Laden Sie Screenshot (App) Maker für Android von Google Play herunter"
   },
   "language": {
     "buttonLabel": "Sprache auswählen",

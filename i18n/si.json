@@ -21,7 +21,9 @@
     "footerNavigation": "පාදක සංචාලනය",
     "backHome": "මුල් පිටුවට යන්න",
     "footerTagline": "App Store ස්ක්‍රීන්ෂොට්, දැන් පහසුවෙන් නිර්මාණය කරන්න.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android සඳහා බාගන්න",
+    "downloadAndroidAriaLabel": "Google Play වෙතින් Android සඳහා Screenshot (App) Maker බාගන්න"
   },
   "language": {
     "buttonLabel": "භාෂාව තෝරන්න",
@@ -170,7 +172,8 @@
       "title": "අවසන් පියවර සරල කරන්න.",
       "description": "ඔබේ මීළඟ ඇප් නිකුතුවට අවශ්‍ය සෑම ස්ක්‍රීන්ෂොට් එකක්ම නිර්මාණය කරන්න, දේශීයකරණය කරන්න සහ අපනයනය කරන්න.",
       "action": "App Store වෙතින් බාගත කරගන්න",
-      "appIconAlt": "Screenshot App Maker ඇප් අයිකනය"
+      "appIconAlt": "Screenshot App Maker ඇප් අයිකනය",
+      "actionAndroid": "එය Google Play මත ලබා ගන්න"
     }
   },
   "ollama": {

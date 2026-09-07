@@ -21,7 +21,9 @@
     "footerNavigation": "Kuhamba ka footer",
     "backHome": "Vuya eka Home",
     "footerTagline": "Screenshot ya App Store, ku endlisiwa hi ku rhula.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Landa va Android",
+    "downloadAndroidAriaLabel": "Landa Screenshot (App) Maker ya Android eka Google Play"
   },
   "language": {
     "buttonLabel": "Khetsa ririmi",
@@ -170,7 +172,8 @@
       "title": "Endla xikongomiso xa ntshwa xi va swi kongorile.",
       "description": "Dizayina, lokalayiza, naswona export-a screenshot hinkwaswo lawsi app ya wena leyi kumaka yi swi lava.",
       "action": "Downloada eka App Store",
-      "appIconAlt": "Ayikoni ya Screenshot App Maker app"
+      "appIconAlt": "Ayikoni ya Screenshot App Maker app",
+      "actionAndroid": "Yi kume eka Google Play"
     }
   },
   "ollama": {

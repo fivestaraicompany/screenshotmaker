@@ -174,7 +174,8 @@
       "title": "ทำให้ขั้นตอนสุดท้ายเป็นเรื่องง่าย",
       "description": "ออกแบบ แปล และส่งออกภาพหน้าจอทุกภาพที่จำเป็นสำหรับการปล่อยแอปครั้งถัดไปของคุณ",
       "action": "ดาวน์โหลดบน App Store",
-      "appIconAlt": "ไอคอนแอป Screenshot App Maker"
+      "appIconAlt": "ไอคอนแอป Screenshot App Maker",
+      "actionAndroid": "รับมันบน Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "เมนูนำทางส่วนท้าย",
     "backHome": "กลับสู่หน้าแรก",
     "footerTagline": "สร้างภาพหน้าจอสำหรับ App Store อย่างง่ายดาย",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "ดาวน์โหลดสำหรับ Android",
+    "downloadAndroidAriaLabel": "ดาวน์โหลด Screenshot (App) Maker สำหรับ Android จาก Google Play"
   },
   "language": {
     "buttonLabel": "เลือกภาษา",

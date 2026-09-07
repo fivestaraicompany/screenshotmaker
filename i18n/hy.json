@@ -21,7 +21,9 @@
     "footerNavigation": "Ֆուտերի նավիգացիա",
     "backHome": "Վերադառնալ գլխավոր էջ",
     "footerTagline": "App Store-ի սքրինշոթներ՝ պարզեցված:",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Ներբեռնեք Android-ի համար",
+    "downloadAndroidAriaLabel": "Ներբեռնեք Screenshot (App) Maker Android-ի համար Google Play-ից"
   },
   "language": {
     "buttonLabel": "Ընտրեք լեզուն",
@@ -170,7 +172,8 @@
       "title": "Վերջին քայլն արեք պարզ:",
       "description": "Նախագծեք, տեղայնացրեք և արտահանեք ձեր հավելվածի հաջորդ թողարկման համար անհրաժեշտ բոլոր սքրինշոթները:",
       "action": "Ներբեռնեք App Store-ից",
-      "appIconAlt": "Screenshot App Maker հավելվածի պատկերակ"
+      "appIconAlt": "Screenshot App Maker հավելվածի պատկերակ",
+      "actionAndroid": "Ստացեք այն Google Play-ում"
     }
   },
   "ollama": {

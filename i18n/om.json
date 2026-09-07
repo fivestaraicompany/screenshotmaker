@@ -21,7 +21,9 @@
     "footerNavigation": "Navigeeshinii jala-fuulaa",
     "backHome": "Gara manaatti deebi'i",
     "footerTagline": "Suuraawwan iskiriinii App Store, salphateera.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android irratti buufadhaa",
+    "downloadAndroidAriaLabel": "Screenshot (App) Maker Android irratti Google Play irraa buufadhaa"
   },
   "language": {
     "buttonLabel": "Afaan filadhu",
@@ -170,7 +172,8 @@
       "title": "Sadarkaa dhumaa salphaa gochuu.",
       "description": "Screenshot hunda kan release appii kee itti aanuif barbaachisan design godhi, localize godhi, fi export godhi.",
       "action": "App Store irraa buufadhu",
-      "appIconAlt": "Aayikooni appii Screenshot App Maker"
+      "appIconAlt": "Aayikooni appii Screenshot App Maker",
+      "actionAndroid": "Google Play irratti argadhaa"
     }
   },
   "ollama": {

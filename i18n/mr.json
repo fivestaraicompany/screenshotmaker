@@ -21,7 +21,9 @@
     "footerNavigation": "फुटर नेव्हिगेशन",
     "backHome": "होमवर परत जा",
     "footerTagline": "App Store स्क्रीनशॉट्स, आता सोपे झाले.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "Android साठी डाउनलोड करा",
+    "downloadAndroidAriaLabel": "Google Play वरून Android साठी Screenshot (App) Maker डाउनलोड करा"
   },
   "language": {
     "buttonLabel": "भाषा निवडा",
@@ -170,7 +172,8 @@
       "title": "अंतिम पायरी सोपी करा.",
       "description": "तुमच्या पुढील ॲप रिलीजसाठी आवश्यक असलेले प्रत्येक स्क्रीनशॉट डिझाइन करा, स्थानिक भाषेत रूपांतरित करा आणि एक्सपोर्ट करा.",
       "action": "App Store वरून डाउनलोड करा",
-      "appIconAlt": "Screenshot App Maker ॲप आयकॉन"
+      "appIconAlt": "Screenshot App Maker ॲप आयकॉन",
+      "actionAndroid": "Google Play वर मिळवा"
     }
   },
   "ollama": {

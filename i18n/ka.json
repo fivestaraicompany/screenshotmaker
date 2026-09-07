@@ -21,7 +21,9 @@
     "footerNavigation": "ფუტერის ნავიგაცია",
     "backHome": "მთავარ გვერდზე დაბრუნება",
     "footerTagline": "App Store-ის სკრინშოტების შექმნა გახდა მარტივი.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "ჩამოტვირთეთ Android-ისთვის",
+    "downloadAndroidAriaLabel": "ჩამოტვირთეთ Screenshot (App) Maker Android-ისთვის Google Play-დან"
   },
   "language": {
     "buttonLabel": "აირჩიეთ ენა",
@@ -170,7 +172,8 @@
       "title": "გახადეთ ბოლო ნაბიჯი მარტივი.",
       "description": "დააპროექტეთ, მოახდინეთ ლოკალიზაცია და მოამზადეთ ყველა სქრინშოტი, რომელიც თქვენი აპლიკაციის შემდეგ რელიზს დასჭირდება.",
       "action": "ჩამოტვირთეთ App Store-იდან",
-      "appIconAlt": "Screenshot App Maker-ის აპლიკაციის აიქონი"
+      "appIconAlt": "Screenshot App Maker-ის აპლიკაციის აიქონი",
+      "actionAndroid": "მიიღეთ ის Google Play-ზე"
     }
   },
   "ollama": {

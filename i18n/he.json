@@ -174,7 +174,8 @@
       "title": "הפוך את השלב האחרון לפשוט.",
       "description": "עצב, אמת מקומית וייצא כל צילום מסך שדרוש לשחרור האפליקציה הבא שלך.",
       "action": "הורד מחנות האפליקציות",
-      "appIconAlt": "אייקון יישום Screenshot App Maker"
+      "appIconAlt": "אייקון יישום Screenshot App Maker",
+      "actionAndroid": "קבל אותו ב-Google Play"
     }
   },
   "ollama": {
@@ -276,7 +277,9 @@
     "footerNavigation": "ניווט תחתון",
     "backHome": "חזרה לבית",
     "footerTagline": "צילומי מסך לחנות האפליקציות, בקלות.",
-    "copyright": "© 2026 Screenshot (App) Maker"
+    "copyright": "© 2026 Screenshot (App) Maker",
+    "downloadAndroid": "הורד עבור אנדרואיד",
+    "downloadAndroidAriaLabel": "הורד את Screenshot (App) Maker עבור אנדרואיד מ-Google Play"
   },
   "language": {
     "buttonLabel": "בחר שפה",

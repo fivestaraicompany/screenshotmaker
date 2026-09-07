@@ -21,7 +21,9 @@
     "downloadIos": "iOS ስሪቱን ያውርዱ",
     "downloadIosAriaLabel": "iPhone እና iPad ላይ ያለውን Screenshot (App) Maker ከApp Store ለማውረድ ይጫኑ።",
     "primaryNavigation": "ዋና ምራвок",
-    "footerNavigation": "የግርጌ ምራвок"
+    "footerNavigation": "የግርጌ ምራвок",
+    "downloadAndroid": "ለአንድሮይድ አውርድ",
+    "downloadAndroidAriaLabel": "ለአንድሮይድ Screenshot (App) Maker ከጎግል ፕሌይ አውርድ"
   },
   "language": {
     "buttonLabel": "ቋንቋ ይምረጡ",
@@ -169,7 +171,8 @@
       "title": "የመጨረሻው ደረጃ ቀላል እንዲሆን ያድርጉ።",
       "description": "ለሚቀጥለው የመተግበሪያ ስሪት የሚያስፈልገውን እያንዳንዱን ስክሪንሾት ይንደፉ፣ ያስተካክሉ እና ይላኩ።",
       "action": "ከአፕል መደብር ያውርዱ",
-      "appIconAlt": "Screenshot App Maker አፕል ስም ምልክት"
+      "appIconAlt": "Screenshot App Maker አፕል ስም ምልክት",
+      "actionAndroid": "በ Google Play ላይ ያግኙት።"
     },
     "proofAriaLabel": "ምርቱ የሚያበረክት ጥቅሞች"
   },

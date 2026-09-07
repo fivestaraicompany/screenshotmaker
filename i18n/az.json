@@ -21,7 +21,9 @@
     "downloadIos": "iOS üçün yükləyin",
     "downloadIosAriaLabel": "Screenshot (App) Maker proqramını iPhone və iPad-də App Store'dan yükləyin",
     "primaryNavigation": "Əsas navigasiya",
-    "footerNavigation": "Alt hissə navigasiyası"
+    "footerNavigation": "Alt hissə navigasiyası",
+    "downloadAndroid": "Android üçün yükləyin",
+    "downloadAndroidAriaLabel": "Google Play-dən Android üçün Screenshot (App) Maker yükləyin"
   },
   "language": {
     "buttonLabel": "Dil seçin",
@@ -169,7 +171,8 @@
       "title": "Son addımı sadələşdirin.",
       "description": "Növbəti tətbiq versiyanız üçün lazım olan hər bir skrinşotu dizayn edin, lokallaşdırın və ixrac edin.",
       "action": "App Store'dan yükləyin",
-      "appIconAlt": "Screenshot App Maker proqramının simvolu"
+      "appIconAlt": "Screenshot App Maker proqramının simvolu",
+      "actionAndroid": "Google Play-də əldə edin"
     },
     "proofAriaLabel": "Məhsul üstünlükləri"
   },

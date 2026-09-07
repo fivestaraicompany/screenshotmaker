@@ -21,7 +21,9 @@
     "downloadIos": "Laai af vir iOS",
     "downloadIosAriaLabel": "Laai Screenshot (App) Maker af vir iPhone en iPad vanaf die App Store",
     "primaryNavigation": "Hoofnavigasie",
-    "footerNavigation": "Voetnavigasie"
+    "footerNavigation": "Voetnavigasie",
+    "downloadAndroid": "Laai af vir Android",
+    "downloadAndroidAriaLabel": "Laai Screenshot (App) Maker vir Android van Google Play af"
   },
   "language": {
     "buttonLabel": "Kies taal",
@@ -169,7 +171,8 @@
       "title": "Maak die finale stap eenvoudig.",
       "description": "Ontwerp, lokaliseer en eksporteer elke skermskoot wat jou volgende toepassing-vrystelling benodig.",
       "action": "Laai dit af op die App Store",
-      "appIconAlt": "Screenshot App Maker app-ikoon"
+      "appIconAlt": "Screenshot App Maker app-ikoon",
+      "actionAndroid": "Kry dit op Google Play"
     },
     "proofAriaLabel": "Voordele van die produk"
   },
