@@ -90,13 +90,28 @@
     "features": {
       "overline": "Gbogbo nǹkan ní ibi kan",
       "cards": [
-        "",
-        "",
-        "",
         {
-          "folder": "Àwọn Ohun Èlò App Store"
+          "title": "Fi awọn iboju app rẹ silẹ.",
+          "body": "Gbe awọn sikirinisoti wọle, gbe wọn si awọn eto ẹrọ ti a ṣe pẹlu didara, ki o si ṣeto itan App Store pipe ni iṣẹju diẹ.",
+          "drop": "Fi awọn sikirinisoti silẹ nibi",
+          "formats": "PNG · JPG · HEIC"
+        },
+        {
+          "title": "Ṣe apẹrẹ lẹẹkan.",
+          "body": "Fi awọ, eto, eto ẹrọ, oriṣiriṣi lẹta, ati ojiji ṣiṣẹ lori gbogbo oju-iwe lakoko ti o n jẹ ki ifiranṣẹ kọọkan jẹ alailẹgbẹ."
+        },
+        {
+          "title": "Ba gbogbo iboju mu.",
+          "body": "Ṣe igbaradi awọn ohun-ini fun iPhone, iPad, Apple Watch, Apple TV, ati awọn aworan ẹya lati iṣẹ akanṣe kanna."
+        },
+        {
+          "folder": "Àwọn Ohun Èlò App Store",
+          "title": "Ṣe okeere apo-ọja ti o ṣetan fun ifihan.",
+          "body": "Ṣe atunṣe awọn aworan ipinnu giga, ṣeto awọn faili ti a ṣe agbegbe, ki o si ṣajọpọ metadata App Store ti a tumọ rẹ sinu ọkan faili ipamọ mimọ."
         }
-      ]
+      ],
+      "titleHtml": "Ṣe igbaradi ni akoko diẹ.<br />Ṣe ifilọlẹ pẹlu igboya diẹ sii.",
+      "description": "Screenshot (App) Maker yipada iṣẹ atunwi ni opin ifilọlẹ app kan si iṣan-iṣẹ wiwo kan ti o han gbangba."
     },
     "localization": {
       "ariaLabel": "Ìwòrán ìbẹ̀rẹ̀ ìbámu Ollama",
@@ -111,12 +126,23 @@
       "action": "Wo ìtọ́ni ìṣètò Ollama",
       "source": "Orísun · Gẹ̀ẹ́sì",
       "localeCount": "4 ibi",
-      "sourceLabel": "Orísun"
+      "sourceLabel": "Orísun",
+      "ready": "Ṣetan",
+      "samples": [
+        "Dinku ero.<br /><strong>Ṣe diẹ sii.</strong>",
+        "Ero diẹ.<br /><strong>Ilọsiwaju diẹ sii.</strong>",
+        "Ṣeto diẹ.<br /><strong>Ṣẹda diẹ sii.</strong>",
+        "Ìdènà diẹ.<br /><strong>Ìtẹsiwájú diẹ sii.</strong>"
+      ],
+      "complete": "Ìtúmọ agbegbe ti pari",
+      "completeBody": "Àkọsílẹ àti metadata ṣetan láti ṣe àtúnwò"
     },
     "workflow": {
       "steps": [
         {
-          "body": "Fi awọn iboju ti o ṣe alaye itan ohun elo rẹ daradara jọ."
+          "body": "Fi awọn iboju ti o ṣe alaye itan ohun elo rẹ daradara jọ.",
+          "number": "IGBESẸ 01",
+          "title": "Gbe wọle"
         },
         {
           "number": "IPELE 02",
@@ -128,7 +154,10 @@
           "title": "Jade",
           "body": "Gba aworan ati metadata ti a ṣeto silẹ, ti o ti ṣetan fun fifiranṣẹ."
         }
-      ]
+      ],
+      "overline": "Ọna kukuru si ifilọlẹ",
+      "title": "Awọn iboju aṣálẹ wọlé. Awọn ohun-ini ti o ṣetan fun ile-itaja jáde.",
+      "description": "Ko si ṣeto apẹrẹ ti o nipọn. Ko si nilo lati tun ṣe atunṣe iru ipolongo kanna fun gbogbo ede."
     },
     "privacy": {
       "overline": "Ipari Nipasẹ Apẹrẹ",
@@ -156,7 +185,23 @@
     ],
     "stepsTitle": "Lati igbesẹ si igbesẹ",
     "backHome": "← Padà sí Ilé",
-    "metaTitle": "Itọsọna Ìtò Ollama — Screenshot (App) Maker"
+    "metaTitle": "Itọsọna Ìtò Ollama — Screenshot (App) Maker",
+    "steps": [
+      "<strong>Fi Ollama sori</strong>: ṣe igbasilẹ ki o fi Ollama sori fun OS rẹ.",
+      "<strong>Bẹrẹ Ollama</strong>: ṣiṣẹ <code>ollama serve</code> (tabi ṣii ohun elo Ollama lori macOS).",
+      "<strong>Gbe awoṣe kan wọle</strong>: ṣiṣẹ <code>ollama pull llama3.2</code> (tabi awoṣe ti o fẹ).",
+      "<strong>Jẹrisi pe o n ṣiṣẹ</strong>: ṣiṣẹ <code>ollama run llama3.2</code> ki o ṣe idanwo ifọrọ.",
+      "<strong>Wa adirẹsi olupin rẹ</strong>: ṣe akiyesi IP LAN kọǹpútà rẹ (e.g. <code>192.168.0.10</code>).",
+      "<strong>Lo o ninu ohun elo naa</strong>: ninu eto Screenshot (App) Maker, ṣeto Host si <code>http://&lt;LAN-IP&gt;:11434</code>."
+    ],
+    "notesTitle": "Awọn akiyesi & Ṣiṣe atunṣe iṣoro",
+    "notes": [
+      "Ti ohun elo naa ko ba le sopọ, ṣayẹwo pe foonu rẹ ati kọǹpútà rẹ wa lori nẹtiwọki Wi‑Fi kanna.",
+      "Rii daju pe ebute <code>11434</code> ti gba laaye nipasẹ firewall rẹ.",
+      "Ti o ba fẹ lilo olupin latọna jijin (home PC, VPS), o gbọdọ ṣafihan ebute naa lailewu (VPN a ṣe iṣeduro)."
+    ],
+    "ctaTitle": "Ṣetan lati ṣe agbegbe?",
+    "ctaBody": "Pada si ohun elo naa, ṣe idanwo asopọ naa, ki o bẹrẹ pẹlu agbegbe kan."
   },
   "privacy": {
     "pill": "Ìlànà Ìparí Iwé-ìwé",

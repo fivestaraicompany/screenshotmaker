@@ -11,8 +11,8 @@
     "homeAriaLabel": "Home ng Screenshot App Maker",
     "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
     "features": "Mga Tampok",
-    "localization": "Localization",
-    "privacy": "Privacy",
+    "localization": "Lokalisasyon",
+    "privacy": "Pagkapribado",
     "ollamaSetup": "I-set up ang Ollama",
     "ollamaSetupShort": "Pag-setup ng Ollama",
     "downloadIos": "I-download para sa iOS",
@@ -183,7 +183,7 @@
       "Naka-install at tumatakbo ang Ollama",
       "Ang iyong iPhone/iPad sa parehong network ng Ollama machine (inirerekomenda)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Hakbang-hakbang",
     "steps": [
       "<strong>I-install ang Ollama</strong>: i-download at i-install ang Ollama para sa iyong OS.",
       "<strong>Simulan ang Ollama</strong>: patakbuhin ang <code>ollama serve</code> (o buksan ang Ollama app sa macOS).",

@@ -186,7 +186,7 @@
       "Ollama je instalirana i pokrenuta",
       "Vaš iPhone/iPad na istoj mreži kao i Ollama stroj (preporučeno)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Korak po korak",
     "steps": [
       "<strong>Instalirajte Ollama</strong>: preuzmite i instalirajte Ollama za svoj OS.",
       "<strong>Pokrenite Ollama</strong>: pokrenite <code>ollama serve</code> (ili otvorite Ollama aplikaciju na macOS-u).",
@@ -211,7 +211,7 @@
     "metaTitle": "Politika privatnosti — Screenshot (App) Maker",
     "title": "Politika privatnosti",
     "intro": "Ova Politika privatnosti opisuje kako Screenshot (App) Maker (\"Aplikacija\") obrađuje podatke korisnika.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Sažetak",
     "summary": [
       "Nema računa. Nema analitike. Nema praćenja.",
       "Vaše datoteke i izmjene ostaju na vašem uređaju osim ako ne odaberete povezivanje sa svojim Ollama poslužiteljem.",

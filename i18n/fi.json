@@ -186,7 +186,7 @@
       "Ollama asennettuna ja käynnissä",
       "iPhone/iPad samassa verkossa kuin Ollama-kone (suositus)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Askel askeleelta",
     "steps": [
       "<strong>Asenna Ollama</strong>: lataa ja asenna Ollama käyttöjärjestelmääsi.",
       "<strong>Käynnistä Ollama</strong>: suorita <code>ollama serve</code> (tai avaa Ollama-sovellus macOS:ssä).",
@@ -211,7 +211,7 @@
     "metaTitle": "Tietosuojakäytäntö — Screenshot (App) Maker",
     "title": "Tietosuojakäytäntö",
     "intro": "Tämä tietosuojakäytäntö kuvaa, miten Screenshot (App) Maker (\"Sovellus\") käsittelee käyttäjätietoja.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Yhteenveto",
     "summary": [
       "Ei tilejä. Ei analytiikkaa. Ei seurantaa.",
       "Tiedostosi ja muokkauksesi pysyvät laitteellasi, ellei päätät muodostaa yhteyttä omaan Ollama-palvelimeesi.",

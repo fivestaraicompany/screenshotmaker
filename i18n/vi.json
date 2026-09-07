@@ -186,7 +186,7 @@
       "Ollama đã được cài đặt và đang chạy",
       "iPhone/iPad của bạn trên cùng một mạng với máy Ollama (được khuyến nghị)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Từng bước một",
     "steps": [
       "<strong>Cài đặt Ollama</strong>: tải xuống và cài đặt Ollama cho hệ điều hành của bạn.",
       "<strong>Khởi động Ollama</strong>: chạy <code>ollama serve</code> (hoặc mở ứng dụng Ollama trên macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Chính sách Bảo mật — Screenshot (App) Maker",
     "title": "Chính sách Bảo mật",
     "intro": "Chính sách Bảo mật này mô tả cách Screenshot (App) Maker (\"Ứng dụng\") xử lý dữ liệu người dùng.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Tóm tắt",
     "summary": [
       "Không có tài khoản. Không có phân tích. Không có theo dõi.",
       "Các tệp và chỉnh sửa của bạn vẫn ở trên thiết bị của bạn trừ khi bạn chọn kết nối với máy chủ Ollama của riêng mình.",

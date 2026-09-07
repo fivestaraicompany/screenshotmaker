@@ -186,7 +186,7 @@
       "ติดตั้งและรัน Ollama แล้ว",
       "iPhone/iPad ของคุณบนเครือข่ายเดียวกับเครื่อง Ollama (แนะนำ)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "ทีละขั้นตอน",
     "steps": [
       "<strong>ติดตั้ง Ollama</strong>: ดาวน์โหลดและติดตั้ง Ollama สำหรับระบบปฏิบัติการของคุณ",
       "<strong>เริ่ม Ollama</strong>: รัน <code>ollama serve</code> (หรือเปิดแอป Ollama บน macOS)",
@@ -202,16 +202,16 @@
       "หากคุณต้องการใช้เซิร์ฟเวอร์ระยะไกล (PC ที่บ้าน, VPS) คุณต้องเปิดเผยพอร์ตอย่างปลอดภัย (แนะนำให้ใช้ VPN)"
     ],
     "backHome": "← กลับไปที่หน้าหลัก",
-    "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker",
+    "metaTitle": "Ollama บทช่วยสอนการตั้งค่า — Screenshot (App) Maker",
     "pill": "การผสานรวม Ollama",
     "ctaTitle": "พร้อมสำหรับการแปลหรือยัง?",
     "ctaBody": "กลับไปที่แอป ทดสอบการเชื่อมต่อ และเริ่มต้นด้วยหนึ่งภาษา"
   },
   "privacy": {
-    "metaTitle": "Privacy Policy — Screenshot (App) Maker",
+    "metaTitle": "นโยบายความเป็นส่วนตัว — Screenshot (App) Maker",
     "title": "นโยบายความเป็นส่วนตัว",
     "intro": "นโยบายความเป็นส่วนตัวนี้อธิบายวิธีการจัดการข้อมูลผู้ใช้โดย Screenshot (App) Maker (\"แอป\")",
-    "summaryTitle": "Summary",
+    "summaryTitle": "สรุป",
     "summary": [
       "ไม่มีบัญชี ไม่มีข้อมูลการวิเคราะห์ ไม่มีการติดตาม",
       "ไฟล์และการแก้ไขของคุณยังคงอยู่บนอุปกรณ์ของคุณ เว้นแต่คุณจะเลือกเชื่อมต่อกับเซิร์ฟเวอร์ Ollama ของคุณเอง",

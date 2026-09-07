@@ -186,7 +186,7 @@
       "Ollama instalat și în funcțiune",
       "iPhone-ul/iPad-ul tău pe aceeași rețea ca și mașina Ollama (recomandat)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Pas cu pas",
     "steps": [
       "<strong>Instalează Ollama</strong>: descarcă și instalează Ollama pentru sistemul tău de operare.",
       "<strong>Pornește Ollama</strong>: rulează <code>ollama serve</code> (sau deschide aplicația Ollama pe macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Politica de confidențialitate — Screenshot (App) Maker",
     "title": "Politica de confidențialitate",
     "intro": "Această Politică de confidențialitate descrie modul în care Screenshot (App) Maker („Aplicația”) gestionează datele utilizatorilor.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Rezumat",
     "summary": [
       "Fără conturi. Fără analize. Fără urmărire.",
       "Fișierele și editările tale rămân pe dispozitivul tău, cu excepția cazului în care alegi să te conectezi la propriul server Ollama.",

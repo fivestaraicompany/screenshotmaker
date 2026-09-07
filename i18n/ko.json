@@ -186,7 +186,7 @@
       "설치 및 실행 중인 Ollama",
       "Ollama 장치와 동일한 네트워크의 iPhone/iPad (권장)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "단계별",
     "steps": [
       "<strong>Ollama 설치</strong>: 운영체제에 맞게 Ollama를 다운로드하여 설치합니다.",
       "<strong>Ollama 시작</strong>: <code>ollama serve</code>를 실행합니다(macOS에서는 Ollama 앱을 엽니다).",
@@ -211,7 +211,7 @@
     "metaTitle": "개인 정보 처리 방침 — Screenshot (App) Maker",
     "title": "개인 정보 처리 방침",
     "intro": "본 개인 정보 처리 방침은 Screenshot (App) Maker(\"앱\")가 사용자 데이터를 어떻게 처리하는지에 대해 설명합니다.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "요약",
     "summary": [
       "계정 없음, 분석 없음, 추적 없음.",
       "파일과 편집 내용은 사용자가 자신의 Ollama 서버에 연결하지 않는 한 장치에 남아 있습니다.",

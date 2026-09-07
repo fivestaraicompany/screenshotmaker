@@ -186,7 +186,7 @@
       "Telepített és futó Ollama",
       "Az iPhone/iPad ugyanazon a hálózaton, mint az Ollama gép (ajánlott)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Lépésről lépésre",
     "steps": [
       "<strong>Ollama telepítése</strong>: töltse le és telepítse az Ollamát az operációs rendszeréhez.",
       "<strong>Az Ollama elindítása</strong>: futtassa a <code>ollama serve</code> parancsot (vagy nyissa meg az Ollama alkalmazást macOS-en).",
@@ -211,7 +211,7 @@
     "metaTitle": "Adatvédelmi szabályzat — Screenshot (App) Maker",
     "title": "Adatvédelmi szabályzat",
     "intro": "Ez az adatvédelmi szabályzat leírja, hogyan kezeli a Screenshot (App) Maker („alkalmazás”) a felhasználói adatokat.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Összegzés",
     "summary": [
       "Nincsenek fiókok. Nincs elemzés. Nincs nyomkövetés.",
       "A fájljai és szerkesztései a készülékén maradnak, kivéve, ha úgy dönt, hogy csatlakozik a saját Ollama szerveréhez.",

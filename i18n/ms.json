@@ -186,7 +186,7 @@
       "Ollama dipasang dan dijalankan",
       "iPhone/iPad anda pada rangkaian yang sama seperti mesin Ollama (disyorkan)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Langkah demi langkah",
     "steps": [
       "<strong>Pasang Ollama</strong>: muat turun dan pasang Ollama untuk OS anda.",
       "<strong>Mulakan Ollama</strong>: jalankan <code>ollama serve</code> (atau buka aplikasi Ollama pada macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Dasar Privasi — Pembuat Skrin (Aplikasi)",
     "title": "Dasar Privasi",
     "intro": "Dasar Privasi ini menerangkan cara Pembuat Skrin (Aplikasi) (\"Aplikasi\") mengendalikan data pengguna.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Ringkasan",
     "summary": [
       "Tiada akaun. Tiada analitik. Tiada penjejakan.",
       "Fail dan edit anda kekal pada peranti anda kecuali anda memilih untuk menyambung ke pelayan Ollama anda sendiri.",

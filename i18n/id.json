@@ -186,7 +186,7 @@
       "Ollama terinstal dan berjalan",
       "iPhone/iPad Anda di jaringan yang sama dengan mesin Ollama (disarankan)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Langkah demi langkah",
     "steps": [
       "<strong>Instal Ollama</strong>: unduh dan instal Ollama untuk OS Anda.",
       "<strong>Mulai Ollama</strong>: jalankan <code>ollama serve</code> (atau buka aplikasi Ollama di macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Kebijakan Privasi — Pembuat Tangkapan Layar (Screenshot (App) Maker)",
     "title": "Kebijakan Privasi",
     "intro": "Kebijakan Privasi ini menjelaskan bagaimana Pembuat Tangkapan Layar (Screenshot (App) Maker) (\"Aplikasi\") menangani data pengguna.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Ringkasan",
     "summary": [
       "Tidak ada akun. Tidak ada analitik. Tidak ada pelacakan.",
       "File dan pengeditan Anda tetap ada di perangkat Anda kecuali Anda memilih untuk terhubung ke server Ollama Anda sendiri.",

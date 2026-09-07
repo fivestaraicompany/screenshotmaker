@@ -186,7 +186,7 @@
       "Yüklü ve çalışan Ollama",
       "iPhone/iPad'inizin Ollama makinesiyle aynı ağda olması (önerilir)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Adım adım",
     "steps": [
       "<strong>Ollama'yı Kurun</strong>: işletim sisteminiz için Ollama'yı indirin ve kurun.",
       "<strong>Ollama'yı Başlatın</strong>: <code>ollama serve</code> komutunu çalıştırın (veya macOS'ta Ollama uygulamasını açın).",
@@ -211,7 +211,7 @@
     "metaTitle": "Gizlilik Politikası — Ekran Görüntüsü (Uygulama) Oluşturucu",
     "title": "Gizlilik Politikası",
     "intro": "Bu Gizlilik Politikası, Ekran Görüntüsü (Uygulama) Oluşturucu (\"Uygulama\")'nun kullanıcı verilerini nasıl işlediğini açıklamaktadır.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Özet",
     "summary": [
       "Hesap yok. Analitik yok. Takip yok.",
       "Dosyalarınız ve düzenlemeleriniz, kendi Ollama sunucunuza bağlanmayı seçmedikçe cihazınızda kalır.",

@@ -186,7 +186,7 @@
       "Ollama מותקן ופועל",
       "ה-iPhone/iPad שלך באותה רשת כמו מכונת Ollama (מומלץ)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "שלב אחר שלב",
     "steps": [
       "<strong>התקן את Ollama</strong>: הורד והתקן את Ollama למערכת ההפעלה שלך.",
       "<strong>הפעל את Ollama</strong>: הפעל <code>ollama serve</code> (או פתח את אפליקציית Ollama ב-macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "מדיניות פרטיות — Screenshot (App) Maker",
     "title": "מדיניות פרטיות",
     "intro": "מדיניות פרטיות זו מתארת ​​כיצד Screenshot (App) Maker (\"האפליקציה\") מטפלת בנתוני משתמש.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "סיכום",
     "summary": [
       "אין חשבונות. אין ניתוח נתונים. אין מעקב.",
       "הקבצים והעריכות שלך נשארים במכשיר שלך אלא אם כן תבחר להתחבר לשרת Ollama שלך.",

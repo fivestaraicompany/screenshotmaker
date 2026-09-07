@@ -186,7 +186,7 @@
       "已安装并正在运行的 Ollama",
       "您的 iPhone/iPad 与 Ollama 机器在同一网络 (推荐) "
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "一步一步",
     "steps": [
       "<strong>安装 Ollama</strong>: 下载并安装适用于您的操作系统的 Ollama。",
       "<strong>启动 Ollama</strong>: 运行 <code>ollama serve</code>（或在 macOS 上打开 Ollama 应用程序）。",
@@ -211,7 +211,7 @@
     "metaTitle": "隐私政策 — 截屏（App）制作器",
     "title": "隐私政策",
     "intro": "本隐私政策描述了截屏（App）制作器（“该 App”）如何处理用户数据。",
-    "summaryTitle": "Summary",
+    "summaryTitle": "总结",
     "summary": [
       "没有帐户。没有分析。没有跟踪。",
       "您的文件和编辑将保留在您的设备上，除非您选择连接到您自己的 Ollama 服务器。",

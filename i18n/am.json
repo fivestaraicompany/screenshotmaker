@@ -11,7 +11,7 @@
     "homeAriaLabel": "የ Screenshot App Maker መነሻ ገጽ",
     "brandHtml": "Screenshot <span class=\"brand-soft\">(App)</span> Maker",
     "features": "ባህሪያት",
-    "localization": "Localization",
+    "localization": "አካባቢያዊነት",
     "privacy": "ግላዊነት",
     "ollamaSetup": "Ollamaን ያዘጋጁ",
     "ollamaSetupShort": "የOllama ቅንብር",
@@ -201,7 +201,7 @@
     "ctaTitle": "ለ localization ዝግጁ ነዎት?",
     "ctaBody": "ወደ መተግበሪያው ይመልሱ፣ ግንኙነቱን ይሞክሩ እና በአንድ locale ይጀምሩ።",
     "backHome": "← ወደ ዋናው ገጽ ተመለስ",
-    "metaTitle": "Ollama Setup Tutorial — Screenshot (App) Maker"
+    "metaTitle": "Ollama የማዋቀር ትምህርት — Screenshot (App) Maker"
   },
   "privacy": {
     "pill": "የግላዊነት ፖሊሲ",

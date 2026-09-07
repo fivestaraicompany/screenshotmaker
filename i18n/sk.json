@@ -186,7 +186,7 @@
       "Ollama nainštalovaná a spustená",
       "Váš iPhone/iPad v rovnakej sieti ako počítač s Ollamou (odporúča sa)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Krok za krokom",
     "steps": [
       "<strong>Inštalácia Ollamy</strong>: stiahnite a nainštalujte Ollamu pre váš operačný systém.",
       "<strong>Spustenie Ollamy</strong>: spustite <code>ollama serve</code> (alebo otvorte aplikáciu Ollama na macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Zásady ochrany osobných údajov — Screenshot (App) Maker",
     "title": "Zásady ochrany osobných údajov",
     "intro": "Tieto zásady ochrany osobných údajov popisujú, ako Screenshot (App) Maker („Aplikácia“) spracúva údaje používateľov.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Zhrnutie",
     "summary": [
       "Žiadne účty. Žiadna analytika. Žiadne sledovanie.",
       "Vaše súbory a úpravy zostávajú vo vašom zariadení, pokiaľ sa nerozhodnete pripojiť k svojmu serveru Ollama.",

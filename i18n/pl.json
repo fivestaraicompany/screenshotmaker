@@ -186,7 +186,7 @@
       "Zainstalowany i uruchomiony Ollama",
       "Twój iPhone/iPad w tej samej sieci co komputer z Ollama (zalecane)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Krok po kroku",
     "steps": [
       "<strong>Zainstaluj Ollama</strong>: pobierz i zainstaluj Ollama dla twojego systemu operacyjnego.",
       "<strong>Uruchom Ollama</strong>: uruchom <code>ollama serve</code> (lub otwórz aplikację Ollama na macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Polityka prywatności — Generator zrzutów ekranu",
     "title": "Polityka prywatności",
     "intro": "Niniejsza Polityka Prywatności opisuje, w jaki sposób Generator zrzutów ekranu („Aplikacja”) przetwarza dane użytkowników.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Podsumowanie",
     "summary": [
       "Brak kont. Brak analityki. Brak śledzenia.",
       "Twoje pliki i edycje pozostają na twoim urządzeniu, chyba że wybierzesz połączenie z własnym serwerem Ollama.",

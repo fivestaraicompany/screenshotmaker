@@ -186,7 +186,7 @@
       "Ollama installé et en cours d’exécution",
       "Votre iPhone/iPad sur le même réseau que la machine Ollama (recommandé)"
     ],
-    "stepsTitle": "Step-by-step",
+    "stepsTitle": "Étape par étape",
     "steps": [
       "<strong>Installer Ollama</strong>: téléchargez et installez Ollama pour votre système d’exploitation.",
       "<strong>Démarrez Ollama</strong>: exécutez <code>ollama serve</code> (ou ouvrez l’application Ollama sur macOS).",
@@ -211,7 +211,7 @@
     "metaTitle": "Politique de confidentialité — Screenshot (App) Maker",
     "title": "Politique de confidentialité",
     "intro": "Cette Politique de confidentialité décrit la façon dont Screenshot (App) Maker (« l’Application ») traite les données des utilisateurs.",
-    "summaryTitle": "Summary",
+    "summaryTitle": "Résumé",
     "summary": [
       "Aucun compte. Aucune analyse. Aucun suivi.",
       "Vos fichiers et modifications restent sur votre appareil, à moins que vous ne choisissiez de vous connecter à votre propre serveur Ollama.",
